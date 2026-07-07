@@ -23,60 +23,68 @@
   body{background:var(--bg0);color:var(--txt);font-family:var(--body);font-size:14px;line-height:1.55;
        background-image:radial-gradient(ellipse 900px 420px at 50% -160px, rgba(76,201,232,.07), transparent)}
 
-  .topbar{position:sticky;top:0;z-index:30;background:rgba(11,14,20,.92);backdrop-filter:blur(8px);
+  /* ---------- Header ---------- */
+  .topbar{position:sticky;top:0;z-index:30;background:rgba(11,14,20,.94);backdrop-filter:blur(8px);
           border-bottom:1px solid var(--line-soft)}
-  .topbar-in{max-width:1180px;margin:0 auto;padding:12px 22px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
-  .brand{font-family:var(--disp);font-weight:700;font-size:17px;white-space:nowrap}
+  .topbar-in{max-width:1180px;margin:0 auto;padding:14px 22px 0;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+  .brand{font-family:var(--disp);font-weight:700;font-size:18px;white-space:nowrap;color:var(--txt);text-decoration:none}
   .brand .dot{color:var(--accent)}
-  .stamp{font-family:var(--mono);font-size:11px;color:var(--muted);letter-spacing:.03em}
   .spacer{flex:1}
-  .status-line{font-family:var(--mono);font-size:11px;color:var(--muted)}
+  .stamp{font-family:var(--mono);font-size:11px;color:var(--muted);letter-spacing:.03em}
 
-  nav.idx{position:sticky;top:53px;z-index:29;background:rgba(11,14,20,.92);backdrop-filter:blur(8px);
-          border-bottom:1px solid var(--line-soft)}
-  .idx-in{max-width:1180px;margin:0 auto;padding:8px 22px;display:flex;gap:8px;overflow-x:auto}
-  .idx a{font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;color:var(--txt-2);text-decoration:none;
-         padding:5px 11px;border:1px solid var(--line);border-radius:999px;white-space:nowrap;background:var(--bg1)}
-  .idx a:hover,.idx a:focus-visible{color:var(--accent);border-color:var(--accent);outline:none;background:var(--accent-soft)}
+  nav.idx{max-width:1180px;margin:0 auto;padding:8px 22px 0;display:flex;flex-wrap:wrap;column-gap:26px}
+  nav.idx a{font-family:var(--body);font-weight:500;font-size:12.5px;color:var(--txt-2);text-decoration:none;
+            padding:6px 0 10px;border-bottom:2px solid transparent;letter-spacing:.01em}
+  nav.idx a:hover,nav.idx a:focus-visible{color:var(--txt);border-bottom-color:var(--accent);outline:none}
+  nav.idx a.active{color:var(--accent);border-bottom-color:var(--accent)}
 
+  /* ---------- Shared ---------- */
   main{max-width:1180px;margin:0 auto;padding:26px 22px 80px}
-  section.sec{background:var(--bg1);border:1px solid var(--line-soft);border-radius:12px;margin-bottom:22px;overflow:hidden}
-  .sec-head{display:flex;align-items:center;gap:12px;padding:14px 18px;flex-wrap:wrap;cursor:pointer;user-select:none}
-  .sec-head:hover .sec-title{color:var(--accent)}
-  .sec-code{font-family:var(--mono);font-weight:600;font-size:10.5px;letter-spacing:.08em;color:var(--accent);
-            background:var(--accent-soft);border:1px solid rgba(76,201,232,.25);padding:3px 8px;border-radius:5px}
-  .sec-title{font-family:var(--disp);font-weight:600;font-size:17px;transition:color .15s}
-  .sec-desc{font-size:12px;color:var(--muted)}
-  .sec-meta{margin-left:auto;display:flex;align-items:center;gap:10px}
-  .sec-count{font-family:var(--mono);font-size:10.5px;color:var(--muted)}
-  .chev{font-family:var(--mono);font-size:11px;color:var(--muted);transition:transform .2s}
-  .sec.open .chev{transform:rotate(180deg);color:var(--accent)}
-
-  .cards-row{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;padding:16px 18px;border-top:1px solid var(--line-soft)}
+  .card-meta{display:flex;gap:10px;align-items:baseline;font-family:var(--mono);font-size:10px;letter-spacing:.05em;margin-bottom:7px}
+  .card-src{color:var(--accent);font-weight:600;text-transform:uppercase}
+  .card-when{color:var(--muted);margin-left:auto}
   .card{background:var(--bg2);border:1px solid var(--line-soft);border-radius:9px;overflow:hidden;
         display:flex;flex-direction:column;transition:border-color .15s, background .15s, transform .15s}
   .card:hover{border-color:var(--accent);background:var(--bg3);transform:translateY(-2px)}
   .card-img{aspect-ratio:16/9;width:100%;object-fit:cover;display:block;background:var(--bg3)}
   .card-body{padding:12px 15px 14px;display:flex;flex-direction:column;flex:1}
-  .card-meta{display:flex;gap:10px;align-items:baseline;font-family:var(--mono);font-size:10px;letter-spacing:.05em;margin-bottom:7px}
-  .card-src{color:var(--accent);font-weight:600;text-transform:uppercase}
-  .card-when{color:var(--muted);margin-left:auto}
   .card-hl{font-weight:600;font-size:13.5px;line-height:1.4;color:var(--txt)}
   .card-hl a{color:inherit;text-decoration:none}
   .card-hl a:hover{color:var(--accent)}
   .card-hl a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
   .card-sum{margin-top:6px;font-size:12px;color:var(--txt-2);line-height:1.5}
 
-  .hist{display:none;border-top:1px solid var(--line-soft)}
-  .sec.open .hist{display:block}
-  .sec.open .cards-row{display:none}
+  /* ---------- Home page ---------- */
+  section.sec{background:var(--bg1);border:1px solid var(--line-soft);border-radius:12px;margin-bottom:22px;overflow:hidden}
+  .sec-head{display:flex;align-items:baseline;gap:14px;padding:16px 20px 14px;flex-wrap:wrap}
+  .sec-title{font-family:var(--disp);font-weight:600;font-size:18px}
+  .sec-title a{color:var(--txt);text-decoration:none}
+  .sec-title a:hover{color:var(--accent)}
+  .sec-desc{font-size:12px;color:var(--muted)}
+  .sec-meta{margin-left:auto}
+  .viewall{font-family:var(--mono);font-size:11px;letter-spacing:.04em;color:var(--accent);text-decoration:none;
+           border:1px solid rgba(76,201,232,.35);padding:5px 12px;border-radius:6px;background:var(--accent-soft)}
+  .viewall:hover{border-color:var(--accent)}
+  .viewall:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  .cards-row{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;padding:16px 20px;border-top:1px solid var(--line-soft)}
+
+  /* ---------- Section sub-page ---------- */
+  .crumb{font-family:var(--mono);font-size:11px;letter-spacing:.04em;margin-bottom:16px}
+  .crumb a{color:var(--muted);text-decoration:none}
+  .crumb a:hover{color:var(--accent)}
+  .page-head{margin-bottom:8px}
+  .page-title{font-family:var(--disp);font-weight:700;font-size:30px;line-height:1.15}
+  .page-sub{margin-top:6px;font-size:13px;color:var(--muted)}
+  .page-count{font-family:var(--mono);font-size:11px;color:var(--muted);margin-top:10px;letter-spacing:.04em}
+
+  .lead-row{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:20px 0 8px}
+
   .day-label{font-family:var(--mono);font-size:10.5px;letter-spacing:.08em;color:var(--muted);
-             padding:12px 18px 6px;display:flex;align-items:center;gap:10px}
+             padding:18px 0 6px;display:flex;align-items:center;gap:10px}
   .day-label::after{content:'';flex:1;height:1px;background:var(--line-soft)}
   .day-label.today{color:var(--accent)}
-  .row{display:grid;grid-template-columns:86px 140px 1fr;gap:14px;padding:11px 18px;border-bottom:1px solid var(--line-soft);align-items:start}
+  .row{display:grid;grid-template-columns:86px 140px 1fr;gap:14px;padding:12px 0;border-bottom:1px solid var(--line-soft);align-items:start}
   .row:last-child{border-bottom:none}
-  .row:hover{background:var(--bg2)}
   .row-thumb{width:86px;height:60px;object-fit:cover;border-radius:6px;border:1px solid var(--line-soft);display:block;background:var(--bg3)}
   .row-meta{font-family:var(--mono);font-size:10px;letter-spacing:.05em;padding-top:2px}
   .row-src{color:var(--accent);font-weight:600;text-transform:uppercase;display:block}
@@ -94,14 +102,14 @@
          color:var(--muted);line-height:1.8}
 
   @media (max-width:820px){
-    .cards-row{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch}
-    .cards-row .card{min-width:260px;scroll-snap-align:start}
+    .cards-row,.lead-row{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch}
+    .cards-row .card,.lead-row .card{min-width:260px;scroll-snap-align:start}
     .sec-desc{display:none}
+    .page-title{font-size:24px}
     .row{grid-template-columns:66px 1fr}
     .row-thumb{width:66px;height:48px}
     .row-meta{grid-column:2}
     .row > div:last-child{grid-column:1/-1}
-    nav.idx{top:96px}
   }
 </style>
 </head>
@@ -109,62 +117,59 @@
 
 <div class="topbar">
   <div class="topbar-in">
-    <div class="brand">AVIATION<span class="dot">/</span>DAILY BRIEF</div>
-    <div class="stamp" id="stamp"></div>
+    <a class="brand" href="#/">AVIATION<span class="dot">/</span>DAILY BRIEF</a>
     <div class="spacer"></div>
-    <span class="status-line" id="statusLine">LOADING…</span>
+    <span class="stamp" id="stamp">LOADING…</span>
   </div>
+  <nav class="idx" aria-label="Sections" id="idxIn"></nav>
 </div>
-<nav class="idx" aria-label="Sections"><div class="idx-in" id="idxIn"></div></nav>
 
 <main id="main"></main>
 
 <footer>
-  Front page shows the three most recent items per section — click a section header for the full archive, grouped by day.
+  Home shows the three most recent items per section — open a section for its standalone page with the full day-by-day archive.
   Headlines and images link to and come from the original publishers; summaries are publisher excerpts.
-  Updated daily by an automated job.
+  Updated automatically every few hours.
 </footer>
 
 <script>
 const SECTIONS = [
-  { id:'network',  code:'NWK', title:'Airlines & Network',         desc:'Routes, capacity, alliances, airline strategy' },
-  { id:'airports', code:'APT', title:'Airports & Infrastructure',  desc:'Development, concessions, traffic, slots' },
-  { id:'fleet',    code:'FLT', title:'Fleet, Orders & OEMs',       desc:'Orders, deliveries, programmes, engines, supply chain' },
-  { id:'finance',  code:'FIN', title:'Finance, Leasing & M&A',     desc:'Lessors, trading, financings, earnings, M&A' },
-  { id:'bizav',    code:'BAV', title:'Private & Business Aviation',desc:'Bizjet OEMs, charter, fractional, FBOs' },
-  { id:'policy',   code:'REG', title:'Policy & Regulation',        desc:'Regulators, traffic rights, SAF mandates, safety' },
+  { id:'network',  title:'Airlines & Network',          desc:'Routes, capacity, alliances, airline strategy' },
+  { id:'airports', title:'Airports & Infrastructure',   desc:'Development, concessions, traffic, slots' },
+  { id:'fleet',    title:'Fleet, Orders & OEMs',        desc:'Orders, deliveries, programmes, engines, supply chain' },
+  { id:'finance',  title:'Finance, Leasing & M&A',      desc:'Lessors, trading, financings, earnings, M&A' },
+  { id:'bizav',    title:'Private & Business Aviation', desc:'Bizjet OEMs, charter, fractional, FBOs' },
+  { id:'policy',   title:'Policy & Regulation',         desc:'Regulators, traffic rights, SAF mandates, safety' },
 ];
 const FRONT_PAGE_ITEMS = 3;
+let DATA = null;
 
 const MONTHS=['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
 const todayKey = new Date().toISOString().slice(0,10);
 function fmtDay(k){ if(!k) return ''; const [y,m,d]=k.split('-').map(Number); return `${String(d).padStart(2,'0')} ${MONTHS[m-1]} ${y}`; }
 function esc(s){ const d=document.createElement('div'); d.textContent=s==null?'':String(s); return d.innerHTML; }
 function safeUrl(u){ return (u && /^https?:\/\//i.test(u)) ? u : null; }
+function itemsOf(id){ return (DATA && DATA.sections && DATA.sections[id]) || []; }
 
-/* Placeholder used only when an article has no usable image */
-function ph(code){
-  const svg = `<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180'>
+const PH = 'data:image/svg+xml;utf8,'+encodeURIComponent(
+  `<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 180'>
     <defs><linearGradient id='g' x1='0' y1='1' x2='1' y2='0'>
       <stop offset='0' stop-color='#1B3A5C'/><stop offset='1' stop-color='#4CC9E8'/></linearGradient></defs>
     <rect width='320' height='180' fill='url(#g)'/>
     <path d='M40 130 L150 96 L286 62' stroke='rgba(255,255,255,.35)' stroke-width='2' stroke-dasharray='2 6' fill='none'/>
     <path d='M150 96 l-16 -5 l4 9 l-9 4 l12 3 z' fill='rgba(255,255,255,.85)'/>
-    <text x='16' y='168' font-family='monospace' font-size='12' fill='rgba(255,255,255,.55)'>${code}</text>
-  </svg>`;
-  return 'data:image/svg+xml;utf8,'+encodeURIComponent(svg);
-}
-function imgTag(it, cls, code){
-  const src = safeUrl(it.img) || ph(code);
+  </svg>`);
+function imgTag(it, cls){
+  const src = safeUrl(it.img) || PH;
   return `<img class="${cls}" src="${esc(src)}" alt="" loading="lazy" referrerpolicy="no-referrer"
-          onerror="this.onerror=null;this.src='${ph(code)}'">`;
+          onerror="this.onerror=null;this.src='${PH}'">`;
 }
 
-function cardHTML(it, code){
+function cardHTML(it){
   const url = safeUrl(it.url);
   const hl = url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(it.headline)}</a>` : esc(it.headline);
   return `<article class="card">
-    ${imgTag(it,'card-img',code)}
+    ${imgTag(it,'card-img')}
     <div class="card-body">
       <div class="card-meta"><span class="card-src">${esc(it.source||'—')}</span><span class="card-when">${esc(fmtDay(it.day))}</span></div>
       <h3 class="card-hl">${hl}</h3>
@@ -172,86 +177,111 @@ function cardHTML(it, code){
     </div>
   </article>`;
 }
-function rowHTML(it, code){
+function rowHTML(it){
   const url = safeUrl(it.url);
   const hl = url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(it.headline)}</a>` : esc(it.headline);
   return `<article class="row">
-    ${imgTag(it,'row-thumb',code)}
+    ${imgTag(it,'row-thumb')}
     <div class="row-meta"><span class="row-src">${esc(it.source||'—')}</span><span class="row-when">${esc(fmtDay(it.day))}</span></div>
     <div><h3 class="row-hl">${hl}</h3><p class="row-sum">${esc(it.summary||'')}</p></div>
   </article>`;
 }
+function dayGroups(items){
+  const byDay={}; for(const it of items){ (byDay[it.day||'unknown'] ||= []).push(it); }
+  return Object.keys(byDay).sort().reverse().map(d=>({day:d, items:byDay[d]}));
+}
 
-async function boot(){
+/* ---------- Views ---------- */
+function renderHome(){
   const main = document.getElementById('main');
+  let anyItems = false;
+  let html = '';
+  for(const s of SECTIONS){
+    const items = itemsOf(s.id);
+    if(items.length) anyItems = true;
+    const front = items.length
+      ? items.slice(0,FRONT_PAGE_ITEMS).map(cardHTML).join('')
+      : `<div style="grid-column:1/-1" class="day-label">NO ITEMS YET — WILL FILL AFTER THE NEXT UPDATE</div>`;
+    html += `
+      <section class="sec">
+        <div class="sec-head">
+          <h2 class="sec-title"><a href="#/${s.id}">${s.title}</a></h2>
+          <span class="sec-desc">${s.desc}</span>
+          <span class="sec-meta"><a class="viewall" href="#/${s.id}">View all ${items.length} →</a></span>
+        </div>
+        <div class="cards-row">${front}</div>
+      </section>`;
+  }
+  if(!anyItems){
+    html = `<div class="state">No news yet — the update job hasn't run. In GitHub: Actions → "Update news" → Run workflow, then reload this page.</div>` + html;
+  }
+  main.innerHTML = html;
+}
+
+function renderSection(id){
+  const s = SECTIONS.find(x=>x.id===id);
+  if(!s){ location.hash = '#/'; return; }
+  const main = document.getElementById('main');
+  const items = itemsOf(id);
+  const lead = items.slice(0,3);
+  const rest = items;
+  const hist = items.length
+    ? dayGroups(rest).map(g=>
+        `<div class="day-label ${g.day===todayKey?'today':''}">${g.day===todayKey?'TODAY · ':''}${fmtDay(g.day)||'EARLIER'}</div>`
+        + g.items.map(rowHTML).join('')).join('')
+    : `<div class="state">No items in this section yet — check back after the next update.</div>`;
+
+  main.innerHTML = `
+    <div class="crumb"><a href="#/">← ALL SECTIONS</a></div>
+    <div class="page-head">
+      <h1 class="page-title">${s.title}</h1>
+      <p class="page-sub">${s.desc}</p>
+      <p class="page-count">${items.length} STORIES ARCHIVED</p>
+    </div>
+    ${lead.length ? `<div class="lead-row">${lead.map(cardHTML).join('')}</div>` : ''}
+    ${hist}`;
+  window.scrollTo(0,0);
+}
+
+function route(){
+  const hash = location.hash.replace(/^#\/?/, '');
+  document.querySelectorAll('nav.idx a').forEach(a=>{
+    a.classList.toggle('active', a.dataset.sec === hash);
+  });
+  document.title = hash && SECTIONS.some(s=>s.id===hash)
+    ? `${SECTIONS.find(s=>s.id===hash).title} — Aviation Daily Brief`
+    : 'Aviation Daily Brief';
+  if(hash && SECTIONS.some(s=>s.id===hash)) renderSection(hash);
+  else renderHome();
+}
+
+/* ---------- Boot ---------- */
+async function boot(){
   const idxIn = document.getElementById('idxIn');
-  const status = document.getElementById('statusLine');
-  let data;
+  const stamp = document.getElementById('stamp');
+  for(const s of SECTIONS){
+    const a=document.createElement('a');
+    a.href=`#/${s.id}`; a.textContent=s.title; a.dataset.sec=s.id;
+    idxIn.appendChild(a);
+  }
   try{
     const res = await fetch('data/news.json?v='+Date.now());
     if(!res.ok) throw new Error('HTTP '+res.status);
-    data = await res.json();
+    DATA = await res.json();
   }catch(e){
-    status.textContent = 'DATA UNAVAILABLE';
-    main.innerHTML = `<div class="state err">Could not load data/news.json — run the "Update news" workflow in GitHub Actions once, then reload.</div>`;
+    stamp.textContent = 'DATA UNAVAILABLE';
+    document.getElementById('main').innerHTML =
+      `<div class="state err">Could not load data/news.json — run the "Update news" workflow in GitHub Actions once, then reload.</div>`;
     return;
   }
-
-  const gen = data.generated ? new Date(data.generated) : null;
-  document.getElementById('stamp').textContent = gen
-    ? `${fmtDay(gen.toISOString().slice(0,10))} · ${String(gen.getUTCHours()).padStart(2,'0')}${String(gen.getUTCMinutes()).padStart(2,'0')}Z`
-    : '';
-  status.textContent = gen ? 'UPDATED '+gen.toISOString().slice(0,16).replace('T',' ')+'Z' : 'NO DATA YET';
-
-  let anyItems = false;
-  for(const s of SECTIONS){
-    const items = (data.sections && data.sections[s.id]) || [];
-    if(items.length) anyItems = true;
-
-    const a=document.createElement('a'); a.href=`#${s.id}`;
-    a.textContent=`${s.code} ${s.title.toUpperCase()}`; idxIn.appendChild(a);
-
-    const byDay={}; for(const it of items){ (byDay[it.day||'unknown'] ||= []).push(it); }
-    const days=Object.keys(byDay).sort().reverse();
-    const hist = items.length
-      ? days.map(d=>`<div class="day-label ${d===todayKey?'today':''}">${d===todayKey?'TODAY · ':''}${fmtDay(d)||'EARLIER'}</div>`
-          + byDay[d].map(it=>rowHTML(it,s.code)).join('')).join('')
-      : `<div class="day-label">NO ARCHIVE YET</div>`;
-
-    const front = items.length
-      ? items.slice(0,FRONT_PAGE_ITEMS).map(it=>cardHTML(it,s.code)).join('')
-      : `<div style="grid-column:1/-1" class="day-label">NO ITEMS YET — WILL FILL AFTER THE NEXT DAILY UPDATE</div>`;
-
-    const sec=document.createElement('section');
-    sec.className='sec'; sec.id=s.id;
-    sec.innerHTML=`
-      <div class="sec-head" data-toggle="${s.id}" role="button" tabindex="0" aria-expanded="false" aria-label="Expand ${s.title} archive">
-        <span class="sec-code">${s.code}</span>
-        <h2 class="sec-title">${s.title}</h2>
-        <span class="sec-desc">${s.desc}</span>
-        <span class="sec-meta"><span class="sec-count">${items.length} archived</span><span class="chev">▾</span></span>
-      </div>
-      <div class="cards-row">${front}</div>
-      <div class="hist">${hist}</div>`;
-    main.appendChild(sec);
-  }
-  if(!anyItems){
-    main.insertAdjacentHTML('afterbegin',
-      `<div class="state">No news yet — the daily job hasn't run. In GitHub: Actions → "Update news" → Run workflow, then reload this page.</div>`);
-  }
+  const gen = DATA.generated ? new Date(DATA.generated) : null;
+  stamp.textContent = gen
+    ? `UPDATED ${fmtDay(gen.toISOString().slice(0,10))} · ${String(gen.getUTCHours()).padStart(2,'0')}${String(gen.getUTCMinutes()).padStart(2,'0')}Z`
+    : 'NO DATA YET';
+  route();
 }
 
-document.addEventListener('click', e=>{
-  const head=e.target.closest('[data-toggle]');
-  if(!head) return;
-  const sec=document.getElementById(head.dataset.toggle);
-  const open=sec.classList.toggle('open');
-  head.setAttribute('aria-expanded', open);
-});
-document.addEventListener('keydown', e=>{
-  if((e.key==='Enter'||e.key===' ') && e.target.matches('[data-toggle]')){ e.preventDefault(); e.target.click(); }
-});
-
+window.addEventListener('hashchange', route);
 boot();
 </script>
 </body>
