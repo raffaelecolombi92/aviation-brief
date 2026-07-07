@@ -1,1 +1,416 @@
-{"generated": null, "sections": {"network": [], "airports": [], "fleet": [], "finance": [], "bizav": [], "policy": []}}
+{
+ "generated": "2026-07-07T16:13+00:00",
+ "sections": {
+  "network": [
+   {
+    "headline": "Flight 13 Effect: 1 US Route Still Uses Aviation's Most Unlucky Number",
+    "summary": "A deep dive into an interesting long-haul corridor.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/only-us-route-with-flight-number-13/",
+    "day": "2026-07-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/149-etihad-airways-airbus-a350-carlos-yudica-_-shutterstock.jpg"
+   },
+   {
+    "headline": "The Ryanair Paradox: Passengers Say They Hate The Airline, But Keep Booking It Anyway",
+    "summary": "Ryanair is the epitome of a low-cost airline: cheap fares and the no-frills experience that goes with them. Indeed, the carrier’s offering centers around the idea that travel does not have to break the bank if…",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/video/the-ryanair-paradox-passengers-say-they-hate-the-airline-but-keep-booking-it-anyway/",
+    "day": "2026-07-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/ryanair-paradox-1.jpg"
+   },
+   {
+    "headline": "10 Of The Most Comfortable Economy Class Seats You Can Book Today",
+    "summary": "Which airlines are raising the bar for economy class comfort?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/most-comfortable-economy-class-seats-today/",
+    "day": "2026-07-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/09/untitled-design-5.jpg"
+   },
+   {
+    "headline": "Fifth Time Lucky For Castlelake and easyJet?",
+    "summary": "After four rejected offers, the Board of UK low-cost carrier easyJet is willing to recommend a fifth offer from Castlelake",
+    "source": "AirInsight",
+    "url": "https://airinsight.com/fifth-time-lucky-for-castlelake-and-easyjet/",
+    "day": "2026-07-06",
+    "img": "https://airinsight.com/wp-content/uploads/2026/07/MG_0104-scaled.jpg"
+   },
+   {
+    "headline": "Tailwind Air Cessna 208 Caravan suffers a landing incident in the East River",
+    "summary": "On Friday, July 3, 2026, a high-profile seaplane incident occurred on the East River in New York City when a Cessna 208 Caravan Amphibian, operated by the premium commuter carrier Tailwind Air, struck a large piece of…",
+    "source": "World Airline News",
+    "url": "https://worldairlinenews.com/2026/07/06/tailwind-air-cessna-208-caravan-suffers-a-landing-incident-in-the-east-river/",
+    "day": "2026-07-06",
+    "img": "https://worldairlinenews.com/wp-content/uploads/2026/07/486743442_1477641646876440_8342840329817350667_n.jpg"
+   },
+   {
+    "headline": "Zinc, the new proposed Australian airline, revises its business plan",
+    "summary": "The story of Zinc, a highly anticipated startup in the Australian aviation market, has taken a significant strategic turn as the company reshapes its operational fleet and timeline to navigate the current realities of…",
+    "source": "World Airline News",
+    "url": "https://worldairlinenews.com/2026/07/06/zinc-the-new-proposed-australian-airline-revises-its-business-plan/",
+    "day": "2026-07-06",
+    "img": "https://worldairlinenews.com/wp-content/uploads/2026/07/Zinc-A321-200-WL-FltZincHR.jpg"
+   },
+   {
+    "headline": "Edgewing wins $6.1B contract to advance UK-Italy-Japan GCAP fighter program",
+    "summary": "Edgewing has secured a £4.6 billion ($6.1 billion) contract to advance development of the Global Combat Air Program… The post Edgewing wins $6.1B contract to advance UK-Italy-Japan GCAP fighter program appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/edgewing-gcap-fighter-contract",
+    "day": "2026-07-06",
+    "img": "https://www.aerotime.aero/images/2026/07/GCAP-July-2026.jpg"
+   },
+   {
+    "headline": "Riyadh Air adds 10th destination as bookings open for daily flights to Mumbai",
+    "summary": "Saudi start up Riyadh Air has added its 10th destination to its website as bookings officially open for… The post Riyadh Air adds 10th destination as bookings open for daily flights to Mumbai appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/riyadh-air-adds-10th-destination-as-bookings-open-for-daily-flights-to-mumbai",
+    "day": "2026-07-06",
+    "img": "https://www.aerotime.aero/images/2025/12/Riyadh-Air-Boeing-787-Dreamliner-US.jpg"
+   },
+   {
+    "headline": "F-35 fighters from UK Carrier Strike Group scramble to pursue Russian Bear-F",
+    "summary": "Two F-35 fighters from the Royal Navy’s HMS Prince of Wales aircraft carrier have been scrambled to intercept… The post F-35 fighters from UK Carrier Strike Group scramble to pursue Russian Bear-F appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/f-35-fighters-uk-carrier-strike-group-scramble-russian-bear-aircraft",
+    "day": "2026-07-06",
+    "img": "https://www.aerotime.aero/images/2026/07/F-35-intecepts-Russia-aircraft.jpg"
+   },
+   {
+    "headline": "Press Release: Neo Space Group deploys Hughes JUPITER 3 gateways",
+    "summary": "Neo Space Group (NSG), a PIF company and Saudi Arabia’s leading commercial space services provider, today announced the successful deployment of three advanced ground gateway systems in collaboration with Hughes Network…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/07/neo-space-group-deploys-hughes-jupiter-3-gateways/",
+    "day": "2026-07-06",
+    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/04/unnamed-20.png"
+   },
+   {
+    "headline": "Saudia denies selling five B777 aircraft to Iran’s Mahan Air",
+    "summary": "On July 3, 2026, Saudia Airlines, the national carrier of Saudi Arabia, posted a statement online denying any… The post Saudia denies selling five B777 aircraft to Iran’s Mahan Air appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/saudia-denies-selling-five-b777-aircraft-to-irans-mahan-air",
+    "day": "2026-07-05",
+    "img": "https://www.aerotime.aero/images/2024/09/SV777-32.jpg"
+   }
+  ],
+  "airports": [
+   {
+    "headline": "Only 62% Full: Aer Lingus' 10 Surprisingly Empty US Routes From Dublin Airport [Map]",
+    "summary": "There are some highly intriguing results. See them all here!",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/only-62pc-full-aer-lingus-10-surprisingly-empty-us-routes-from-dublin-airport/",
+    "day": "2026-07-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/shutterstock_2178392341-16_9-1.jpg"
+   },
+   {
+    "headline": "Air France unveils first branded lounge in London Heathrow Airport Terminal 4",
+    "summary": "Air France has opened its first dedicated lounge in London Heathrow Terminal 4, bringing French-inspired design, dining and hospitality to the UK aviation hub.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/air-france-unveils-first-branded-lounge-in-london-heathrow-terminal-4/?utm_source=rss&utm_medium=rss&utm_campaign=air-france-unveils-first-branded-lounge-in-london-heathrow-terminal-4",
+    "day": "2026-07-07",
+    "img": "https://moodiedavittreport.com/wp-content/uploads/2026/07/Air-France-Lounge-London-Heathrow-©Air-France-7.7.2026-3.jpg"
+   },
+   {
+    "headline": "FAB 2026: Brussels Airport unveils landmark 2029 F&B tender to reshape entire dining programme",
+    "summary": "“We want to make sure that we are ready for the future, looking at more data-driven passenger profiles, looking at Gen Z and the specific expectations travellers are going to have,” says Brussels Airport Food & Beverage…",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/fab-2026-brussels-airport-unveils-landmark-2029-fb-tender-to-reshape-entire-dining-programme/?utm_source=rss&utm_medium=rss&utm_campaign=fab-2026-brussels-airport-unveils-landmark-2029-fb-tender-to-reshape-entire-dining-programme",
+    "day": "2026-07-07",
+    "img": "https://moodiedavittreport.com/wp-content/uploads/2026/07/FAB-Day-1-Talking-Tenders-Brussels-Airport-2.jpg"
+   },
+   {
+    "headline": "On location in Bengaluru at the 2026 Airport FAB + Hospitality Conference and Awards",
+    "summary": "Welcome to our rolling coverage of the 2026 Airport Food & Beverage (FAB) + Hospitality Conference and Awards, held this year in Bengaluru. The Moodie Davitt Report-owned event is this year proudly celebrating its 15th…",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/on-location-in-bengaluru-at-the-2026-airport-fab-hospitality-conference-and-awards/?utm_source=rss&utm_medium=rss&utm_campaign=on-location-in-bengaluru-at-the-2026-airport-fab-hospitality-conference-and-awards",
+    "day": "2026-07-07",
+    "img": "https://moodiedavittreport.com/wp-content/uploads/2026/07/FAB-5.7.26.png"
+   },
+   {
+    "headline": "Experiential retail sets sail: Gebr. Heinemann opens duty-free stores on TUI Cruises’ Mein Schiff Flow",
+    "summary": "Gebr. Heinemann has opened its two exclusive duty-free stores, Meine Freude and Mein Glanz, onboard Mein Schiff Flow, unveiling a new cruise retail concept centred on the key travel retail trends of experience…",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/setting-sail-for-experiential-retail-gebr-heinemann-opens-two-duty-free-shops-on-tui-cruises-mein-schiff-flow/?utm_source=rss&utm_medium=rss&utm_campaign=setting-sail-for-experiential-retail-gebr-heinemann-opens-two-duty-free-shops-on-tui-cruises-mein-schiff-flow",
+    "day": "2026-07-07",
+    "img": "https://moodiedavittreport.com/wp-content/uploads/2026/07/Gebr.-Heinemann-Mein-Schiff-Flow-7.7.2026-Ribbon-Cutting.jpg"
+   },
+   {
+    "headline": "Geneva Airport welcomes Decathlon Switzerland’s first European airport store",
+    "summary": "Decathlon has entered a new phase of its European travel retail strategy with the launch of its first airport proximity store at Geneva Airport, combining a curated product offer with a 24/7 Click & Collect service for…",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/geneva-airport-welcomes-decathlons-first-european-airport-store/?utm_source=rss&utm_medium=rss&utm_campaign=geneva-airport-welcomes-decathlons-first-european-airport-store",
+    "day": "2026-07-07",
+    "img": "https://moodiedavittreport.com/wp-content/uploads/2026/07/decathlon-geneva-airport-7.7.2026-1.png"
+   },
+   {
+    "headline": "Nestlé and Unifree Duty Free shift KitKat Formula 1 into top gear at Istanbul Airport",
+    "summary": "Launched on 3 July, the experience reflects the confectionery brand’s global partnership with Formula 1 while reinforcing its presence within travel retail.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/nestle-and-unifree-duty-free-shift-kitkat-formula-1-into-top-gear-at-istanbul-airport/?utm_source=rss&utm_medium=rss&utm_campaign=nestle-and-unifree-duty-free-shift-kitkat-formula-1-into-top-gear-at-istanbul-airport",
+    "day": "2026-07-07",
+    "img": "https://moodiedavittreport.com/wp-content/uploads/2026/07/NITR-KitKat-Unifree-Istanbul-7.7.2026-3-e1783422426442.jpg"
+   },
+   {
+    "headline": "Coty celebrates modern femininity with BOSS Bottled Beyond for Her",
+    "summary": "A powerful trio: Jessica Chastain, Becky G and Tara Davis-Woodhall front the global campaign, bringing together film, music and sport to introduce the latest addition to the BOSS Bottled Beyond fragrance franchise.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/coty-celebrates-modern-femininity-with-boss-bottled-beyond-for-her/?utm_source=rss&utm_medium=rss&utm_campaign=coty-celebrates-modern-femininity-with-boss-bottled-beyond-for-her",
+    "day": "2026-07-07",
+    "img": "https://moodiedavittreport.com/wp-content/uploads/2026/07/Boss-Bottled-Beyond-for-Her-7.7.2026.jpg"
+   },
+   {
+    "headline": "WHSmith North America celebrates leadership impact with three AMAC Catalyst Awards wins",
+    "summary": "The leading travel retailer has celebrated three executive honours at the prestigious AMAC 2026 Catalyst Awards, highlighting its leaders’ contributions to advocacy, supplier diversity and the broader aviation industry.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/whsmith-north-america-celebrates-leadership-impact-with-three-amac-catalyst-awards-wins/?utm_source=rss&utm_medium=rss&utm_campaign=whsmith-north-america-celebrates-leadership-impact-with-three-amac-catalyst-awards-wins",
+    "day": "2026-07-07",
+    "img": "https://moodiedavittreport.com/wp-content/uploads/2026/07/WHSmith-North-America-AMAC-7.7.26.png"
+   },
+   {
+    "headline": "‘Recognisably British’ – Avolta brings Bill’s to Heathrow Terminal 2 in airport debut",
+    "summary": "The leading travel retail and dining player has unveiled Bill’s at Terminal 2, reinforcing its shared vision with Heathrow of showcasing local brands to enhance the sense of place at the busy gateway.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/recognisably-british-avolta-brings-bills-to-heathrow-terminal-2-in-airport-debut/?utm_source=rss&utm_medium=rss&utm_campaign=recognisably-british-avolta-brings-bills-to-heathrow-terminal-2-in-airport-debut",
+    "day": "2026-07-07",
+    "img": "https://moodiedavittreport.com/wp-content/uploads/2026/07/Avolta_Bills-London-Heathrow-T2-7.7.26.jpg"
+   },
+   {
+    "headline": "Global debuts premium digital media offering in Manchester Airport’s upgraded Terminal 2",
+    "summary": "Manchester Airport’s exclusive advertising sales partner has expanded its media portfolio with new premium digital screens across the newly revamped Terminal 2, reaching more than 32 million arriving and departing…",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/global-debuts-premium-digital-media-offering-in-manchester-airports-upgraded-terminal-2/?utm_source=rss&utm_medium=rss&utm_campaign=global-debuts-premium-digital-media-offering-in-manchester-airports-upgraded-terminal-2",
+    "day": "2026-07-07",
+    "img": "https://moodiedavittreport.com/wp-content/uploads/2026/07/Manchester-Airport-x-Global-7.7.26.jpg"
+   }
+  ],
+  "fleet": [
+   {
+    "headline": "Why Airbus Pilots Can Switch From An A320 To An A350 In Just 8 Days",
+    "summary": "Vast commonality between Airbus aircraft mean obtaining additional type ratings is easier than normal.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-airbus-pilots-switch-a320-a350-8-days/",
+    "day": "2026-07-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/a350-airbus.jpg"
+   },
+   {
+    "headline": "Limits: Qantas' Perth–London Flight Sits At The Absolute Edge Of What A Boeing 787 Can Physically Do",
+    "summary": "Qantas may have an aircraft capable of reaching London from Perth, but real-world performance depends on the conditions of each flight.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/qantas-perth-london-flight-sits-absolute-edge-boeing-787-physically-do/",
+    "day": "2026-07-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/limits-qantas-perth-london-flight-sits-at-the-absolute-edge-of-what-a-boeing-787-can-physically-do.jpg"
+   },
+   {
+    "headline": "A220 engine problems nearly over, say Airbus and Pratt & Whitney",
+    "summary": "Subscription Required By Scott Hamilton July 7, 2026, © Leeham News: Airbus and Pratt & Whitney say that the problems that have ailed the A220 program are resolved and there won’t be any A220s grounded due to geared...…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/07/07/a220-engine-problems-nearly-over-say-airbus-and-pratt-whitney/",
+    "day": "2026-07-07",
+    "img": "https://leehamnews.com/wp-content/uploads/2026/06/A220-PW-GTF-Improvement.png"
+   },
+   {
+    "headline": "Syrian president plans to order eight Airbus aircraft as Macron visits country",
+    "summary": "During a visit by French President Emmanuel Macron, the Syrian President Ahmad al-Sharaa has said the country plans… The post Syrian president plans to order eight Airbus aircraft as Macron visits country appeared first…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/syrian-president-order-eight-airbus-aircraft-amacron-visit",
+    "day": "2026-07-07",
+    "img": "https://www.aerotime.aero/images/2024/12/Airbus_A320-232_Syrian_Air_AN0682879-32.jpg"
+   },
+   {
+    "headline": "Denmark to order Boeing P-8A Poseidon aircraft and join NATO Triton drone buy",
+    "summary": "Denmark announced plans to acquire two Boeing P-8A Poseidon maritime patrol aircraft on July 7, 2026, in a decision aimed at strengthening “surveillance… The post Denmark to order Boeing P-8A Poseidon aircraft and join…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/denmark-p-8a-poseidon-nato-triton",
+    "day": "2026-07-07",
+    "img": "https://www.aerotime.aero/images/2026/07/US-Navy-Boeing-P-8A-Poseidon-maritime-patrol-aircraft.JPG"
+   },
+   {
+    "headline": "Saudia orders more Boeing 777-200 freighters for its cargo division",
+    "summary": "Saudia has ordered more Boeing 777-200Fs for its cargo division as the airline looks to strengthen its dedicated… The post Saudia orders more Boeing 777-200 freighters for its cargo division appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/saudia-orders-more-boeing-777-200-freighters-for-its-cargo-division",
+    "day": "2026-07-07",
+    "img": "https://www.aerotime.aero/images/2026/07/Saudia-Cargo.jpg"
+   },
+   {
+    "headline": "NATO unveils pooled A400M fleet, confirms Saab GlobalEye as AWACS replacement",
+    "summary": "Seven NATO allies launched a shared Airbus A400M transport fleet, and the alliance confirmed Sweden’s Saab GlobalEye as… The post NATO unveils pooled A400M fleet, confirms Saab GlobalEye as AWACS replacement appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/nato-a400m-fleet-globaleye-awacs-ankara",
+    "day": "2026-07-07",
+    "img": "https://www.aerotime.aero/images/2026/07/French-Air-Force-A400M-at-Paris-Air-Show-2025.jpg"
+   },
+   {
+    "headline": "Embraer posts strongest second-quarter deliveries in 16 years",
+    "summary": "Embraer delivered 65 airplanes in the second quarter of 2026, marking its strongest second-quarter delivery performance in 16… The post Embraer posts strongest second-quarter deliveries in 16 years appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/embraer-strongest-second-quarter-deliveries-16-years",
+    "day": "2026-07-07",
+    "img": "https://www.aerotime.aero/images/2025/08/Embraer-Brand-Fleet_Final_Edited-01-FB-1.jpg"
+   },
+   {
+    "headline": "Why JetZero changed the Z4’s blended wing-body configuration",
+    "summary": "Subscription required By Bjorn Fehrm July 6, 2026, © Leeham News: We analyzed the JetZero Z4 Blended Wing Body (BWB) in a recent Bjorn’s Corner series. Then, in an American Institute of Aeronautics and Astronautics…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/07/06/jetzero-has-changed-its-bwb-z4-configuration/",
+    "day": "2026-07-06",
+    "img": "https://leehamnews.com/wp-content/uploads/2026/07/Update-Z4-tanker.jpg"
+   },
+   {
+    "headline": "Boeing Commercial Aircraft: Is profitability around the corner? Part II",
+    "summary": "Open to all readers. By Karl Sinclair July 6, 2026, © Leeham News: Boeing’s path to recovery rests largely with Boeing Commercial Airplanes (BCA). BCA accounted for about 65% of Boeing’s profits in 2018, the last year…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/07/06/boeing-commercial-aircraft-is-profitability-around-the-corner-part-ii/",
+    "day": "2026-07-06",
+    "img": "https://leehamnews.com/wp-content/uploads/2025/08/Boeing-expansion-of-Charleston-2025_.jpg"
+   },
+   {
+    "headline": "Reader Comments-Open Forum Week of July 6",
+    "summary": "To our Readers: We’ve restricted comments for the last seven months, requiring moderation and approval before posting. For the most part, readers behaved. There have been some comments I sent directly to trash. For the…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/07/06/reader-comments-open-forum-week-of-july-6/",
+    "day": "2026-07-06",
+    "img": "https://leehamnews.com/wp-content/uploads/2026/01/Leeham-Comments-Open-Forum.png"
+   },
+   {
+    "headline": "How Many Sales Are Left For the 777F?",
+    "summary": "With an order from Saudia Cargo for four aircraft, Boeing has won its first sales of the 777F this year.",
+    "source": "AirInsight",
+    "url": "https://airinsight.com/how-many-sales-are-left-for-the-777f/",
+    "day": "2026-07-06",
+    "img": "https://airinsight.com/wp-content/uploads/2026/07/1783343945438.jpg"
+   },
+   {
+    "headline": "Aspiration vs Reality – Duopoly vs Supply Chain",
+    "summary": "Boeing’s new North Line opens today. This is big news, and here’s why. This line is dedicated to the MAX",
+    "source": "AirInsight",
+    "url": "https://airinsight.com/aspiration-vs-reality-duopoly-vs-supply-chain/",
+    "day": "2026-07-06",
+    "img": "https://airinsight.com/wp-content/uploads/2022/05/duopoly.png"
+   },
+   {
+    "headline": "Delta Air Lines A319 hit by fireworks while landing in Chicago: media reports",
+    "summary": "A Delta Air Lines Airbus A319 was hit by a firework while on final approach to Chicago Midway… The post Delta Air Lines A319 hit by fireworks while landing in Chicago: media reports appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/delta-air-lines-a319-hit-by-fireworks-while-landing-in-chicago-media-reports",
+    "day": "2026-07-06",
+    "img": "https://www.aerotime.aero/images/An-Airbus-A319-of-Atlanta-based-Delta-Air-Lines-scaled-e1783266071409.jpg"
+   },
+   {
+    "headline": "Boeing Commercial Aircraft: Is profitability around the corner? Part I",
+    "summary": "Open to all readers. By Karl Sinclair July 5, 2026, © Leeham News: Boeing officially activates its 737 North Line tomorrow, the first time in more than 50 years the company has assembled the 737 outside of its... Read…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/07/05/boeing-commercial-aircraft-is-profitability-around-the-corner-part-i/",
+    "day": "2026-07-05",
+    "img": "https://leehamnews.com/wp-content/uploads/2025/05/Boeing-Everett-Factory.jpg"
+   },
+   {
+    "headline": "Starlux Airlines receives eye-catching “Silver Airsorayama” A350-1000",
+    "summary": "Airbus delivered the second A350-1000 with the eye-catching “Airsorayama” livery to Taiwanese carrier Starlux Airlines. “Silver Sorayama” (registration… The post Starlux Airlines receives eye-catching “Silver…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/starlux-airlines-receives-eye-catching-silver-airsorayama-a350-1000a",
+    "day": "2026-07-05",
+    "img": "https://www.aerotime.aero/images/2026/01/STARLUX-AIRSORAYAMA-livery-Airbus-A350-1000-1-e1783260853337.jpg"
+   }
+  ],
+  "finance": [
+   {
+    "headline": "The Castlelake Workaround That Unsticks Condor",
+    "summary": "Castlelake’s £5.2 billion approach for easyJet is, potentially, more than an airline takeover story. That deal structure could become a",
+    "source": "AirInsight",
+    "url": "https://airinsight.com/the-castlelake-workaround-that-unsticks-condor/",
+    "day": "2026-07-07",
+    "img": "https://airinsight.com/wp-content/uploads/2022/04/Condor_A330Neo_900_Island_sRGB-scaled.jpg"
+   },
+   {
+    "headline": "FAA moves to block US states from setting their own airline crew rest rules",
+    "summary": "The Federal Aviation Administration (FAA) is moving to stop US states and local governments from applying their own… The post FAA moves to block US states from setting their own airline crew rest rules appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/faa-block-us-states-airline-crew-break-rules",
+    "day": "2026-07-07",
+    "img": "https://www.aerotime.aero/images/flight-attendants.jpg"
+   },
+   {
+    "headline": "Press Release: Frankfurt to host global aviation leaders at GACF",
+    "summary": "Taking place on 29-30 September 2026 at the Frankfurt Marriott Hotel, the Global Aviation Conference Frankfurt will welcome executives from around the world including airlines, airports, MROs, OEMs, leasing companies…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/07/frankfurt-to-host-global-aviation-leaders-for-insight-and-collaboration/",
+    "day": "2026-07-07",
+    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2025/04/a350infra-d-aixi-1.jpg"
+   },
+   {
+    "headline": "easyJet accepts Castlelake’s £5.2 billion ($6.9 billion) acquisition offer",
+    "summary": "easyJet has accepted a £5.2 billion (US$6.9 billion) acquisition offer from investment firm Castelake, according to reports published… The post easyJet accepts Castlelake’s £5.2 billion ($6.9 billion) acquisition offer…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/easyjet-accepts-castlelake-5-2-billion-6-9-billion-acquisition-offer",
+    "day": "2026-07-06",
+    "img": "https://www.aerotime.aero/images/2024/12/EZ1-3.jpg"
+   },
+   {
+    "headline": "Press Release: Iridium completes acquisition of Aireon",
+    "summary": "Iridium Communications Inc., a leading provider of global voice, data, and positioning, navigation, and timing (PNT) satellite services, announced today that it has completed its acquisition of Aireon LLC, operator of…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/07/iridium-completes-acquisition-of-aireon/",
+    "day": "2026-07-06",
+    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/05/Screenshot-2026-05-14-at-1.32.13-PM.jpeg"
+   }
+  ],
+  "bizav": [],
+  "policy": [
+   {
+    "headline": "Here Are The differences Between US & Russian Fighter Jet Radomes",
+    "summary": "Two different philosophies used to craft the ultimate fighter jets.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-us-fighter-jets-have-black-radomes/",
+    "day": "2026-07-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/shutterstock_2596352353_cropped.avif"
+   },
+   {
+    "headline": "Boeing's Hidden Update: 777X Gets Massive Range Increase",
+    "summary": "Eagle-eyed observers have spotted an enticing alteration.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/boeing-777x-increased-range/",
+    "day": "2026-07-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/shutterstock_2768234959_cropped.jpg"
+   },
+   {
+    "headline": "Why The B-52's New Engines Will Make It More Powerful Than Jets Built 40 Years After It",
+    "summary": "One engine swap makes a 1950s bomber more useful than the aircraft designed to replace it.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-b-52-engine-efficient/",
+    "day": "2026-07-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/artboard-16_9-3-15.jpg"
+   },
+   {
+    "headline": "DGCA certifies Embraer’s E2 family",
+    "summary": "PR: Directorate General of Civil Aviation (DGCA) has type certified aircraft variants from the Embraer E-Jets family, including E195-E2, E190",
+    "source": "AirInsight",
+    "url": "https://airinsight.com/dgca-certifies-embraers-e2-family/",
+    "day": "2026-07-07",
+    "img": "https://airinsight.com/wp-content/uploads/2019/10/india-flag-a4.jpg"
+   },
+   {
+    "headline": "Isar Aerospace signs deal to launch orbital rockets from Canada’s Atlantic coast",
+    "summary": "On July 7, 2026, German space startup Isar Aerospace announced that it has closed a deal with Canada-based… The post Isar Aerospace signs deal to launch orbital rockets from Canada’s Atlantic coast appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/isar-aerospace-signs-deal-to-launch-orbital-rockets-from-canadas-atlantic-coast",
+    "day": "2026-07-07",
+    "img": "https://www.aerotime.aero/images/2025/03/Isar-Aerospace-Spectrum-rocket-on-the-launch-pad-of-Andoya-Spacesport-e1774353136939.jpg"
+   },
+   {
+    "headline": "India certifies multiple Embraer aircraft including E195 and E195-E2 jets",
+    "summary": "India’s Directorate General of Civil Aviation (DGCA) has certified multiple Embraer aircraft from the E-Jets family, including the… The post India certifies multiple Embraer aircraft including E195 and E195-E2 jets…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/india-certifies-embraer-aircraft-e195-e195-e2-jets",
+    "day": "2026-07-07",
+    "img": "https://www.aerotime.aero/images/2026/07/Embraer-E195-E2-Tech-Eagle.jpg"
+   },
+   {
+    "headline": "EASA updates GNSS jamming and spoofing guidance, citing spike",
+    "summary": "Responding to the rapid rise in global navigation satellite system (GNSS) jamming and spoofing events, the European Union Aviation Safety Agency (EASA) has updated its guidance to industry stakeholders in a bid to…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/07/easa-updates-aircraft-gnss-jamming-and-spoofing-guidance/",
+    "day": "2026-07-04",
+    "img": null
+   }
+  ]
+ }
+}
