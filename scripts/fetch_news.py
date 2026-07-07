@@ -19,6 +19,14 @@ MAX_OG_FETCHES = 40        # cap article-page fetches per run (for og:image)
 TIMEOUT = 8
 HEADERS = {"User-Agent": "Mozilla/5.0 (AviationDailyBrief/1.0; personal news aggregator)"}
 
+# Words that mark an item as air-domain; used to filter multi-domain
+# defense feeds so land/naval stories don't enter the aviation brief.
+AVIATION_WORDS = ["aircraft", "fighter", "jet", "bomber", "helicopter", "rotorcraft",
+                  "drone", "uav", "ucav", "air force", "airpower", "air power",
+                  "aerial", "tanker", "awacs", "airlift", "f-35", "f-16", "f-15",
+                  "b-21", "kc-46", "c-130", "rafale", "eurofighter", "gripen",
+                  "loyal wingman", "gcap", "fcas", "hypersonic missile", "air defense", "air defence"]
+
 # ---------------------------------------------------------------
 # Feeds. 'section' pins every item from that feed to one section;
 # feeds without it are classified per-item by keywords below.
@@ -36,12 +44,26 @@ FEEDS = [
     {"url": "https://www.greenairnews.com/?feed=rss2",        "source": "GreenAir News",          "section": "policy"},
     {"url": "https://runwaygirlnetwork.com/feed/",            "source": "Runway Girl Network"},
     {"url": "https://www.ainonline.com/rss.xml",              "source": "AIN",                    "section": "bizav"},
+    # Defense aviation
+    {"url": "https://www.airandspaceforces.com/feed/",        "source": "Air & Space Forces Mag", "section": "defense"},
+    {"url": "https://breakingdefense.com/feed/",              "source": "Breaking Defense",       "section": "defense",
+     "require": AVIATION_WORDS},
+    {"url": "https://www.twz.com/feed",                       "source": "The War Zone",           "section": "defense",
+     "require": AVIATION_WORDS},
+    {"url": "https://www.defensenews.com/arc/outboundfeeds/rss/category/air/?outputType=xml",
+     "source": "Defense News",  "section": "defense"},
 ]
 
-SECTION_IDS = ["network", "airports", "fleet", "finance", "bizav", "policy"]
+SECTION_IDS = ["network", "airports", "fleet", "finance", "bizav", "policy", "defense"]
 
 # Keyword classifier, checked in this order (first match wins).
 KEYWORDS = [
+    ("defense", ["fighter jet", "fighter aircraft", "air force", "military aircraft",
+                 "defense contract", "defence contract", "f-35", "f-16", "f-15", "f/a-18",
+                 "b-21", "kc-46", "a400m", "c-390", "rafale", "eurofighter", "gripen",
+                 "military drone", "ucav", "loyal wingman", "gcap", "fcas", "nato",
+                 "lockheed martin", "northrop", "military procurement", "air-to-air",
+                 "combat aircraft", "military helicopter", "attack helicopter"]),
     ("bizav",   ["business jet", "bizjet", "private jet", "fractional", "charter operator",
                  "fbo", "netjets", "flexjet", "vistajet", "gulfstream", "bombardier global",
                  "falcon 6x", "falcon 8x", "praetor", "citation", "pilatus pc-24", "hondajet"]),
@@ -156,6 +178,11 @@ def main():
                 continue
 
             summary = clean_summary(entry.get("summary", "") or entry.get("description", ""))
+            req = feed.get("require")
+            if req:
+                text = f" {title.lower()} {summary.lower()} "
+                if not any(w in text for w in req):
+                    continue
             section = feed.get("section") or classify(title, summary)
             if section not in SECTION_IDS:
                 continue
