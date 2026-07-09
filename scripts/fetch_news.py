@@ -28,30 +28,79 @@ AVIATION_WORDS = ["aircraft", "fighter", "jet", "bomber", "helicopter", "rotorcr
                   "b-21", "kc-46", "c-130", "rafale", "eurofighter", "gripen",
                   "loyal wingman", "gcap", "fcas", "hypersonic missile", "air defense", "air defence"]
 
+# Moodie Davitt is a travel-retail trade paper: only its airport-business
+# stories belong in the brief, not brand campaigns and product launches.
+AIRPORT_BUSINESS_WORDS = ["concession", "tender", "contract", "airport authority",
+                          "terminal", "expansion", "passenger traffic", "traffic result",
+                          "privatisation", "privatization", "master concessionaire",
+                          "duty free operator", "duty-free operator", "airport retail revenue"]
+
 # ---------------------------------------------------------------
 # Feeds. 'section' pins every item from that feed to one section;
 # feeds without it are classified per-item by keywords below.
 # Edit freely — the script skips any feed that fails.
 # ---------------------------------------------------------------
 FEEDS = [
+    # --- Generalists (classified per item: publisher tags -> keywords -> AI pass) ---
     {"url": "https://simpleflying.com/feed/",                 "source": "Simple Flying"},
     {"url": "https://theaircurrent.com/feed/",                "source": "The Air Current"},
-    {"url": "https://leehamnews.com/feed/",                   "source": "Leeham News",            "section": "fleet"},
     {"url": "https://airinsight.com/feed/",                   "source": "AirInsight"},
-    {"url": "https://worldairlinenews.com/feed/",             "source": "World Airline News",     "section": "network"},
     {"url": "https://www.aerotime.aero/feed",                 "source": "AeroTime"},
-    {"url": "https://corporatejetinvestor.com/feed/",         "source": "Corporate Jet Investor", "section": "bizav"},
-    {"url": "https://www.moodiedavittreport.com/feed/",       "source": "Moodie Davitt Report",   "section": "airports"},
-    {"url": "https://www.greenairnews.com/?feed=rss2",        "source": "GreenAir News",          "section": "policy"},
     {"url": "https://runwaygirlnetwork.com/feed/",            "source": "Runway Girl Network"},
+    {"url": ["https://centreforaviation.com/rss",
+             "https://centreforaviation.com/news/feed",
+             "https://centreforaviation.com/feeds/news"],
+     "source": "CAPA"},  # try-and-verify: public headline feed may not exist
+
+    # --- Network ---
+    {"url": "https://worldairlinenews.com/feed/",             "source": "World Airline News",     "section": "network"},
+    {"url": ["https://www.aeroroutes.com/?format=rss",
+             "https://www.aeroroutes.com/feed",
+             "https://www.aeroroutes.com/eventsandflights?format=rss"],
+     "source": "AeroRoutes", "section": "network"},  # try-and-verify (Squarespace)
+
+    # --- Airports ---
+    {"url": "https://www.moodiedavittreport.com/feed/",       "source": "Moodie Davitt Report",   "section": "airports",
+     "require": AIRPORT_BUSINESS_WORDS},
+    {"url": ["https://airport-world.com/feed/",
+             "https://www.airport-world.com/feed/"],
+     "source": "Airport World", "section": "airports"},
+    {"url": "https://www.internationalairportreview.com/feed/","source": "Intl Airport Review",   "section": "airports"},
+    {"url": "https://www.passengerterminaltoday.com/feed/",   "source": "Passenger Terminal Today","section": "airports"},
+
+    # --- Fleet / OEM ---
+    {"url": "https://leehamnews.com/feed/",                   "source": "Leeham News",            "section": "fleet"},
+
+    # --- Finance / Leasing ---
+    {"url": ["https://avitrader.com/feed/",
+             "https://www.avitrader.com/feed/"],
+     "source": "AviTrader"},  # leasing/MRO/transactions; classified per item
+    {"url": ["https://www.aviationnews-online.com/feed/",
+             "https://aviationnews-online.com/feed/"],
+     "source": "Airline Economics", "section": "finance"},
+
+    # --- Business aviation ---
+    {"url": "https://corporatejetinvestor.com/feed/",         "source": "Corporate Jet Investor", "section": "bizav"},
     {"url": ["https://www.ainonline.com/rss.xml",
              "https://www.ainonline.com/aviation-news/rss.xml",
              "https://www.ainonline.com/rss"],
      "source": "AIN", "section": "bizav"},
     {"url": "https://privatejetcardcomparisons.com/feed/",     "source": "Private Jet Card Comparisons", "section": "bizav"},
     {"url": "https://www.businessairportinternational.com/feed", "source": "Business Airport International", "section": "bizav"},
-    # Defense aviation
+
+    # --- Policy / Regulation ---
+    {"url": "https://www.greenairnews.com/?feed=rss2",        "source": "GreenAir News",          "section": "policy"},
+    {"url": ["https://www.easa.europa.eu/en/rss.xml",
+             "https://www.easa.europa.eu/rss.xml",
+             "https://www.easa.europa.eu/en/newsroom-and-events/rss"],
+     "source": "EASA", "section": "policy"},  # try-and-verify
+    {"url": ["https://www.iata.org/en/pressroom/rss/",
+             "https://www.iata.org/rss/pressroom.xml"],
+     "source": "IATA", "section": "policy"},  # try-and-verify
+
+    # --- Defense ---
     {"url": "https://www.airandspaceforces.com/feed/",        "source": "Air & Space Forces Mag", "section": "defense"},
+    {"url": "https://theaviationist.com/feed",                "source": "The Aviationist",        "section": "defense"},
     {"url": "https://breakingdefense.com/feed/",              "source": "Breaking Defense",       "section": "defense",
      "require": AVIATION_WORDS},
     {"url": "https://www.twz.com/feed",                       "source": "The War Zone",           "section": "defense",
@@ -207,7 +256,10 @@ def llm_reclassify(items, chunk_size=40):
             "- policy: regulators, traffic rights, SAF mandates, safety directives\n"
             "- defense: military aviation\n"
             "- others: aviation-adjacent or general-interest content that is not core industry news "
-            "(travel features, passenger-experience pieces, listicles, trip reports, historical retrospectives)\n\n"
+            "(travel features, passenger-experience pieces, listicles, trip reports, historical retrospectives, "
+            "and retail/brand marketing such as product launches, promotions and campaigns — note: a brand "
+            "activation AT an airport is marketing news, not airports news; airports requires the airport's "
+            "infrastructure, traffic or commercial contracts to be the subject)\n\n"
             f"Stories:\n{numbered}\n\n"
             "Respond with ONLY a raw JSON array of section ids in order, one per story, "
             'e.g. ["network","others","fleet"]. No other text.')
@@ -254,6 +306,22 @@ def main():
                 data["sections"][s] = old.get("sections", {}).get(s, [])
         except Exception as e:
             print(f"WARN could not read existing archive: {e}")
+
+    # Cleanup: remove previously ingested Moodie Davitt brand-marketing items
+    # that predate the feed filter (they were verified into the wrong place).
+    purged = 0
+    for s in SECTION_IDS:
+        kept = []
+        for it in data["sections"][s]:
+            if it.get("source") == "Moodie Davitt Report":
+                text = f" {it.get('headline','').lower()} {it.get('summary','').lower()} "
+                if not any(w in text for w in AIRPORT_BUSINESS_WORDS):
+                    purged += 1
+                    continue
+            kept.append(it)
+        data["sections"][s] = kept
+    if purged:
+        print(f"PURGE {purged} travel-retail marketing item(s) removed from archive")
 
     seen = {norm_key(it) for s in SECTION_IDS for it in data["sections"][s]}
     pending = []          # new items awaiting final section assignment
