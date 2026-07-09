@@ -188,6 +188,21 @@ function rowHTML(it){
     <div><h3 class="row-hl">${hl}</h3><p class="row-sum">${esc(it.summary||'')}</p></div>
   </article>`;
 }
+/* Home-page top 3: prefer distinct sources so one busy feed
+   doesn't own a whole section's front row. */
+function pickFront(items){
+  const picked=[], used=new Set();
+  for(const it of items){
+    if(picked.length>=FRONT_PAGE_ITEMS) break;
+    if(!used.has(it.source)){ picked.push(it); used.add(it.source); }
+  }
+  for(const it of items){
+    if(picked.length>=FRONT_PAGE_ITEMS) break;
+    if(!picked.includes(it)) picked.push(it);
+  }
+  return picked;
+}
+
 function dayGroups(items){
   const byDay={}; for(const it of items){ (byDay[it.day||'unknown'] ||= []).push(it); }
   return Object.keys(byDay).sort().reverse().map(d=>({day:d, items:byDay[d]}));
@@ -202,7 +217,7 @@ function renderHome(){
     const items = itemsOf(s.id);
     if(items.length) anyItems = true;
     const front = items.length
-      ? items.slice(0,FRONT_PAGE_ITEMS).map(cardHTML).join('')
+      ? pickFront(items).map(cardHTML).join('')
       : `<div style="grid-column:1/-1" class="day-label">NO ITEMS YET — WILL FILL AFTER THE NEXT UPDATE</div>`;
     html += `
       <section class="sec">
