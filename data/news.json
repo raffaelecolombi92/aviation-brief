@@ -1,7 +1,63 @@
 {
- "generated": "2026-07-10T16:38+00:00",
+ "generated": "2026-07-10T21:39+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Why Virgin Atlantic's Airbus A350-1000 Upper Class Skips Privacy Doors For An 82-Inch Bed",
+    "summary": "Virgin Atlantic A350 Upper Class skips doors for an 82-inch bed, unlike A330neo suites with full privacy doors.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-virgin-atlantic-airbus-a350-1000-upper-class-skips-privacy-doors-82-inch-bed/",
+    "day": "2026-07-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/82-inch-bed.jpg"
+   },
+   {
+    "headline": "JetBlue Among Hardest Hit, Cancels 1 In 20 Flights As Summer Storms Pummel Northeast Hubs",
+    "summary": "As summer storms pummel Northeast hubs, JetBlue finds itself among the hardest hit, with 1 in 20 flights canceled and widespread delays.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/jetblue-hardest-hit-cancel-1-20-flights-summer-storms-pummel-northeast-hubs/",
+    "day": "2026-07-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/jetblue_airbus_a321_n905jb_landing_at_boston_july_2025.jpg"
+   },
+   {
+    "headline": "Lufthansa Group Carriers 4Q26 Buenos Aires Service Changes",
+    "summary": "Published at 1400PDT / 2100GMT 10JUL26 Lufthansa Group in the last few days gradually filed service changes for Buenos Aires Ezeiza during the period of 24OCT26 – 11NOV26, due to Ezeiza Airport’s runway maintenance…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260710-lhgnw26eze",
+    "day": "2026-07-10",
+    "img": null
+   },
+   {
+    "headline": "Flair Airlines Adds Montreal – Punta Cana in NW26",
+    "summary": "Published at 1300PDT / 2000GMT 10JUL26 Canadian carrier Flair Airlines in Northern winter 2026/27 season schedules new route to The Dominican Republic, with the offering of Montreal – Punta Cana route. From 17DEC26…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260710-f8nw26puj",
+    "day": "2026-07-10",
+    "img": null
+   },
+   {
+    "headline": "Delta Adds Salt Lake City – Santa Rosa in 4Q26",
+    "summary": "Published at 1200PDT / 1900GMT 10JUL26 Delta in October 2026 plans to add Salt Lake City – Santa Rosa service, one month ahead of Alaska Airlines’ planned operation. Delta will serve this route twice daily from 06OCT26…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260710-dl4q26sts",
+    "day": "2026-07-10",
+    "img": null
+   },
+   {
+    "headline": "Alaska Adds Portland OR – Wenatchee in 4Q26",
+    "summary": "Published at 1100PDT / 1800GMT 10JUL26 Alaska Airlines in the fourth quarter of 2026 schedules Portland OR – Wenatchee service, where the airline schedules 1 daily flight from 03OCT26. Horizon Embraer E175 aircraft to…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260710-asnw26eat",
+    "day": "2026-07-10",
+    "img": null
+   },
+   {
+    "headline": "American 4Q26 Chicago Additional Domestic Network Additions",
+    "summary": "Published at 1000PDT / 1700GMT 10JUL26 American in the fourth quarter of 2026 schedules two additional domestic routes at Chicago O’Hare , recently opened for reservations. Chicago O'Hare – Charlottesville eff 01NOV26 2…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260710-aa4q26ord",
+    "day": "2026-07-10",
+    "img": null
+   },
    {
     "headline": "American Airlines To Reportedly Deploy 1st Retrofitted Boeing 777-300ER Next Month",
     "summary": "American Airlines’ first retrofitted Boeing 777-300ER appears to be nearing the end of its long stay in Hong Kong, with aviation watcher JonNYC reporting that the aircraft could depart before the middle of July and…",
@@ -1095,6 +1151,54 @@
   ],
   "fleet": [
    {
+    "headline": "The Clever Landing Gear Trick That Lets Boeing's Longest 737 Ever Take Off Without Striking Its Tail",
+    "summary": "Modernizing as 1960s airframe for 2027 and beyond.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/clever-landing-gear-trick-let-boeing-longest-737-ever-take-off-without-striking-tail/",
+    "day": "2026-07-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/boeing-s-longest-737.jpg"
+   },
+   {
+    "headline": "Fading Legacy: Delta Air Lines Retires Last \"US\" Registered Ex-Northwest Boeing 757-200",
+    "summary": "The retirement leaves only two birds inherited from the defuct airline left in its fleet.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/delta-air-lines-retires-last-us-registered-ex-northwest-boeing-757-200/",
+    "day": "2026-07-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/delta_boeing_757-200.jpg"
+   },
+   {
+    "headline": "The New US Law That Just Killed Airbus' Single-Pilot Cockpit Plans For A Generation",
+    "summary": "Airplanes flying in America will remain occupied by two pilots.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/new-us-law-killed-airbus-single-pilot-cockpit-plans-generation/",
+    "day": "2026-07-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/the-new-us-law-that-just-killed-airbus-single-pilot-cockpit-plans-for-a-generation.jpg"
+   },
+   {
+    "headline": "How A Quiet Airbus A350 Redesign Solved The Paint Problem That Sparked Qatar Airways' $2 Billion Lawsuit",
+    "summary": "Airbus maintained the issue did not risk safety, but got on with updating aircraft behind the scenes",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-quiet-airbus-a350-redesign-solved-paint-problem-sparked-qatar-airways-2-billion-lawsuit/",
+    "day": "2026-07-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/a350-redesign.jpg"
+   },
+   {
+    "headline": "Why Southwest Airlines Doesn't Want Its Boeing 737NGs Anymore",
+    "summary": "Southwest Airlines is famous for operating only the Boeing 737 series.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/southwest-airlines-does-not-want-boeing-737-ng/",
+    "day": "2026-07-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/760-southwest-boeing-737-800-robin-guess-_-shutterstock.jpg"
+   },
+   {
+    "headline": "Apparent engine fan blade failure preceded rupture of Ryanair 737 window",
+    "summary": "Air safety reporting is made accessible without a subscription as a public service. Subscribe to The Air Current for full access to our scoops, in-depth reporting and industry analysis. The rupture of a Ryanair Boeing…",
+    "source": "The Air Current",
+    "url": "https://theaircurrent.com/feed/dispatches/engine-fan-blade-failure-preceded-rupture-ryanair-737-window-greece/",
+    "day": "2026-07-10",
+    "img": "https://theaircurrent.com/wp-content/uploads/2026/07/ryanair-img-jao-2.jpeg"
+   },
+   {
     "headline": "Emirates Suddenly Unveils Airbus A380 Flights To This Major City [Full Schedule]",
     "summary": "History will be made in several ways. Find out why here!",
     "source": "Simple Flying",
@@ -1795,6 +1899,14 @@
   ],
   "bizav": [
    {
+    "headline": "Why Tech Billionaires Are Ditching Flight Attendants On Their Jets",
+    "summary": "Are flight attendants an added luxury or an essential?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-tech-billionaires-ditching-flight-attendants-jets/",
+    "day": "2026-07-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/tech-billionaires.jpg"
+   },
+   {
     "headline": "Chapman Freeborn parent CEO Janukenas moves to CFO role",
     "summary": "Avia Solutions Group has appointed Zilvinas Lapinskas as CEO while former CEO Jonas Janukenas moves into the CFO role The post Chapman Freeborn parent CEO Janukenas moves to CFO role appeared first on Private Jet Card…",
     "source": "Private Jet Card Comparisons",
@@ -1957,6 +2069,14 @@
   ],
   "policy": [
    {
+    "headline": "Locking pin found in storage box after Lufthansa 787 nose-gear collapse",
+    "summary": "A locking pin designed to prevent a Boeing 787’s nose landing gear from retracting remained inside its storage… The post Locking pin found in storage box after Lufthansa 787 nose-gear collapse appeared first on AeroTime…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/lufthansa-787-nose-gear-collapse-locking-pin",
+    "day": "2026-07-10",
+    "img": "https://www.aerotime.aero/images/2026/07/lufthansa787gearcollapse.jpg"
+   },
+   {
     "headline": "Ryanair passenger saved by seatbelt as window shatters midflight",
     "summary": "A Ryanair passenger was saved by his seatbelt after an aircraft window shattered midflight, resulting in the man… The post Ryanair passenger saved by seatbelt as window shatters midflight appeared first on AeroTime .",
     "source": "AeroTime",
@@ -2118,6 +2238,86 @@
    }
   ],
   "defense": [
+   {
+    "headline": "Pentagon lifts suspensions of Apache pilots after South Carolina beach flyby",
+    "summary": "The Pentagon has lifted the flight suspensions of eight South Carolina Army National Guard pilots who took part… The post Pentagon lifts suspensions of Apache pilots after South Carolina beach flyby appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/pentagon-lifts-suspensions-of-apache-pilots-after-south-carolina-beach-flyby",
+    "day": "2026-07-10",
+    "img": "https://www.aerotime.aero/images/2026/07/apache_flyby_3x2.jpg"
+   },
+   {
+    "headline": "Why laser weapons are finally moving from the test range to the battlefield",
+    "summary": "For decades, military laser weapons promised revolutionary capability but rarely moved beyond laboratory testing and field demonstrations. That… The post Why laser weapons are finally moving from the test range to the…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/why-laser-weapons-are-moving-from-test-range-to-battlefield",
+    "day": "2026-07-10",
+    "img": "https://www.aerotime.aero/images/2026/07/nlight-ship.jpg"
+   },
+   {
+    "headline": "Analysis: How Ukraine Is Reimagining Strategic Attack",
+    "summary": "Ukraine’s long-range strike campaign successfully adapts classic airpower theory to its own present-day constraints. The post Analysis: How Ukraine Is Reimagining Strategic Attack appeared first on Air & Space Forces…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/analysis-how-ukraine-is-reimagining-strategic-attack/",
+    "day": "2026-07-10",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/FP-1-Drone_RGB.jpg"
+   },
+   {
+    "headline": "Boeing’s Ghost Bat Drone Flew with F-35 and More in Pacific Exercise",
+    "summary": "Boeing’s MQ-28 Collaborative Combat Aircraft worked with multiple F-35 variants and battle management aircraft during a recent major Pacific exercise, the contractor announced this week. The post Boeing’s Ghost Bat…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/boeing-cca-f-35-more-in-pacific-exercise/",
+    "day": "2026-07-10",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/9774097-900x600.jpg"
+   },
+   {
+    "headline": "F-22s Become Latest USAF Combat Aircraft to Leave Middle East Despite Iran Tensions",
+    "summary": "F-22 Raptors that had been stationed in the Middle East arrived in England on July 10, the latest batch of U.S. warplanes to leave the region despite ongoing tensions with Iran. The post F-22s Become Latest USAF Combat…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/f-22s-leave-middle-east-iran-deployments/",
+    "day": "2026-07-10",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/04/9585476-900x600.jpg"
+   },
+   {
+    "headline": "Aircraft Procurement, Space Launch Could Pay for Unexpected Personnel Costs",
+    "summary": "The Air Force and Space Force want approval from Congress to shift more than $900 million in fiscal 2026 funds to cover higher-than-expected personnel costs. The post Aircraft Procurement, Space Launch Could Pay for…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/aircraft-procurement-space-launch-reprogramming-personnel-costs/",
+    "day": "2026-07-10",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/02/0218_Lockheed_F35_production_line_EL-900x600.jpg"
+   },
+   {
+    "headline": "Royal Navy Perform First-Ever Airdrops of Unmanned Boats Over North Sea",
+    "summary": "The Royal Navy proved that Unmanned Surface Vessels (USV) can survive at sea after an airdrop and without support from ports or manned vessels. The Royal Navy announced on Jul. 8, 2026 that it airdropped an Unmanned…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/07/10/royal-navy-usv-airdrop/",
+    "day": "2026-07-10",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/07/Royal-Navy-USV-Airdrop-1.jpg"
+   },
+   {
+    "headline": "Air Force pushing contractors to purge Anthropic by Sept. 1: Memo",
+    "summary": "The Pentagon’s new target is to remove Anthropic department-wide by end of September, even as the AI titan is suing the government to overturn it.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/07/air-force-pushing-contractors-to-purge-anthropic-by-sept-1-memo/",
+    "day": "2026-07-10",
+    "img": null
+   },
+   {
+    "headline": "Carrier Qualifications Still Happening For A Few Navy Fighter Pilots In Training",
+    "summary": "E-2 pilots and foreign student pilots still need to do carrier qualifications, but huge changes to the naval aviation training landscape are looming. The post Carrier Qualifications Still Happening For A Few Navy…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/sea/carrier-qualifications-still-happening-for-a-few-navy-fighter-pilots-in-training",
+    "day": "2026-07-10",
+    "img": "https://www.twz.com/wp-content/uploads/2026/07/new-navy-t-45-carrier-training-replacement-plan-details.jpg?quality=85"
+   },
+   {
+    "headline": "Russia Confirms Talks With Turkey Over Fate Of S-400s Amid F-35 Push",
+    "summary": "Ankara is reportedly eyeing the transfer of the Russian-made SAM systems to a Gulf country in a bid to have Washington lift its F-35 embargo. The post Russia Confirms Talks With Turkey Over Fate Of S-400s Amid F-35 Push…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/air/russia-confirms-talks-with-turkey-over-fate-of-s-400s-amid-f-35-push",
+    "day": "2026-07-10",
+    "img": "https://www.twz.com/wp-content/uploads/2026/07/TURKEY-S-400.jpg?quality=85"
+   },
    {
     "headline": "A Soviet Aircraft Carrier That Terrified NATO Now Hosts A Jet-Ski Stunt Show",
     "summary": "The curious case of the USSR's cruiser-carrier Kiev.",
