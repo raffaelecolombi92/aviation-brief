@@ -1,7 +1,31 @@
 {
- "generated": "2026-07-12T07:50+00:00",
+ "generated": "2026-07-12T12:09+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "7-Hour Flights: Singapore Airlines' 11 Longest Nonstop Boeing 737 MAX Routes Revealed",
+    "summary": "The airline often flies its MAX aircraft alongside its larger widebody services to ensure appropriate capacity is deployed on various routes.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/singapore-airlines-11-longest-737-max-routes/",
+    "day": "2026-07-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/singapore-airlines-boeing-737-max-kittikun-yoksap-shutterstock_cropped.jpg"
+   },
+   {
+    "headline": "How Emirates Is Spending $2 Billion To Defend Itself Against The World's Newest Premium Airline",
+    "summary": "Riyadh Air is quickly growing from a startup to a world leader, leaving Emirates with no choice but to valiantly protect its crown.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-emirates-spending-2-billion-defend-worlds-newest-premium-airline/",
+    "day": "2026-07-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/how-emirates-is-spending-2-billion-to-defend-itself-against-the-world-s-newest-premium-airline.jpg"
+   },
+   {
+    "headline": "Norwegian changes profile logo to British Airways after losing World Cup bet",
+    "summary": "True to its word, Norwegian Air has changed its Instagram profile picture to British Airways’ logo after losing… The post Norwegian changes profile logo to British Airways after losing World Cup bet appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/norwegian-changes-profile-logo-to-british-airways-after-losing-world-cup-bet",
+    "day": "2026-07-12",
+    "img": "https://www.aerotime.aero/images/2026/07/British-Airways-Boeing-777-Norwegian-Air-Gatwick.jpg"
+   },
    {
     "headline": "The Airline Quietly Putting Lie-Flat Throne Suites 8 On Short European Routes This Summer",
     "summary": "A closer look at one of the most comfortable ways to travel throughout Western Europe.",
@@ -917,6 +941,14 @@
   ],
   "airports": [
    {
+    "headline": "CNSC snaps up arrivals duty-free contract at Quanzhou Jinjiang International Airport",
+    "summary": "The award means the company manages both departures and arrivals duty-free stores at the airport, which serves Fujian province in South-east China.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/cnsc-snaps-up-arrivals-duty-free-contract-at-quanzhou-jinjiang-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=cnsc-snaps-up-arrivals-duty-free-contract-at-quanzhou-jinjiang-international-airport",
+    "day": "2026-07-12",
+    "img": null
+   },
+   {
     "headline": "Why A Commercial Flight Sometimes Orbits The Same Point For Over An Hour Before Landing",
     "summary": "Despite increasingly sophisticated arrival management systems, holding patterns remain one of the most effective tools for keeping busy skies safe.",
     "source": "Simple Flying",
@@ -1358,6 +1390,14 @@
    }
   ],
   "fleet": [
+   {
+    "headline": "Electra secures critical FAA approval milestone for ultra-STOL aircraft",
+    "summary": "US-developer Electra has secured approval from the Federal Aviation Administration (FAA) for a critical stage of commercializing its… The post Electra secures critical FAA approval milestone for ultra-STOL aircraft…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/electra-faa-hybrid-electric-ultra-stol-aircraft",
+    "day": "2026-07-12",
+    "img": "https://www.aerotime.aero/images/2026/07/Electra-EL9.jpg"
+   },
    {
     "headline": "Here's Why Only A Handful Of Facilities Worldwide Can Service The Boeing 777X's Engines",
     "summary": "The GE9X will be the most crucial determinent behind the 777X's success or failure.",
