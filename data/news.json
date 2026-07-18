@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18T07:11+00:00",
+ "generated": "2026-07-18T12:03+00:00",
  "sections": {
   "network": [
    {
@@ -699,6 +699,14 @@
     "img": null
    },
    {
+    "headline": "WestJet Sources 13 MAX10s From ACG",
+    "summary": "Canada’s WestJet still had options on 25 Boeing MAX 10s directly with the OEM. But it has decided not to",
+    "source": "AirInsight",
+    "url": "https://airinsight.com/westjet-sources-13-max10s-from-acg/",
+    "day": "2026-07-15",
+    "img": "https://airinsight.com/wp-content/uploads/2026/07/ACG-WestJet-B737-10.jpg"
+   },
+   {
     "headline": "Alaska Airlines' 1st Transatlantic Boeing 787-9 Is Missing The 1 Product Its CEO Admits Matters Most",
     "summary": "There's no mid-market cabin class on Alaska Airlines' Dreamliners.",
     "source": "Simple Flying",
@@ -951,14 +959,6 @@
     "summary": "Published at 0600PDT / 1300GMT 15JUL26 Alaska Airlines on Monday (13JUL26) opened reservations for two new routes to Hawaii, as the airline schedules service to Honolulu from both Boise and Spokane. Boise – Honolulu eff…",
     "source": "AeroRoutes",
     "url": "https://www.aeroroutes.com/eng/260715-asdec26hnl",
-    "day": "2026-07-15",
-    "img": null
-   },
-   {
-    "headline": "Starlux Adds A350-1000 Los Angeles Service in NW26",
-    "summary": "Published at 0530PDT / 1230GMT 15JUL26 Starlux Airlines at the launch of Northern winter 2026/27 season plans to launch Airbus A350-1000 aircraft service on Taipei Taoyuan – Los Angeles route. From 25OCT26, the daily…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260715-jxnw26lax",
     "day": "2026-07-15",
     "img": null
    }
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "Why United Airlines Stopped Trusting Boeing's Timeline & Bet 260 Jets On Airbus Instead",
+    "summary": "After being burned by Boeing, United will now heavily rely on Airbus for large narrowbody growth.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-united-airlines-stopped-trusting-boeing-timeline-bet-260-jets-airbus-instead/",
+    "day": "2026-07-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/why-united-airlines-stopped-trusting-boeing-s-timeline-bet-180-jets-on-airbus-instead.jpg"
+   },
+   {
     "headline": "FAA Hands Boeing Back Full Authority To Certify Its Own 737 MAX & 787s For Delivery",
     "summary": "After years of intense scrutiny, the FAA has finally returned Boeing the authority to certify airworthiness certificates.",
     "source": "Simple Flying",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/top-5-worlds-largest-airshows-by-attendance/",
     "day": "2026-07-09",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2024/08/shutterstock_32472301-tn.png"
-   },
-   {
-    "headline": "Domestic ATC firms cite China concerns in latest effort to stifle competitors",
-    "summary": "Domestic contractors vying for U.S. air traffic control modernization projects are citing Chinese business ties as well as cyber and national security concerns in their latest bid to shut out foreign-owned competition.…",
-    "source": "The Air Current",
-    "url": "https://theaircurrent.com/air-traffic-control/atc-firms-cite-china-cybersecurity-leidos-rtx-thales/",
-    "day": "2026-07-09",
-    "img": "https://theaircurrent.com/wp-content/uploads/2026/07/shanghai-comac-C919-Lin-Yiqin-ChinaNewsService-AP.jpeg"
    }
   ],
   "finance": [
@@ -3485,6 +3485,14 @@
     "img": null
    },
    {
+    "headline": "Stelia Aerospace to double premium seat production capacity",
+    "summary": "Stelia Aerospace, the cabin interior brand of Airbus Atlantic, has put the wheels in motion to double its production capacity and bolster employee count to meet soaring demand for premium aircraft seats. Known for its…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/07/stelia-aerospace-to-double-premium-seat-production-capacity/",
+    "day": "2026-07-15",
+    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2023/10/STELIA_Aerospace_RENDEZ-VOUS_220928_22V3MU_03.jpg"
+   },
+   {
     "headline": "Extending the EU ETS to all international flights departing Europe could raise $10bn a year, finds ICCT study",
     "summary": "With the European Commission’s reveal of its long-awaited review of the EU Emissions Trading System...",
     "source": "GreenAir News",
@@ -3718,6 +3726,14 @@
    }
   ],
   "defense": [
+   {
+    "headline": "The Highest Paid US Army Helicopter Pilot Ranks In 2026",
+    "summary": "The pay scale for America's rotary-wing warriors.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/highest-paid-army-helicopter-pilots-2026/",
+    "day": "2026-07-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/boeing-apache-helicopter.avif"
+   },
    {
     "headline": "US Deploying F-16s and F-35s to Middle East as Iran War Heats Back Up",
     "summary": "As the U.S. war with Iran intensifies, the Pentagon is rushing more warplanes to the region, deploying Air Force F-16 Fighting Falcons and F-35 Lightning II fighters to the Middle East, people familiar with the matter…",
@@ -4669,14 +4685,6 @@
     "url": "https://theaviationist.com/2026/07/10/royal-navy-usv-airdrop/",
     "day": "2026-07-10",
     "img": "https://theaviationist.com/wp-content/uploads/2026/07/Royal-Navy-USV-Airdrop-1.jpg"
-   },
-   {
-    "headline": "Air Force pushing contractors to purge Anthropic by Sept. 1: Memo",
-    "summary": "The Pentagon’s new target is to remove Anthropic department-wide by end of September, even as the AI titan is suing the government to overturn it.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/07/air-force-pushing-contractors-to-purge-anthropic-by-sept-1-memo/",
-    "day": "2026-07-10",
-    "img": null
    }
   ],
   "others": []
