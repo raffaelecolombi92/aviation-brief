@@ -1,7 +1,15 @@
 {
- "generated": "2026-07-19T07:51+00:00",
+ "generated": "2026-07-19T12:07+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Delta Air Lines Broke A Decade Of Airbus Widebody Loyalty To Give Boeing 1 Order",
+    "summary": "Delta has finally returned to Boeing after years of Airbus reliance. This is what the landmark order may mean for the airline's future plans",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/delta-air-lines-broke-decade-airbus-widebody-loyalty-give-boeing-1-order/",
+    "day": "2026-07-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/delta-air-lines-broke-a-decade-of-airbus-widebody-loyalty-to-give-boeing-1-order.jpg"
+   },
    {
     "headline": "How This Airline Packs 39 Business Class Seats Into A 17-Hour Flight Nobody Talks About",
     "summary": "EVA Air uses its 777-300ERs with a premium dense layout to offer a seldom-mentioned high quantity of business class ultra-long-haul seats.",
@@ -953,14 +961,6 @@
     "url": "https://simpleflying.com/frontier-airlines-reportedly-loses-canada-players-luggage/",
     "day": "2026-07-15",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/314-frontier-airlines-airbus-a319-eqroy-_-shutterstock.jpg"
-   },
-   {
-    "headline": "The Boeing Jet Already Sitting In American Airlines' Fleet That Could Quietly Replace Its 47 Oldest Widebodies",
-    "summary": "There's a clear front-runner in this order, and it's not the Airbus.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/boeing-jet-already-sitting-american-airlines-fleet-quietly-replace-47-oldest-widebodies/",
-    "day": "2026-07-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/boeing-jet-widebody.jpg"
    }
   ],
   "airports": [
@@ -1927,6 +1927,38 @@
   ],
   "fleet": [
    {
+    "headline": "FAA restores authority for Boeing to issue 737MAX & 787 airworthiness certificates",
+    "summary": "The Federal Aviation Administration (FAA) will allow Boeing to resume issuing airworthiness certificates for all newly built 737… The post FAA restores authority for Boeing to issue 737MAX & 787 airworthiness…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/faa-restores-authority-for-boeing-to-issue-737max-787-airworthiness-certificates",
+    "day": "2026-07-19",
+    "img": "https://www.aerotime.aero/images/2025/09/Boeing-737-MAX.jpg"
+   },
+   {
+    "headline": "EASA certifies runway overrun alert technology for Embraer E-Jet E2",
+    "summary": "The European Union Aviation Safety Agency (EASA) has certified Embraer’s Runway Overrun Awareness and Alerting System (ROAAS) for… The post EASA certifies runway overrun alert technology for Embraer E-Jet E2 appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/easa-certifies-runway-overrun-alert-technology-for-embraer-e-jet-e2",
+    "day": "2026-07-19",
+    "img": "https://www.aerotime.aero/images/2026/07/Embraer-E-Jet-E2.jpg"
+   },
+   {
+    "headline": "Airlines will need nearly 44,000 new jets by 2045: Boeing",
+    "summary": "Boeing expects airlines and cargo operators to need nearly 44,000 new commercial aircraft over the next 20 years… The post Airlines will need nearly 44,000 new jets by 2045: Boeing appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/airlines-will-need-nearly-44000-new-jets-by-2045-boeing",
+    "day": "2026-07-19",
+    "img": "https://www.aerotime.aero/images/Boeing-factory-Everett-Washington.jpg"
+   },
+   {
+    "headline": "Boeing’s opening offer to SPEEA imminent",
+    "summary": "By Scott Hamilton July 19,2026, © Leeham News: Boeing’s opening offer to its engineering and technicians union may come as early as this week, three people with knowledge of the company’s plans tell LNA. The opening…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/07/19/boeings-opening-offer-to-speea-imminent/",
+    "day": "2026-07-19",
+    "img": null
+   },
+   {
     "headline": "2,000-Jet Shortage: Boeing Warns Global Supply Squeeze Will Last Into The 2030s",
     "summary": "Boeing's latest forecast at the Farnborough Airshow reveals a looming crisis in the global aviation market, with a shortage of nearly 2,000 aircraft.",
     "source": "Simple Flying",
@@ -2851,38 +2883,6 @@
     "summary": "Free for nonsubscribers By Charles Alcock July 10, 2026, © Leeham News: A combination of airlines’ desire to expand their networks with longer, thinner routes connecting smaller cities and a growing need to replace…",
     "source": "Leeham News",
     "url": "https://leehamnews.com/2026/07/10/rise-of-thin-routes-and-aging-fleets-drive-airbus-long-term-market-forecast/",
-    "day": "2026-07-10",
-    "img": null
-   },
-   {
-    "headline": "AMAC Aerospace Launches AMAC Academy",
-    "summary": "AMAC Aerospace has launched AMAC Academy, a new aircraft maintenance training programme designed to develop highly skilled maintenance professionals through hands-on, industry-focused training at EuroAirport…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/10/amac-aerospace-launches-amac-academy/",
-    "day": "2026-07-10",
-    "img": null
-   },
-   {
-    "headline": "Setna iO acquires First A320neo for US Teardown",
-    "summary": "Setna iO has completed the acquisition of an Airbus A320neo, previously operated by Spirit Airlines, marking the company’s first A320neo purchase for teardown in the United States. The aircraft will be dismantled at…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/10/setna-io-acquires-first-a320neo-for-us-teardown/",
-    "day": "2026-07-10",
-    "img": null
-   },
-   {
-    "headline": "ACG Secures US$1.48 billion unsecured term loan facility",
-    "summary": "Aviation Capital Group (ACG) has secured a US$1.48 billion unsecured term loan facility through its wholly owned subsidiary, ACG Aircraft Financing Ireland DAC, with the facility guaranteed by ACG. The syndicated…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/10/acg-secures-us1-48-billion-unsecured-term-loan-facility/",
-    "day": "2026-07-10",
-    "img": null
-   },
-   {
-    "headline": "AerCap Cargo leases three converted freighters to China Southern Air Logistics",
-    "summary": "AerCap has signed lease agreements with China Southern Air Logistics for three Boeing 777-300ERSF converted freighter aircraft, marking another step in the companies’ long-standing partnership. The Boeing 777-300ERSF…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/10/aercap-cargo-leases-three-converted-freighters-to-china-southern-air-logistics/",
     "day": "2026-07-10",
     "img": null
    }
