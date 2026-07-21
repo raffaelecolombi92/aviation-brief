@@ -1,7 +1,47 @@
 {
- "generated": "2026-07-20T20:13+00:00",
+ "generated": "2026-07-21T00:14+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "The 12% Fleet Shift That Signals How Airlines Are Hollowing Out Coach Before Flyers Notice",
+    "summary": "Is this an impact of an increased focus on premium air travel.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/12-percent-fleet-shift-signals-airlines-hollowing-out-coach-before-flyers-notice/",
+    "day": "2026-07-21",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/12-fleet-shift.jpg"
+   },
+   {
+    "headline": "Citilink Bandung Short-Term Additions in Aug 2026",
+    "summary": "Published at 1701PDT 20JUL26 / 0001GMT 21JUL26 Indonesia carrier Citilink in late-August 2026 schedules 3 routes at Bandung on short-term basis. Planned network additions as follows. Bandung – Denpasar 17AUG26 – 01SEP26…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260720-qgaug26bdo",
+    "day": "2026-07-21",
+    "img": null
+   },
+   {
+    "headline": "Wings Air Adds Makassar – Labuan Bajo From mid-July 2026",
+    "summary": "Published at 1600PDT / 2300GMT 20JUL26 Indonesian carrier Wings Air this week launches Makassar – Labuan Bajo route, on board ATR72 aircraft. This route is scheduled 4 times weekly from 19JUL26. IW1910 UPG1055 – 1225LBJ…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260720-iwjul26lbj",
+    "day": "2026-07-20",
+    "img": null
+   },
+   {
+    "headline": "Himalaya Airlines Dec 2026 Bangkok Schedules",
+    "summary": "Published at 1500PDT / 2200GMT 20JUL26 Himalaya Airlines in December 2026 lists 3 round-trip flights to Thailand, with Airbus A320 operating Kathmandu – Bangkok Suvarnabhumi flights. Service to be offered on 01DEC26…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260720-h9dec26bkk",
+    "day": "2026-07-20",
+    "img": null
+   },
+   {
+    "headline": "Garuda Indonesia Adds Palu – Guangzhou Charters From Aug 2026",
+    "summary": "Published at 1400PDT / 2100GMT 20JUL26 Garuda Indonesia from August 2026 schedules new charter service to China, where the airline plans Palu – Guangzhou nonstop flight. Boeing 737-800 aircraft to serve this route twice…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260720-gaaug26plwcan",
+    "day": "2026-07-20",
+    "img": null
+   },
    {
     "headline": "Here's How Much An Emirates Business Class Ticket From The US To Dubai Actually Costs In 2026",
     "summary": "Find out how much it will cost you to fly in Emirates' renowned business class from the United States to Dubai.",
@@ -921,49 +961,33 @@
     "url": "https://www.aeroroutes.com/eng/260716-tgsep26tpe",
     "day": "2026-07-16",
     "img": null
-   },
-   {
-    "headline": "China Southern / Iberia Begins Codeshare Partnership From July 2026",
-    "summary": "Published at 1230PDT / 1930GMT 16JUL26 China Southern and Iberia today (16JUL26) launches reciprocal codeshare partnership, covering service between China and Spain, as well as domestic routes via Madrid and Guangzhou.…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260716-czibcodeshare",
-    "day": "2026-07-16",
-    "img": null
-   },
-   {
-    "headline": "Eurowings Adds Berlin – Rome Service in NW26",
-    "summary": "Published at 1200PDT / 1900GMT 16JUL26 Eurowings during Northern winter 2026/27 season plans to launch Berlin – Rome Fiumicino route, with Airbus A320 aircraft scheduled 4 times weekly from 02NOV26. EW8882 BER0640 –…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260716-ewnw26berfco",
-    "day": "2026-07-16",
-    "img": null
-   },
-   {
-    "headline": "Sky Alps Adds Hamburg – Klagenfurt in NW26",
-    "summary": "Published at 1130PDT / 1830GMT 16JUL26 Sky Alps during Northern winter 2026/27 season plans to add Hamburg – Klagenfurt service, where the Dash 8-Q400 aircraft to operate this route twice weekly. First flight is…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260716-bqnw26klu",
-    "day": "2026-07-16",
-    "img": null
-   },
-   {
-    "headline": "Belavia Plans Minsk – Phuket late-Oct 2026 Launch",
-    "summary": "Published at 1100PDT / 1800GMT 16JUL26 Belavia in Northern winter 2026/27 season continues to expand planned service to Thailand, where the airline schedule Minsk – Phuket launch on 21OCT26. Airbus A330-200 aircraft to…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260716-b2nw26hkt",
-    "day": "2026-07-16",
-    "img": null
-   },
-   {
-    "headline": "Starlux Extends Taichung – Shimojishima Service into NW26",
-    "summary": "Published at 1030PDT / 1730GMT 16JUL26 Starlux Airlines this week extended schedule listing and reservations for Taichung – Shimojishima route into Northern winter 2026/27 season, as the carrier maintains 2 weekly…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260716-jxnw26shi",
-    "day": "2026-07-16",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "Sparks Fly After Kalitta Air Boeing 777-300 Tail Strike At Cincinnati Airport",
+    "summary": "The Boeing 777-300, operating as K4 264, scraped the runway at CVG after a go-around.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/sparks-kalitta-air-boeing-777-300-tail-strike-cincinnati/",
+    "day": "2026-07-21",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/kalitta-air-boeing-777-300er-bcf.jpg"
+   },
+   {
+    "headline": "JetBlue Wins $58.5 Million Bid For 22 Ex-Spirit Slots At LaGuardia",
+    "summary": "JetBlue eyes a strategic move to the Marine Air Terminal, aiming to boost profitability and route expansion.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/jetblue-wins-585m-bid-22-ex-spirit-slots-laguardia/",
+    "day": "2026-07-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/jetblue-planes-at-laguardia-bank-of-aircraft-1.jpg"
+   },
+   {
+    "headline": "American Airlines Goes All In At DFW With Largest Admirals Club & 1st Ever Flagship Check-In",
+    "summary": "American Airlines unveils its first-ever Flagship check-in experience at Dallas/Fort Worth, setting a new standard for premium travelers.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-premium-dfw-largest-admirals-club-first-flagship/",
+    "day": "2026-07-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/admirals-next-generation-dallas-dfw.jfif"
+   },
    {
     "headline": "Delta Air Lines Cuts 25 Transatlantic Destinations: See All Major Flight Changes Now",
     "summary": "In the past 20 years, the carrier's network involved many places that you may have forgotten, including Abuja. See them all here!",
@@ -1899,33 +1923,25 @@
     "url": "https://airport-world.com/singapore-changi-set-to-open-first-satellite-gate/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-changi-set-to-open-first-satellite-gate",
     "day": "2026-07-10",
     "img": null
-   },
-   {
-    "headline": "JFK Terminal 5 adds New York culinary brands as $100m refresh continues",
-    "summary": "Terminal 5 at John F Kennedy International Airport (JFK) has welcomed nearly a dozen new dining and retail outlets this summer, part of a multimillion-dollar refresh led by JetBlue, the Port Authority of New York and…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/food-beverage/jfk-terminal-5-adds-new-york-culinary-brands-as-100m-refresh-continues.html",
-    "day": "2026-07-10",
-    "img": null
-   },
-   {
-    "headline": "US$240bn wave of airport investment to bring aviation leaders to Singapore for PTE Asia debut",
-    "summary": "Asia and Middle East airports are entering one of the largest infrastructure investment cycles in aviation history, with US$240bn earmarked for new airports, terminal expansions and modernization projects over the next…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/expo/us240bn-wave-of-airport-investment-to-bring-aviation-leaders-to-singapore-for-pte-asia-debut.html",
-    "day": "2026-07-10",
-    "img": null
-   },
-   {
-    "headline": "South Korea holds airport security competitions and public awareness event",
-    "summary": "South Korea is holding a three-day national aviation security event where the public can experience emerging technologies, including artificial intelligence-enabled (AI) systems. The Ministry of Land, Infrastructure and…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/security/south-korea-to-hold-airport-security-competitions-and-public-awareness-event.html",
-    "day": "2026-07-10",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "How The Boeing 767 Quietly Outlived Every Aircraft Meant To End Its Career",
+    "summary": "Over 40 years on, the 767 looks set to remain in production for some time yet.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-boeing-767-quietly-outlived-every-aircraft-meant-end-career/",
+    "day": "2026-07-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/boeing-767.jpg"
+   },
+   {
+    "headline": "Piper brings DeltaHawk-powered Seminole DX prototype to AirVenture",
+    "summary": "Piper Aircraft is displaying the first flying prototype of its DeltaHawk-powered Seminole DX at EAA AirVenture Oshkosh 2026, less… The post Piper brings DeltaHawk-powered Seminole DX prototype to AirVenture appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/piper-seminole-dx-deltahawk-diesel-airventure-2026",
+    "day": "2026-07-20",
+    "img": "https://www.aerotime.aero/images/2026/07/IMG_1282.jpeg"
+   },
    {
     "headline": "Why Might The Airbus A321XLR Have Boeing Worried About The Middle Of The Market?",
     "summary": "Airbus is winning in the midsize market thanks to efficient, capable new aircraft.",
@@ -2869,22 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/air-canada-iamaw-reach-tentative-deal-covering-11000-maintenance-workers",
     "day": "2026-07-13",
     "img": "https://www.aerotime.aero/images/2026/07/Untitled-design-10-1.jpg"
-   },
-   {
-    "headline": "Boeing poised for FIA after tapering activity in 2024 due to Alaska 737 incident",
-    "summary": "Boeing will be attending this year’s Farnborough Airshow with a more confident approach after tapering its commercial activity… The post Boeing poised for FIA after tapering activity in 2024 due to Alaska 737 incident…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/boeing-farnborough-airshow-2026-display-exhibit",
-    "day": "2026-07-13",
-    "img": "https://www.aerotime.aero/images/2026/07/Farnborough-Airshow-2024-Qatar-Air-Force-Boeing-F-15QA-Eagle.jpg"
-   },
-   {
-    "headline": "Press Release: Air India goes digital to manage Boeing widebody fleet",
-    "summary": "Air India has taken yet another step forward in its transformation journey with the Directorate General of Civil Aviation (DGCA) approving the use of Electronic Technical Logbooks (ETL) as the primary technical document…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/07/air-india-goes-digital-to-manage-boeing-widebody-fleet/",
-    "day": "2026-07-13",
-    "img": null
    }
   ],
   "finance": [
@@ -3026,6 +3026,14 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "VistaJet renews Wyvern Wingman Certified Operator status",
+    "summary": "The renewal of VistaJet Malta for Wyvern Wingman Certified Operator status follows the renewal of VistaJet GmbH earlier this year The post VistaJet renews Wyvern Wingman Certified Operator status appeared first on…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/07/20/vistajet-renews-wyvern-wingman-certified-operator-status/",
+    "day": "2026-07-20",
+    "img": null
+   },
    {
     "headline": "JetSafe launches regional jet card east of the Mississippi",
     "summary": "The Regions jet card from JetSafe offers fixed hourly rates starting at $3,000 on piston, turboprop, and very light jet aircraft The post JetSafe launches regional jet card east of the Mississippi appeared first on…",
@@ -3822,6 +3830,78 @@
    }
   ],
   "defense": [
+   {
+    "headline": "The US Air Force Is Scrapping 119 F-15E Strike Eagles While Saudi Arabia Pays $5 Billion For Upgraded Versions Of The Same Jet",
+    "summary": "The technical nuances behind a massive upgrade to the Kingdom's fighter fleet.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/us-air-force-scrapping-f-15e-saudi-upgrading/",
+    "day": "2026-07-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/how-many-f-15s-are-in-service-with-the-us-air-force-in-2026.avif"
+   },
+   {
+    "headline": "What SR-71 Ground Crews Had To Do After Every Landing That Took Hours To Complete",
+    "summary": "The high price of flying America's fastest jet.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/what-sr-71-ground-crews-had-do-after-every-landing-hours-complete/",
+    "day": "2026-07-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/sr-71-ground-crews.jpg"
+   },
+   {
+    "headline": "The Top 5 Highest Paid US Air Force Pilot Ranks & Their Average 2026 Salaries",
+    "summary": "Air Force pilots are paid based on their rank and years of service, although even the highest ranks typically earn less than commercial pilots.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/top-highest-paid-usaf-pilot-ranks-average-salaries-in-2026/",
+    "day": "2026-07-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/us-air-force.jpg"
+   },
+   {
+    "headline": "GA-ASI Completes Preliminary Technical Review for Joint Strike Missile on MQ-9B",
+    "summary": "GA-ASI and Kongsberg took another step towards the integration of the Joint Strike Missile on the MQ-9B family of Remotely Piloted Aircraft, which would give it a standoff strike capability. Taking a step towards the…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/07/20/ga-asi-preliminary-technical-review-joint-strike-missile-mq-9b/",
+    "day": "2026-07-20",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/07/MQ-9B-JSM-Integration-1.jpg"
+   },
+   {
+    "headline": "Leonardo and Baykar Share Details of K-SWARM Test with M-346F and Kizilelma UCAV",
+    "summary": "Following the recent tests, Leonardo and Baykar shared more details about the Crewed/UnCrewed Teaming (CUC-T) that saw the M-346F light fighter aircraft take control of the Kizilema UCAV. In a briefing at this year’s…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/07/20/leonardo-baykar-details-k-swarm-test/",
+    "day": "2026-07-20",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/07/9.jpg"
+   },
+   {
+    "headline": "Air Force One ‘maxxing,’ CCAs everywhere and GCAP’s future",
+    "summary": "We break down some of the top news from day one of the Farnborough International Airshow.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/07/air-force-one-maxxing-ccas-everywhere-and-gcaps-future/",
+    "day": "2026-07-20",
+    "img": null
+   },
+   {
+    "headline": "Where Are The Aircraft Carriers: July 20, 2026",
+    "summary": "U.S. conducted a weekend wave of strikes against Iran and announced a new round today, while the reinstated blockade of Iranian ports approaches the one-week mark. The post Where Are The Aircraft Carriers: July 20, 2026…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/sea/where-are-the-aircraft-carriers-july-20-2026",
+    "day": "2026-07-20",
+    "img": "https://www.twz.com/wp-content/uploads/2026/07/TWZ-Carrier-Fleet-Tracker-as-of-July-20-2026-Final-Full-Res-copy.jpg?quality=85"
+   },
+   {
+    "headline": "X-Bow Unveils Sub-$100K Buckler Supersonic Drone Interceptor",
+    "summary": "The company says its surface-to-air missile can defeat Shahed-like drones at a fraction of the cost of many missiles in current service. The post X-Bow Unveils Sub-$100K Buckler Supersonic Drone Interceptor appeared…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/land/x-bow-unveils-sub-100k-buckler-supersonic-drone-interceptor",
+    "day": "2026-07-20",
+    "img": "https://www.twz.com/wp-content/uploads/2026/07/X-BOW-COUNTER-DRONE.jpg?quality=85"
+   },
+   {
+    "headline": "New VC-25B Air Force One Will Be Pulled From Service To Be “Maxed Out” With Upgrades",
+    "summary": "Trump said the ex-Qatari 747 is going to be upgraded soon when asked about the lack of defensive countermeasures on the new jet. The post New VC-25B Air Force One Will Be Pulled From Service To Be “Maxed Out” With…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/news-features/new-vc-25b-air-force-one-will-be-pulled-from-service-to-be-maxed-out-with-upgrades",
+    "day": "2026-07-20",
+    "img": "https://www.twz.com/wp-content/uploads/2026/07/vc-25b-maxed-out-defensive-capabilities-trump.jpg?quality=85"
+   },
    {
     "headline": "Weeks After Debut, Trump’s $400M Air Force One Pulled From Service For “Maxed Out” Upgrades",
     "summary": "/trump-400m-air-force-one-pulled-service-maxed-out-upgrades",
@@ -4709,78 +4789,6 @@
     "url": "https://simpleflying.com/how-much-usaf-fighter-jet-pilots-make/",
     "day": "2026-07-14",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/us-air-force-jet.jpg"
-   },
-   {
-    "headline": "Golden Dome contracts won by L3Harris and Sierra to build missile busting tech",
-    "summary": "The Space Development Agency (SDA) has awarded Golden Dome contracts to L3Harris Technologies and Sierra Space to build… The post Golden Dome contracts won by L3Harris and Sierra to build missile busting tech appeared…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/golden-dome-contracts-l3harris-sierra-space-missile-satellite",
-    "day": "2026-07-14",
-    "img": "https://www.aerotime.aero/images/2026/07/L3Harris-Golden-Dome-satelittes.jpg"
-   },
-   {
-    "headline": "RTX’s Collins Aerospace to equip US Army’s new MV-75 Cheyenne rotorcraft",
-    "summary": "RTX announced that its Collins Aerospace business has been selected by Bell Textron, a Textron company, to supply… The post RTX’s Collins Aerospace to equip US Army’s new MV-75 Cheyenne rotorcraft appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/rtxs-collins-aerospace-to-equip-us-armys-new-mv-75-cheyenne-rotorcraft",
-    "day": "2026-07-14",
-    "img": "https://www.aerotime.aero/images/2026/07/Untitled-design-11-1.jpg"
-   },
-   {
-    "headline": "U.S. Employs Armed Surface Drones In Combat For The First Time During Strikes On Iranian Naval Base",
-    "summary": "The attack on Bandar Abbas marked the first confirmed combat use of U.S. unmanned surface vessels (USVs), with three Saronic Corsair drone boats striking a submarine and ship maintenance facility. The U.S. military has…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/07/14/us-usv-in-combat-first-time/",
-    "day": "2026-07-14",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/07/corsair-owa-strike.jpg"
-   },
-   {
-    "headline": "German UAV firm Helsing picks West Virginia for first US manufacturing",
-    "summary": "The company will invest $50 million to open the facility, with an initial focus on manufacturing the HX-2 strike drone, according to Gov. Patrick Morrisey.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/07/german-uav-firm-helsing-picks-west-virginia-for-first-us-manufacturing/",
-    "day": "2026-07-14",
-    "img": null
-   },
-   {
-    "headline": "Ukraine agrees on plan to acquire 16 Rafale jets, France’s Macron says",
-    "summary": "Ukraine has agreed on a plan to acquire 16 Rafale fighter jets from France together with the accompanying weapon systems, along with air-defense equipment.",
-    "source": "Defense News",
-    "url": "https://www.defensenews.com/global/europe/2026/07/14/ukraine-agrees-on-plan-to-acquire-16-rafale-jets-frances-macron-says/",
-    "day": "2026-07-14",
-    "img": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/7KOMKZUNJRBFPM6TSLASEEKXK4.jpg"
-   },
-   {
-    "headline": "Wilsbach: Active Airmen Must Have Body Composition Scores by July 31",
-    "summary": "Active-Duty Airmen must ensure they have a waist-to-height ratio assessment in their official record within the next two weeks, Air Force Chief of Staff Gen. Kenneth S. Wilsbach said in a July 13 letter to the force…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/wilsbach-air-force-body-composition-scores-july-31/",
-    "day": "2026-07-14",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/Air-Force-body-comp-assessment-900x600.jpg"
-   },
-   {
-    "headline": "Where Are The Aircraft Carriers: July 13, 2026",
-    "summary": "The blockade is back on tomorrow with more than 20 U.S. Navy ships on station and available in the region. The post Where Are The Aircraft Carriers: July 13, 2026 appeared first on TWZ .",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/sea/where-are-the-aircraft-carriers-july-13-2026",
-    "day": "2026-07-14",
-    "img": "https://www.twz.com/wp-content/uploads/2026/07/TWZ-Carrier-Tracker-as-of-July-13-2026.png?quality=85"
-   },
-   {
-    "headline": "The 5-Inch Cockpit Design Flaw That Destroyed A $17.9 Million Air Force Skyraider II During Training",
-    "summary": "How a mix up on the switch panel knocked a brand new plane out of the sky.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/5-inch-cockpit-design-flaw-destroyed-17-9-million-air-force-slkyraider-ii-training/",
-    "day": "2026-07-13",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/5-inch-cockpit-design.jpg"
-   },
-   {
-    "headline": "Yemen strikes capital’s airport runway to block Mahan Air flight from Iran",
-    "summary": "Yemen’s Saudi-backed government said it struck the runway at Sana’a International Airport on July 13, 2026, to stop… The post Yemen strikes capital’s airport runway to block Mahan Air flight from Iran appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/yemen-strikes-sanaa-airport-runway-mahan-air-flight-iran",
-    "day": "2026-07-13",
-    "img": "https://www.aerotime.aero/images/2024/10/Mahan-Air-Airbus-A340-600.jpg"
    }
   ],
   "others": []
