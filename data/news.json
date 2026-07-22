@@ -1,7 +1,95 @@
 {
- "generated": "2026-07-21T21:45+00:00",
+ "generated": "2026-07-22T09:17+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Emirates Refuses 10 Pre-Built Boeing 777Xs Over Rework Costs",
+    "summary": "Despite being the largest customer for the type, Emirates has confirmed that it does not plan to take delivery of the oldest Boeing 777X jets that have already been built. This was confirmed at the Farnborough…",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/video/emirates-refuses-10-pre-built-boeing-777xs-over-rework-costs/",
+    "day": "2026-07-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/emirates-reject-779.jpg"
+   },
+   {
+    "headline": "Farnborough Airshow live: Day three kicks off hoping to beat Tuesday’s 82 orders",
+    "summary": "Day three of Farnborough Airshow 2026 kicks off looking to surpass Tuesday’s 82 firm aircraft orders split between… The post Farnborough Airshow live: Day three kicks off hoping to beat Tuesday’s 82 orders appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/farnborough-airshow-live-day-three",
+    "day": "2026-07-22",
+    "img": "https://www.aerotime.aero/images/2026/07/GE-Aerospace-Boeing-747.jpg"
+   },
+   {
+    "headline": "Asiana Airlines / Korean Air NW26 Honolulu Service Changes",
+    "summary": "Published at 0200PDT / 0900GMT 22JUL26 Asiana Airlines and Korean Air during Northern winter 2026/27 season schedules service changes on Seoul Incheon – Honolulu route. From 25OCT26, Korean Air will continue to operate…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260722-ozkenw26hnl",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "LOT Moves Forward Warsaw – Bangkok Regular Service to early-Oct 2026",
+    "summary": "Published at 0100PDT / 0800GMT 22JUL26 LOT Polish Airlines in recent schedule update accelerated planned regular scheduled service on Warsaw – Bangkok Suvarnabhumi route. Initially scheduled from 26OCT26, the Star…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260722-looct26bkk",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "Data: Thailand NS26 Route Connectivity Losses",
+    "summary": "Published at 0000PDT / 0700GMT 22JUL26 Foreword: AeroRoutes’ contents in the first half of July 2026 was published in Thailand, leading to inspiration of this post. Repost or reference by certain aviation websites…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260722-thns26",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "Breeze Airways 1Q27 Tampa Network Additions",
+    "summary": "Published at 2000PDT 21JUL26 / 0300GMT 22JUL26 Breeze Airways in the first quarter of 2027 plans to expand service at Tampa, as the carrier launches 2 routes in early-January 2027. Tampa – Islip eff 06JAN27 2 weekly…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260721-mx1q27",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "JetBlue Sep/Oct 2026 Suspended Routes Summary",
+    "summary": "Published at 1900PDT 21JUL26 / 0200GMT 22JUL26 JetBlue Airways in recent schedule update scheduled additional network adjustments, as the carrier cancels additional 7 routes in September/October 2026, while converting…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260721-b6sep26",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "Royal Jordanian Increases Tashkent Service in NW26",
+    "summary": "Published at 1800PDT 21JUL26 / 0100GMT 22JUL26 Royal Jordanian during Northern winter 2026/27 season plans to increase service to Uzbekistan, as the carrier adds 3rd weekly Amman – Tashkent flight from 30OCT26. This…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260721-rjnw26tas",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "Vietnam Airlines Extends Amsterdam Bookings into NW26",
+    "summary": "Published at 1701PDT 21JUL26 / 0001GMT 22JUL26 Vietnam Airlines as of Tuesday (21JUL26) opened bookings for Hanoi – Amsterdam route during Northern winter 2026/27 season, on/after 27OCT26. The Skyteam member will…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260721-vnnw26ams",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "United Resumes 4 Domestic Routes at Newark From Sep 2026",
+    "summary": "Published at 1600PDT / 2300GMT 21JUL26 United in late-September 2026 resumes 4 domestic routes at Newark, opened for reservations since last week. Planned service resumptions include the following. Newark –…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260721-uasep26ewr",
+    "day": "2026-07-21",
+    "img": null
+   },
+   {
+    "headline": "KLM Aug 2026 Delhi Service Increases",
+    "summary": "Published at 1500PDT / 2200GMT 21JUL26 KLM during the month of August 2026 schedules service increase on Amsterdam – Delhi route. From 05AUG26 to 06SEP26, the Skyteam member to serve this route 10 weekly, instead of 7.…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260721-klaug26del",
+    "day": "2026-07-21",
+    "img": null
+   },
    {
     "headline": "Why Do Pilots Use The Term \"Roger\" Instead Of \"Yes\"?",
     "summary": "Roger was one of the first words for 'R' in early aviation phonetic alphabets and it went on to mean 'message received.'",
@@ -873,97 +961,25 @@
     "url": "https://www.aeroroutes.com/eng/260717-jxnw26hkg",
     "day": "2026-07-18",
     "img": null
-   },
-   {
-    "headline": "Qatar Airways NW26 Europe / Caucasus Service Changes – 17JUL26",
-    "summary": "Published at 1900PDT 17JUL26 / 0200GMT 18JUL26 Qatar Airways in recent schedule update filed various service changes to Europe during Northern winter 2026/27 season, as well as The Caucasus. Based on schedule filing…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260717-qrnw26eu",
-    "day": "2026-07-18",
-    "img": null
-   },
-   {
-    "headline": "Qatar Airways NW26 North America Operations – 17JUL26",
-    "summary": "Published at 1800PDT 17JUL26 / 0100GMT 18JUL26 Qatar Airways in recent weeks gradually filed operation changes for Northern winter 2026/27 season, which covers service between 16SEP26 and 24MAR27. For service to…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260717-qrnw26na",
-    "day": "2026-07-18",
-    "img": null
-   },
-   {
-    "headline": "Air Tahiti Nui Adds Air Tahiti All-Business Class Codeshare From Dec 2026",
-    "summary": "Published at 1701PDT 17JUL26 / 0001GMT 18JUL26 Air Tahiti Nui from December 2026 plans to extend codeshare partnership with Air Tahiti, covering the latter’s selected all-Business Class “Air Tahiti Signature” service on…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260717-tnvtcodeshare",
-    "day": "2026-07-18",
-    "img": null
-   },
-   {
-    "headline": "How Breeze Airways Makes Money On Routes With Just 10 Passengers Per Day Each Way",
-    "summary": "By focusing on city pairs largely ignored by other airlines, Breeze's network serves markets with limited competition and relatively stable demand.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-breeze-airways-makes-money-routes-just-10-passengers-per-day-each-way/",
-    "day": "2026-07-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/how-breeze-airways-makes-money-on-routes-with-just-10-passengers-per-day-each-way.jpg"
-   },
-   {
-    "headline": "The Hub & Spoke Loophole That Puts A Widebody Business Class On A 2-Hour Europe Flight",
-    "summary": "Can you really fly on a widebody on European short-haul flights? This guide explores why and how airlines are making this a possibility.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/hub-spoke-loophole-widebody-business-class-2-hour-europe-flight/",
-    "day": "2026-07-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/the-hub-spoke-loophole-that-puts-a-widebody-business-class-on-a-2-hour-europe-flight.jpg"
-   },
-   {
-    "headline": "The Airlines With The World's Newest Premium Economy Seats In 2026",
-    "summary": "A few new airlines will have premium economy offerings in 2026, while most are continuing to roll out expanded and/or refreshed seats.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/airlines-with-worlds-newest-premium-economy-seats-2026/",
-    "day": "2026-07-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/premium-economy-seats.jpg"
-   },
-   {
-    "headline": "The Airline That Once Rejected Premium Economy Is Now Spending $100 Million To Build It",
-    "summary": "Curious why LATAM is switching its two-cabin strategy? Find how the airline has found an upward trajectory and continues to invest in its future.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/airline-once-rejected-premium-economy-now-spending-100-milion-build/",
-    "day": "2026-07-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/100-million-economy.jpg"
-   },
-   {
-    "headline": "Philippine Airlines Removed Guangzhou Schedules From late-Oct 2026",
-    "summary": "Published at 1600PDT / 2300GMT 17JUL26 Philippine Airlines in the last few days removed schedule filing for Manila – Guangzhou route, during Northern winter 2026/27 season. The airline since last year has been listing…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260717-prnw26can",
-    "day": "2026-07-17",
-    "img": null
-   },
-   {
-    "headline": "TAP Air Portugal July – Oct 2026 Venezuela Service Changes",
-    "summary": "Published at 1500PDT / 2200GMT 17JUL26 TAP Air Portugal earlier this week resumed service to Venezuela, which saw the airline operates Lisbon – Valencia – Pointe-a-Pitre – Lisbon routing since 13JUL26. The Star Alliance…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260717-tpns26ve",
-    "day": "2026-07-17",
-    "img": null
-   },
-   {
-    "headline": "Fly Cham Adds Dammam From late-July 2026",
-    "summary": "Published at 1400PDT / 2100GMT 17JUL26 Syrian carrier Fly Cham this month schedules new service to Saudi Arabia, offering 2 weekly Damascus – Dammam flights. Airbus A320 aircraft operates this route from 19JUL26. XH831…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260717-xhjul26dmm",
-    "day": "2026-07-17",
-    "img": null
-   },
-   {
-    "headline": "Is It True That One Of The World's Longest Flights Burns 2% Of A Captain's Legal Flying Year?",
-    "summary": "A closer look at how pilots are paid on the world's longest flights and how these services are staffed.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/true-one-worlds-longest-flights-burn-2-percent-captain-legal-flying-year/",
-    "day": "2026-07-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/is-it-true-that-one-of-the-world-s-longest-flights-burns-2-of-a-captain-s-legal-flying-year.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "Lotte Duty Free celebrates 100-day milestone as Incheon Airport comeback builds momentum",
+    "summary": "The milestone celebration highlights Lotte Duty Free’s renewed presence at Incheon Airport, as the retailer leverages recovering passenger traffic and differentiated offerings to build momentum under its new ten-year…",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/lotte-duty-free-celebrates-100-day-milestone-as-incheon-airport-comeback-builds-momentum/?utm_source=rss&utm_medium=rss&utm_campaign=lotte-duty-free-celebrates-100-day-milestone-as-incheon-airport-comeback-builds-momentum",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "Business exchange",
+    "summary": "We provide a snapshot of the latest news stories and features from some of the companies that support the growth and development of the world’s airports. AI-POWERED CONCIERGE SERVICE Voncierge announced its entry into…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/business-exchange-10/?utm_source=rss&utm_medium=rss&utm_campaign=business-exchange-10",
+    "day": "2026-07-22",
+    "img": null
+   },
    {
     "headline": "2-Time World Cup Champions Spain Return Home On Special Iberia A350-900",
     "summary": "The touchdown of the Iberia A350-900 in Madrid marked the end of an epic journey for the Spain national football team.",
@@ -1907,25 +1923,97 @@
     "url": "https://simpleflying.com/new-york-airports-flight-cancellations-storms-atc-staffing/",
     "day": "2026-07-11",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/air-traffic-control-tower-at-jfk.jpg"
-   },
-   {
-    "headline": "Edinburgh Airport Runway Van With Security Access Stolen By 15-Year-Old Joyrider",
-    "summary": "The theft of a maintenance van with security access from Edinburgh Airport by a 15-year-old raises questions about airport perimeter security.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/edinburgh-airport-runway-van-security-access-stolen/",
-    "day": "2026-07-11",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/edinburgh-airport-ground-equipment.jpg"
-   },
-   {
-    "headline": "Emirates Goes All-In To London: Airbus A380 Flights Boosted To Massive 9 Daily",
-    "summary": "This December, the airline will operate ten daily flights to three airports in London, of which nine services will be operated with the A380.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/emirates-all-in-london-a380-flights-to-9-daily/",
-    "day": "2026-07-11",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/786-emirates-airbus-a380-kamilpetran-_-shutterstock-simple-flying.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Why The Boeing 777X's Delayed Certification Costs More Than An Entire Airbus A350 Program",
+    "summary": "Boeing's latest flagship widebody has been plagued by delays.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-boeing-777x-delayed-certification-costs-more-entire-airbus-a350-program/",
+    "day": "2026-07-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/oeing-777x.jpg"
+   },
+   {
+    "headline": "New Airbus Strategy Includes A220/A350 Stretch",
+    "summary": "Airbus’ strategy update to double Adjusted EBIT to €10 billion in 2029 assumes the launch of the stretched versions of",
+    "source": "AirInsight",
+    "url": "https://airinsight.com/new-airbus-strategy-includes-a220-a350-stretch/",
+    "day": "2026-07-22",
+    "img": "https://airinsight.com/wp-content/uploads/2026/07/IMG_7713-scaled.jpg"
+   },
+   {
+    "headline": "Electra selects Ohio for future $850 million EL9 aircraft production site",
+    "summary": "Electra has announced that it is investing $850 million to build its EL9 nine-seater hybrid-electric aircraft production facility… The post Electra selects Ohio for future $850 million EL9 aircraft production site…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/electra-selects-ohio-for-future-850-million-el9-aircraft-production-site",
+    "day": "2026-07-22",
+    "img": "https://www.aerotime.aero/images/2026/07/Electra-Ohio-Manufacturing-Facility-Concept.jpg"
+   },
+   {
+    "headline": "JetZero secures backing from Gulf Air, Japan Airlines at Farnborough 2026",
+    "summary": "JetZero, the startup currently developing a clean-sheet blended-wing-body (BWB) airliner, secured the endorsement of two prominent international airlines… The post JetZero secures backing from Gulf Air, Japan Airlines…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/jetzero-secures-backing-from-gulf-air-japan-airlines-at-farnborough-2026",
+    "day": "2026-07-22",
+    "img": "https://www.aerotime.aero/images/2026/07/jetzero-gulf-air.jpeg"
+   },
+   {
+    "headline": "Airbus to begin testing the Wing of Tomorrow on an A321neo",
+    "summary": "Open to All Readers For daily Farnborough Air Show coverage, see our media partner AIN here. By Scott Hamilton July 22, 2026, © Leeham News: Airbus said yesterday that will begin testing its Wing of Tomorrow on an...…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/07/22/airbus-to-begin-testing-the-wing-of-tomorrow-on-an-a321neo/",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "Boeing faces “Terrible Teens” scenario with early 777-9s",
+    "summary": "Open to All Readers For daily Farnborough Air Show coverage, see our media partner AIN here. By Scott Hamilton July 22, 2026, © Leeham News: Boeing faces a 787 “Terrible Teens” scenario with its early build 777-9s…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/07/22/boeing-faces-terrible-teens-scenario-with-early-777-9s/",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "Shohin, Philippine Airlines boost Airbus order book",
+    "summary": "Airbus has secured new aircraft commitments from Shohin Airlines and Philippine Airlines, adding to its order book with narrow-body and wide-body deals announced at the Farnborough International Airshow. Tajikistan’s…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/07/22/shohin-philippine-airlines-boost-airbus-order-book/",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "SR Technics wins Oman Air engine MRO deal",
+    "summary": "SR Technics has signed a two-year agreement with Oman Air to provide engine maintenance services, strengthening its presence in the Middle East and North Africa (MENA) region. Under the contract, all engine maintenance…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/07/22/sr-technics-wins-oman-air-engine-mro-deal/",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "Embraer lands long-term SkyWest MRO extension",
+    "summary": "Embraer has signed a long-term extension of its heavy maintenance agreement with SkyWest Airlines, covering the US carrier’s fleet of 271 E175 regional jets. Under the expanded agreement, heavy maintenance work will…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/07/22/embraer-lands-long-term-skywest-mro-extension/",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "Epic Flight Academy orders up to 50 Pipistrel Voyager trainers",
+    "summary": "Pipistrel, a Textron company, has secured its launch customer for the new Voyager training aircraft after Florida-based Epic Flight Academy signed a purchase agreement for up to 50 aircraft. The deal includes an initial…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/07/22/epic-flight-academy-orders-up-to-50-pipistrel-voyager-trainers/",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "Airbus Prepares To Begin Open Fan Engine Testing On The Massive A380",
+    "summary": "Airbus and CFM are set to revolutionize the aerospace industry with their groundbreaking open fan engine design on the world's first Airbus A380.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-begin-open-fan-engine-testing-a380/",
+    "day": "2026-07-21",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/airbus-a380-engine-2-propulsion.jpg"
+   },
    {
     "headline": "Why Boeing's Folding Wingtip Was Studied In The 1990s But Not Built Until The 777X",
     "summary": "Folding wingtips were neither necessary nor practical on the 777 until today.",
@@ -2797,97 +2885,17 @@
     "url": "https://simpleflying.com/is-boeing-777x-bigger-airbus-a380/",
     "day": "2026-07-16",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/wider.jpg"
-   },
-   {
-    "headline": "All A220s Grounded By Pratt & Whitney Issues Will Fly Again By Year's End, Airbus Says",
-    "summary": "Airbus Canada's statement that technical issues grounding many A220s have 'largely been resolved' has airlines hopeful planes can return to service.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/all-a220s-grounded-pratt-whitney-issues-fly-again-years-end/",
-    "day": "2026-07-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/untitled-design-150.jpg"
-   },
-   {
-    "headline": "Q2 2026 earnings: GE Aerospace keeps the beat despite a few missed notes",
-    "summary": "Free to nonsubscribers By Chris Sloan July 16, 2026, © Leeham News: Even in the face of the conflict in Iran, GE Aerospace delivered an upside surprise: raising its full-year guidance based on strong commercial…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/07/16/q2-2026-earnings-ge-aerospace-keeps-the-beat-despite-a-few-missed-notes/",
-    "day": "2026-07-16",
-    "img": null
-   },
-   {
-    "headline": "What American Airlines Elites Lose When They Book Basic Economy In 2026",
-    "summary": "American Airlines elites used to book Basic Economy and keep all their benefits. Two rounds of changes in 2025 and 2026 ended that.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/what-american-airlines-elites-lose-book-basic-economy-2026/",
-    "day": "2026-07-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/why-american-airlines-elites-flying-basic-economy-in-2026-are-now-just-their-fare-class.jpg"
-   },
-   {
-    "headline": "Here's Why The McDonnell Douglas MD-11’s Tail Engine Is Different To Other Trijets",
-    "summary": "The sands of times have now largely consigned this aircraft to the history books.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-mcdonnell-douglas-md-11-tail-engine-different-to-other-trijets/",
-    "day": "2026-07-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/here-s-why-the-mcdonnell-douglas-md-11-s-tail-engine-is-different-than-other-trijets.jpg"
-   },
-   {
-    "headline": "The 8 Longest Airbus A350-1000 Flights In The World In 2026",
-    "summary": "The list is dominated by Qatar Airways' and Cathay Pacific's flights to North America.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/8-longest-airbus-a350-1000-flights-world-2026/",
-    "day": "2026-07-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/the-8-longest-airbus-a350-1000-flights-in-the-world-in-2026.jpg"
-   },
-   {
-    "headline": "CFM LEAP Clears 1.000 Deliveries in HY1",
-    "summary": "CFM delivered 1.030 LEAP engines over the first six months, breaking the 1.000-barrier in a half-year period for the first",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/cfm-leap-clears-1-000-deliveries-in-hy1/",
-    "day": "2026-07-16",
-    "img": "https://airinsight.com/wp-content/uploads/2026/07/IMG_5593-scaled.jpg"
-   },
-   {
-    "headline": "Air New Zealand 777-300ER glow up includes Astrova IFE in economy",
-    "summary": "When refreshing the interiors of aging jets, some airlines do a wholesale, nose-to-tail replacement of the seats and inflight entertainment. Others opt for a partial refurbishment by retaining the good and replacing the…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/07/air-new-zealand-cabin-designs-for-boeing-777-aircraft/",
-    "day": "2026-07-16",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/07/New-Economy-Seat-Air-New-Zealand-Custom.jpg"
-   },
-   {
-    "headline": "Much-delayed 737 Max 7 certification looms as Boeing’s commercial programs advance",
-    "summary": "Free for nonsubscribers By Howard Hardee July 16, 2026, © Leeham News: Boeing is finally nearing the finish line on securing type certification of its much-delayed 737 Max 7, which the airframer had long-ago believed…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/07/16/much-delayed-737-max-7-certification-looms-as-boeings-commercial-programs-advance/",
-    "day": "2026-07-16",
-    "img": null
-   },
-   {
-    "headline": "Why Virgin Atlantic Is Targeting The 40 RAF Pilots Keeping Britain's F-35 Fleet Flyable",
-    "summary": "Virgin Atlantic has campaigned to entice former RAF fast jet pilots to fly for them on long-haul transatlantic routes.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-virgin-atlantic-targeting-40-raf-pilots-britain-f-35-fleet-flyable/",
-    "day": "2026-07-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/why-virgin-atlantic-is-targeting-the-40-raf-pilots-keeping-britain-s-f-35-fleet-flyable.jpg"
-   },
-   {
-    "headline": "The Autonomous Tanker That Will Finally Free The F/A-18 Super Hornet From Its Most Hated Mission",
-    "summary": "Discover why the MQ-25 Stingray could double the carrier air wing's strike range by freeing Super Hornets from aerial refueling duties.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/autonomous-tanker-finally-free-f-a-18-super-hornet-most-hated-mission/",
-    "day": "2026-07-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/fa-18-super-hornet.jpg"
-   },
-   {
-    "headline": "22 Hours Nonstop: Qantas A350-1000ULR To Make 10,500-Mile Test Flight To Melbourne",
-    "summary": "The ultra-long 22-hour journey from Toulouse will be the longest flight of the test campaign to date.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/qantas-a350-1000ulr-22-hour-nonstop-test-flight-melbourne/",
-    "day": "2026-07-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/qantas-a350-1000ulr-flying-in-toulouse-1.jpg"
    }
   ],
   "finance": [
+   {
+    "headline": "2 Defective Boeing 737 MAX 8s To Be Scrapped After Barely 6 Months In Service",
+    "summary": "The curious case of two brand new twinjets being parted out.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/boeing-737-max-8-scrapped-barely-6-months/",
+    "day": "2026-07-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/boeing-737-max-8-of-gol-linhas-a-reas-taxiing-to-take-off.jpg"
+   },
    {
     "headline": "Earnings – Delta and United Solidly on Top",
     "summary": "Delta and United, two of the major carriers in the US, have successfully differentiated themselves from the pack by focusing",
@@ -3026,6 +3034,14 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "Starlink adoption accelerates connectivity expectations in private aviation",
+    "summary": "High-speed onboard connectivity is moving from a premium extra toward an expected standard in private aviation, driven in part by the rapid adoption of SpaceX’s Starlink satellite internet service across [...] The post…",
+    "source": "Business Airport International",
+    "url": "https://www.businessairportinternational.com/news/starlink-adoption-accelerates-connectivity-expectations-in-private-aviation.html",
+    "day": "2026-07-22",
+    "img": null
+   },
    {
     "headline": "Jets.com operator Private Jet Center names Schultz as CEO",
     "summary": "Industry veteran Chip Schultz is the new CEO of Private Jet Center, the Part 135 charter operator arm of Jets.com The post Jets.com operator Private Jet Center names Schultz as CEO appeared first on Private Jet Card…",
@@ -3886,6 +3902,62 @@
    }
   ],
   "defense": [
+   {
+    "headline": "The US Air Force Just Spent $143 Million On Software To Keep Its 1960s-Era C-5 Galaxy Flying",
+    "summary": "The massive C-5 Galaxy will remain in service until 2050, as currently projected.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/usaf-spent-143-million-software-keep-1960s-c-5-galaxy-flying/",
+    "day": "2026-07-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/143-million-on-software.jpg"
+   },
+   {
+    "headline": "The 4-Meter Missile That Solved The F-35's Biggest Stealth Vs. Range Problem",
+    "summary": "Why the incoming AIM-260 promises to be a big boost for the F-35A/C, having been designed around one of its biggest engineering constraints.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/4-meter-missile-solved-f-35-biggest-stealth-vs-range-problem/",
+    "day": "2026-07-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/4-meter-missile.jpg"
+   },
+   {
+    "headline": "Saab, Embraer eye expanded Gripen production in Brazil",
+    "summary": "Saab and Embraer have signed a Heads of Agreement (HoA) that could see up to 20 additional Gripen fighter aircraft assembled at Embraer’s Gavião Peixoto facility in São Paulo state, Brazil. Under the proposed agreement…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/07/22/saab-embraer-eye-expanded-gripen-production-in-brazil/",
+    "day": "2026-07-22",
+    "img": null
+   },
+   {
+    "headline": "Hegseth: Iran War Cost Now at $37.5B, Training to Be ‘Curtailed’ Without Supplemental Funding",
+    "summary": "The Pentagon’s cost estimate for the Iran War has risen to $37.5 billion, Defense Secretary Pete Hegseth told a congressional committee July 21—and without emergency supplemental funding, the military will have to…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/hegseth-iran-war-cost-37-5b/",
+    "day": "2026-07-22",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/9766387-900x600.jpg"
+   },
+   {
+    "headline": "New RAF H-47ER Chinooks Revealed Sporting 160th SOAR Style Black Paint Scheme",
+    "summary": "Images released by Boeing of the Royal Air Force’s next batch of Chinook helicopters confirm long-standing reports of their similarity to the U.S. MH-47G variant. The new-build Chinooks will supplant some of the oldest…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/07/22/new-raf-chinooks-revealed/",
+    "day": "2026-07-22",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/07/RAFNewChinookPhoto_1.jpg"
+   },
+   {
+    "headline": "Embraer and Anduril Team Up for Palletized Launch of Barracuda-500M from C-390 Millenium",
+    "summary": "Embraer and Anduril signed a Memorandum of Understanding to integrate the Barracuda-500M on the C-390, adding the capability to conduct palletized launches of kinetic effects. Embraer announced on Jul. 21, 2026 a…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/07/22/c-390-barracuda-500m-palletized/",
+    "day": "2026-07-22",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/07/C-390-Barracuda-Palletized-1.jpg"
+   },
+   {
+    "headline": "The Hidden Engineering Problem Facing Every 6th-Generation Fighter Program",
+    "summary": "The dilemma facing defense industrial design house around the world.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/hidden-enginerring-problem-facing-every-6th-generation-fighter-program/",
+    "day": "2026-07-21",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/every-6th-generation.jpg"
+   },
    {
     "headline": "Here's Why Australia Canceled Its Order For F-35 Fighter Jets",
     "summary": "Australia has extended the life of its Super Hornets, allowing it to cancel its final order of F-35s with the option to buy them another day.",
@@ -4789,62 +4861,6 @@
     "url": "https://simpleflying.com/why-us-air-force-bolting-spacex-starshield-atennas-onto-65-year-old-kc-135-tankers/",
     "day": "2026-07-15",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/spacex-starshield.jpg"
-   },
-   {
-    "headline": "MBDA recruits seasoned executive Jean-Brice Dumont from Airbus as new CEO",
-    "summary": "French defense firm MBDA has recruited the services of Jean-Brice Dumont from Airbus as its new CEO, a… The post MBDA recruits seasoned executive Jean-Brice Dumont from Airbus as new CEO appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/jean-brice-dumont-mbda-airbus-ceo",
-    "day": "2026-07-15",
-    "img": "https://www.aerotime.aero/images/2026/05/MBDA-MICA-and-SCALP-missiles-at-Paris-Air-Show-2025.jpg"
-   },
-   {
-    "headline": "In Final Speech as CSO, Saltzman Says Military Leaders Are ‘Ballast’ Against Partisanship",
-    "summary": "Gen. B. Chance Saltzman, in his final address as the Chief of Space Operations, said that a non-political military had a vital role to play in a period of sharp partisan differences and could help steady the U.S.…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/saltzman-final-speech-space-force-chief/",
-    "day": "2026-07-15",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/9651307-900x600.jpg"
-   },
-   {
-    "headline": "Anduril YFQ-44 Fires Live Air-to-Air Missile in Landmark CCA Test",
-    "summary": "One of the Air Force’s developmental Collaborative Combat Aircraft fired a live missile in a recent test, marking a critical step forward in the development of the service’s fleet of semi-autonomous drone fighters. The…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/anduril-yfq-44-fires-live-missile-landmark-cca-test/",
-    "day": "2026-07-15",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/Screenshot-2026-07-15-at-2.23.41-PM-900x600.png"
-   },
-   {
-    "headline": "SDA to Resume Launches After 9-Month Pause, Early On-Orbit Challenges",
-    "summary": "The Space Development Agency is on track to resume its Tranche 1 launch campaign this week after a nine-month pause to fix hardware and software issues that arose on orbit following the launch of its first operational…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/sda-first-launch-9-months-early-on-orbit-challenges/",
-    "day": "2026-07-15",
-    "img": "https://www.airandspaceforces.com/app/uploads/2025/10/T1TL-Tranche-1-Launch-04-900x600.jpeg"
-   },
-   {
-    "headline": "South Korean F-15K Slam Eagle Will Get EPAWSS Electronic Warfare System",
-    "summary": "BAE Systems received a contract to deliver the AN/ALQ-250 EPAWSS to upgrade the Republic of Korea Air Force’s F-15K Slam Eagle fighter jets. BAE System announced that it has received a contract from Boeing to provide…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/07/15/south-korean-f-15k-epawss/",
-    "day": "2026-07-15",
-    "img": "https://theaviationist.com/wp-content/uploads/2025/01/LakenheathEPAWSS_2.jpg"
-   },
-   {
-    "headline": "YFQ-44A CCA Fires AIM-120 AMRAAM for the First Time",
-    "summary": "The U.S. Air Force started live-fire testing with the YFQ-44A Collaborative Combat Aircraft, firing an AIM-120 AMRAAM missile over the Mojave Desert. The U.S. Air Force has announced the beginning of the live-fire…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/07/15/yfq-44a-cca-fires-aim-120-amraam/",
-    "day": "2026-07-15",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/07/9812022.jpg"
-   },
-   {
-    "headline": "UK “Did Not Buy” F-35A For Nuclear Role: RAF",
-    "summary": "The statement casts new uncertainty over how Britain plans to restore its NATO nuclear strike role. The post UK “Did Not Buy” F-35A For Nuclear Role: RAF appeared first on TWZ .",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/uk-did-not-buy-f-35a-for-nuclear-role-raf",
-    "day": "2026-07-15",
-    "img": "https://www.twz.com/wp-content/uploads/2026/07/F35A-RAF.jpg?quality=85"
    }
   ],
   "others": []
