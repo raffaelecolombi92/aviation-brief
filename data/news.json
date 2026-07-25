@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-25T07:34+00:00",
+ "generated": "2026-07-25T12:11+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,30 @@
   ],
   "airports": [
    {
+    "headline": "15-Hour Flights: Singapore Airlines' 9 New Longest Nonstop Airbus A380 Routes [Map]",
+    "summary": "The carrier flies its superjumbos to a wide range of destinations.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/singapore-airlines-new-longest-airbus-a380-routes/",
+    "day": "2026-07-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/shutterstock_2764064389_cropped.jpg"
+   },
+   {
+    "headline": "London Gatwick Has 1 Runway. It Still Handles More Passengers Per Year Than Most Airports With 4",
+    "summary": "How Gatwick handles over 43 million passengers annually with one runway through world-class scheduling, rapid turnarounds, and operational efficiency.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-gatwick-handles-so-many-passengers/",
+    "day": "2026-07-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/london-gatwick.jpg"
+   },
+   {
+    "headline": "Southwest Flight Attendant Arrested By ICE Agents Waiting At His Nashville Crew Base",
+    "summary": "One man's fight for citizenship turns into a battle against ICE: A Southwest flight attendant's ordeal.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/southwest-flight-attendant-arrested-ice-nashville-crew-base/",
+    "day": "2026-07-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/southwest-airlines-boeing-737-700-arriving-at-san-jose-international-airport.jpg"
+   },
+   {
     "headline": "Southwest Flight Attendant Arrested By ICE Agents Waiting At His Nashville Crew Base",
     "summary": "One man's fight for citizenship turns into a battle against ICE: A Southwest flight attendant's ordeal.",
     "source": "Simple Flying",
@@ -1899,33 +1923,17 @@
     "url": "https://airport-world.com/gatwick-expansion-must-be-catalyst-for-sustainable-growth-across-uk-aviation/?utm_source=rss&utm_medium=rss&utm_campaign=gatwick-expansion-must-be-catalyst-for-sustainable-growth-across-uk-aviation",
     "day": "2026-07-15",
     "img": null
-   },
-   {
-    "headline": "Perth Airport sets new annual passenger record in FY26",
-    "summary": "Perth Airport recorded its busiest year on record in FY26, welcoming 18,387,992 passengers, an increase of 5.2% on the previous year. International travel led the growth, rising 8.1% to 5.55 million passengers; regional…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/operations-news/perth-airport-sets-new-annual-passenger-record-in-fy26.html",
-    "day": "2026-07-15",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/07/perth-e1784106471474.jpeg"
-   },
-   {
-    "headline": "Rheinmetall and MIRA launch teleoperated shuttle pilot at Düsseldorf Airport",
-    "summary": "A real-world pilot of teleoperated shuttle vehicles began on public roads at Düsseldorf Airport on July 13, run jointly by Rheinbahn, Rheinmetall and its subsidiary MIRA, together with Düsseldorf Airport. The partners…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/technology/rheinmetall-and-mira-launch-teleoperated-shuttle-pilot-at-dusseldorf-airport.html",
-    "day": "2026-07-15",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/07/197459-e1784046742224.jpeg"
-   },
-   {
-    "headline": "ACI World officially reveals busiest airports in the world in 2025",
-    "summary": "Global passenger traffic edged closer to the 10 billion per annum milestone in 2025, when a total of 9.8 billion passengers passed through the world’s airports, according to the 2026 ACI World Airport Traffic Dataset…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/aci-world-officially-reveals-busiest-airports-in-the-world-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=aci-world-officially-reveals-busiest-airports-in-the-world-in-2025",
-    "day": "2026-07-15",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "How Boeing Fixed The 737 MAX's Problem Without Redesigning The Entire Aircraft",
+    "summary": "Boeing's MCAS system was designed to counteract the 737 MAX's aerodynamic changes, but a single sensor failure led to disaster. Twice.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-boeing-fixed-737-max-problem-without-redesigning-entire-aircraft/",
+    "day": "2026-07-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/737-max-s-problem.jpg"
+   },
    {
     "headline": "Does The Airbus A350 Freighter Truly Threaten A Market Boeing Once Owned Outright?",
     "summary": "The Airbus A350F has broken Boeing's large-freighter near-monopoly, but can it overcome the powerful 777-8F and reshape the cargo market?",
@@ -2877,14 +2885,6 @@
     "url": "https://leehamnews.com/2026/07/20/pw-adding-cmcs-composite-blades-to-next-gtf/",
     "day": "2026-07-20",
     "img": null
-   },
-   {
-    "headline": "AerCap, AFI KLM E&M form LEAP engine venture",
-    "summary": "AerCap Holdings and Air France Industries KLM Engineering & Maintenance (AFI KLM E&M) agreed to establish a 50:50 joint venture to lease CFM LEAP spare engines. The venture, first outlined in a memorandum of…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/20/aercap-afi-klm-em-form-leap-engine-venture/",
-    "day": "2026-07-20",
-    "img": null
    }
   ],
   "finance": [
@@ -3074,6 +3074,22 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "OneFlight sets limited $6,000 per hour jet card deal",
+    "summary": "The latest jet card deal from OneFlight International offers 25 hours in a light jet for $125,000, including tax The post OneFlight sets limited $6,000 per hour jet card deal appeared first on Private Jet Card…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/07/25/oneflight-sets-limited-6000-per-hour-jet-card-deal/",
+    "day": "2026-07-25",
+    "img": null
+   },
+   {
+    "headline": "Jet Aviation officially opens new private jet terminal in Miami",
+    "summary": "The new FBO at Miami's Opa Locka Executive Airport for Jet Aviation marks the 12th U.S. location for the General Dynamics unit The post Jet Aviation officially opens new private jet terminal in Miami appeared first on…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/07/25/jet-aviation-officially-opens-new-private-jet-terminal-in-miami/",
+    "day": "2026-07-25",
+    "img": null
+   },
    {
     "headline": "VistaJet receives eighth Bombardier Global 8000",
     "summary": "XO and VistaJet parent Vista Global is converting its 19 Global 7500s to the Global 8000 platform gaining range and speed The post VistaJet receives eighth Bombardier Global 8000 appeared first on Private Jet Card…",
@@ -4111,6 +4127,30 @@
   ],
   "defense": [
    {
+    "headline": "Qatar Airways Boeing 777 Intercepted By RAF Typhoons After Failing To Respond To ATC",
+    "summary": "An apparently unresponsive Qatar Airways flight caused concern for UK authorities.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/qatar-airways-777-raf-typhoon-intercept-manchester/",
+    "day": "2026-07-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/220-qatar-airways-boeing-777-300-kittikun-yoksap-_-shutterstock.jpg"
+   },
+   {
+    "headline": "Embraer backlog hits record $34.5B as E2 and C-390 orders lift demand",
+    "summary": "Embraer closed the second quarter of 2026 with a firm order backlog of $34.5 billion, the seventh consecutive… The post Embraer backlog hits record $34.5B as E2 and C-390 orders lift demand appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/embraer-record-backlog-q2-2026",
+    "day": "2026-07-25",
+    "img": "https://www.aerotime.aero/images/2026/07/Brazil-Air-Force-Embraer-C-390-airlifter.JPG"
+   },
+   {
+    "headline": "France rushes A400M into firefighting role over Gironde wildfire",
+    "summary": "France has committed an Airbus A400M Atlas fitted with an experimental retardant drop kit to the wildfire burning… The post France rushes A400M into firefighting role over Gironde wildfire appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/france-a400m-firefighting-debut-gironde",
+    "day": "2026-07-25",
+    "img": "https://www.aerotime.aero/images/2025/06/Airbus-A400M-firefighter-demonstrator.jpg"
+   },
+   {
     "headline": "Why The V-22 Osprey Can Only Transition Between Helicopter & Airplane Flight Within A Carefully Controlled Speed Range",
     "summary": "How pilots fly the unique tiltrotor in all phases of flight.",
     "source": "Simple Flying",
@@ -5045,30 +5085,6 @@
     "url": "https://theaviationist.com/2026/07/19/french-german-joint-forward-deterrence-drill/",
     "day": "2026-07-19",
     "img": "https://theaviationist.com/wp-content/uploads/2026/07/Germany-France-Deterrence-Patrol-1.jpg"
-   },
-   {
-    "headline": "The $14 Million Nuclear Missile Quietly Linking America's 70-Year-Old B-52 To The Brand-New B-21 Raider",
-    "summary": "The B-52J and B-21 are to be linked by the next-generation stealthy nuclear cruise missile currently under development by the Air Force.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/14-million-nuclear-missile-quietly-linking-america-b-52-brand-new-b-21-raider/",
-    "day": "2026-07-19",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/the-14-million-nuclear-missile-quietly-linking-america-s-70-year-old-b-52-to-the-brand-new-b-21-raider.jpg"
-   },
-   {
-    "headline": "USAF Chief Wilsbach on lessons from Iran, T-7 flight and F-35 delays",
-    "summary": "In a one-on-one with Breaking Defense, Air Force Chief of Staff Gen. Kenneth Wilsbach laid out his big concerns for the service.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/07/usaf-chief-wilsbach-on-lessons-from-iran-t-7-flight-and-f-35-delays/",
-    "day": "2026-07-19",
-    "img": null
-   },
-   {
-    "headline": "Boeing expects additional cost hit on Air Force One to make 2028 delivery: Defense CEO",
-    "summary": "“I do expect to see some cost growth there as we come through [final assembly] and we finish off the wiring and the structures, as well as finishing off with certification,” Steve Parker told reporters ahead of…",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/07/boeing-expects-additional-cost-hit-on-air-force-one-to-make-2028-delivery-defense-ceo/",
-    "day": "2026-07-19",
-    "img": null
    }
   ],
   "others": []
