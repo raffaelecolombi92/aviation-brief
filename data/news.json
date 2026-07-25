@@ -1,7 +1,31 @@
 {
- "generated": "2026-07-25T12:11+00:00",
+ "generated": "2026-07-25T18:09+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Only 64 Miles: American Airlines' 11 New Ultra-Short International Flights [Map]",
+    "summary": "Experience the thrill of flying on some of the world's shortest international flights, from Miami to the Bahamas and beyond.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/64-miles-american-airlines-11-new-ultra-short-international-flights/",
+    "day": "2026-07-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/american-airlines-aa-e175-miami.jpg"
+   },
+   {
+    "headline": "The Highest Paid Airline CEOs & What They Earn Annually",
+    "summary": "Four out of the top five work at US airlines.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/highest-paid-airline-ceos-what-they-earn-annually/",
+    "day": "2026-07-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/the-highest-paid-airline-ceos-what-they-earn-annually.jpg"
+   },
+   {
+    "headline": "United To Block Some A321XLR Middle Seats To Fly With 3 Flight Attendants, Not 4",
+    "summary": "United Airlines may be installing some peculiar-looking rows of seats in the new Airbus A321XLR's economy section. The extra-long-range A321neo narrowbody jets can carry more than 200 flyers in higher-density layouts…",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/video/united-to-block-some-a321xlr-middle-seats-to-fly-with-3-flight-attendants-not-4/",
+    "day": "2026-07-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/united-block-seats.jpg"
+   },
    {
     "headline": "5 Premium Economy Cabins Satisfying Enough That Passengers Rarely Miss Business Class",
     "summary": "The gap between premium economy and business class is getting narrower, and these five carriers are bringing their own takes to the mid tier cabin",
@@ -937,30 +961,6 @@
     "url": "https://runwaygirlnetwork.com/2026/07/azal-reveals-interior-of-new-a321neo-uses-ife-as-differentiator/",
     "day": "2026-07-21",
     "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/07/Screenshot-2026-07-21-at-9.10.52-AM-e1784652665808.jpeg"
-   },
-   {
-    "headline": "Press Release: Malaysia Airlines adopts advanced weather intelligence",
-    "summary": "Malaysia Airlines is strengthening its operational capabilities through the adoption of the International Air Transport Association’s (IATA’s) Turbulence Aware programme, reinforcing its commitment to leveraging…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/07/malaysia-airlines-strengthens-flight-safety/",
-    "day": "2026-07-21",
-    "img": null
-   },
-   {
-    "headline": "Press Release: Philippine Airlines to order nine more A350-1000s",
-    "summary": "Philippine Airlines (PAL) has signed a Memorandum of Understanding (MoU) for nine A350-1000 widebody aircraft. The agreement was announced during the Farnborough Air Show by Lucio C. Tan III, President and Chief…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/07/philippine-airlines-to-order-nine-more-airbus-a350-1000s/",
-    "day": "2026-07-21",
-    "img": null
-   },
-   {
-    "headline": "Jin Air Adds Seoul – Kobe Service From Aug 2026",
-    "summary": "Published at 1400PDT / 2100GMT 21JUL26 Korean carrier Jin Air from August 2026 plans to launch Seoul Incheon – Kobe route, with 1 daily flight scheduled on board Boeing 737-800 aircraft. The airline currently schedules…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260721-ljaug26ukb",
-    "day": "2026-07-21",
-    "img": null
    }
   ],
   "airports": [
@@ -1927,6 +1927,22 @@
   ],
   "fleet": [
    {
+    "headline": "Is It True That American Airlines Accidentally Flew A Non-ETOPS Airbus A321 To Hawaii?",
+    "summary": "A closer look at an unusual incident.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/true-american-airlines-accidentally-flew-non-etops-airbus-a321-to-hawaii/",
+    "day": "2026-07-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/is-it-true-that-american-airlines-accidentally-flew-a-non-etops-airbus-a321-to-hawaii.jpg"
+   },
+   {
+    "headline": "Airbus Explains Why Premium Travelers Will Drive US Domestic Aviation Through 2045",
+    "summary": "Airbus believes premium cabins, larger aircraft, and increasingly sophisticated cabin layouts will shape airline fleet decisions through 2045.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-premium-driving-us-aviation/",
+    "day": "2026-07-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/untitled-design-81.jpg"
+   },
+   {
     "headline": "How Boeing Fixed The 737 MAX's Problem Without Redesigning The Entire Aircraft",
     "summary": "Boeing's MCAS system was designed to counteract the 737 MAX's aerodynamic changes, but a single sensor failure led to disaster. Twice.",
     "source": "Simple Flying",
@@ -1941,6 +1957,14 @@
     "url": "https://simpleflying.com/airbus-a350-freighter-truly-threaten-market-boeing-once-owned/",
     "day": "2026-07-25",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/airbus-a350.jpg"
+   },
+   {
+    "headline": "Airbus CEO begrudgingly thinks the dollar is still the best way to sell airplanes",
+    "summary": "LONDON — As Europe aggressively advances its sovereign defense capabilities amid fraught transatlantic relations, Airbus continues to reluctantly accept the necessity of pricing its aircraft in the still-dominant U.S.…",
+    "source": "The Air Current",
+    "url": "https://theaircurrent.com/industry-strategy/airbus-guillame-faury-dollar-euro-commercial-airplanes/",
+    "day": "2026-07-24",
+    "img": "https://theaircurrent.com/wp-content/uploads/2026/07/airbus-united-a321xlr-emirates-a350-fia-2026.jpg"
    },
    {
     "headline": "Turbotech turbine engine gains ground in new generation of light aircraft",
@@ -2861,30 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/eve-reports-new-orders-noise-certification-framework-ahead-of-farnborough-2026",
     "day": "2026-07-20",
     "img": "https://www.aerotime.aero/images/2026/07/BayPoint_Eve2026.jpg"
-   },
-   {
-    "headline": "Press Release: Riyadh Air exercises options on 28 787s, including 787-10",
-    "summary": "Riyadh Air, the new national carrier of the Kingdom of Saudi Arabia, and Boeing today announced that the airline is exercising options for 28 more 787 Dreamliner jets as part of its growth plan. The agreement to…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/07/press-release-riyadh-air-exercises-options-on-28-787s-including-787-10/",
-    "day": "2026-07-20",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/07/unnamed-68.jpg"
-   },
-   {
-    "headline": "Press Release: Riyadh Air firms up order for six more A350-1000s",
-    "summary": "Riyadh Air, the new premium international airline based in Saudi Arabia, has firmed up an order for six additional Airbus A350-1000 aircraft, increasing its total firm commitment for the type to 31 aircraft. The…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/07/press-release-riyadh-air-firms-up-order-for-six-more-a350-1000s/",
-    "day": "2026-07-20",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/07/unnamed-67.jpg"
-   },
-   {
-    "headline": "Pratt & Whitney adding composite materials to next GTF engine",
-    "summary": "By Scott Hamilton July 17, 2026, © Leeham News/AIN: When rivals Pratt & Whitney and CFM International developed the Geared TurboFan (GTF) and the LEAP engines powering today’s single-aisle airliners, they pursued…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/07/20/pw-adding-cmcs-composite-blades-to-next-gtf/",
-    "day": "2026-07-20",
-    "img": null
    }
   ],
   "finance": [
@@ -4127,6 +4127,22 @@
   ],
   "defense": [
    {
+    "headline": "The US Air Force Is Quietly Shrinking Below 5,000 Aircraft For The 1st Time In Its History",
+    "summary": "Analyzing the numbers behind the USAF's fleet modernization strategy.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/usaf-quietly-shrinking-below-5000-aircraft-1st-time-history/",
+    "day": "2026-07-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/the-us-air-force-is-quietly-shrinking-below-5-000-aircraft-for-the-1st-time-in-its-history.jpg"
+   },
+   {
+    "headline": "The RQ-4 Global Hawk Drone Costs More Per Flight Hour To Operate Than The U-2 Spy Plane It Was Built To Replace",
+    "summary": "While the Global Hawk has proven to be more expensive over the long haul, its ISR capabilities remain essential to US military and allied commanders.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/rq4-global-hawk-vs-u2-operating-costs/",
+    "day": "2026-07-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/u2-cover.jpg"
+   },
+   {
     "headline": "Qatar Airways Boeing 777 Intercepted By RAF Typhoons After Failing To Respond To ATC",
     "summary": "An apparently unresponsive Qatar Airways flight caused concern for UK authorities.",
     "source": "Simple Flying",
@@ -5069,22 +5085,6 @@
     "url": "https://simpleflying.com/c-130-carrier-landing-record/",
     "day": "2026-07-20",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/c-130-cover-image.avif"
-   },
-   {
-    "headline": "The 5 Longest-Running Military Aircraft Production Lines Still Active Today",
-    "summary": "These US military aircraft lines have been running for decades.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/longest-running-military-aircraft-production-lines/",
-    "day": "2026-07-19",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/cargoplanes.avif"
-   },
-   {
-    "headline": "French Rafales and German Eurofighters Conduct First Joint ‘Forward Deterrence’ Drill",
-    "summary": "France and Germany conducted their first joint air activity as part of the forward deterrence initiative, a day before announcing new programs as part of an increased defense cooperation. Two Armée de l’Air et de…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/07/19/french-german-joint-forward-deterrence-drill/",
-    "day": "2026-07-19",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/07/Germany-France-Deterrence-Patrol-1.jpg"
    }
   ],
   "others": []
