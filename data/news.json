@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-26T12:44+00:00",
+ "generated": "2026-07-26T18:16+00:00",
  "sections": {
   "network": [
    {
@@ -441,6 +441,14 @@
     "url": "https://www.aeroroutes.com/eng/260723-px3q26nrt",
     "day": "2026-07-24",
     "img": null
+   },
+   {
+    "headline": "Press Release: Vietnam Airlines to lease 19 Boeing 737 MAX 8 twinjets",
+    "summary": "At the Farnborough International Airshow 2026, Vietnam Airlines announced plans to add 19 Boeing 737 MAX 8 aircraft to its fleet through arrangements with three of the world’s leading aircraft lessors. Deliveries are…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/07/vietnam-airlines-lease-19-boeing-737-max-8/",
+    "day": "2026-07-23",
+    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/07/3.-Nguyen-Chien-Thang-EVP-of-Vietnam-Airlines-and-Paul-Geaney-President-Chief-Commercial-Officer-of-Avolon-sign-the-documents-at-the-event_.jpg"
    },
    {
     "headline": "Jeju Air Adds Daegu – Shijiazhuang From late-Sep 2026",
@@ -953,17 +961,33 @@
     "url": "https://www.aeroroutes.com/eng/260721-rjnw26tas",
     "day": "2026-07-22",
     "img": null
-   },
-   {
-    "headline": "Vietnam Airlines Extends Amsterdam Bookings into NW26",
-    "summary": "Published at 1701PDT 21JUL26 / 0001GMT 22JUL26 Vietnam Airlines as of Tuesday (21JUL26) opened bookings for Hanoi – Amsterdam route during Northern winter 2026/27 season, on/after 27OCT26. The Skyteam member will…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260721-vnnw26ams",
-    "day": "2026-07-22",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "8-Hour Route: Air Arabia Launches 3rd Daily Nonstop Flight To London [Map]",
+    "summary": "Air Arabia will launch a third daily Airbus A321LR flight between Sharjah and London Gatwick from October, boosting UK-Asia connectivity.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/air-arabia-8-hour-gatwick-route-grows-to-3-daily/",
+    "day": "2026-07-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/shutterstock_2445797177_cropped.jpg"
+   },
+   {
+    "headline": "American Airlines Blames Odor As 787 Diverts To Dublin With 6 Of 9 Cabin Crew Ill",
+    "summary": "The flight from Rome to Philadelphia that made an unexpected detour to Dublin after the majority of its cabin crew reported feeling unwell.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-787-odor-dublin-diversion/",
+    "day": "2026-07-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/823-american-airlines-boeing-787-9-austin-deppe-_-shutterstock.jpg"
+   },
+   {
+    "headline": "Delta Air Lines Cancels 3 Routes From This Major Hub: See Affected Flights Now",
+    "summary": "Delta cancels three routes from its major hub, with the airline's decision to focus on LaGuardia for Memphis, Houston, and St. Louis services.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/delta-cancels-3-routes-from-major-hub/",
+    "day": "2026-07-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/shutterstock_2674602311-1.jpg"
+   },
    {
     "headline": "The Reason Airlines At The Same Airport Pay Completely Different Prices For The Same Fuel On The Same Day",
     "summary": "Fuel is a complicated variable to invoice, meaning that even under identical circumstances, two different aircraft can pay different prices.",
@@ -1899,33 +1923,49 @@
     "url": "https://simpleflying.com/gatwick-airport-fuel-emergency-british-airways-a320-blocked/",
     "day": "2026-07-15",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/easyjet-plane-at-the-gate-gatwick-airport.jpg"
-   },
-   {
-    "headline": "United Passenger Gets Entire Boeing 737 To Himself After British Airways Abandoned Him",
-    "summary": "A United Airlines passenger ended up as the sole occupant on board a Boeing 737 after he was reportedly abandoned by British Airways at Cincinnati Northern Kentucky Airport on the 4th of July.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/video/united-passenger-gets-entire-boeing-737-to-himself-after-british-airways-abandoned-him/",
-    "day": "2026-07-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/ba-abandon-united-rescue.jpg"
-   },
-   {
-    "headline": "Singapore Airlines Cuts 16 Long-Haul Destinations: See The Full List",
-    "summary": "All of these places have stopped seeing Singapore Airlines in the past 20 years. But is that at simple as it seems? Find out here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/singapore-airlines-cuts-16-long-haul-destinations-see-the-full-list/",
-    "day": "2026-07-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/1111-2.jpg"
-   },
-   {
-    "headline": "Marathon test flight will see Qantas’ Airbus A350-1000ULR fly to MEL this week",
-    "summary": "Airbus is preparing for a marathon test flight this week with Qantas’ upcoming A350-1000ULR aircraft scheduled to fly… The post Marathon test flight will see Qantas’ Airbus A350-1000ULR fly to MEL this week appeared…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/qantas-airbus-a350-1000ulr-test-flight-melbourne-australia-toulouse",
-    "day": "2026-07-15",
-    "img": "https://www.aerotime.aero/images/2026/05/Qantas-Airbus-A350-1000ULR.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "5 Engineering Decisions That Explain Why The Boeing 787 & Airbus A350 Feel Nothing Alike Inflight",
+    "summary": "The 787 and A350 are both composite widebodies. Here are the five engineering decisions that explain how they differ.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/5-engineering-decisions-explain-boeing-787-airbus-a350-feel-nothing-alike-inflight/",
+    "day": "2026-07-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/5-engineering-decisions-that-explain-why-the-boeing-787-airbus-a350-feel-nothing-alike-inflight.jpg"
+   },
+   {
+    "headline": "Lockheed Built The Constellation's Famous Triple Tail For One Key Reason — To Fit Inside An Airline's Existing Hangars",
+    "summary": "The Constellation's triple tail was not a design choice. It was the only way to fit the aircraft inside TWA's hangars.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-lockheed-constellation-had-three-vertical-stab/",
+    "day": "2026-07-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/lockheed-constellation.jpg"
+   },
+   {
+    "headline": "16-Hour Nonstop Flights: Emirates' 11 New Ultra-Long Boeing 777-200LR Routes Revealed",
+    "summary": "The 777-200LR is a comparatively rare aircraft at Emirates.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/emirates-new-longest-boeing-777-200lr-routes/",
+    "day": "2026-07-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/shutterstock_1030942423_cropped.jpg"
+   },
+   {
+    "headline": "How Commercial Aircraft Tires Survive 150mph Runway Contact Under 20 Tonnes Of Weight Without Bursting",
+    "summary": "Aircraft tires go from zero to 170 mph in a fraction of a second at touchdown. Here is the engineering that keeps them from bursting.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-commercial-aircraft-tires-survive-150mph-runway-contact-under-20-tonnes-of-weight-without-bursting/",
+    "day": "2026-07-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/why-the-airbus-a350-900-s-main-landing-gear-has-fewer-tires-than-the-a350-1000.jpeg"
+   },
+   {
+    "headline": "FAA proposes AD to address incorrect seat installs on 737 MAXs",
+    "summary": "The U.S. Federal Aviation Administration is proposing to adopt a new airworthiness directive (AD) for select Boeing 737 MAX 8, MAX 9 and high-density MAX 8-200s after learning that certain passenger seat assemblies were…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/07/faa-proposes-ad-to-address-incorrect-seat-installs-on-737-maxs/",
+    "day": "2026-07-26",
+    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/07/iStock-2219562103.jpg"
+   },
    {
     "headline": "Boeing Scrapped An Unused 777X Rather Than Pay The Huge Rework Costs",
     "summary": "It was revealed recently that Boeing had quietly scrapped one of its earliest-built Boeing 777-9 airframes, dismantling a jet that had sat unflown at its Everett facility since 2019. Partially wearing the colors of…",
@@ -2845,46 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/us-house-bill-review-chinese-ownership-cirrus-aircraft",
     "day": "2026-07-20",
     "img": "https://www.aerotime.aero/images/2026/07/cirrussr22sf50.jpg"
-   },
-   {
-    "headline": "SMBC places additional order with Airbus for 100 A320neo-family aircraft",
-    "summary": "SMBC Aviation Capital has taken the spotlight on the first day of the 2026 Farnborough International Airshow by… The post SMBC places additional order with Airbus for 100 A320neo-family aircraft appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/smbc-places-additional-order-with-airbus-for-100-a320neo-family-aircraft",
-    "day": "2026-07-20",
-    "img": "https://www.aerotime.aero/images/2026/07/SMBC-Aviation-Capital-.jpg"
-   },
-   {
-    "headline": "Press Release: GT2517 completes GTC to operate on SES mPOWER MEO",
-    "summary": "ThinKom, announced today that the ThinAir® GT2517 terminal completed SES’ Government Technology Certification (GTC) program to operate on SES’ O3b mPOWER MEO constellation. The ThinAir GT2517 is the first airborne…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/07/gt2517-first-aero-terminal-to-achieve-type-3-certification/",
-    "day": "2026-07-20",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/07/67a3010eae1e6ddd00bb2c1a_ThinAir-2517-exploded-view-web-size.jpg"
-   },
-   {
-    "headline": "Press Release: GE Aerospace demos high-altitude hybrid electric flight",
-    "summary": "GE Aerospace announced today at the Farnborough International Airshow an industry first to advance the future of flight, demonstrating the viability of more electric aircraft engine systems for aviation. In…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/07/ge-aerospace-demonstrates-high-altitude-hybrid-electric-flight/",
-    "day": "2026-07-20",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/07/GE-Aerospace-EPFD.jpg"
-   },
-   {
-    "headline": "Philippine Airlines Orders 15 Boeing 787s, Options For 5 More",
-    "summary": "Big news out of the 2026 Farnborough International Airshow!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/philippine-airlines-boeing-787-order-farnborough/",
-    "day": "2026-07-20",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/philippine-airlines-787-9-above-manila_cropped.jpg"
-   },
-   {
-    "headline": "Boeing Secures 100-Jet 737 MAX Order From SMBC Aviation Capital",
-    "summary": "Big news out of the 2026 Farnborough International Airshow!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/smbc-boeing-737-max-order-farnborough/",
-    "day": "2026-07-20",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/boeing-and-smbc-aviation_cropped.jpg"
    }
   ],
   "finance": [
@@ -4135,6 +4135,46 @@
   ],
   "defense": [
    {
+    "headline": "The World’s Largest Air Forces By Number Of Pilots",
+    "summary": "Which air force has the deepest roster?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/worlds-largest-air-forces-by-number-pilots/",
+    "day": "2026-07-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/09/largest.jpg"
+   },
+   {
+    "headline": "The 5 Combat Drones Redrawing The Global Strike Map In 2026",
+    "summary": "From small, cheap FPV drones to future fighter jet drones.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/5-combat-drones-redrawing-global-strike-map-2026/",
+    "day": "2026-07-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/the-5-combat-drones-redrawing-the-global-strike-map-in-2026.jpg"
+   },
+   {
+    "headline": "Is It True That NASA Strapped A 41-Foot Rocket Engine To An SR-71's Back & Flew It To Mach 1.8?",
+    "summary": "Exploring the final mission of the iconic Blackbird.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/true-nasa-strapped-41-foot-rocket-engine-sr-71-back-flew-mach-1-8/",
+    "day": "2026-07-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/is-it-true-that-nasa-strapped-a-41-foot-rocket-engine-to-an-sr-71-s-back-flew-it-to-mach-1-8.jpg"
+   },
+   {
+    "headline": "Lockheed Martin’s Ethos for Seamless, Cross-Platform Autonomy in Future Battlespaces",
+    "summary": "The Aviationist sat down with representatives from Lockheed Martin’s Skunk Works and Sikorsky divisions to discuss and understand the firm’s ambitions for the future of autonomous military capabilities. Lockheed Martin…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/07/26/lockheed-martin-autonomy/",
+    "day": "2026-07-26",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/07/LMAutonomy_1.jpg"
+   },
+   {
+    "headline": "Meet BARB, The Robot That’s A Glimpse At Future Jet Engine Assembly",
+    "summary": "There's a new laborer on Pratt & Whitney's jet engine production line, and it doesn't need lunch breaks or vacation days. The post Meet BARB, The Robot That’s A Glimpse At Future Jet Engine Assembly appeared first on…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/air/meet-barb-the-robot-thats-a-glimpse-future-jet-engine-assembly",
+    "day": "2026-07-26",
+    "img": "https://www.twz.com/wp-content/uploads/2026/07/Pratt-Whitneys-BARB-Bearing-Automation-Robotic-Builder-in-Middletown-CT-copy.jpg?quality=85"
+   },
+   {
     "headline": "UK builds Mach 5 target to test future hypersonic missile defenses",
     "summary": "The UK Ministry of Defence has awarded a £20 million ($27 million) contract to Lockheed Martin UK to… The post UK builds Mach 5 target to test future hypersonic missile defenses appeared first on AeroTime .",
     "source": "AeroTime",
@@ -5051,46 +5091,6 @@
     "summary": "The AI-powered robotic weapon, which weighs roughly 300 pounds and is capable of firing 850 rounds-a-minute, can detect and neutralize small unmanned aerial systems, Allen Control Systems said.",
     "source": "Breaking Defense",
     "url": "https://breakingdefense.com/2026/07/marine-corps-selects-new-robotic-weapon-system-for-l-madis-integration/",
-    "day": "2026-07-20",
-    "img": null
-   },
-   {
-    "headline": "Joining GCAP would not impact current-gen fighter decision: Canadian defense minister",
-    "summary": "David McGuinty said Canada’s planned F-35 purchase is still under review and will remain so “until we take the time to get it right for Canadians.”",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/07/if-canada-joins-gcap-it-wont-impact-near-term-fighter-decisions-defense-minister/",
-    "day": "2026-07-20",
-    "img": null
-   },
-   {
-    "headline": "MQ-9B and Gambit Series: Advancing European Defense Capabilities",
-    "summary": "[Sponsored] GA-ASI will build Gambit aircraft in Europe, partnered with European-based companies, with airframes available for international procurement starting in 2027.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/07/mq-9b-and-gambit-series-advancing-european-defense-capabilities/",
-    "day": "2026-07-20",
-    "img": null
-   },
-   {
-    "headline": "Israel’s IAI unveils ‘Hypnosis’ system for confusing enemy drone swarms",
-    "summary": "The system, called Hypnosis, consists of an array of mobile “stations” around a defended area that send out jamming signals against drone swarms.",
-    "source": "Defense News",
-    "url": "https://www.defensenews.com/industry/2026/07/20/israels-iai-unveils-hypnosis-system-for-confusing-enemy-drone-swarms/",
-    "day": "2026-07-20",
-    "img": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/GUEJFNLVQRFCHKSTORACPXKZWE.jpeg"
-   },
-   {
-    "headline": "Anduril Reveals Thunder Autonomous Tiltrotor Concept",
-    "summary": "Anduril began their 2026 showing at Farnborough International Airshow strong with the unveiling of Thunder, an autonomous tiltrotor designed for modular payloads. The impressive looking aircraft, represented at the…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/07/20/anduril-reveals-thunder-autonomous-tiltrotor-concept/",
-    "day": "2026-07-20",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/07/2026-Thunder-GTM-Front_Main-2x3-1-scaled-e1784530914283.jpg"
-   },
-   {
-    "headline": "Anduril reveals Thunder, a ‘loyal wingman’ drone for helicopters",
-    "summary": "The company describes Thunder as a fully autonomous armed reconnaissance tiltrotor aircraft developed from lessons learned from the company’s Fury aircraft.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/07/anduril-reveals-thunder-a-loyal-wingman-drone-for-helicopters/",
     "day": "2026-07-20",
     "img": null
    }
