@@ -1,7 +1,143 @@
 {
- "generated": "2026-07-28T21:46+00:00",
+ "generated": "2026-07-29T10:13+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "How Qatar Airways Turned Retired Widebodies Into A Backup Fleet To Cover Its Grounded Airbus A350s",
+    "summary": "In times of fleet groundings, few options are left available. Qatar Airways turned to its 'past mistakes' and proved that having a backup is vital.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-qatar-airways-turned-retired-widebodies-backup-fleet-cover-grounded-airbus-a350s/",
+    "day": "2026-07-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/qatar-airways-widebody.jpg"
+   },
+   {
+    "headline": "American Airlines Briefly Grounds Every Flight After Nationwide IT Outage",
+    "summary": "The entire fleet was grounded as a technology failure hit during the peak evening rush hour.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-nationwide-ground-stop-it-outage/",
+    "day": "2026-07-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/816-american-airlines-boeing-777-200-austin-deppe-_-shutterstock.jpg"
+   },
+   {
+    "headline": "How United Airlines' Lie-Flat Boeing 757 Ruled Premium Transcon & What's About To Replace It",
+    "summary": "United plans to eventually replace its premium 757 fleet with A321XLR aircraft.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-united-airlines-lie-flat-boeing-757-ruled-premium-transcon-replacement/",
+    "day": "2026-07-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/lie-flat-boeing-757.jpg"
+   },
+   {
+    "headline": "ANA Buys More Embraers In Strategy Update",
+    "summary": "Prefer immediate full access? Subscribe for complete analysis + ongoing updates Want this applied to your fleet or portfolio? We",
+    "source": "AirInsight",
+    "url": "https://airinsight.com/ana-buys-more-embraers-in-strategy-update/",
+    "day": "2026-07-29",
+    "img": "https://airinsight.com/wp-content/uploads/2026/07/IMG_3939-scaled.jpg"
+   },
+   {
+    "headline": "Philippine Airlines welcomes third Airbus A350-1000 aircraft",
+    "summary": "Philippine Airlines (PAL) has taken delivery of its third Airbus A350-1000 as the carrier continues building out its… The post Philippine Airlines welcomes third Airbus A350-1000 aircraft appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/philippine-airlines-welcomes-third-airbus-a350-1000-aircraft",
+    "day": "2026-07-29",
+    "img": "https://www.aerotime.aero/images/2026/07/Untitled-design-62.jpg"
+   },
+   {
+    "headline": "ZIPAIR Tokyo 1Q27 Vancouver Service Increases",
+    "summary": "Published at 0300PDT / 1000GMT 29JUL26 ZIPAIR Tokyo today (29JUL26) announced service increase on Tokyo Narita – Vancouver route, scheduled in the first quarter of 2027. From 05JAN27 to 27MAR27, the airline schedules 7…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260729-zg1q27yvr",
+    "day": "2026-07-29",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Air Canada 1Q27 Montreal – Tenerife Service Increases",
+    "summary": "Published at 0200PDT / 0900GMT 29JUL26 Air Canada in recent schedule update filed expanded service on Montreal – Tenerife South route, as the carrier plans service increase in the first quarter of 2027. Scheduled to…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260729-ac1q27tfs",
+    "day": "2026-07-29",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Sky Express Adds Thessaloniki – Chania Service in NW26",
+    "summary": "Published at 0100PDT / 0800GMT 29JUL26 Sky Express during Northern winter 2026/27 season plans to launch Thessaloniki – Chania route, on board Airbus A320neo aircraft. The carrier plans to serve this route 3 times…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260729-gqnw26chq",
+    "day": "2026-07-29",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "EGYPTAIR Schedules Stockholm Dec 2026 Launch",
+    "summary": "Published at 0000PDT / 0700GMT 29JUL26 EGYPTAIR during Northern winter 2026/27 season plans to launch service to Sweden, as the carrier schedules Cairo – Stockholm Arlanda route. From 18DEC26, the carrier’s A321neo to…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260729-msdec26arn",
+    "day": "2026-07-29",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "LATAM Chile Cancels Santiago – Neuquen Route in NW26",
+    "summary": "Published at 2000PDT 28JUL26 / 0300GMT 29JUL26 LATAM Chile at the launch of Northern winter 2026/27 season is cancelling service on Santiago de Chile – Neuquen route, as the airline closed reservations for flights…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260728-lanw26nqn",
+    "day": "2026-07-29",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "flydubai August 2026 Russia Service Changes",
+    "summary": "Published at 1900PDT 28JUL26 / 0200GMT 29JUL26 flydubai from August 2026 plans to adjust service to Russia, with additional flights scheduled. Dubai – Moscow Vnukovo eff 16AUG26 Increase from 3 to 4 daily Dubai – Ufa…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260728-fzaug26ru",
+    "day": "2026-07-29",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Sky Fru Schedules Bishkek – Moscow August 2026 Debut",
+    "summary": "Published at 1800PDT 28JUL26 / 0100GMT 29JUL26 Kyrgyzstan’s Sky Fru from August 2026 plans to launch international service, as the carrier plans Bishkek – Moscow Domodedovo nonstop flight, on board Boeing 737-300…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260728-r8aug26dme",
+    "day": "2026-07-29",
+    "img": null
+   },
+   {
+    "headline": "Cebu Pacific NW26 International Service Changes",
+    "summary": "Published at 1701PDT 28JUL26 / 0001GMT 29JUL26 Cebu Pacific in recent schedule update filed initial changes to planned international operations during Northern winter 2026/27 season. Planned changes as of 28JUL26…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260728-5jnw26int",
+    "day": "2026-07-29",
+    "img": null
+   },
+   {
+    "headline": "5 Airlines Where Premium Economy Is The Smarter Buy Than Business Class In 2026",
+    "summary": "Many airlines offer excellent premium economy fares that make it not worth the cost of upgrading to business class on some routes.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/5-airlines-premium-economy-smarter-buy-business-class/",
+    "day": "2026-07-28",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/premium-economy-seating-in-cabin.jpg"
+   },
+   {
+    "headline": "373 Passengers Stranded For 10+ Without AC On Emirates A380 After Late-Night Diversion",
+    "summary": "After spending the night on the aircraft on the ramp, passengers eventually reached Shanghai.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/373-passengers-stranded-10-hours-emirates-a380-diversion/",
+    "day": "2026-07-28",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/emirates-airbus-a380.jpg"
+   },
+   {
+    "headline": "TAP NW26 Lisbon – Sao Vicente Aircraft Changes",
+    "summary": "Published at 1600PDT / 2300GMT 28JUL26 TAP Air Portugal during Northern winter 2026/27 season schedules aircraft changes on Lisbon – Sao Vicente route, currently operated by Airbus A320neo. From 25OCT26, the daily…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260728-tpnw26vxe",
+    "day": "2026-07-28",
+    "img": null
+   },
+   {
+    "headline": "Aeromexico Extends Monterrey – Paris to Year-Round in NW26",
+    "summary": "Published at 1500PDT / 2200GMT 28JUL26 Aeromexico in recent schedule update adjusted Monterrey – Paris Charles de Gaulle service, becoming a year-round route. The Skhteam member will continue to operate 3 weekly flights…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260728-amnw26cdg",
+    "day": "2026-07-28",
+    "img": null
+   },
    {
     "headline": "Air Canada Latest To Introduce Basic Business Class Fare With New Restrictions",
     "summary": "As demand for premium travel grows, Air Canada's introduction of basic business class and premium economy fares aligns the carrier with its partners.",
@@ -825,145 +961,65 @@
     "url": "https://simpleflying.com/southwest-airlines-shipped-jet-fuel-boat-fears-supply/",
     "day": "2026-07-24",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/shutterstock_2812778983_cropped.jpg"
-   },
-   {
-    "headline": "Argentina’s Aviation Market Leaves Flybondi Behind",
-    "summary": "Landmark aerospace events like the Farnborough Airshow are where the long-term realities of commercial aviation are codified. Contracts signed in",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/argentinas-aviation-market-leaves-flybondi-behind/",
-    "day": "2026-07-24",
-    "img": "https://airinsight.com/wp-content/uploads/2026/07/CORP-PHO-0055-03-10-FP-Farnbourough-Airshow-2026-Day-3-003-scaled.jpg"
-   },
-   {
-    "headline": "Frontier’s Taxi Problem Isn’t the Airports",
-    "summary": "We analyzed 2026 taxi times at US airports, and an alarming data point immediately stood out. Frontier Airlines has a",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/frontiers-taxi-problem-isnt-the-airports/",
-    "day": "2026-07-24",
-    "img": "https://airinsight.com/wp-content/uploads/2025/06/Frontier-A321neo-scaled.jpeg"
-   },
-   {
-    "headline": "India’s The ePlane Company showcases e200X eVTOL, signs medical services deal",
-    "summary": "The ePlane Company, the commercial brand under which Indian advanced air mobility developer Ubifly Technologies operates, has shared… The post India’s The ePlane Company showcases e200X eVTOL, signs medical services…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/indias-the-eplane-company-unveils-e200x-evtol-medical-air-transport-deal",
-    "day": "2026-07-24",
-    "img": "https://www.aerotime.aero/images/2026/07/4.-Full-200X-PT01.jpg"
-   },
-   {
-    "headline": "Enugu Air Embraer 170 overruns the runway at Benin Airport in Nigeria",
-    "summary": "On July 23, 2026, an Enugu Air Embraer E170LR, operating as Flight 4264, was involved in a serious runway excursion upon landing at Benin Airport in Edo State, Nigeria. The aircraft, bearing Nigerian registration…",
-    "source": "World Airline News",
-    "url": "https://worldairlinenews.com/2026/07/24/enugu-air-embraer-170-overruns-the-runway-at-benin-airport-in-nigeria/",
-    "day": "2026-07-24",
-    "img": null
-   },
-   {
-    "headline": "Ethiopian 3Q26 Chengdu Service Increases",
-    "summary": "Published at 0300PDT / 1000GMT 24JUL26 Ethiopian Airlines in the third quarter of 2026 schedules service increase on Addis Ababa – Chengdu Tianfu route, where the airline plans to operate 6 weekly flights for the period…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260724-et3q26tfu",
-    "day": "2026-07-24",
-    "img": null
-   },
-   {
-    "headline": "Jussi Siitonen becomes new Finnair CFO",
-    "summary": "Jussi Siitonen will become the next Chief Financial Officer for Finnair, effective November 1, 2026. Siitonen joins from Fiskars Group, where he served as CFO and deputy CEO. He has also been a member of Finnair’s Board…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/24/jussi-siitonen-becomes-new-finnair-cfo/",
-    "day": "2026-07-24",
-    "img": null
-   },
-   {
-    "headline": "The Highest Paid International Flight Attendants' Ranks & Their Average 2026 Salaries",
-    "summary": "It may come as a surprise.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/highest-paid-international-flight-attendants-ranks-average-salaries/",
-    "day": "2026-07-24",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/average-2026-salaries.jpg"
-   },
-   {
-    "headline": "Why Major Airlines Are Flying New Business Class Suites With The Privacy Doors Locked Open",
-    "summary": "Why airlines like KLM, Lufthansa, United and JetBlue are flying brand-new business class suites with privacy doors locked open or seats left empty.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-major-airlines-flying-new-business-class-suites-privacy-doors-locked-open/",
-    "day": "2026-07-24",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/major-airline.jpg"
-   },
-   {
-    "headline": "IATA appoints first female director general as Willie Walsh prepares for exit",
-    "summary": "The International Air Transport Association (IATA) has appointed its first female director general, as incumbent Willie Walsh prepares… The post IATA appoints first female director general as Willie Walsh prepares for…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/iata-saadia-zahidi-director-general-as-willie-walsh-prepares-for-exit",
-    "day": "2026-07-24",
-    "img": "https://www.aerotime.aero/images/2025/09/BA-CityFlyer-5.jpg"
-   },
-   {
-    "headline": "LATAM’s Chief Experience Officer discusses new cabins, lounges and A321XLRs",
-    "summary": "Not only is LATAM Airlines Group the largest airline group in South America, but it has also been… The post LATAM’s Chief Experience Officer discusses new cabins, lounges and A321XLRs appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/latams-chief-experience-officer-discusses-new-cabins-lounges-and-a321xlrs",
-    "day": "2026-07-24",
-    "img": "https://www.aerotime.aero/images/2026/07/Interview-1620x1080-Paulo-Miranda-1.jpg"
-   },
-   {
-    "headline": "Etihad Airways and Air Peace sign interline agreement to expand connectivity",
-    "summary": "Etihad Airways and Air Peace have signed an interline agreement to connect their networks, giving Etihad passengers access… The post Etihad Airways and Air Peace sign interline agreement to expand connectivity appeared…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/etihad-airways-and-air-peace-sign-interline-agreement-to-expand-connectivity",
-    "day": "2026-07-24",
-    "img": "https://www.aerotime.aero/images/2026/07/Untitled-design-54.jpg"
-   },
-   {
-    "headline": "Qantas’ ultra-long-range A350 lands in Melbourne after 19-hour flight",
-    "summary": "Qantas’ first ultra-long-range Airbus A350-1000ULR has landed in Melbourne, Australia, after flying nonstop from Toulouse, France. The journey… The post Qantas’ ultra-long-range A350 lands in Melbourne after 19-hour…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/qantas-ultra-long-range-a350-lands-in-melbourne-after-19-hour-flight",
-    "day": "2026-07-24",
-    "img": "https://www.aerotime.aero/images/2026/07/Untitled-design-53.jpg"
-   },
-   {
-    "headline": "Air China Expands Beijing – Kuala Lumpur Flights in NW26",
-    "summary": "Published at 0200PDT / 0900GMT 24JUL26 Air China during Northern winter 2026/27 season plans to expand service to Malaysia, with the launch of 2nd daily Beijing Capital – Kuala Lumpur flight. Additional service to be…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260724-canw26kul",
-    "day": "2026-07-24",
-    "img": null
-   },
-   {
-    "headline": "Air India NW26 Delhi – New York JFK Service Increases",
-    "summary": "Published at 0100PDT / 0800GMT 24JUL26 Air India during Northern winter 2026/27 season schedules service increase on Delhi – New York JFK route, as the carrier adds 7th weekly flight from 03NOV26 to 28FEB27. Airbus…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260724-ainw26jfk",
-    "day": "2026-07-24",
-    "img": null
-   },
-   {
-    "headline": "Air India 1Q27 Delhi – Seoul Service Increases",
-    "summary": "Published at 0000PDT / 0700GMT 24JUL26 Air India in the first quarter of 2027 schedules service increase on Delhi – Seoul Incheon route, with the addition of 7th weekly flight from 04JAN27. Boeing 787-8 operates this…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260724-ai1q27icn",
-    "day": "2026-07-24",
-    "img": null
-   },
-   {
-    "headline": "United Plans 222-seater 787-9 San Francisco – Seoul Service in Sep/Oct 2026",
-    "summary": "Published at 2200PDT 23JUL26 / 0500GMT 24JUL26 United during the weekend of 23JUL26’s schedule update plans aircraft changes on San Francisco – Seoul Incheon route, as the airline schedules 222-seater Boeing 787-9…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260723-uasep26icn",
-    "day": "2026-07-24",
-    "img": null
-   },
-   {
-    "headline": "JAL Resumes Short Term Osaka – Taipei Service in Sep/Oct 2026",
-    "summary": "Published at 2100PDT 23JUL26 / 0400GMT 24JUL26 Japan Airlines (JAL) this week announced short term service resumption on Osaka Kansai – Taipei Taoyuan route, scheduled in September and October 2026. Planned operational…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260723-jlsep26tpe",
-    "day": "2026-07-24",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "London Nonstop: This Tiny Airline Launches New 11-Hour Long-Haul Flights [Map]",
+    "summary": "London Gatwick Airport's expanding African network soars to new heights with the launch of Air Zimbabwe's nonstop flights to Harare.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/london-nonstop-tiny-airline-launches-new-11-hour-flights/",
+    "day": "2026-07-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/untitled-design-91.jpg"
+   },
+   {
+    "headline": "British Airways Launches 1st-Ever Flights From Heathrow To This Destination [Map]",
+    "summary": "The announcement means that BA will fly to six destinations in Spain from Heathrow. See more here!",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/british-airways-launches-1st-ever-flights-from-heathrow-to-this-destination/",
+    "day": "2026-07-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/british-airways-airbus-a320ceo-short-final-mock-up.jpg"
+   },
+   {
+    "headline": "Singapore Airlines Posts First Quarterly Loss Since 2022 As Fuel Bill Jumps $767 Million",
+    "summary": "Singapore's flag carrier faces headwinds despite strong performance.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/singapore-airlines-first-quarterly-loss-since-2022-fuel-costs/",
+    "day": "2026-07-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/singapore-airlines-boeing-787-10.jpg"
+   },
+   {
+    "headline": "Airport Authority Hong Kong invites bids for athleisure concession in Terminal 1",
+    "summary": "The concession comprises a 75sq m unit located on Level 6 of the Departures West Hall in Terminal 1.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/airport-authority-hong-kong-invites-bids-for-athleisure-concession-in-terminal-1/?utm_source=rss&utm_medium=rss&utm_campaign=airport-authority-hong-kong-invites-bids-for-athleisure-concession-in-terminal-1",
+    "day": "2026-07-29",
+    "img": null
+   },
+   {
+    "headline": "3Sixty Duty Free inaugurates five stores at Newark Liberty International Airport Terminal B",
+    "summary": "3Sixty Duty Free continues its North American airport expansion with five store openings at Newark Liberty International Airport.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/3sixty-duty-free-inaugurates-five-stores-at-newark-liberty-international-airport-terminal-b/?utm_source=rss&utm_medium=rss&utm_campaign=3sixty-duty-free-inaugurates-five-stores-at-newark-liberty-international-airport-terminal-b",
+    "day": "2026-07-29",
+    "img": null
+   },
+   {
+    "headline": "Sensory Corner opens at Hong Kong International Airport",
+    "summary": "Hong Kong International Airport (HKG) has become the latest gateway to open a sensory area for people with hidden disabilities. Its new Sensory Corner provides a dedicated space for passengers with hidden disabilities…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/new-sensory-corner-opens-at-hong-kong-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-sensory-corner-opens-at-hong-kong-international-airport",
+    "day": "2026-07-29",
+    "img": null
+   },
+   {
+    "headline": "Ontario expands and modernizes passenger checkpoint",
+    "summary": "Ontario International Airport is updating its security screening experience with the opening of an expanded passenger checkpoint in Terminal 2, with similar enhancements scheduled to open soon in Terminal 4. Since…",
+    "source": "Passenger Terminal Today",
+    "url": "https://www.passengerterminaltoday.com/news/security/ontario-expands-and-modernizes-passenger-checkpoint.html",
+    "day": "2026-07-29",
+    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/07/ontario-e1785312774216.jpeg"
+   },
    {
     "headline": "How Delta Air Lines Quietly Built A Backup Plan For Its Longest Airbus A350 Route",
     "summary": "Why Delta Air Lines uses a lower-capacity Airbus A350 on its longest Atlanta–Johannesburg flight—and why fewer seats matter.",
@@ -1867,65 +1923,57 @@
     "url": "https://simpleflying.com/air-taxis-begin-flying-orlando-airport-later-this-year/",
     "day": "2026-07-17",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/air-taxis-orlando.jpg"
-   },
-   {
-    "headline": "United Airlines Launches 4 New Nonstop Routes From Major Hub: See Flights Now",
-    "summary": "All of them were served before, but they'll now have five daily flights between them. See them all here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/united-airlines-launches-4-new-nonstop-routes-from-major-hub/",
-    "day": "2026-07-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/12/shutterstock_2703395863-1.jpg"
-   },
-   {
-    "headline": "New: Air Niugini To Reinstate Flights To Auckland After Nearly 30-Year Hiatus",
-    "summary": "After a 28-year absence, Air Niugini is set to reignite flights between Port Moresby and Auckland, reconnecting the two cities with a direct link.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/air-niugini-reinstate-flights-auckland-nearly-30-year-hiatus/",
-    "day": "2026-07-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/air_niugini_-p2-pxc-_boeing_737-86q_arriving_at_sydney_airport-1.jpg"
-   },
-   {
-    "headline": "American Airlines Cancels Flight Minutes After Pushback Due To Suspected Engine Backfire",
-    "summary": "The 13-year-old Boeing 737-800 experienced complications, forcing its return to the gate.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-cancels-flight-minutes-pushback-engine-backfire/",
-    "day": "2026-07-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/american_airlines_boeing_737-800_n935an_-_01.jpg"
-   },
-   {
-    "headline": "United Airlines To Complete Boeing 737 MAX 8 Guam Swap Out 2 Months Earlier Than Planned",
-    "summary": "The carrier races to complete its transition in Guam two months earlier than planned.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/united-airlines-complete-boeing-737-max-8-guam-swap-out-2-months-earlier-planned/",
-    "day": "2026-07-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/united-max-8-at-sfo.jfif"
-   },
-   {
-    "headline": "United Airlines Denies Report Of Allowing Flyers To Avoid New Trump-Named Airport For Free",
-    "summary": "A memo suggesting United would allow passengers to change bookings without a fee due to the controversial airport name change was 'poorly written.'",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/united-airlines-denies-report-allowing-flyers-avoid-new-trump-named-airport-free/",
-    "day": "2026-07-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/united-express-plane-on-tarmac-at-palm-beach-international-airport-florida.jfif"
-   },
-   {
-    "headline": "Southwest Airlines Sued After Allegedly Unprotecting Woman From Unruly Passenger Inflight",
-    "summary": "The carrier is facing a lawsuit after a female passenger claims the airline did not protect her from an intoxicated male passenger.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/southwest-airlines-sued-allegedly-unprotecting-woman-unruly-passenger-inflight/",
-    "day": "2026-07-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/southwest-boeing-737-800-n8510e-at-bwi.jfif"
-   },
-   {
-    "headline": "Massive Expansion: American Airlines Launches 9 New Routes From Dallas This Summer [Map]",
-    "summary": "An interesting mixture of domestic and international corridors.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-new-dfw-routes/",
-    "day": "2026-07-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/374-american-airlines-boeing-777-200-austin-deppe-_-shutterstock.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "What An easyJet Takeover Could Mean For The European Aviation Industry",
+    "summary": "Will easyJet continue to exist as we know it today, or will its assets be sold off to the highest bidder?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/easyjet-takeover-mean-european-aviation-industry/",
+    "day": "2026-07-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/easyjet.jpg"
+   },
+   {
+    "headline": "How Much Does A Used Boeing 737 MAX Cost In 2026?",
+    "summary": "/how-much-used-boeing-737-max-cost-2026/",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-much-does-a-used-boeing-737-max-cost-in-2026/",
+    "day": "2026-07-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/boeing-737-max.jpg"
+   },
+   {
+    "headline": "COMAC’s new compact C919 variant completes first test flight in Shanghai",
+    "summary": "Commercial Aircraft Corporation of China (COMAC) has completed the maiden test flight of its new compact C919 aircraft… The post COMAC’s new compact C919 variant completes first test flight in Shanghai appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/comac-c919-600-aircraft-variant-test-flight-shanghai",
+    "day": "2026-07-29",
+    "img": "https://www.aerotime.aero/images/2026/07/COMAC-C919-standard.jpg"
+   },
+   {
+    "headline": "ANA orders eight more Embraer E190-E2s",
+    "summary": "ANA Holdings has approved an order for eight additional Embraer E190-E2 regional jets, expanding its fleet renewal programme and regional network strategy in Japan. The aircraft, approved by the company’s board on July…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/07/29/ana-orders-eight-more-embraer-e190-e2s/",
+    "day": "2026-07-29",
+    "img": null
+   },
+   {
+    "headline": "Airbus A350-1000ULR completes record 24-hour test flight",
+    "summary": "Airbus has completed the longest point-to-point flight ever undertaken by an A350-1000ULR flight-test aircraft, flying non-stop from Toulouse to Melbourne before returning to France as part of development testing for…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/07/29/airbus-a350-1000ulr-completes-record-24-hour-test-flight/",
+    "day": "2026-07-29",
+    "img": null
+   },
+   {
+    "headline": "Airbus walks line between shareholder returns and clean-sheet ambitions",
+    "summary": "Free for nonsubscribers By Howard Hardee July 28, 2026, © Leeham News: Neither half of the global airliner manufacturing duopoly emerged from the Farnborough International Airshow with a totally new trajectory, but…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/07/28/airbus-walks-line-between-shareholder-returns-and-clean-sheet-ambitions/",
+    "day": "2026-07-28",
+    "img": null
+   },
    {
     "headline": "How Much Does A Boeing 747 Engine Cost?",
     "summary": "For many 747-400 freighters, the cost of a major engine overhaul can exceed the market value of the airframe itself.",
@@ -2837,57 +2885,17 @@
     "url": "https://simpleflying.com/how-many-miles-per-gallon-f-35-actually-burn-at-full-afterburner/",
     "day": "2026-07-21",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/f-35-actually-burn.jpg"
-   },
-   {
-    "headline": "Airbus To Test Next-Gen Wing Extensions",
-    "summary": "Airbus will start flight-testing wing extensions on an A321neo test aircraft from HY2 next year to evaluate the effects of",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/airbus-to-test-next-gen-wing-extensions/",
-    "day": "2026-07-21",
-    "img": "https://airinsight.com/wp-content/uploads/2026/07/wing-of-tomorrow-wing-extension-scaled.jpg"
-   },
-   {
-    "headline": "Daher targeting record year as TBM 980 deliveries ramp up",
-    "summary": "Daher Aircraft has delivered more than 30 TBM 980s since introducing the single-engine turboprop in January 2026 and… The post Daher targeting record year as TBM 980 deliveries ramp up appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/daher-tbm-980-deliveries-record-year-airventure-2026",
-    "day": "2026-07-21",
-    "img": "https://www.aerotime.aero/images/2026/07/IMG_1280.jpeg"
-   },
-   {
-    "headline": "Pipistrel debuts MOSAIC-ready Voyager trainer at AirVenture",
-    "summary": "Pipistrel introduced a two-seat trainer called the Voyager that is designed to give flight schools day-and-night IFR capability,… The post Pipistrel debuts MOSAIC-ready Voyager trainer at AirVenture appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/pipistrel-voyager-mosaic-trainer-airventure",
-    "day": "2026-07-21",
-    "img": "https://www.aerotime.aero/images/2026/07/IMG_1296.jpeg"
-   },
-   {
-    "headline": "Elixir targets US flight schools with Elixir+ and teases larger Equinox model",
-    "summary": "French aircraft manufacturer Elixir Aircraft introduced the Elixir+ family of light trainers at EAA AirVenture Oshkosh 2026, revealing three versions of the two-seat airplane priced from… The post Elixir targets US…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/elixir-targets-us-flight-schools-elixir-plus-equinox",
-    "day": "2026-07-21",
-    "img": "https://www.aerotime.aero/images/2026/07/IMG_1290.jpeg"
-   },
-   {
-    "headline": "Major Lessor Orders 15 More Boeing 787 Dreamliners",
-    "summary": "The firm's 787 portfolio will thus increase to around 140 aircraft.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/aercap-being-787-order-farnborough/",
-    "day": "2026-07-21",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/aercap-787-9_cropped.jpg"
-   },
-   {
-    "headline": "Beechcraft Denali Certification Update",
-    "summary": "Textron aviation provided an update to the certification progress of the single-engine turboprop Beech Denali at EAA Air Venture in",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/beechcraft-denali-certification-update/",
-    "day": "2026-07-21",
-    "img": "https://airinsight.com/wp-content/uploads/2026/07/522574-BeechcraftDenali-fa5951-original-1706135518-scaled.jpg"
    }
   ],
   "finance": [
+   {
+    "headline": "DAE completes US$9bn Macquarie AirFinance takeover",
+    "summary": "Dubai Aerospace Enterprise (DAE) has completed its previously announced acquisition of Macquarie AirFinance (MAF) in a transaction with an enterprise value of about US$9 billion. The deal expands DAE’s portfolio to…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/07/29/dae-completes-us9bn-macquarie-airfinance-takeover/",
+    "day": "2026-07-29",
+    "img": null
+   },
    {
     "headline": "SIA Group posts S$76 million net loss as fuel costs surge on record revenue",
     "summary": "Singapore Airlines’ parent company posted a rare loss for the quarter ended June 30, 2026, even as the… The post SIA Group posts S$76 million net loss as fuel costs surge on record revenue appeared first on AeroTime .",
@@ -4327,6 +4335,22 @@
   ],
   "defense": [
    {
+    "headline": "Safran to prioritize French fighter engine as FCAS funding ends in September",
+    "summary": "Safran will develop only one next-generation combat aircraft engine and will prioritize French requirements, Chief Executive Officer Olivier Andriès said… The post Safran to prioritize French fighter engine as FCAS…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/safran-french-fighter-engine-fcas-funding-ends",
+    "day": "2026-07-29",
+    "img": "https://www.aerotime.aero/images/2026/07/Safran-M88-T-REX.jpg"
+   },
+   {
+    "headline": "USAF Preps Next-Gen Engine Testing Ahead of 2030 Integration onto Aircraft",
+    "summary": "The Air Force is preparing to move toward prototyping and testing a next-generation advanced engine and wants to be ready to integrate it onto an aircraft around 2030. The post USAF Preps Next-Gen Engine Testing Ahead…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/usaf-preps-next-gen-engine-testing-ahead-of-2030-integration-onto-aircraft/",
+    "day": "2026-07-29",
+    "img": "https://www.airandspaceforces.com/app/uploads/2021/11/Tirpak_GE_XA100-AB-Blog-900x600.jpg"
+   },
+   {
     "headline": "Air Force Moves to Purchase T-7 Engines, Not Boeing",
     "summary": "The Air Force plans to buy the engines for its new T-7A trainer directly instead of having Boeing, the plane’s maker, provide engines as part of its contract. The change could carry costs, but gives the service more…",
     "source": "Air & Space Forces Mag",
@@ -5269,22 +5293,6 @@
     "url": "https://www.airandspaceforces.com/space-force-could-cap-launch-support-without-extra-funding/",
     "day": "2026-07-21",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/03/ULA_SBIRS_GEO3_01_EL-900x600.jpg"
-   },
-   {
-    "headline": "Leonardo Secures Indonesian M-346F Deal, Advances AW149 Talks and Eyes Ukrainian Drone Cooperation",
-    "summary": "Leonardo will provide Indonesia with 12 M-346F Block 20 light fighter aircraft and negotiate a contract for AW149 helicopter, while looking at a potential cooperation with the Ukrainian drone industry. Leonardo and PT…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/07/21/leonardo-indonesia-m-346f-aw149/",
-    "day": "2026-07-21",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/07/P3030018.jpg"
-   },
-   {
-    "headline": "Canada Officially Joins GCAP as Observer",
-    "summary": "Italy, Japan and the UK welcomed Canada’s participation as an Observer in the Global Combat Air Programme (GCAP), marking the first expansion of the trilateral initiative. After reports in the last few weeks about…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/07/21/canada-officially-joins-gcap-as-observer/",
-    "day": "2026-07-21",
-    "img": "https://theaviationist.com/wp-content/uploads/2025/03/GCAP_Rome_crop.jpg"
    }
   ],
   "others": []
