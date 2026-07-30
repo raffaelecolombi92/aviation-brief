@@ -1,7 +1,87 @@
 {
- "generated": "2026-07-29T21:15+00:00",
+ "generated": "2026-07-30T09:36+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Why Qantas Gave Up 162 Seats On Its Airbus A350-1000ULR To Charge 20% More To London",
+    "summary": "Qantas cut 162 seats from its A350 to fit a fuel tank that reaches London nonstop. Here is why the airline thinks passengers will pay 20% more for it.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-qantas-gave-up-162-seats-airbus-a350-1000ulr-charge-20-percent-more-london/",
+    "day": "2026-07-30",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/why-qantas-gave-up-162-seats-on-its-airbus-a350-1000ulr-to-charge-20-more-to-london.jpg"
+   },
+   {
+    "headline": "Boeing 777-9 Fleet Reaches 4,800 Test Hours As 7th Airframe Will Conduct ETOPS Certification",
+    "summary": "A factory-fresh plane joins the growing fleet of the largest twinjets in the world.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/boeing-777-9-test-fleet-4800-test-hours-7th-airframe-etops-certification/",
+    "day": "2026-07-30",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/boeing-777-9.jpg"
+   },
+   {
+    "headline": "Airlines Race To Adopt AI 'Surveillance Pricing' That Could Kill Off Cheap Seats",
+    "summary": "The steady creep of AI control over airline ops continues.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airlines-ai-surveillance-pricing-cheap-seats/",
+    "day": "2026-07-30",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/delta-airlines-departing-passengers-wait-at-the-ticket-counter-in-louis-armstrong-airport.jpg"
+   },
+   {
+    "headline": "Why Is Qantas The Only Airline Flying Nonstop From Australia To Continental Europe?",
+    "summary": "Qantas' seasonal Perth to Rome flights are key routes in the airline's network.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-qantas-only-airline-flying-nonstop-australia-continental-europe/",
+    "day": "2026-07-30",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/flying-nonstop.jpg"
+   },
+   {
+    "headline": "Air Canada Maintains 787-9 Vancouver – Newark Service in April 2027",
+    "summary": "Published at 0200PDT / 0900GMT 30JUL26 Air Canada in recent schedule update reversed planned aircraft changes on Vancouver – Newark route for the month of April 2027. Previously the airline planned to operate Airbus…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260730-acapr27yvrewr",
+    "day": "2026-07-30",
+    "img": null
+   },
+   {
+    "headline": "Turkish Airlines Resumes Minsk From late-Sep 2026",
+    "summary": "Published at 0115PDT / 0815GMT 30JUL26 Turkish Airlines from late-September 2026 plans to resume service to Belarus, last served until 2022. The Star Alliance member will operate Istanbul – Minsk route 6 weekly service…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260730-tksep26msq",
+    "day": "2026-07-30",
+    "img": null
+   },
+   {
+    "headline": "RAM Extends Selected Central Africa Suspension to late-3Q26",
+    "summary": "Published at 0000PDT / 0700GMT 30JUL26 Royal Air Maroc (RAM) this week extends service suspension on selected routes to Central Africa, tentatively scheduled to resume in September 2026 at the earliest. Further changes…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260730-at3q26",
+    "day": "2026-07-30",
+    "img": null
+   },
+   {
+    "headline": "Frontier Airlines Credits “Favorable Competitive Capacity” For $1.28 Billion Q2 Earnings",
+    "summary": "The record revenue number represents a 38% increase compared to Q2 2025.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/frontier-airlines-favorable-competitve-capacity-q2-earnings/",
+    "day": "2026-07-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/201909-frontier-woodson-493-1.jpg"
+   },
+   {
+    "headline": "Which Airline Introduced Lie-Flat Business Class Seats To The World?",
+    "summary": "This has now become the standard, narrowing the gap to first class.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/which-airline-introduced-lie-flat-business-class-seats-world/",
+    "day": "2026-07-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/business-class-1.jpg"
+   },
+   {
+    "headline": "PIA Shortens Islamabad – Beijing Service in 3Q26",
+    "summary": "Published at 1500PDT / 2200GMT 29JUL26 Pakistan International Airlines (PIA) in recent weeks shortened planned operations on Islamabad – Beijing Capital route, which was resumed on 03JUL26. The airline will suspend this…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260729-pk3q26pek",
+    "day": "2026-07-29",
+    "img": null
+   },
    {
     "headline": "This Airline's Business Class Has A Wider Bed Than Award-Winning Qatar Airways' Qsuite",
     "summary": "Qsuite may no longer be the clear winner for business class excellence, as ANA is proving that space can feel almost unlimited in The Room.",
@@ -881,89 +961,25 @@
     "url": "https://www.aeroroutes.com/eng/260725-g9nw26lgw",
     "day": "2026-07-25",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Air Tahiti Restores Additional Ua Pou – Ua Huka Frequencies From 2H26",
-    "summary": "Published at 1400PDT / 2100GMT 25JUL26 Air Tahiti since the launch of Northern summer 2026 season restored 2nd weekly service on Ua Pou – Ua Huka route, operated by ZIMEX Aviation DHC6-300. The 2nd weekly nonstop flight…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260725-vt2h26uapuah",
-    "day": "2026-07-25",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Air Marshall Islands early-Aug 2026 Cessna SkyCourier Operations",
-    "summary": "Published at 1130PDT / 1830GMT 25JUL26 Air Marshall Islands in early-August 2026 schedules one-time Cessna 408 SkyCourier service on Majuro – Kwajalein route, operating as CW400/401 on 04AUG26. Planned operational…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260725-cwaug26cs4",
-    "day": "2026-07-25",
-    "img": null
-   },
-   {
-    "headline": "Only 64 Miles: American Airlines' 11 New Ultra-Short International Flights [Map]",
-    "summary": "Experience the thrill of flying on some of the world's shortest international flights, from Miami to the Bahamas and beyond.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/64-miles-american-airlines-11-new-ultra-short-international-flights/",
-    "day": "2026-07-25",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/american-airlines-aa-e175-miami.jpg"
-   },
-   {
-    "headline": "The Highest Paid Airline CEOs & What They Earn Annually",
-    "summary": "Four out of the top five work at US airlines.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/highest-paid-airline-ceos-what-they-earn-annually/",
-    "day": "2026-07-25",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/the-highest-paid-airline-ceos-what-they-earn-annually.jpg"
-   },
-   {
-    "headline": "United To Block Some A321XLR Middle Seats To Fly With 3 Flight Attendants, Not 4",
-    "summary": "United Airlines may be installing some peculiar-looking rows of seats in the new Airbus A321XLR's economy section. The extra-long-range A321neo narrowbody jets can carry more than 200 flyers in higher-density layouts…",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/video/united-to-block-some-a321xlr-middle-seats-to-fly-with-3-flight-attendants-not-4/",
-    "day": "2026-07-25",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/united-block-seats.jpg"
-   },
-   {
-    "headline": "5 Premium Economy Cabins Satisfying Enough That Passengers Rarely Miss Business Class",
-    "summary": "The gap between premium economy and business class is getting narrower, and these five carriers are bringing their own takes to the mid tier cabin",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/5-premium-economy-cabins-satisfying-passengers-rarely-miss-business-class/",
-    "day": "2026-07-25",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/5-premium-economy-cabins-so-good-that-passengers-rarely-miss-business-class.jpg"
-   },
-   {
-    "headline": "Fly Cham Adds Damascus – Tripoli Service in NS26",
-    "summary": "Published at 2100PDT 24JUL26 / 0400GMT 25JUL26 Fly Cham earlier this year launched service to Libya, where the airline operates 1 weekly Damascus – Tripoli Mitiga flight. First flight was scheduled on 25APR26, on board…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260724-xhns26mji",
-    "day": "2026-07-25",
-    "img": null
-   },
-   {
-    "headline": "EVA Air NW26 Taipei – Kobe Service Increases",
-    "summary": "Published at 2030PDT 24JUL26 / 0330GMT 25JUL26 Star Alliance member EVA Air during Northern winter 2026/27 season plans to increase service on Taipei Taoyuan – Kobe route, where the carrier continues to operate 10…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260724-brnw26ukb",
-    "day": "2026-07-25",
-    "img": null
-   },
-   {
-    "headline": "AirAsia X NW26 Kuala Lumpur – Beijing Service Changes",
-    "summary": "Published at 2000PDT 24JUL26 / 0300GMT 25JUL26 AirAsia X in recent schedule update extended service reductions on Kuala Lumpur – Beijing Daxing route into Northern winter 2026/27 season. From 25OCT26, the airline will…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260724-d7nw26pkx",
-    "day": "2026-07-25",
-    "img": null
-   },
-   {
-    "headline": "Saudia Expands flyadeal International Codeshare in 3Q26",
-    "summary": "Published at 1930PDT 24JUL26 / 0230GMT 25JUL26 Saudia this month further expands codeshare partnership with flyadeal, covering the latter’s various international routes. Following codeshare routes gradually commences…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260724-svf3codeshare",
-    "day": "2026-07-25",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "Near 'Hull Loss': British Airways Captain Intervened After First Officer's 3,000ft Blunder",
+    "summary": "A British Airways flight declared a PAN PAN before upgrading to a MAYDAY after experiencing an Air Data Reference failure during its approach.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/british-airways-captain-intervened-first-officer-stall/",
+    "day": "2026-07-30",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/101-british-airways-airbus-a320-airlinephoto-_-shutterstock.jpg"
+   },
+   {
+    "headline": "United, Dulles Airport unveil $20 billion overhaul including new concourses",
+    "summary": "United Airlines announced that it is partnering with the Metropolitan Washington Airports Authority and the US Department of… The post United, Dulles Airport unveil $20 billion overhaul including new concourses appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/united-dulles-airport-unveil-20-billion-overhaul-including-new-concourses",
+    "day": "2026-07-30",
+    "img": "https://www.aerotime.aero/images/2026/07/Untitled-design-65.jpg"
+   },
    {
     "headline": "22-Hour Flights: United Airlines' 13 New Longest Boeing 787 Routes [Full List]",
     "summary": "They are from five hubs across the country. Find out the longest links here!",
@@ -1907,25 +1923,49 @@
     "url": "https://airport-world.com/building-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=building-resilience",
     "day": "2026-07-20",
     "img": null
-   },
-   {
-    "headline": "Brisbane Airport opens plane-spotting area, Fellowship Place",
-    "summary": "Brisbane Airport’s new plane-spotting destination, Fellowship Place, opened to the public on Sunday, July 19, marking the airport’s centenary. The purpose-built site offers an elevated viewing platform with less…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/passenger-experience/brisbane-airport-opens-plane-spotting-area-fellowship-place.html",
-    "day": "2026-07-20",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/07/brisbane-e1784543221587.jpeg"
-   },
-   {
-    "headline": "Smiths Detection wins ENAC certification for APIDS on Hi-Scan 6040 CTiX",
-    "summary": "Smiths Detection has received certification from the Italian Civil Aviation Authority (ENAC) for its iCmore Automatic Prohibited Items Detection System (APIDS) algorithm, covering use with OneTray and Cassioli trays on…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/security/smiths-detection-wins-enac-certification-for-apids-on-hi-scan-6040-ctix.html",
-    "day": "2026-07-20",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/07/smiths-e1784542844775.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Airbus Vs Boeing: Who Won At The 2026 Farnborough Airshow?",
+    "summary": "The two major manufacturers traded blows at the show, with both announcing significant orders in the early salvos.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-vs-boeing-farnborough-airshow-2026/",
+    "day": "2026-07-30",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/shutterstock_176575937_cropped.jpg"
+   },
+   {
+    "headline": "For the next narrowbody, what are the airframe efficiency gains?",
+    "summary": "Subscription required By Bjorn Fehrm July 30, 2026, © Leeham News: We looked at the expected efficiency gains from new engines for the next-generation narrowbody last week. Now we continue by looking at how new…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/07/30/for-the-next-narrowbody-what-are-the-airframe-efficiency-gains/",
+    "day": "2026-07-30",
+    "img": null
+   },
+   {
+    "headline": "WLFC secures engine storage agreement with Pratt & Whitney",
+    "summary": "Willis Lease Finance Corporation (WLFC) has secured a five-year agreement with Pratt & Whitney, an RTX business, to provide long-term storage and lease return services for PW1100G-JM, PW1500G, PW1900G, PW4000 and IAE AG…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/07/30/wlfc-signs-pratt-whitney-storage-deal/",
+    "day": "2026-07-30",
+    "img": null
+   },
+   {
+    "headline": "The Airbus Jet Being Squeezed To Death Between The A220 & The A321neo",
+    "summary": "A closer look at why the smallest variant of the A320neo family is not selling.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-jet-squeezed-death-between-a220-a321neo/",
+    "day": "2026-07-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/the-airbus-jet-being-squeezed-to-death-between-the-a220-the-a321neo.jpg"
+   },
+   {
+    "headline": "Airbus’ full-year guidance back on track after record aircraft delivery pace in Q2",
+    "summary": "Free for nonsubscribers By Karl Sinclair July 29, 2026, © Leeham News: Airbus reported on July 29 a reinforced commitment to hit targets of 870 aircraft deliveries, adjusted EBIT (earnings before interest and taxes) of…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/07/29/airbus-full-year-guidance-back-on-track-after-record-aircraft-delivery-pace-in-q2/",
+    "day": "2026-07-29",
+    "img": null
+   },
    {
     "headline": "How Much A Boeing 747 Actually Costs Airlines To Operate Per Hour In 2026",
     "summary": "The true cost of flying a Boeing 747 isn't one number. Learn why airlines and charter operators pay dramatically different rates.",
@@ -2845,46 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/boc-aviation-confirms-order-for-up-to-220-pratt-whitney-gtf-engines",
     "day": "2026-07-22",
     "img": "https://www.aerotime.aero/images/2026/07/Untitled-design-44.jpg"
-   },
-   {
-    "headline": "Tigerair Taiwan picks Pratt & Whitney GTF engines to power 15 more A321neos",
-    "summary": "Tigerair Taiwan has signed a Memorandum of Understanding (MoU) with Pratt & Whitney for GTF engines to power… The post Tigerair Taiwan picks Pratt & Whitney GTF engines to power 15 more A321neos appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/tigerair-taiwan-picks-pratt-whitney-gtf-engines-to-power-15-more-a321neos",
-    "day": "2026-07-22",
-    "img": "https://www.aerotime.aero/images/2026/07/Untitled-design-43.jpg"
-   },
-   {
-    "headline": "Boeing lands fresh orders from AerCap, Luxair and Uganda Airlines",
-    "summary": "Boeing has announced a series of new aircraft commitments from AerCap, Luxair and Uganda Airlines, strengthening demand for its 737 MAX and 787 Dreamliner programmes. Aircraft lessor AerCap has placed an order for 15…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/22/boeing-lands-fresh-orders-from-aercap-luxair-and-uganda-airlines/",
-    "day": "2026-07-22",
-    "img": null
-   },
-   {
-    "headline": "Airbus launches Wing of Tomorrow flight campaign",
-    "summary": "Airbus is launching a new flight-test campaign to evaluate high-span wings for future single-aisle aircraft, marking the next phase of its ‘Wing of Tomorrow’ research and technology programme. Over the next three years…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/22/airbus-launches-wing-of-tomorrow-flight-campaign/",
-    "day": "2026-07-22",
-    "img": null
-   },
-   {
-    "headline": "Rolls-Royce books new Trent engine business",
-    "summary": "Rolls-Royce has secured new Trent engine commitments from Somon Air and Philippine Airlines, strengthening its wide-body order book. Tajikistan’s Somon Air has selected four Trent 1000 XE engines to power two new Boeing…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/22/rolls-royce-books-new-trent-engine-business/",
-    "day": "2026-07-22",
-    "img": null
-   },
-   {
-    "headline": "StandardAero signs LEAP engine support deal with Avolon",
-    "summary": "StandardAero has signed a multi-year agreement with aircraft lessor Avolon to provide CFM International LEAP-1A and LEAP-1B engine maintenance services for the leasing company’s customers. The LeaseTEAM agreement gives…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/22/standardaero-signs-leap-engine-support-deal-with-avolon/",
-    "day": "2026-07-22",
-    "img": null
    }
   ],
   "finance": [
@@ -3130,6 +3130,22 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "Premier Private Jets revamps jet card, expands fleet",
+    "summary": "Premier Private Jets cuts peak days and pet fees for jet card members as it adds a midsize Hawker850XP to its fleet The post Premier Private Jets revamps jet card, expands fleet appeared first on Private Jet Card…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/07/29/premier-private-jets-revamps-jet-card-expands-fleet/",
+    "day": "2026-07-29",
+    "img": null
+   },
+   {
+    "headline": "PlaneSense launches financing option for fractional shares",
+    "summary": "The program with KSD Capital enables new and current PlaneSense fractional owners to finance shares of the Pilatus PC-12 and PC-24 The post PlaneSense launches financing option for fractional shares appeared first on…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/07/29/planesense-ksd-financing/",
+    "day": "2026-07-29",
+    "img": null
+   },
    {
     "headline": "FlyExclusive expands facilities at Kinston, North Carolina base",
     "summary": "FlyExclusive plans to expand its operations at Global Transpark in Kinston after securing a $30 million state grant The post FlyExclusive expands facilities at Kinston, North Carolina base appeared first on Private Jet…",
@@ -4399,6 +4415,54 @@
   ],
   "defense": [
    {
+    "headline": "Why The US Air Force's New Combat Drone Still Can't Fire Without A Human's Approval",
+    "summary": "Anduril's YFQ-44A Fury drone recently destroyed a target proving its capability, yet a human must remain in the loop for future operations.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-usaf-new-combat-drone-still-cant-fire-without-human-approval/",
+    "day": "2026-07-30",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/drone-cover-image.jpg"
+   },
+   {
+    "headline": "Poland scrambles F-16 after unidentified object crashes in Lublin region",
+    "summary": "A Polish Air Force F-16 was scrambled in the early hours of July 30, 2026, after radar detected… The post Poland scrambles F-16 after unidentified object crashes in Lublin region appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/poland-f16-unidentified-object-lublin",
+    "day": "2026-07-30",
+    "img": "https://www.aerotime.aero/images/2025/06/Two-Polish-air-force-F-16-Fighting-Falcon-fighter-jets.jpg"
+   },
+   {
+    "headline": "Experts See Urgent Need to Defend Bases from Drone Attack. Here’s What USAF Is Doing",
+    "summary": "The Air Force is racing to create a “Point Defense” force of Airmen, specially trained and equipped to protect air bases from unmanned attack more effectively than ever before. But in a new report, an expert says even…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/air-force-experts-strategies-defend-bases-drone-attack/",
+    "day": "2026-07-30",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/Point-Defense-Battle-Lab-C-UAS-execise-900x600.jpeg"
+   },
+   {
+    "headline": "Space Force to Launch 18 Comms and Targeting Missions by End of 2027",
+    "summary": "The Space Force awarded SpaceX a $1.6 billion contract to conduct 18 launches for communications and targeting satellites by the end of 2027. The post Space Force to Launch 18 Comms and Targeting Missions by End of 2027…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/space-force-to-launch-18-comms-targeting-missions-by-end-of-2027/",
+    "day": "2026-07-29",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/06/Gy2VQb4acAAQCOw-scaled-1-e1781182806152-900x600.jpeg"
+   },
+   {
+    "headline": "Air Force Eyes a Busy 2027 to Resolve KC-46 Vision System Issues",
+    "summary": "After years of struggling to get the KC-46A Pegasus an updated and improved remote vision system for aerial refueling, Air Force officials say the end of the saga is in sight. The post Air Force Eyes a Busy 2027 to…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/air-force-2027-kc-46-vision-system-struggles/",
+    "day": "2026-07-29",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/9673189-900x600.jpg"
+   },
+   {
+    "headline": "CCAs Head to Air Force’s Main Drone Base for Exercise",
+    "summary": "Both the YFQ-42A and YFQ-44A Collaborative Combat Aircraft headed to Creech Air Force Base, Nev., last week for an exercise focused on employing the semi-autonomous drones in more austere environments. The post CCAs…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/ccas-creech-air-forces-drone-base-exercise/",
+    "day": "2026-07-29",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/260720-F-NV774-1009-900x600.jpeg"
+   },
+   {
     "headline": "Air Force plans downselect for second CCA batch next year",
     "summary": "A separate competition to replace the MQ-9A Reaper is expected to kick off a concept refinement stage early in the next fiscal year, according to an Air Force official.",
     "source": "Breaking Defense",
@@ -5309,54 +5373,6 @@
     "url": "https://theaviationist.com/2026/07/22/bae-systems-unveils-brontanax/",
     "day": "2026-07-22",
     "img": "https://theaviationist.com/wp-content/uploads/2026/07/Brontanax-cover.jpeg"
-   },
-   {
-    "headline": "Turkish Aerospace CEO: US cleared KAAN fighter engines for export",
-    "summary": "“The rest is standard procedures. So we can say yes, we have the export license for the engine. We will work with GE folks to get the engines in time, and since it is for the serial production, which is at least two and…",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/07/turkish-aerospace-ceo-us-cleared-kaan-fighter-engines-for-export/",
-    "day": "2026-07-22",
-    "img": null
-   },
-   {
-    "headline": "Collaborative Combat Aircraft need to be more than a flying weapons magazine",
-    "summary": "[Sponsored] Capabilities, cost and autonomy are top of mind concerns for developing effective unmanned aircraft.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/07/collaborative-combat-aircraft-need-these-systems-to-be-more-than-a-flying-weapons-magazine/",
-    "day": "2026-07-22",
-    "img": null
-   },
-   {
-    "headline": "BAE unveils Brontanax, a UK-designed CCA drone",
-    "summary": "The Brontanax drone, roughly the size of a BAE Hawk trainer jet, was unveiled by newly installed Defence Secretary Wes Streeting.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/07/bae-unveils-brontanax-a-uk-designed-cca-drone/",
-    "day": "2026-07-22",
-    "img": null
-   },
-   {
-    "headline": "Mothership Sought By Navy For Southern Command Operations",
-    "summary": "The ship will be capable of launching and recovering helicopters, drones and small boats, and acting as a sea base for operations. The post Mothership Sought By Navy For Southern Command Operations appeared first on TWZ…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/sea/mothership-sought-by-navy-for-southern-command-operations",
-    "day": "2026-07-22",
-    "img": "https://www.twz.com/wp-content/uploads/2026/07/Kellie-Chouest.jpg?quality=85"
-   },
-   {
-    "headline": "UK’s BAE enters uncrewed fighter competition with ‘Brontanax’",
-    "summary": "BAE Systems revealed a new unmanned fighter jet on Wednesday, boosting Britain’s entry into one of the defense industry’s hottest markets.",
-    "source": "Defense News",
-    "url": "https://www.defensenews.com/global/europe/2026/07/22/uks-bae-enters-uncrewed-fighter-competition-with-brontanax/",
-    "day": "2026-07-22",
-    "img": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3UG4IIZMYZHPRDOCQ2G3UTONBM.jpg"
-   },
-   {
-    "headline": "The US Air Force Just Spent $143 Million On Software To Keep Its 1960s-Era C-5 Galaxy Flying",
-    "summary": "The massive C-5 Galaxy will remain in service until 2050, as currently projected.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/usaf-spent-143-million-software-keep-1960s-c-5-galaxy-flying/",
-    "day": "2026-07-22",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/143-million-on-software.jpg"
    }
   ],
   "others": []
