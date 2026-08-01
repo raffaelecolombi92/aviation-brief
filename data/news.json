@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-01T07:53+00:00",
+ "generated": "2026-08-01T12:15+00:00",
  "sections": {
   "network": [
    {
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "Why The Airbus A321XLR Can Reach City Pairs That Ground Every Other Narrowbody",
+    "summary": "Discover how the Airbus A321XLR's unique fuel tank unlocks 11-hour flights, opening profitable long-haul routes beyond every other narrowbody.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-airbus-a321xlr-reach-city-pairs-ground-every-other-narrobody/",
+    "day": "2026-08-01",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/airbus-a321xlr-1.jpg"
+   },
+   {
     "headline": "US Marine Corps F-35B Stealth Fighter Crashes In San Diego, Pilot Ejects Safely",
     "summary": "A Marine pilot survived after ejecting from an F-35B that crashed near Miramar.",
     "source": "Simple Flying",
@@ -2877,14 +2885,6 @@
     "url": "https://leehamnews.com/2026/07/24/bjorns-corner-aircraft-structures-part-11-composite-allowables/",
     "day": "2026-07-24",
     "img": null
-   },
-   {
-    "headline": "If Aviation Were A Country, It Would Rank As The World's 4th Largest Economy",
-    "summary": "Representing 3.9% GDP equivalent, the aviation sector has enormous economic might and a range of non-economic social impacts",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/aviation-country-4th-largest-economy/",
-    "day": "2026-07-23",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/aviation-economy.jpg"
    }
   ],
   "finance": [
