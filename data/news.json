@@ -1,7 +1,31 @@
 {
- "generated": "2026-08-02T12:41+00:00",
+ "generated": "2026-08-02T18:14+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "British Airways Just Broke Decades Of CFM Loyalty To Put Pratt & Whitney GTFs On Over 60 Airbus Jets",
+    "summary": "The airline's decision to introduce Pratt & Whitney's geared turbofan engine into its Airbus A320neo fleet marks a significant strategic shift.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/british-airways-broke-decades-cfm-loyalty-pratt-whitney-gtf-over-60-airbus-jets/",
+    "day": "2026-08-02",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/whitney-gtf.jpg"
+   },
+   {
+    "headline": "11-Hour Nonstop Flights: Delta's 10 New Longest Boeing 767 Routes Revealed",
+    "summary": "These routes are concentrated out of two of Delta's main hubs.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/delta-air-lines-longest-boeing-767-routes/",
+    "day": "2026-08-02",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/311-delta-air-lines-boeing-767-400-markus-mainka-_-shutterstock.jpg"
+   },
+   {
+    "headline": "Brazil approves American Airlines’ $100M investment in Azul",
+    "summary": "Brazil’s competition authority has cleared American Airlines’ planned investment in Azul, allowing the US carrier to acquire a… The post Brazil approves American Airlines’ $100M investment in Azul appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/brazil-approves-american-airlines-100m-investment-in-azul",
+    "day": "2026-08-02",
+    "img": "https://www.aerotime.aero/images/2026/06/Azul-Airbus-A330neo.jpg"
+   },
    {
     "headline": "How Much Does It Cost To Upgrade To Premium Economy?",
     "summary": "The cabin upgrade can come at a premium.",
@@ -937,33 +961,17 @@
     "url": "https://www.aeroroutes.com/eng/260729-jj3q26295",
     "day": "2026-07-29",
     "img": null
-   },
-   {
-    "headline": "KLM Lists One-Time A350 Chicago Service in July 2027",
-    "summary": "Published at 0400PDT / 1100GMT 29JUL26 KLM in recent schedule update filed one-time one-way Airbus A350-900 operation on Amsterdam – Chicago O'Hare route. The one-time flight is scheduled on 22JUL27, replacing 787-10.…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260729-kljul27ord",
-    "day": "2026-07-29",
-    "img": null
-   },
-   {
-    "headline": "How Qatar Airways Turned Retired Widebodies Into A Backup Fleet To Cover Its Grounded Airbus A350s",
-    "summary": "In times of fleet groundings, few options are left available. Qatar Airways turned to its 'past mistakes' and proved that having a backup is vital.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-qatar-airways-turned-retired-widebodies-backup-fleet-cover-grounded-airbus-a350s/",
-    "day": "2026-07-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/qatar-airways-widebody.jpg"
-   },
-   {
-    "headline": "American Airlines Briefly Grounds Every Flight After Nationwide IT Outage",
-    "summary": "The entire fleet was grounded as a technology failure hit during the peak evening rush hour.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-nationwide-ground-stop-it-outage/",
-    "day": "2026-07-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/816-american-airlines-boeing-777-200-austin-deppe-_-shutterstock.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "PBI Is Now DJT: What The Trump Airport Name Change Means For Travelers",
+    "summary": "Palm Beach's PBI airport code becomes DJT on August 18. Here's what the historic airport code change means for flights, bookings, and travelers.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/pbi-now-djt-what-trump-airport-name-change-means/",
+    "day": "2026-08-02",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/shutterstock_2816703791_cropped.jpg"
+   },
    {
     "headline": "22-Hour Flights: Turkish Airlines Unveils This New Ultra-Long Route [Map]",
     "summary": "Turkish Airlines' decision to reroute its Istanbul to Sydney flights through Singapore has caught the attention of aviation enthusiasts.",
@@ -1915,17 +1923,41 @@
     "url": "https://simpleflying.com/miami-international-airport-land-buying-spree-future-growth/",
     "day": "2026-07-22",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/10/shutterstock_2415757359-1.jpg"
-   },
-   {
-    "headline": "Where Can You Fly Now? 11 Can't-Miss Nonstop Routes Launching This Week [Full List]",
-    "summary": "See which notable examples made the list this week!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/notable-airline-routes-216/",
-    "day": "2026-07-22",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/qatar-airways-mock-up.png"
    }
   ],
   "fleet": [
+   {
+    "headline": "Why No Aircraft Boeing Or Airbus Is Building Can Replace The 747-400F's Nose Door",
+    "summary": "The 747-400F is iconic for many reasons, but its nose door may be the best of all. Why is the nose door not seeing a comeback on newer cargo models?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-no-aircraft-boeing-airbus-building-replace-747-400f-nose-door/",
+    "day": "2026-08-02",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/747-400f.jpg"
+   },
+   {
+    "headline": "Why No Crewed Aircraft Has Beaten The SR-71's Speed Or Altitude Records In 26 Years",
+    "summary": "The SR-71 was an essential aircraft of the Cold War, since then, its record for speed and ceiling has never been broken by a manned aircraft.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-no-crewed-aircraft-beaten-sr-71-speed-altitude-records-26-years/",
+    "day": "2026-08-02",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/sr-71-cover.jpg"
+   },
+   {
+    "headline": "How Many Miles Per Gallon Does A Boeing 737 MAX Get Per Passenger Compared To An Airbus A321neo?",
+    "summary": "The A321neo and Boeing 737 MAX both have solid reviews from a passenger perspective, but which aircraft truly reigns supreme in terms of MPG?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-many-mpg-boeing-737-max-per-passenger-airbus-a321neo/",
+    "day": "2026-08-02",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/boeing-737-max.jpg"
+   },
+   {
+    "headline": "13 Dead After Cessna Grand Caravan Sightseeing Flight Crashes Near Peru's Nazca Lines",
+    "summary": "Eleven foreign tourists and two Peruvian pilots lost their lives after the aircraft was engulfed in flames upon impact.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/cessna-grand-caravan-crash-peru-nazca-lines-13-dead/",
+    "day": "2026-08-02",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/cessna-208b-grand-caravan.jpg"
+   },
    {
     "headline": "Qantas Airbus A350-1000ULR Flies For 43 Hours Across 2 Test Flights",
     "summary": "Airbus and Qantas have made history by operating their longest-ever nonstop test flight with the new A350-1000ULR that will eventually be used to link eastern Australia with Europe and New York. The momentous test…",
@@ -2853,38 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/turbotech-regenerative-turbine-light-aircraft",
     "day": "2026-07-24",
     "img": "https://www.aerotime.aero/images/2026/07/f0d1c85cd494a6928530aec484451933936d23f64a615ffe144b45d854996f0e-2048x1365-1.jpeg"
-   },
-   {
-    "headline": "Why Airlines Will Need Over 42,000 New Passenger Jets In The Next 20 Years",
-    "summary": "Airbus forecasts 42,060 new passenger aircraft deliveries over the next 20 years. Here is what is driving the demand.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/42000-new-passenger-aircraft-2045/",
-    "day": "2026-07-24",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/airubs-1.avif"
-   },
-   {
-    "headline": "Airbus CEO begrudgingly thinks the dollar is still the best way to sell airplanes",
-    "summary": "LONDON — As Europe aggressively advances its sovereign defense capabilities amid fraught transatlantic relations, Airbus continues to reluctantly accept the necessity of pricing its aircraft in the still-dominant U.S.…",
-    "source": "The Air Current",
-    "url": "https://theaircurrent.com/analysis/airbus-guillame-faury-dollar-euro-commercial-airplanes/",
-    "day": "2026-07-24",
-    "img": "https://theaircurrent.com/wp-content/uploads/2026/07/airbus-united-a321xlr-emirates-a350-fia-2026.jpg"
-   },
-   {
-    "headline": "Why This Country Is Quietly Expanding Its Eurofighter Fleet While Also Buying More F-35s",
-    "summary": "Germany is purchasing the F-35A and the Eurofighter for two very important strategic reasons. Both will contribute to the over all security of Europe.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-country-quietly-expanding-eurofighter-fleet-also-buying-more-f-35s/",
-    "day": "2026-07-24",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/cover-pic.jpg"
-   },
-   {
-    "headline": "Why Airbus Just Quietly Shelved Its Next All-New Aircraft Until At Least 2031",
-    "summary": "For decades, Airbus and Boeing have shaped commercial aviation through successive aircraft. From the Airbus A300 in the 1970s and the Airbus A380 to the Boeing 777 family, both manufacturers have redefined airline…",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/video/why-airbus-just-quietly-shelved-its-next-all-new-aircraft-until-at-least-2031/",
-    "day": "2026-07-24",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/54_lh_why-airbus-quietly-shelved-next-all-new-aircraft-2031_h_site-copy.jpg"
    }
   ],
   "finance": [
@@ -4575,6 +4575,38 @@
   ],
   "defense": [
    {
+    "headline": "The Striking Differences Pilots Notice Between The F-15 Eagle & The F-35 Lightning II",
+    "summary": "F-15 vs F-35: two powerful fighter jets built for different eras. One dominates with speed and firepower, the other with stealth, sensors, and data.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/striking-differences-between-f-15-f-35-lightning-ii/",
+    "day": "2026-08-02",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/the-striking-differences-pilots-notice-between-the-f-15-eagle-the-f-35-lightning-ii.jpg"
+   },
+   {
+    "headline": "Why \"Attritable\" Is the Most Important Word In Air Combat Right Now",
+    "summary": "Air forces now realize they need numerous and expendable munitions and aircraft platforms in conjunction with high-end fighter jets and missiles.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-attritable-most-important-word-air-combat-right-now/",
+    "day": "2026-08-02",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/why-attritable-is-the-most-important-word-in-air-combat-right-now.jpg"
+   },
+   {
+    "headline": "How Germany Has Quietly Funded More F-35s While Publicly Debating Its Fighter Future",
+    "summary": "The Luftwaffe needed the F-35 and Berlin complied. With the death of FCAS, where does this leave Germany and its sixth-generation aspirations?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-germany-quietly-funded-more-f-35s-publicly-debating-fighter-future/",
+    "day": "2026-08-02",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/f-35-cover.jpg"
+   },
+   {
+    "headline": "Ukraine claims drone attack on Russian air defense network",
+    "summary": "Ukraine claimed to have damaged multiple Russian air defense and radar installations during a long-range drone strike in… The post Ukraine claims drone attack on Russian air defense network appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/ukraine-claims-drone-attack-on-russian-air-defense-network",
+    "day": "2026-08-02",
+    "img": "https://www.aerotime.aero/images/2026/08/Ukraine-attacks-on-Russian-air-defense-network.jpg"
+   },
+   {
     "headline": "Congress Just Added $897 Million To Pick The Fighter Replacing The US Navy's Super Hornet",
     "summary": "The Navy's accelerating next-gen fighter plan.",
     "source": "Simple Flying",
@@ -5501,38 +5533,6 @@
     "url": "https://breakingdefense.com/2026/07/what-we-learned-about-gcap-at-the-farnborough-airshow/",
     "day": "2026-07-24",
     "img": null
-   },
-   {
-    "headline": "More Of The UK’s Stealth Fighter Demonstrator Revealed In New Images",
-    "summary": "We are getting better insights into the configuration of the demonstrator jet that will inform the design of the upcoming Tempest fighter. The post More Of The UK’s Stealth Fighter Demonstrator Revealed In New Images…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/more-of-the-uks-stealth-fighter-demonstrator-revealed-in-new-images",
-    "day": "2026-07-24",
-    "img": "https://www.twz.com/wp-content/uploads/2026/07/DEMO-JET-BAE-SYSTEMS.jpg?quality=85"
-   },
-   {
-    "headline": "Pathway To Larger B-21 Raider Fleet Was Baked Into Production Ramp-Up Deal",
-    "summary": "The USAF previously framed the B-21 production boost deal as simply helping accelerate fielding of the bombers next year. The post Pathway To Larger B-21 Raider Fleet Was Baked Into Production Ramp-Up Deal appeared…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/pathway-to-larger-b-21-raider-fleet-was-baked-into-production-ramp-up-deal",
-    "day": "2026-07-24",
-    "img": "https://www.twz.com/wp-content/uploads/2026/07/pathway-open-for-b-21-raider-fleet-expansion.jpg?quality=85"
-   },
-   {
-    "headline": "Romanian F-16 shoot down drone in country’s airspace, Italian Eurofighters join",
-    "summary": "The President of Romania, Nicușor Dan, has confirmed that a Romanian Air Force F-16 shot down a drone… The post Romanian F-16 shoot down drone in country’s airspace, Italian Eurofighters join appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/romanian-f-16-shot-down-drone-airspace-italian-eurofighters-join",
-    "day": "2026-07-24",
-    "img": "https://www.aerotime.aero/images/Romanian-Air-Force-F-16-e1751009708360.jpg"
-   },
-   {
-    "headline": "Summer at USAFA: Behind the Scenes of Basic Cadet Training",
-    "summary": "Air & Space Forces Magazine went behind the scenes for Basic Cadet Training at the U.S. Air Force Academy to see the enduring traditions—and changes—up close. The post Summer at USAFA: Behind the Scenes of Basic Cadet…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/summer-usafa-basic-cadet-training/",
-    "day": "2026-07-24",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/9771177-900x600.jpg"
    }
   ],
   "others": []
