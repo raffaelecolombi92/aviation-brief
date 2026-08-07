@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-07T04:51+00:00",
+ "generated": "2026-08-07T07:06+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,22 @@
   ],
   "airports": [
    {
+    "headline": "Minneapolis-St. Paul Operations Resume After ATC Outage Grounds Flights Across The Midwest",
+    "summary": "Air travel gets back to normal in the Twin Cities.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/minneapolis-st-paul-operations-resume-atc-outage-grounds-flights-midwest/",
+    "day": "2026-08-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/ground-operations-at-minneapolis-saint-paul-international-the-largest-and-busiest-airport-in-the-upper-midwest.jpg"
+   },
+   {
+    "headline": "Avolta drives Caribbean expansion with majority stake in Penha Duty Free Group",
+    "summary": "Backed by long-term concession agreements, Penha Duty Free Group adds a resilient, multi-channel Caribbean business to Avolta’s global portfolio.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/avolta-drives-caribbean-expansion-with-majority-stake-in-penha-duty-free-group/?utm_source=rss&utm_medium=rss&utm_campaign=avolta-drives-caribbean-expansion-with-majority-stake-in-penha-duty-free-group",
+    "day": "2026-08-07",
+    "img": null
+   },
+   {
     "headline": "No Job Cuts For 12 Months: US Private Equity Firm Plans Out easyJet’s £5.7 Billion Takeover",
     "summary": "Apollo’s £5.7 billion takeover will reshape easyJet’s ownership, workforce and commercial strategy.",
     "source": "Simple Flying",
@@ -1907,25 +1923,17 @@
     "url": "https://moodiedavittreport.com/images-of-the-day-vietnam-duty-free-puts-local-identity-at-the-heart-of-noi-bai-international-airport-retail-offer/?utm_source=rss&utm_medium=rss&utm_campaign=images-of-the-day-vietnam-duty-free-puts-local-identity-at-the-heart-of-noi-bai-international-airport-retail-offer",
     "day": "2026-07-28",
     "img": null
-   },
-   {
-    "headline": "PTE World Conference 2027 issues call for speakers",
-    "summary": "Submissions are now being taken for potential speakers to join the line-up at the PTE World Conference 2027, taking place at RAI Amsterdam in the Netherlands on April 6, 7 and 8, 2027. Speakers are asked to share unique…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/expo/pte-world-conference-2027-issues-call-for-speakers.html",
-    "day": "2026-07-28",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/07/2026-Speaking-Opportunities-e1785226709423.webp"
-   },
-   {
-    "headline": "Press Release: Ontario airport unveils next-gen passenger screening",
-    "summary": "Travelers flying through Ontario International Airport (ONT) will enjoy a faster, more seamless security screening experience with the opening of a dramatically expanded passenger screening checkpoint in Terminal 2…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/07/ontario-international-airport-unveils-next-generation-passenger-screening/",
-    "day": "2026-07-27",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/07/unnamed-3.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Why Boeing's Quieter Engines Carry A Penalty No Airbus Aircraft Accepts",
+    "summary": "The Dreamliner's engine chevrons turned out not to be enduring innovations with Boeing now moving on and Airbus skipping them.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-boeing-quieter-engines-carry-penalty-no-airbus-aircaft-accept/",
+    "day": "2026-08-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/quieter-engines.jpg"
+   },
    {
     "headline": "Updated: Bargain Unit Councils give thumbs down to SPEEA contracts recommended by negotiators",
     "summary": "By Scott Hamilton Aug. 6, 2026, © Leeham News: The Bargaining Unit Councils (or BUCs) of Society of Professional Engineering Employees in Aerospace (SPEEA) today did not recommend approval of the new contract…",
@@ -2877,14 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/cessna-citation-cj3-gen3-completes-first-flight-in-wichita",
     "day": "2026-07-29",
     "img": "https://www.aerotime.aero/images/2026/07/691557-Cessna-Citation-CJ3-Gen3-First-Flight-02-09880a-original-1785340482.jpg"
-   },
-   {
-    "headline": "JetZero lines up potential $3B in US financing for Z4 factory",
-    "summary": "JetZero has identified a potential source for nearly two-thirds of the money it needs to build a planned… The post JetZero lines up potential $3B in US financing for Z4 factory appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/jetzero-3-billion-us-financing-z4-aircraft-factory",
-    "day": "2026-07-29",
-    "img": "https://www.aerotime.aero/images/2025/04/JetZero_Investment.jpg"
    }
   ],
   "finance": [
