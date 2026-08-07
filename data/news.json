@@ -1,7 +1,31 @@
 {
- "generated": "2026-08-07T09:56+00:00",
+ "generated": "2026-08-07T12:51+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "373 Passengers Stranded For 10+ Hours Without AC On Emirates A380 After Late-Night Diversion",
+    "summary": "An Emirates Airbus A380 carrying 373 passengers was diverted to Hangzhou Xiaoshan International Airport after severe weather prevented its scheduled arrival at Shanghai Pudong. This left the travelers stranded inside…",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/video/373-passengers-stranded-for-10-hours-without-ac-on-emirates-a380-after-late-night-diversion/",
+    "day": "2026-08-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/emirates-a380-shanghai.jpg"
+   },
+   {
+    "headline": "Cebu Pacific adds 5 new routes to China, Vietnam, and Japan for Q4 2026",
+    "summary": "Cebu Pacific (CEB) has announced that it is to add five new and resumed international routes to China,… The post Cebu Pacific adds 5 new routes to China, Vietnam, and Japan for Q4 2026 appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/cebu-pacific-adds-5-new-routes-to-china-vietnam-and-japan-for-q4-2026",
+    "day": "2026-08-07",
+    "img": "https://www.aerotime.aero/images/2026/08/Untitled-design-14-1.jpg"
+   },
+   {
+    "headline": "JAL, Malaysia Airlines codeshare deal aims to boost regional Japan tourism",
+    "summary": "Japan Airlines (JAL) is to deepen its partnership with Malaysia Airlines with the aim of bringing more international… The post JAL, Malaysia Airlines codeshare deal aims to boost regional Japan tourism appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/jal-malaysia-airlines-codeshare-deal-aims-to-boost-regional-japan-tourism",
+    "day": "2026-08-07",
+    "img": "https://www.aerotime.aero/images/2026/08/Untitled-design-13-1.jpg"
+   },
    {
     "headline": "easyJet agrees £5.7bn take-over by US private equity firm Apollo",
     "summary": "easyJet has formally agreed to a £5.7bn take-over by US private equity firm Apollo Global Management, according to The Guardian. The airline confirmed on Thursday that it had accepted Apollo’s firm offer after rival…",
@@ -937,33 +961,41 @@
     "url": "https://www.aeroroutes.com/eng/260803-casep26bud",
     "day": "2026-08-03",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Air North Re-times Ottawa / Toronto Schedule in NS27",
-    "summary": "Published at 0000PDT / 0700GMT 03AUG26 Canadian carrier Air North in Northern summer 2027 season plans to adjust service to Eastern Canada. From June 2027, service during summer season will see the airline offer same…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260803-4nns27on",
-    "day": "2026-08-03",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Asiana Airlines 1Q27 Sydney Aircraft Changes",
-    "summary": "Published at 2300PDT 02AUG26 / 0600GMT 03AUG26 Asiana Airlines in last week’s schedule update extended Airbus A380 operations on Seoul Incheon – Sydney route. Previously scheduled from 19OCT26 to 31DEC26 only, the…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260802-oz1q27syd",
-    "day": "2026-08-03",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "T’way Air Expands Seoul – Sydney Flights in NW26",
-    "summary": "Published at 2200PDT 02AUG26 / 0500GMT 03AUG26 Korean carrier T’way Air in recent schedule update filed expanded service on Seoul Incheon – Sydney route during Northern winter 2026/27 season. From 25OCT26, the airline…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260802-twnw26syd",
-    "day": "2026-08-03",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "New skylink walkways for London’s Stansted Airport",
+    "summary": "London Stansted has today confirmed Farrans as its partner for the construction of the airport’s new skylink walkways. The new skylinks are an integral feature of the airport’s transformation programme, creating new…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/new-skylink-walkways-for-londons-stansted-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-skylink-walkways-for-londons-stansted-airport",
+    "day": "2026-08-07",
+    "img": null
+   },
+   {
+    "headline": "Wellbeing and community engagement on agenda at Dubai Airports",
+    "summary": "Dubai Airports has hosted the second Dubai Mallathon, a government backed initiative designed to enhance the wellbeing of staff and engage the airport community. It took place in Terminal 3 Departures at Dubai…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/wellbeing-and-community-engagement-on-agenda-at-dubai-airports/?utm_source=rss&utm_medium=rss&utm_campaign=wellbeing-and-community-engagement-on-agenda-at-dubai-airports",
+    "day": "2026-08-07",
+    "img": null
+   },
+   {
+    "headline": "American Airlines and Infinium fly first commercial passenger flight on eSAF",
+    "summary": "American Airlines and Infinium have announced the first delivery of electro sustainable aviation fuel (eSAF) to a commercial airport for use on a commercial passenger flight, in what the companies describe as a major…",
+    "source": "Passenger Terminal Today",
+    "url": "https://www.passengerterminaltoday.com/news/operations-news/american-airlines-and-infinium-fly-first-commercial-passenger-flight-on-esaf.html",
+    "day": "2026-08-07",
+    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/08/Infunium-SAF-thumb-e1786099320674.jpg"
+   },
+   {
+    "headline": "HKIA Arts and Culture Festival 2026 highlights cultural ties between Hong Kong and Shanghai",
+    "summary": "Airport Authority Hong Kong (AAHK), together with several arts and cultural organizations, has launched the HKIA Arts and Culture Festival 2026, running simultaneously across Terminal 1 (T1) and Terminal 2 (T2) for the…",
+    "source": "Passenger Terminal Today",
+    "url": "https://www.passengerterminaltoday.com/news/passenger-experience/hkia-arts-and-culture-festival-2026-highlights-cultural-ties-between-hong-kong-and-shanghai.html",
+    "day": "2026-08-07",
+    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/08/hong-kong-e1786096068374.jpeg"
+   },
    {
     "headline": "Sun Country Airlines Drastically Cut Flights Because Its Pilots Left For Delta, CEO Admits",
     "summary": "The carrier's September capacity in Minneapolis has dropped by almost 40%.",
@@ -1891,41 +1923,49 @@
     "url": "https://moodiedavittreport.com/aena-seeks-partners-for-luxury-concessions-at-madrid-barajas-airport/?utm_source=rss&utm_medium=rss&utm_campaign=aena-seeks-partners-for-luxury-concessions-at-madrid-barajas-airport",
     "day": "2026-07-28",
     "img": null
-   },
-   {
-    "headline": "Qantas Group and Melbourne Airport agree key terms on runway and terminal expansion",
-    "summary": "The Qantas Group and Melbourne Airport have reached a commercial agreement on key terms that will support more flights, international lounge upgrades, check-in enhancements and delivery of the airport’s third runway.…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/construction-architecture/qantas-group-and-melbourne-airport-agree-key-terms-on-runway-and-terminal-expansion.html",
-    "day": "2026-07-28",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/07/melbourne-e1785229262207.jpeg"
-   },
-   {
-    "headline": "Emirates Suspends Flights To These 6 Global Destinations: See All Routes Now [Map]",
-    "summary": "Some, but not all, will be returning in the autumn.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/emirates-suspended-routes/",
-    "day": "2026-07-28",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/339-emirates-boeing-777-300-emirates.jpg"
-   },
-   {
-    "headline": "Virgin Atlantic Pulls Boeing 787 From Service After Heathrow Engineer's Death",
-    "summary": "The airline is investigating the circumstances of the tragic accident at London Heathrow Airport.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/virgin-atlantic-boeing-787-heathrow-engineer-death/",
-    "day": "2026-07-28",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/virgin-atlantic-boeing-787-9-landing-at-lhr-1.jpg"
-   },
-   {
-    "headline": "5 Small US Airports Quietly Spending Big-Hub Money To Become Regional Powerhouses",
-    "summary": "These airports are making heavy investments in their infrastructure over the next few years.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/5-small-us-airports-quietly-spending-big-hub-money-to-become-regional-powerhouses/",
-    "day": "2026-07-28",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/5-small-us-airports.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "5 Airlines Installing Lie-Flat Business Class Seats On Narrowbody Jets In 2026",
+    "summary": "The A321XLR's range and size has led many operator's to plan business class products",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airlines-installing-lie-flat-business-class-seats-narrowbody-jets-2026/",
+    "day": "2026-08-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/lie-flat-business-class-seats.jpg"
+   },
+   {
+    "headline": "Ryan Air (no, not that one) receives Saab 340B(F) cargo aircraft",
+    "summary": "Alaska-based Ryan Air has received a single Saab 340B(F) cargo aircraft from Jetstream Aviation Capital, adding to its… The post Ryan Air (no, not that one) receives Saab 340B(F) cargo aircraft appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/ryan-air-receives-saab-340bf-cargo-aircraft",
+    "day": "2026-08-07",
+    "img": "https://www.aerotime.aero/images/2026/08/Ryan-Air-Saab-340BF-cargo-Jetstream-Aviaton-Capital.jpg"
+   },
+   {
+    "headline": "Catalina plans Florida engineering hub",
+    "summary": "Catalina Aircraft Company has announced plans for a new Engineering and Technology Center (ETC) in Vero Beach, Florida, to support development of its Catalina SPAR amphibious aircraft. The multi-tenant facility will…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/08/07/catalina-plans-florida-engineering-hub/",
+    "day": "2026-08-07",
+    "img": null
+   },
+   {
+    "headline": "Azorra adds A330-200 aircraft to portfolio",
+    "summary": "Azorra has acquired an Airbus A330-200 (MSN 1161) from TrueNoord, marking the latest addition to its wide-body portfolio. The aircraft is currently on lease to Maldivian Airlines, the flag carrier of the Maldives…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/08/07/azorra-adds-a330-200-aircraft-to-portfolio/",
+    "day": "2026-08-07",
+    "img": null
+   },
+   {
+    "headline": "Abelo acquires six turboprops",
+    "summary": "Turboprop aircraft lessor Abelo has acquired four ATR 72-600 and two DHC8-400 turboprops managed by Aergo Capital. The six aircraft are on lease to Emerald Airlines, Binter Canarias, National Jet Express, Citilink and…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/08/07/abelo-acquires-six-turboprops/",
+    "day": "2026-08-07",
+    "img": null
+   },
    {
     "headline": "Southwest Airlines Is No Longer Known As The World's Strongest Airline Brand: Here's What Happened",
     "summary": "Southwest Airlines lost the top spot in the global airline brand rankings after ending free bags and introducing basic economy. ANA took its place.",
@@ -2845,49 +2885,17 @@
     "url": "https://leehamnews.com/2026/07/30/for-the-next-narrowbody-what-are-the-airframe-efficiency-gains/",
     "day": "2026-07-30",
     "img": null
-   },
-   {
-    "headline": "WLFC secures engine storage agreement with Pratt & Whitney",
-    "summary": "Willis Lease Finance Corporation (WLFC) has secured a five-year agreement with Pratt & Whitney, an RTX business, to provide long-term storage and lease return services for PW1100G-JM, PW1500G, PW1900G, PW4000 and IAE AG…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/30/wlfc-signs-pratt-whitney-storage-deal/",
-    "day": "2026-07-30",
-    "img": null
-   },
-   {
-    "headline": "The Airbus Jet Being Squeezed To Death Between The A220 & The A321neo",
-    "summary": "A closer look at why the smallest variant of the A320neo family is not selling.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/airbus-jet-squeezed-death-between-a220-a321neo/",
-    "day": "2026-07-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/the-airbus-jet-being-squeezed-to-death-between-the-a220-the-a321neo.jpg"
-   },
-   {
-    "headline": "Airbus’ full-year guidance back on track after record aircraft delivery pace in Q2",
-    "summary": "Free for nonsubscribers By Karl Sinclair July 29, 2026, © Leeham News: Airbus reported on July 29 a reinforced commitment to hit targets of 870 aircraft deliveries, adjusted EBIT (earnings before interest and taxes) of…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/07/29/airbus-full-year-guidance-back-on-track-after-record-aircraft-delivery-pace-in-q2/",
-    "day": "2026-07-29",
-    "img": null
-   },
-   {
-    "headline": "How Much A Boeing 747 Actually Costs Airlines To Operate Per Hour In 2026",
-    "summary": "The true cost of flying a Boeing 747 isn't one number. Learn why airlines and charter operators pay dramatically different rates.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-much-boeing-747-costs-airlines-flight-hour-2026/",
-    "day": "2026-07-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/operate-per-hour.jpg"
-   },
-   {
-    "headline": "Nearly 40% More: Airbus Achieves 237 Deliveries In 2nd Quarter, Keeps 870 Target For Full Year",
-    "summary": "Airbus' ability to maintain a sustainable production ramp-up will be crucial in achieving its 870-aircraft delivery target for the full year.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/airbus-achieve-237-deliveries-2nd-quarter-keep-87-target-full-year/",
-    "day": "2026-07-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/untitled-design-92.jpg"
    }
   ],
   "finance": [
+   {
+    "headline": "Global Aviation Conference heads to Frankfurt",
+    "summary": "The aviation industry will gather in Frankfurt, Germany, on September 29-30, for the Global Aviation Conference Frankfurt 2026, a two-day event designed to connect airlines, airports, MROs, lessors, OEMs, technology…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/08/07/global-aviation-conference-heads-to-frankfurt/",
+    "day": "2026-08-07",
+    "img": null
+   },
    {
     "headline": "Dubai Aerospace Enterprise CEO on becoming a top-tier global aircraft lessor",
     "summary": "Over the last couple of decades, the Middle East has emerged as the new “center of gravity” for… The post Dubai Aerospace Enterprise CEO on becoming a top-tier global aircraft lessor appeared first on AeroTime .",
@@ -4261,6 +4269,14 @@
   ],
   "policy": [
    {
+    "headline": "Malaysia Airlines cabin crew face drug check as mandatory pilot screening begins",
+    "summary": "All 1,260 Malaysia Airlines pilots are to undergo mandatory drug screening as the airline launches a response to… The post Malaysia Airlines cabin crew face drug check as mandatory pilot screening begins appeared first…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/malaysia-airlines-cabin-crew-drug-check-as-mandatory-pilot-screening",
+    "day": "2026-08-07",
+    "img": "https://www.aerotime.aero/images/2025/02/Malaysia-Airlines-Airbus-A330neo.jpg"
+   },
+   {
     "headline": "New policy moves FAA further from EASA on eVTOL certification",
     "summary": "The Federal Aviation Administration has backtracked on a proposal that would have imposed stricter certification requirements on electric vertical take-off and landing aircraft carrying passengers for hire, instead…",
     "source": "The Air Current",
@@ -4878,6 +4894,38 @@
    }
   ],
   "defense": [
+   {
+    "headline": "Why The World's Largest Military Transport Aircraft Doesn't Use Winglets",
+    "summary": "Simplicity meets power on the world's largest 'big wing' jets.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/worlds-largest-military-transport-aircraft-doesnt-use-winglets/",
+    "day": "2026-08-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/largest-military-transport.jpg"
+   },
+   {
+    "headline": "Why The US Air Force Is Quietly Buying Up Lufthansa's Boeing 747s In 2026",
+    "summary": "The purchase reflects the growing strain on the Air Force One replacement program.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-the-us-air-force-buying-up-lufthansas-boeing-747s-2026/",
+    "day": "2026-08-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/why-the-us-air-force-is-quietly-buying-up-lufthansa-s-boeing-747s-in-2026.jpg"
+   },
+   {
+    "headline": "US Air Force flies first robot-formed panel on storm-damaged C-17",
+    "summary": "A US Air Force C-17 Globemaster III recently sat unflyable for nearly 17 months because no supplier would build the tooling to… The post US Air Force flies first robot-formed panel on storm-damaged C-17 appeared first…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/usaf-c17-first-incremental-sheet-forming-panel",
+    "day": "2026-08-07",
+    "img": "https://www.aerotime.aero/images/2026/08/A-US-Air-Force-C-17-Globemaster-III-undergoes-structural-repairs.jpg"
+   },
+   {
+    "headline": "New SOUTHCOM Permanent Cartel Task Force Will Expand Air Force Role",
+    "summary": "As U.S. Southern Command shifts its counter-narcotics mission to a permanent task force, the Air Force piece of the larger war on cartels in Latin America and the Caribbean is likely to grow. The post New SOUTHCOM…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/new-southcom-permanent-cartel-task-force-will-expand-air-force-role/",
+    "day": "2026-08-07",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/12th-AF-612th-AOC-900x600.jpg"
+   },
    {
     "headline": "Ukraine’s ballistic missile tests show ‘strong potential’: Zelenskyy",
     "summary": "Ukraine’s domestic ballistic missile program has produced test results showing “strong potential,” President Volodymyr Zelenskyy said in his… The post Ukraine’s ballistic missile tests show ‘strong potential’: Zelenskyy…",
@@ -5805,38 +5853,6 @@
     "url": "https://www.airandspaceforces.com/ccas-creech-air-forces-drone-base-exercise/",
     "day": "2026-07-29",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/07/260720-F-NV774-1009-900x600.jpeg"
-   },
-   {
-    "headline": "Air Force plans downselect for second CCA batch next year",
-    "summary": "A separate competition to replace the MQ-9A Reaper is expected to kick off a concept refinement stage early in the next fiscal year, according to an Air Force official.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/07/air-force-plans-downselect-for-second-cca-batch-next-year/",
-    "day": "2026-07-29",
-    "img": null
-   },
-   {
-    "headline": "Will The F-47 Have To Fly Initially With Inferior Engines?",
-    "summary": "The timelines for a next-gen fighter engine and the F-47 appear out of sync, which could lead to a stop-gap engine, something with historical precedent. The post Will The F-47 Have To Fly Initially With Inferior…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/will-the-f-47-have-to-fly-initially-with-inferior-engines",
-    "day": "2026-07-29",
-    "img": "https://www.twz.com/wp-content/uploads/2026/07/f-47-engine-questions-ngap-development.jpg?quality=85"
-   },
-   {
-    "headline": "The Real Reason Why F-35 Operators Can't Restore Their Own Jets' Stealth Alone",
-    "summary": "Exploring the technology and security issues of F-35 upkeep.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/real-reason-f-35-stealth-operators-cant-restore-own-stealth/",
-    "day": "2026-07-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/jets-stealth-alone.jpg"
-   },
-   {
-    "headline": "How The Eurofighter Typhoon Stacks Up Against The Sukhoi Su-35 In 2026",
-    "summary": "Both jets sit at the top tier of fourth-generation fighters, sometimes referred to as 'generation 4.5'.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-eurofighter-typhoon-stacks-sukhoi-su-35-2026/",
-    "day": "2026-07-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/eurofighter-against.jpg"
    }
   ],
   "others": []
