@@ -1,7 +1,23 @@
 {
- "generated": "2026-08-07T12:51+00:00",
+ "generated": "2026-08-07T15:51+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "CAA Congo Moves Kinshasa – Luanda Launch to late-Aug 2026",
+    "summary": "Published at 0800PDT / 1500GMT 07AUG26 CAA Congo recently revised planned service launch to Angola, as the carrier now schedules Kinshasa – Luanda launch on 21AUG26, instead of 31JUL26. The carrier’s Airbus A320…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260807-buaug26nbj",
+    "day": "2026-08-07",
+    "img": null
+   },
+   {
+    "headline": "Gulf Air Resumes Kuala Lumpur Service From late-Sep 2026",
+    "summary": "Published at 0700PDT / 1400GMT 07AUG26 Gulf Air from late-September 2026 schedules service to Malaysia, with Bahrain – Kuala Lumpur flights planned. The airline will serve this route with 787-9 aircraft from 29SEP26 to…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260807-gfsep26kul",
+    "day": "2026-08-07",
+    "img": null
+   },
    {
     "headline": "373 Passengers Stranded For 10+ Hours Without AC On Emirates A380 After Late-Night Diversion",
     "summary": "An Emirates Airbus A380 carrying 373 passengers was diverted to Hangzhou Xiaoshan International Airport after severe weather prevented its scheduled arrival at Shanghai Pudong. This left the travelers stranded inside…",
@@ -945,25 +961,17 @@
     "url": "https://www.aerotime.aero/articles/edelweiss-appoints-new-ceo-as-bernd-bauer-steps-down-after-12-years",
     "day": "2026-08-03",
     "img": "https://www.aerotime.aero/images/2026/08/Edelweiss-Airbus-A350.jpg"
-   },
-   {
-    "headline": "Authorities probe screening after Malaysia Airlines pilot’s alleged drug smuggling",
-    "summary": "Malaysia’s Civil Aviation Authority (CAAM) has opened a regulatory investigation into airport security procedures following the arrest of… The post Authorities probe screening after Malaysia Airlines pilot’s alleged…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/authorities-probe-screening-after-malaysia-airlines-pilots-alleged-drug-smuggling",
-    "day": "2026-08-03",
-    "img": "https://www.aerotime.aero/images/2026/08/Malaysia-Airlines-pilots-alleged-drug-case-triggers-security-probe.jpg"
-   },
-   {
-    "headline": "Air China Sep/Oct 2026 Extra Chongqing – Budapest Flights",
-    "summary": "Published at 0100PDT / 0800GMT 03AUG26 Star Alliance member Air China in September and October 2026 schedules 4 extra roundtrip flights on Chongqing – Budapest route, on board Boeing 787-9. Additional flights to operate…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260803-casep26bud",
-    "day": "2026-08-03",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "Safari Duty Free wins exclusive Kenya Airways inflight duty-free contract",
+    "summary": "With more than 24 years’ experience in duty-free retail, Safari Duty Free currently operates ten stores across East and Southern Africa, including enterprises in Kenya, Mozambique, Zambia and Uganda plus a diplomatic…",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/safari-duty-free-wins-exclusive-kenya-airways-inflight-duty-free-contract/?utm_source=rss&utm_medium=rss&utm_campaign=safari-duty-free-wins-exclusive-kenya-airways-inflight-duty-free-contract",
+    "day": "2026-08-07",
+    "img": null
+   },
    {
     "headline": "New skylink walkways for London’s Stansted Airport",
     "summary": "London Stansted has today confirmed Farrans as its partner for the construction of the airport’s new skylink walkways. The new skylinks are an integral feature of the airport’s transformation programme, creating new…",
@@ -1915,17 +1923,41 @@
     "url": "https://simpleflying.com/american-airlines-launches-2-new-international-routes-from-this-major-hub-next-week/",
     "day": "2026-07-28",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/334-american-airlines-boeing-737-max-8-markus-mainka-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Aena seeks partners for luxury concessions at Madrid-Barajas Airport",
-    "summary": "The opportunities include a 199sq m store in Terminal 1, 133sq m in T2, 101sq m in T3 and 130sq m in T4, with a bid deadline of 21 September.",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/aena-seeks-partners-for-luxury-concessions-at-madrid-barajas-airport/?utm_source=rss&utm_medium=rss&utm_campaign=aena-seeks-partners-for-luxury-concessions-at-madrid-barajas-airport",
-    "day": "2026-07-28",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "Is It True That The Boeing 747's Iconic Hump Came To Exist By Accident?",
+    "summary": "One of the most iconic pieces of engineering in aviation history was the hump on the Boeing 747 intentional or purely an accident?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/true-boeing-747-iconic-hump-came-exist-accident/",
+    "day": "2026-08-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/boeing-747-s-iconic-hump.jpg"
+   },
+   {
+    "headline": "Lufthansa Joins Emirates in Rejecting Early-Build 777-9s",
+    "summary": "Boeing’s 777X program has run into a new customer problem. Lufthansa CEO Carsten Spohr confirmed the airline is preparing to reject",
+    "source": "AirInsight",
+    "url": "https://airinsight.com/lufthansa-joins-emirates-in-rejecting-early-build-777-9s/",
+    "day": "2026-08-07",
+    "img": "https://airinsight.com/wp-content/uploads/2019/05/Lufthansalogo.jpg"
+   },
+   {
+    "headline": "Bjorn’s Corner: Aircraft Structures Part 13. Dry fiber infusion.",
+    "summary": "August 7, 2026, ©. Leeham News: In our series on aircraft structures, we have looked at hand layup with pre-impregnated fiber fabrics. We now look at the alternative manual layup method, dry fiber infusion. Dry fiber…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/08/07/bjorns-corner-aircraft-structures-part-13-dry-fiber-infusion/",
+    "day": "2026-08-07",
+    "img": null
+   },
+   {
+    "headline": "How far away is out-of-autoclave aerostructure production for Airbus and Boeing?",
+    "summary": "Free for nonsubscribers By Howard Hardee August 7, 2026 © Leeham News: The commercial aerospace sector could be roughly a decade away from achieving high-rate production of major composite aerostructures. Airbus and…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/08/07/how-far-away-is-out-of-autoclave-aerostructure-production-for-airbus-and-boeing/",
+    "day": "2026-08-07",
+    "img": null
+   },
    {
     "headline": "5 Airlines Installing Lie-Flat Business Class Seats On Narrowbody Jets In 2026",
     "summary": "The A321XLR's range and size has led many operator's to plan business class products",
@@ -2853,38 +2885,6 @@
     "url": "https://avitrader.com/2026/07/30/airbus-reports-higher-h1-2026-revenue-and-profit/",
     "day": "2026-07-30",
     "img": null
-   },
-   {
-    "headline": "Icelandair expands A320neo fleet with Aircastle deal",
-    "summary": "Icelandair has agreed to lease six Airbus A320neo aircraft from Aircastle, further advancing its fleet renewal programme. The Pratt & Whitney-powered aircraft, built between 2018 and 2020, are scheduled to enter service…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/30/icelandair-expands-a320neo-fleet-with-aircastle-deal/",
-    "day": "2026-07-30",
-    "img": null
-   },
-   {
-    "headline": "Boeing completes final 737-10 certification flight",
-    "summary": "Boeing has completed the final planned certification flight test for the 737-10, marking the end of a flight test campaign spanning 976 flights, more than 2,060 flight hours and around 1,040 ground test hours. The…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/30/boeing-completes-final-737-10-certification-flight/",
-    "day": "2026-07-30",
-    "img": null
-   },
-   {
-    "headline": "Airbus Vs Boeing: Who Won At The 2026 Farnborough Airshow?",
-    "summary": "The two major manufacturers traded blows at the show, with both announcing significant orders in the early salvos.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/airbus-vs-boeing-farnborough-airshow-2026/",
-    "day": "2026-07-30",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/shutterstock_176575937_cropped.jpg"
-   },
-   {
-    "headline": "For the next narrowbody, what are the airframe efficiency gains?",
-    "summary": "Subscription required By Bjorn Fehrm July 30, 2026, © Leeham News: We looked at the expected efficiency gains from new engines for the next-generation narrowbody last week. Now we continue by looking at how new…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/07/30/for-the-next-narrowbody-what-are-the-airframe-efficiency-gains/",
-    "day": "2026-07-30",
-    "img": null
    }
   ],
   "finance": [
@@ -3306,6 +3306,22 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "OneFlight International offers light jets at $5,000 per hour",
+    "summary": "Private jet charter broker OneFlight is selling a limited number of 20-hour jet cards giving light jet flights for $100,000 The post OneFlight International offers light jets at $5,000 per hour appeared first on Private…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/08/07/oneflight-international-offers-light-jets-at-5000-per-hour/",
+    "day": "2026-08-07",
+    "img": null
+   },
+   {
+    "headline": "Flight Tracking Made Easy: An overview on Flight Trackers",
+    "summary": "Learn how to track your flights, commercial or private, and stay informed about weather, delays, diversions, and airline gate changes The post Flight Tracking Made Easy: An overview on Flight Trackers appeared first on…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/08/07/flight-trackers-guide/",
+    "day": "2026-08-07",
+    "img": null
+   },
    {
     "headline": "Air Charter Service upgrades Riyadh office as Saudi business grows",
     "summary": "Air Charter Service (ACS) has relocated its Riyadh team to a larger office, less than a year after launching operations in Saudi Arabia in September 2025. The new office is [...] The post Air Charter Service upgrades…",
@@ -4249,25 +4265,25 @@
     "url": "https://privatejetcardcomparisons.com/2026/07/13/private-jet-flight-activity-analysis-2026-week-27/",
     "day": "2026-07-13",
     "img": null
-   },
-   {
-    "headline": "Jet Agency sued again; JetCharter.com liable in separate case",
-    "summary": "Jordan Brown's Naples, Florida-based Jet Agency is facing a fourth customer lawsuit, as his JetCharter.com was found liable for $77,900 The post Jet Agency sued again; JetCharter.com liable in separate case appeared…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/07/12/jet-agency-sued-again-jetcharter-com-liable-in-separate-case/",
-    "day": "2026-07-12",
-    "img": null
-   },
-   {
-    "headline": "What Delta Air Lines’ latest quarterly report says about Wheels Up",
-    "summary": "Delta Air Lines' latest 10-Q filing mentions Wheels Up 13 times. Here's everything Delta said about its stake in Wheels Up The post What Delta Air Lines’ latest quarterly report says about Wheels Up appeared first on…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/07/11/what-delta-air-lines-latest-quarterly-report-says-about-wheels-up/",
-    "day": "2026-07-11",
-    "img": null
    }
   ],
   "policy": [
+   {
+    "headline": "FAA Eases SFO Landing Ban After 41% Of Flights Delayed",
+    "summary": "After months of severe delays, the FAA is easing restrictions on SFO parallel landings.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/faa-eases-sfo-landing-ban-41-percent-flights-delayed/",
+    "day": "2026-08-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/sfo-1.jpg"
+   },
+   {
+    "headline": "New FAA directive requires checks on 471 Boeing 737 MAX jets",
+    "summary": "The US Federal Aviation Administration (FAA) has issued a new airworthiness directive (AD) requiring inspection of 471 Boeing… The post New FAA directive requires checks on 471 Boeing 737 MAX jets appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/new-faa-airworthiness-directive-requires-checks-boeing-737-max-aircraft",
+    "day": "2026-08-07",
+    "img": "https://www.aerotime.aero/images/2026/08/Boeing-737-MAX-9-1.jpg"
+   },
    {
     "headline": "Malaysia Airlines cabin crew face drug check as mandatory pilot screening begins",
     "summary": "All 1,260 Malaysia Airlines pilots are to undergo mandatory drug screening as the airline launches a response to… The post Malaysia Airlines cabin crew face drug check as mandatory pilot screening begins appeared first…",
@@ -4894,6 +4910,30 @@
    }
   ],
   "defense": [
+   {
+    "headline": "Indian Air Force’s Rafale makes historic debut at Exercise Pitch Black 26",
+    "summary": "The Indian Air Force’s (IAF) Rafale fighter jet has made its debut appearance at Exercise Pitch Black 26,… The post Indian Air Force’s Rafale makes historic debut at Exercise Pitch Black 26 appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/indian-air-forces-rafale-makes-historic-debut-at-exercise-pitch-black-26",
+    "day": "2026-08-07",
+    "img": "https://www.aerotime.aero/images/2026/08/Untitled-design-15-1.jpg"
+   },
+   {
+    "headline": "Senate Confirms Schiess as Next Chief of Space Operations",
+    "summary": "Lt. Gen. Douglas Schiess will receive a fourth star and take the helm of the Space Force following a unanimous Aug. 6 vote, approving his nomination to become the third CSO since the service’s establishment in 2019. The…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/senate-confirms-schiess-as-next-chief-of-space-operations/",
+    "day": "2026-08-07",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/0726_WORLD_Schiess-900x600.jpg"
+   },
+   {
+    "headline": "GBU-75 JDAM Long Range Cleared for Production",
+    "summary": "The U.S. Air Force awarded Boeing a procurement contract for GBU-75 JDAM Long Range kits, clearing the initial production for the U.S. Navy. Boeing has announced that it has been awarded a $75 million Undefinitized…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/08/07/gbu-75-jdam-long-range-cleared-for-production/",
+    "day": "2026-08-07",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/08/4.-JDAM-LR-Video-Thumbnail-Crop.jpg"
+   },
    {
     "headline": "Why The World's Largest Military Transport Aircraft Doesn't Use Winglets",
     "summary": "Simplicity meets power on the world's largest 'big wing' jets.",
@@ -5829,30 +5869,6 @@
     "url": "https://www.airandspaceforces.com/air-force-experts-strategies-defend-bases-drone-attack/",
     "day": "2026-07-30",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/07/Point-Defense-Battle-Lab-C-UAS-execise-900x600.jpeg"
-   },
-   {
-    "headline": "Space Force to Launch 18 Comms and Targeting Missions by End of 2027",
-    "summary": "The Space Force awarded SpaceX a $1.6 billion contract to conduct 18 launches for communications and targeting satellites by the end of 2027. The post Space Force to Launch 18 Comms and Targeting Missions by End of 2027…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/space-force-to-launch-18-comms-targeting-missions-by-end-of-2027/",
-    "day": "2026-07-29",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/06/Gy2VQb4acAAQCOw-scaled-1-e1781182806152-900x600.jpeg"
-   },
-   {
-    "headline": "Air Force Eyes a Busy 2027 to Resolve KC-46 Vision System Issues",
-    "summary": "After years of struggling to get the KC-46A Pegasus an updated and improved remote vision system for aerial refueling, Air Force officials say the end of the saga is in sight. The post Air Force Eyes a Busy 2027 to…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/air-force-2027-kc-46-vision-system-struggles/",
-    "day": "2026-07-29",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/9673189-900x600.jpg"
-   },
-   {
-    "headline": "CCAs Head to Air Force’s Main Drone Base for Exercise",
-    "summary": "Both the YFQ-42A and YFQ-44A Collaborative Combat Aircraft headed to Creech Air Force Base, Nev., last week for an exercise focused on employing the semi-autonomous drones in more austere environments. The post CCAs…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/ccas-creech-air-forces-drone-base-exercise/",
-    "day": "2026-07-29",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/260720-F-NV774-1009-900x600.jpeg"
    }
   ],
   "others": []
