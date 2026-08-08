@@ -1,7 +1,23 @@
 {
- "generated": "2026-08-08T18:28+00:00",
+ "generated": "2026-08-08T21:24+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Volaris' Huge US Expansion: 4 New Routes Revealed [List & Map]",
+    "summary": "All new routes are starting in December.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/volaris-huge-us-expansion-4-new-routes/",
+    "day": "2026-08-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/shutterstock_2175726979_cropped.jpg"
+   },
+   {
+    "headline": "Only 222 Seats: United Airlines' 8 New Ultra-Premium Boeing 787 Routes Revealed [Map]",
+    "summary": "These flights are concentrated out of two US hubs.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-airlines-new-elevated-boeing-787-routes/",
+    "day": "2026-08-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/771-united-airlines-boeing-787-9-markus-mainka-_-shutterstock.jpg"
+   },
    {
     "headline": "Porter Airlines Flight Canceled After Toddler Stands In Seat, Delaying It Past Curfew",
     "summary": "A late-night Porter flight returned to the gate after cabin crew could not secure a standing toddler, leaving everyone stranded overnight.",
@@ -945,25 +961,17 @@
     "url": "https://www.aeroroutes.com/eng/260803-4znw26hre",
     "day": "2026-08-03",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Boston Red Sox Strike Out With 3rd Delta Air Lines Breakdown",
-    "summary": "The latest issue delayed the team by more than five hours, taking the shine off an otherwise impressive West Coast swing results-wise.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/boston-red-sox-delta-air-lines-breakdowns/",
-    "day": "2026-08-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/shutterstock_711029302_cropped.jpg"
-   },
-   {
-    "headline": "How The Queen Of The Skies Made A Comeback At Delta Air Lines",
-    "summary": "The story behind the 747's last hurrah in the US.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-queen-skies-comeback-delta-air-lines/",
-    "day": "2026-08-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/10/how-the-queen-of-the-skies-made-a-comeback-at-delta-air-lines.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "What Ground Crews Do In The 25 Minutes Between Flights That Passengers Never Witness",
+    "summary": "It takes rapid and hard work from ground crews to get a plane ready to take off again",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/what-ground-crews-do-25-minutes-between-flights-passengers-never-witness/",
+    "day": "2026-08-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/the-25-minutes.jpg"
+   },
    {
     "headline": "5 Airports Rebuilding Their Runways Before The 2027 Safety Deadline Squeezes Airlines",
     "summary": "From global hubs to regional fields, all airports have to prioritize runway condition.",
@@ -1915,17 +1923,33 @@
     "url": "https://simpleflying.com/british-airways-launches-1st-ever-flights-from-heathrow-to-this-destination/",
     "day": "2026-07-29",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/british-airways-airbus-a320ceo-short-final-mock-up.jpg"
-   },
-   {
-    "headline": "Singapore Airlines Posts First Quarterly Loss Since 2022 As Fuel Bill Jumps $767 Million",
-    "summary": "Singapore's flag carrier faces headwinds despite strong performance.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/singapore-airlines-first-quarterly-loss-since-2022-fuel-costs/",
-    "day": "2026-07-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/singapore-airlines-boeing-787-10.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "This Regional Jet Has Wider Economy Seats Than Some Widebodies & No Middle Seat",
+    "summary": "Stepping on any narrowbody brings an expectation of cramped seats and very little personal space, but there is a manufacturer that is a clear outlier.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/regional-jet-wider-economy-seats-some-widebodies-no-middle-seat/",
+    "day": "2026-08-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/regional-jet-economy.jpg"
+   },
+   {
+    "headline": "Why Might The World's Most Efficient Twin-Aisle Aircraft Have Boeing Rethinking Its Next Jet?",
+    "summary": "Is Boeing already looking ahead to its next clean-sheet aircraft? There is plenty for Boeing to worry about, and much of it comes from Airbus.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-worlds-most-efficient-twin-aisle-aircraft-boeing-rethinking-next-jet/",
+    "day": "2026-08-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/twin-aisle-aircraft.jpg"
+   },
+   {
+    "headline": "Airbus Delivers 67 New Aircraft In July, Remains Below Monthly Average To Meet Annual Target",
+    "summary": "Supply chain snarls and engine shortages stretch Airbus production as teams race to clear a growing delivery backlog.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-delivers-67-new-aircraft-july-below-monthly-average-meet-annual-target/",
+    "day": "2026-08-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/airbus-a350-landing-in-dubai-1.jpg"
+   },
    {
     "headline": "Here’s How Much Range The Airbus A350-1000 Has Compared To The Boeing 777-300ER",
     "summary": "The Airbus A350-1000 and Boeing 777-300ER are long-haul aviation titans, but the A350's slight edge in range may not be as decisive as it seems.",
@@ -2861,30 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/sling-reveals-details-planned-twin-engine-mosaic-aircraft",
     "day": "2026-07-31",
     "img": "https://www.aerotime.aero/images/2026/07/sling-twin-rendering-1.jpeg"
-   },
-   {
-    "headline": "Lufthansa Technik tests next-gen AeroSHARK on Airbus A319 short-haul jet",
-    "summary": "Lufthansa Technik has announced that testing has begun on a next-generation version of its fuel-saving AeroSHARK surface technology… The post Lufthansa Technik tests next-gen AeroSHARK on Airbus A319 short-haul jet…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/lufthansa-technik-tests-next-gen-aeroshark-on-airbus-a319-short-haul-jet",
-    "day": "2026-07-31",
-    "img": "https://www.aerotime.aero/images/2026/07/Untitled-design-70.jpg"
-   },
-   {
-    "headline": "Boeing submits new four-year contract offer to union representing 17,000 staff",
-    "summary": "Boeing has submitted a new four-year contract offer to a union representing 13,000 engineers and scientists, as well… The post Boeing submits new four-year contract offer to union representing 17,000 staff appeared…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/boeing-four-year-contract-speea-staff",
-    "day": "2026-07-31",
-    "img": "https://www.aerotime.aero/images/2026/07/Boeing-Renton-737.jpg"
-   },
-   {
-    "headline": "Boeing selects Liebherr brake electronics for B777-8 Freighter",
-    "summary": "Boeing has selected Liebherr-Aerospace to supply the brake remote electronic unit (REU) for the B777-8 Freighter, expanding the companies’ long-standing collaboration on commercial aircraft systems. The REU acts as a…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/31/boeing-selects-liebherr-brake-electronics-for-b777-8-freighter/",
-    "day": "2026-07-31",
-    "img": null
    }
   ],
   "finance": [
@@ -4911,6 +4911,14 @@
   ],
   "defense": [
    {
+    "headline": "Damaged USAF C-17 Flies Again After First-of-its-Kind Repair",
+    "summary": "A C-17 of the 445th Airlift Wing extensively damaged in March 2025 was repaired by using new technologies of the Rapid Sustainment Office, after no vendors were able to provide the needed parts. The Air Force Rapid…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/08/08/damaged-usaf-c-17-flies-again/",
+    "day": "2026-08-08",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/08/USAF-C-17-Repair-3.jpg"
+   },
+   {
     "headline": "How US Navy Jet Tail Codes Identify Their Carrier: 5 Facts That May Surprise You",
     "summary": "Turning the page on the story written all over every Navy jet.",
     "source": "Simple Flying",
@@ -5861,14 +5869,6 @@
     "url": "https://www.airandspaceforces.com/reserve-wing-whiteman-replacing-a-10s-with-f-15es/",
     "day": "2026-07-30",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/07/9810189-900x600.jpg"
-   },
-   {
-    "headline": "Space Force Eyes ‘Usable’ Airborne Target Tracking by ’28, More Capability to Follow",
-    "summary": "The Space Force expects its nascent airborne moving target indicator program will have a “usable capability” in the next few years—but the official in charge of the program says there’s more work to be done beyond that…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/space-force-usable-airborne-target-tracking-2028-more-to-follow/",
-    "day": "2026-07-30",
-    "img": "https://www.airandspaceforces.com/app/uploads/2022/02/Satellites-Over-Earth-900x600.jpeg"
    }
   ],
   "others": []
