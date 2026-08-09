@@ -1,7 +1,15 @@
 {
- "generated": "2026-08-09T01:14+00:00",
+ "generated": "2026-08-09T04:14+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Why A Long-Haul Captain Thinks About Fuel Reserves Differently Than A Short-Haul Captain",
+    "summary": "Why do long-haul flights carry so much fuel? Learn how the same airline fuel rules produce completely different decisions on short and long flights.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-long-haul-captain-thinks-fuel-reserves-differently-short-haul-captain/",
+    "day": "2026-08-09",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/why-a-long-haul-captain-thinks-about-fuel-reserves-differently-than-a-short-haul-captain.jpg"
+   },
    {
     "headline": "The FAA's 10-Hour Flight Attendant Rest Rule Actually Means 8 Hours At The Hotel",
     "summary": "The ins-and-outs of current flight attendant rest regulations in the US.",
@@ -953,17 +961,17 @@
     "url": "https://www.aeroroutes.com/eng/260803-tkns27syd",
     "day": "2026-08-03",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Vueling NS27 737 MAX 8 Network Expansion – 02AUG26",
-    "summary": "Published at 1300PDT / 2000GMT 03AUG26 Vueling in recent schedule update filed expanded Boeing 737 MAX 8-200 schedule for Northern summer 2027 season, as the carrier schedules 197-seater aircraft on following routes.…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260803-vyns277m8",
-    "day": "2026-08-03",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "Sudden Brakes: Jetstar & Qatar Airways Planes Nearly Collide At Sydney Kingsford Smith Airport",
+    "summary": "Taxiway confusion and weekend staffing strains prompted emergency stops and a canceled Jetstar flight after boarding.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/jetstar-qatar-airways-planes-nearly-collide-sydney-kingsford-smith-airport/",
+    "day": "2026-08-09",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/qatar-airways-boeing-777-300er-melbourne-1.jpg"
+   },
    {
     "headline": "Melbourne Airport Gains Massive 32% More Airbus A380 Flights: Here's Why",
     "summary": "A380 activity has spiked, with 109 extra superjumbo departures between November and March as one carrier reintroduces heavy widebody capacity.",
@@ -1913,14 +1921,6 @@
     "summary": "ABM has launched the use of a robotics programme at LaGuardia Airport’s award-winning Terminal B. In partnership with Terminal B operator, LaGuardia Gateway Partners (LGP), ABM is introducing both autonomous inspection…",
     "source": "Airport World",
     "url": "https://airport-world.com/robotic-dog-joins-inspection-team-at-laguardia-airports-terminal-b/?utm_source=rss&utm_medium=rss&utm_campaign=robotic-dog-joins-inspection-team-at-laguardia-airports-terminal-b",
-    "day": "2026-07-29",
-    "img": null
-   },
-   {
-    "headline": "New passenger milestone for fast growing Tweed New Haven Airport",
-    "summary": "Tweed New Haven Airport (HVN) has welcomed its five millionth passenger since the launch of expanded commercial services from the Connecticut gatetway in 2021. The milestone comes less than a year after the airport…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/new-passenger-milestone-for-fast-growing-tweed-new-haven-airport/?utm_source=rss&utm_medium=rss&utm_campaign=new-passenger-milestone-for-fast-growing-tweed-new-haven-airport",
     "day": "2026-07-29",
     "img": null
    }
