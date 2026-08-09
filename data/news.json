@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-09T06:45+00:00",
+ "generated": "2026-08-09T09:33+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,14 @@
   ],
   "airports": [
    {
+    "headline": "Trump pick David Cummins sworn in as eighth TSA Administrator",
+    "summary": "David Cummins has been sworn in as the eighth Administrator of the Transportation Security Administration (TSA) following his… The post Trump pick David Cummins sworn in as eighth TSA Administrator appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/trump-pick-david-cummins-sworn-in-as-eighth-tsa-administrator",
+    "day": "2026-08-09",
+    "img": "https://www.aerotime.aero/images/2026/05/Allegiant-Air-Airbus-A319-Las-Vegas-Airport.jpg"
+   },
+   {
     "headline": "Sudden Brakes: Jetstar & Qatar Airways Planes Nearly Collide At Sydney Kingsford Smith Airport",
     "summary": "Taxiway confusion and weekend staffing strains prompted emergency stops and a canceled Jetstar flight after boarding.",
     "source": "Simple Flying",
@@ -1915,17 +1923,17 @@
     "url": "https://www.aerotime.aero/articles/nonprofit-watchdog-releases-tsa-ice-agreement-amid-airport-arrests-scrutiny",
     "day": "2026-07-29",
     "img": "https://www.aerotime.aero/images/2026/07/Untitled-design-64.jpg"
-   },
-   {
-    "headline": "Robotic dog joins inspection team at LaGuardia Airport’s Terminal B",
-    "summary": "ABM has launched the use of a robotics programme at LaGuardia Airport’s award-winning Terminal B. In partnership with Terminal B operator, LaGuardia Gateway Partners (LGP), ABM is introducing both autonomous inspection…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/robotic-dog-joins-inspection-team-at-laguardia-airports-terminal-b/?utm_source=rss&utm_medium=rss&utm_campaign=robotic-dog-joins-inspection-team-at-laguardia-airports-terminal-b",
-    "day": "2026-07-29",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "Was Flying On Concorde Actually Comfortable?",
+    "summary": "Concorde's seats were narrow, upright, and had no screens. The passengers who flew it regularly did not care. Here is why.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/was-flying-on-concorde-actually-comfortable/",
+    "day": "2026-08-09",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/concorde-1.jpg"
+   },
    {
     "headline": "The Widebody Quietly Replacing The Boeing 767 On Cargo Routes Is Not What You Think",
     "summary": "Which aircraft might fill the gap left by the Boeing 767 as the workhorse of the cargo world?",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/airbus-a380-inside-the-biggest-passenger-aircraft-built/",
     "day": "2026-07-31",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/239-singapore-airlines-airbus-a380-jeang-herng-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Boeing 737 MAX 10 completes final test flight as certification nears",
-    "summary": "Boeing has completed planned certification flight testing of the 737 MAX 10, clearing a major hurdle as the… The post Boeing 737 MAX 10 completes final test flight as certification nears appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/boeing-737-max-10-completes-final-test-flight",
-    "day": "2026-07-31",
-    "img": "https://www.aerotime.aero/images/2026/07/737-10-completes-image-1-1.jpeg"
    }
   ],
   "finance": [
@@ -4269,6 +4269,14 @@
   ],
   "policy": [
    {
+    "headline": "Delta passengers evacuate on escape slides after emergency landing",
+    "summary": "Delta Air Lines passengers were forced to evacuate a Boeing 757-200 on escape slides at Hartsfield-Jackson Atlanta International… The post Delta passengers evacuate on escape slides after emergency landing appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/delta-passengers-evacuate-on-escape-slides-after-emergency-landing",
+    "day": "2026-08-09",
+    "img": "https://www.aerotime.aero/images/2026/08/N555NW-Delta-Air-Lines-Boeing-757-251.jpg"
+   },
+   {
     "headline": "FAA Eases SFO Landing Ban After 41% Of Flights Delayed",
     "summary": "After months of severe delays, the FAA is easing restrictions on SFO parallel landings.",
     "source": "Simple Flying",
@@ -4910,6 +4918,14 @@
    }
   ],
   "defense": [
+   {
+    "headline": "Red Arrows cancel upcoming UK displays due to troubles returning from US tour",
+    "summary": "The Royal Air Force’s (RAF) Red Arrows aerobatic display team has canceled a series of upcoming appearances after… The post Red Arrows cancel upcoming UK displays due to troubles returning from US tour appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/red-arrows-cancel-uk-displays-troubles-returning-from-us-tour",
+    "day": "2026-08-09",
+    "img": "https://www.aerotime.aero/images/2026/08/RAF-Red-Arrows.jpg"
+   },
    {
     "headline": "Damaged USAF C-17 Flies Again After First-of-its-Kind Repair",
     "summary": "A C-17 of the 445th Airlift Wing extensively damaged in March 2025 was repaired by using new technologies of the Rapid Sustainment Office, after no vendors were able to provide the needed parts. The Air Force Rapid…",
@@ -5861,14 +5877,6 @@
     "url": "https://www.airandspaceforces.com/air-force-official-cca-optionally-attritable/",
     "day": "2026-07-30",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/07/260722-F-HX125-1082-900x600.jpeg"
-   },
-   {
-    "headline": "Reserve Wing at Whiteman Takes ‘First Step’ Toward Replacing A-10s with F-15Es",
-    "summary": "The 442nd Fighter Wing at Whiteman Air Force Base, Mo., is in line to replace its A-10 Warthogs with F-15E Strike Eagles in the coming years, securing the future of the reserve unit’s flying mission. The post Reserve…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/reserve-wing-whiteman-replacing-a-10s-with-f-15es/",
-    "day": "2026-07-30",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/9810189-900x600.jpg"
    }
   ],
   "others": []
