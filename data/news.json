@@ -1,7 +1,15 @@
 {
- "generated": "2026-08-10T04:25+00:00",
+ "generated": "2026-08-10T07:20+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Qatar Airways Jan 2027 One-Time A380 Jordan Service",
+    "summary": "Published at 0000PDT / 0700GMT 10AUG26 Qatar Airways in January 2027 schedules one-time Airbus A380 service to Jordan, with the 517-seater aircraft scheduled on Doha – Amman route on 28JAN27. Planned schedule as…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260810-qrjan27jo",
+    "day": "2026-08-10",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "Qantas Moves A321XLR International Debut to mid-1Q27",
     "summary": "Published at 1800PDT 09AUG26 / 0100GMT 10AUG26 Qantas in recent schedule update filed service changes for Brisbane – Manila route, as the carrier delays the debut of A321XLR aircraft on international routes. Planned…",
@@ -953,17 +961,17 @@
     "url": "https://www.aeroroutes.com/eng/260803-vz1q27uth",
     "day": "2026-08-04",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Thai VietJet Air NW26 Taiwan/Japan Aircraft Changes",
-    "summary": "Published at 1800PDT 03AUG26 / 0100GMT 04AUG26 Thai VietJet Air in recent schedule update moved forward all-737 MAX operations for service to Taiwan, as well as beyond to Japan. Previously scheduled from 28MAR27…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260803-vznw26tw",
-    "day": "2026-08-04",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "Cracking the code",
+    "summary": "Gresham Smith’s Wilson Rayfield explains why getting every detail right in airport design matters when it comes to the passenger experience. Airports occupy a unique intersection of infrastructure, hospitality, and…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/cracking-the-code/?utm_source=rss&utm_medium=rss&utm_campaign=cracking-the-code",
+    "day": "2026-08-10",
+    "img": null
+   },
    {
     "headline": "How United Is Quietly Rebuilding Washington Dulles Into Its Ultimate Hub",
     "summary": "Trump is pushing to rebuild Dulles, but United is getting the global hub it always wanted.",
@@ -1915,17 +1923,17 @@
     "url": "https://simpleflying.com/british-airways-captain-intervened-first-officer-stall/",
     "day": "2026-07-30",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/101-british-airways-airbus-a320-airlinephoto-_-shutterstock.jpg"
-   },
-   {
-    "headline": "United, Dulles Airport unveil $20 billion overhaul including new concourses",
-    "summary": "United Airlines announced that it is partnering with the Metropolitan Washington Airports Authority and the US Department of… The post United, Dulles Airport unveil $20 billion overhaul including new concourses appeared…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/united-dulles-airport-unveil-20-billion-overhaul-including-new-concourses",
-    "day": "2026-07-30",
-    "img": "https://www.aerotime.aero/images/2026/07/Untitled-design-65.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "The Scope Clause: The Obscure Rule Shaping US Regional Aviation",
+    "summary": "What is the scope clause and what impact does it have on regional aviation across the country?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/scope-clause-obscure-rule-shaping-us-regional-aviation/",
+    "day": "2026-08-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/us-regional-aviation.jpg"
+   },
    {
     "headline": "Why Pilots Reduce Speed Before Crossing Into Oceanic Airspace",
     "summary": "Oceanic airspace is a challenging place to be, far away from civilization and communication outposts. Before entering, pilots reduce speed, but why?",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/why-boeing-quietly-pivoted-developing-777x-engine-chevrons/",
     "day": "2026-08-01",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/why-boeing-quietly-pivoted-from-developing-the-777x-with-engine-chevrons.jpg"
-   },
-   {
-    "headline": "Why Airlines Cannot Update The 787's Core Software Without Boeing's Direct Involvement",
-    "summary": "The 787's core software is part of its FAA type certificate. When a bug appears, airlines cannot patch it themselves. Here is why.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-airlines-cannot-update-787-dreamliner-core-software-without-boeing-direct-involvement/",
-    "day": "2026-08-01",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/why-airlines-cannot-update-the-787-dreamliner-s-core-software-without-boeing-s-direct-involvement.jpg"
    }
   ],
   "finance": [
