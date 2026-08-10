@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-10T01:17+00:00",
+ "generated": "2026-08-10T04:25+00:00",
  "sections": {
   "network": [
    {
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "Why Pilots Reduce Speed Before Crossing Into Oceanic Airspace",
+    "summary": "Oceanic airspace is a challenging place to be, far away from civilization and communication outposts. Before entering, pilots reduce speed, but why?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-pilots-slow-before-oceanic-crossings/",
+    "day": "2026-08-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/long-haul-pilots.jpg"
+   },
+   {
     "headline": "Is It True That The World Is Running Short On Widebody Aircraft?",
     "summary": "The current situation in the widebody market.",
     "source": "Simple Flying",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/why-airlines-cannot-update-787-dreamliner-core-software-without-boeing-direct-involvement/",
     "day": "2026-08-01",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/why-airlines-cannot-update-the-787-dreamliner-s-core-software-without-boeing-s-direct-involvement.jpg"
-   },
-   {
-    "headline": "The Aircraft Set To Replace Delta Air Lines' Boeing 717s",
-    "summary": "Delta's 717 fleet is soon to be retired, and the airline will be replacing the type's operations with the Airbus A220 family.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/the-aircraft-replacing-delta-air-lines-boeing-717-fleet/",
-    "day": "2026-08-01",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/10/retirement.jpg"
    }
   ],
   "finance": [
@@ -4951,6 +4951,14 @@
   ],
   "defense": [
    {
+    "headline": "What Boeing's Latest $280 Million Air Force One Charge Really Means",
+    "summary": "The VC-25B has been a lesson in the risks of high-risk fixed-price contracts and short-term high-profile savings for the cameras.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/boeing-air-force-one-charge-defense-division/",
+    "day": "2026-08-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/air-force-one-vc-25b-bridge.jpg"
+   },
+   {
     "headline": "Why The B-52 Will Still Be Flying Alongside America's Newest Stealth Bomber",
     "summary": "The B-52J will serve a complementary role with the B-21 with the two aircraft optimized for different, but related missions.",
     "source": "Simple Flying",
@@ -5901,14 +5909,6 @@
     "url": "https://simpleflying.com/f-22-terrible-fuel-economy-actually-secret-weapon/",
     "day": "2026-07-30",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/f-22-s-terrible-fuel-economy.jpg"
-   },
-   {
-    "headline": "Former NORAD Boss: Air Bases in US Vulnerable to Ukraine-Style Drone Attack",
-    "summary": "Air Force bases inside the U.S. are heavily guarded, but they could fall victim to the same type of spectacular drone attack that struck bomber bases deep inside Russia last year, retired Air Force Gen. Glen D.…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/former-norad-boss-operation-spiderweb-drone-attack-us-bases/",
-    "day": "2026-07-30",
-    "img": "https://www.airandspaceforces.com/app/uploads/2025/07/Footage-from-Ukraines-Operation-Spiderweb-hitting-Russian-bombers-900x600.png"
    }
   ],
   "others": []
