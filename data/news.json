@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-11T04:15+00:00",
+ "generated": "2026-08-11T06:56+00:00",
  "sections": {
   "network": [
    {
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "Why The Next Generation Of Aircraft Engines May Not Need A Revolutionary New Design",
+    "summary": "Why future aircraft engines may evolve instead of being reinvented, as MTU explains how GTF technology, SAF and new materials drive efficiency gains.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/next-generation-engines-design/",
+    "day": "2026-08-11",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/why-the-next-generation-of-aircraft-engines-may-not-need-a-revolutionary-new-design.jpg"
+   },
+   {
     "headline": "5 Airlines With The World's Best Business Class Seats For Transpacific Flights",
     "summary": "Which carriers offer passengers the most comfort across the Pacific?",
     "source": "Simple Flying",
@@ -2875,14 +2883,6 @@
     "summary": "Dviation Technics has been appointed as the line maintenance provider for Riyadh Air at Kuala Lumpur International Airport, supporting the Saudi carrier’s launch into Southeast Asia. The appointment coincides with…",
     "source": "AviTrader",
     "url": "https://avitrader.com/2026/08/03/dviation-wins-riyadh-air-maintenance-contract-in-kuala-lumpur/",
-    "day": "2026-08-03",
-    "img": null
-   },
-   {
-    "headline": "Somon Air takes delivery of first 737 MAX",
-    "summary": "Somon Air has taken delivery of its first Boeing 737-8, becoming the first airline in Tajikistan to operate the 737 MAX as it advances its fleet modernisation and network expansion plans. The aircraft is the first of…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/08/03/somon-air-takes-delivery-of-first-737-max/",
     "day": "2026-08-03",
     "img": null
    }
