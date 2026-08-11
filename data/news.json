@@ -1,7 +1,23 @@
 {
- "generated": "2026-08-11T01:15+00:00",
+ "generated": "2026-08-11T04:15+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "TAROM Moves 737 MAX Service Entry to Sep 2026",
+    "summary": "Published at 2000PDT 10AUG26 / 0300GMT 11AUG26 Skyteam member TAROM in recent schedule update continues to revise planned 737 MAX 8 service entry, now scheduled from September 2026, instead of mid-August. Bucharest –…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260810-rosep267m8",
+    "day": "2026-08-11",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Virgin Atlantic NW26 232-seater A330-900neo Operations – 09AUG26",
+    "summary": "Published at 1900PDT 10AUG26 / 0200GMT 11AUG26 Virgin Atlantic in recent schedule update filed revised 232-seater Airbus A330-900neo operation. Initially scheduled to enter service in November 2026, the 232-seater…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260810-vsnw26339",
+    "day": "2026-08-11",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "Ethiopian Moves Nacala Launch to Oct 2026",
     "summary": "Published at 1800PDT 10AUG26 / 0100GMT 11AUG26 Ethiopian Airlines in recent schedule update revised planned service launch to Nacala in Mozambique. Initially scheduled from 16JUL26, the 3 weekly Addis Ababa – Blantyre –…",
@@ -945,25 +961,17 @@
     "url": "https://www.aeroroutes.com/eng/260805-brnw26del",
     "day": "2026-08-05",
     "img": null
-   },
-   {
-    "headline": "Air China NW26 Chongqing – Taipei Aircraft Changes",
-    "summary": "Published at 2000PDT 04AUG26 / 0300GMT 05AUG26 Star Alliance member Air China during Northern winter 2026/27 season plans to expand capacity on Chongqing – Taipei Taoyuan route, effective 25OCT26. The 5 weekly flights…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260804-canw26ckgtpe",
-    "day": "2026-08-05",
-    "img": null
-   },
-   {
-    "headline": "China Southern Increases Shenzhen – Jakarta From mid-July 2026",
-    "summary": "Published at 1900PDT 04AUG26 / 0200GMT 05AUG26 China Southern since mid-July 2026 launched 2nd daily Shenzhen – Jakarta flight, on board Airbus A320neo aircraft. Initially scheduled from 15JUL26 to 31AUG26, service will…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260804-czjul26cgk",
-    "day": "2026-08-05",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "Air India Flights Surge 44% On Major Australian Route: New Record Set",
+    "summary": "Bigger widebodies and extra frequencies reshape the Delhi-Melbourne link with daily 777 service and added 787 flights.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/air-india-flights-surge-44-on-major-australian-route-new-record-set/",
+    "day": "2026-08-11",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/478-air-india-boeing-777-300-markus-mainka-_-shutterstock-1.jpg"
+   },
    {
     "headline": "Qantas Delays 1st Airbus A321XLR International Flight To 2027: Full Update Now",
     "summary": "The type will now continue to operate four domestic routes. See what's happening here!",
@@ -1915,14 +1923,6 @@
     "url": "https://simpleflying.com/japan-airlines-a350-1000-1st-flight-7-months-jfk/",
     "day": "2026-07-30",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/japan-airlines-a350-1000-1.jpg"
-   },
-   {
-    "headline": "Qantas Axing Airbus A380 Flights From Major Airport: Here’s the Final Date",
-    "summary": "The final flight of Qantas' Airbus A380 from Melbourne to Los Angeles on October 24 marks the end of an era, as the airline opts for Boeing 787-9.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/qantas-axing-a380-flights-from-major-airport/",
-    "day": "2026-07-30",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/qantas-a380-sydney.jpg"
    }
   ],
   "fleet": [
@@ -4309,6 +4309,14 @@
   ],
   "policy": [
    {
+    "headline": "Two pilots killed in S-64 Skycrane crash while fighting Utah wildfire",
+    "summary": "Two pilots were killed when a Sikorsky S-64 Skycrane crashed while dropping water on a wildfire in central… The post Two pilots killed in S-64 Skycrane crash while fighting Utah wildfire appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/s-64-skycrane-crash-utah-wildfire-two-pilots-killed",
+    "day": "2026-08-11",
+    "img": "https://www.aerotime.aero/images/2026/08/82-15-1683-1-scaled-1.jpeg"
+   },
+   {
     "headline": "American makes first US commercial airport delivery of synthetic jet fuel",
     "summary": "American Airlines has used electro sustainable aviation fuel on a commercial passenger flight following what the carrier says… The post American makes first US commercial airport delivery of synthetic jet fuel appeared…",
     "source": "AeroTime",
@@ -4990,6 +4998,14 @@
    }
   ],
   "defense": [
+   {
+    "headline": "Key C-17 Base in South Carolina Renamed After Sen. Lindsey Graham",
+    "summary": "A major South Carolina military base that serves as a key Air Force logistics hub was renamed after the late Sen. Lindsey Graham on Aug. 10 in a ceremony led by Secretary of Defense Pete Hegseth and Graham’s sister…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/key-c-17-base-south-carolina-renamed-joint-base-lindsey-graham/",
+    "day": "2026-08-11",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/JointBaseLindseyGraham-5-900x600.jpg"
+   },
    {
     "headline": "Air Force Promotes Fewer Staff Sergeants After Last Year’s Historic Surge",
     "summary": "The Air Force is promoting around 12,500 Senior Airmen to staff sergeant, roughly 20 percent fewer enlisted Airmen compared to last year’s massive total. The post Air Force Promotes Fewer Staff Sergeants After Last…",
@@ -5941,14 +5957,6 @@
     "url": "https://www.airandspaceforces.com/gao-warns-b-52-modernization-falling-behind/",
     "day": "2026-07-31",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/04/B52April2-3-900x600.jpeg"
-   },
-   {
-    "headline": "Marine Corps F-35 suffers crash in California",
-    "summary": "The pilot ejected and is receiving medical treatment for non-life-threatening injuries, according to the service.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/07/marine-corps-f-35-suffers-crash-in-california/",
-    "day": "2026-07-31",
-    "img": null
    }
   ],
   "others": []
