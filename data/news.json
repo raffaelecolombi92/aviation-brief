@@ -1,7 +1,31 @@
 {
- "generated": "2026-08-12T15:54+00:00",
+ "generated": "2026-08-12T18:55+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Volaris Dec 2026 Network Additions",
+    "summary": "Published at 1100PDT / 1800GMT 12AUG26 Volaris in December 2026 plans to launch 9 new routes, with schedules appeared in recent schedule filing. Planned network additions as follows. Guadalajara – Atlanta eff 02DEC26 4…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260812-y4dec26",
+    "day": "2026-08-12",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Volaris Discontinues 9 Domestic Routes in late-Aug 2026",
+    "summary": "Published at 1000PDT / 1700GMT 12AUG26 Mexican low-cost carrier Volaris at the end of August 2026 plans to discontinue 9 domestic routes, reflected in recent schedule update. Among the following 9 routes, selected…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260812-y4aug26mx",
+    "day": "2026-08-12",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Aeromexico NW26 Cali Schedule Changes",
+    "summary": "Published at 0900PDT / 1600GMT 12AUG26 Aeromexico at the launch of Northern winter 2026/27 season plans schedule changes for Mexico City – Cali route. From 25OCT26, Mexico City departure time moves from afternoon hours…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260812-amnw26clo",
+    "day": "2026-08-12",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "United Airlines secures financing worth $390 million for A321neo and 737-8 jets",
     "summary": "United Airlines has secured financing worth $390 million from British multinational bank Standard Chartered for four Airbus A321neo… The post United Airlines secures financing worth $390 million for A321neo and 737-8…",
@@ -937,33 +961,25 @@
     "url": "https://simpleflying.com/american-airlines-11-longest-routes/",
     "day": "2026-08-07",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/819-american-airlines-boeing-777-300-markus-mainka-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Thai Lion Air NW26 Taipei – Osaka Service Changes",
-    "summary": "Published at 1400PDT / 2100GMT 07AUG26 Thai Lion Air this week filed service changes for Bangkok Don Mueang – Taipei Taoyuan – Osaka Kansai route for Northern winter 2026/27 season, where the carrier schedules 5 weekly…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260807-slnw26tpekix",
-    "day": "2026-08-07",
-    "img": null
-   },
-   {
-    "headline": "HK Express Increases Sendai Service in NW26",
-    "summary": "Published at 1300PDT / 2000GMT 07AUG26 HK Express during Northern winter 2026/27 season schedules service increase on Hong Kong – Sendai route, operated by Airbus A320neo. From 03DEC26 to 28FEB27, overall service will…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260807-uonw26sdj",
-    "day": "2026-08-07",
-    "img": null
-   },
-   {
-    "headline": "Biman NW26 Dhaka – Tokyo Aircraft Changes",
-    "summary": "Published at 1200PDT / 1900GMT 07AUG26 Biman Bangladesh Airlines during Northern winter 2026/27 season schedules aircraft changes for Japan, as the weekly Dhaka – Tokyo Narita service to be operated by 787-8 from…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260807-bgnw26nrt",
-    "day": "2026-08-07",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "Move to establish Avalon Airport as Australian e-commerce hub",
+    "summary": "Avalon Airport and Teleport have announced a strategic partnership to establish Teleport’s latest strategic operations hub at the Melbourne gateway. The agreement is said to mark a signiﬁcant milestone in Avalon’s…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/move-to-establish-avalon-airport-as-australian-e-commerce-hub/?utm_source=rss&utm_medium=rss&utm_campaign=move-to-establish-avalon-airport-as-australian-e-commerce-hub",
+    "day": "2026-08-12",
+    "img": null
+   },
+   {
+    "headline": "Memphis airport name change honours FedEx founder",
+    "summary": "Memphis has renamed its airport after FedEx founder and visionary Frederick W Smith, whose company’s success has driven the development of the gateway for decades. Now known as Frederick W Smith International Airport…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/memphis-airport-name-change-honours-fedex-founder/?utm_source=rss&utm_medium=rss&utm_campaign=memphis-airport-name-change-honours-fedex-founder",
+    "day": "2026-08-12",
+    "img": null
+   },
    {
     "headline": "British Airways Launches New US Route From Heathrow In Just 2 Months [Map]",
     "summary": "While the development is not quite as it seems, a brand-new airport pair will join the carrier's map. See more here!",
@@ -1907,25 +1923,33 @@
     "url": "https://simpleflying.com/british-airways-cancels-ticket-seat-fee-chargeback/",
     "day": "2026-08-03",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/british-airways-boeing-777-300.jpg"
-   },
-   {
-    "headline": "Route network diversity helps Sydney Airport offset Middle East flight disruption",
-    "summary": "While second-quarter passenger traffic softened amid Middle East disruption, Sydney Airport delivered +1.5% first-half growth as strong demand across Asia helped sustain international travel.",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/route-network-diversity-helps-sydney-airport-offset-middle-east-flight-disruption/?utm_source=rss&utm_medium=rss&utm_campaign=route-network-diversity-helps-sydney-airport-offset-middle-east-flight-disruption",
-    "day": "2026-08-03",
-    "img": null
-   },
-   {
-    "headline": "PBI Is Now DJT: What The Trump Airport Name Change Means For Travelers",
-    "summary": "Palm Beach's PBI airport code becomes DJT on August 18. Here's what the historic airport code change means for flights, bookings, and travelers.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/pbi-now-djt-what-trump-airport-name-change-means/",
-    "day": "2026-08-02",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/shutterstock_2816703791_cropped.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "How A Single $10 Component Can Delay The Delivery Of A $200 Million Aircraft",
+    "summary": "How can the industry fix this fragility?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-a-single-10-component-can-delay-the-delivery-of-a-200-million-aircraft/",
+    "day": "2026-08-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/10-component.jpg"
+   },
+   {
+    "headline": "COMAC C919 Completes First International Flight to Mongolia",
+    "summary": "COMAC’s C919 completed its first international flight earlier today, flying from Beijing to Ulaanbaatar, Mongolia. This marks a milestone for",
+    "source": "AirInsight",
+    "url": "https://airinsight.com/comac-c919-completes-first-international-flight-to-mongolia/",
+    "day": "2026-08-12",
+    "img": "https://airinsight.com/wp-content/uploads/2026/08/C919-image-CGTV.jpg"
+   },
+   {
+    "headline": "Pontifications: Lingering resentment overhangs SPEEA vote; contract defeat seems likely",
+    "summary": "Aug. 12, 2026, © Leeham News: Lingering resentment over past contracts, comparisons with the 2024 IAM 751 contract, and poor communications appear to contribute to reasons the Bargaining Unit Councils (BUCs) of the…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/08/12/pontifications-lingering-resentment-overhangs-speea-vote-contract-defeat-seems-likely/",
+    "day": "2026-08-12",
+    "img": null
+   },
    {
     "headline": "Longer Wings Could Be The Biggest Change On Airbus' Next Narrowbody",
     "summary": "Are longer wings the secret to making future aircraft far more efficient? Airbus is testing just that, hoping to pioneer the future of aircraft design",
@@ -2861,30 +2885,6 @@
     "url": "https://airinsight.com/here-comes-an-aerospace-window-shortage/",
     "day": "2026-08-04",
     "img": "https://airinsight.com/wp-content/uploads/2022/11/GKN_Logo_F.png"
-   },
-   {
-    "headline": "Former Saudia and EVA Air Boeing 747-400BCF joins Network Airline Management",
-    "summary": "A Boeing 747-400BCF that previously flew for Saudia and EVA Air has joined Network Airline Management, becoming the… The post Former Saudia and EVA Air Boeing 747-400BCF joins Network Airline Management appeared first…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/former-saudia-eva-air-boeing-747-400-network-airline-management",
-    "day": "2026-08-04",
-    "img": "https://www.aerotime.aero/images/2026/08/Network-Airline-Management-Boeing-747-400BCF.jpg"
-   },
-   {
-    "headline": "Press Release: U.S. FAA certifies new Boeing 737-7 airplane",
-    "summary": "The U.S. Federal Aviation Administration has granted Boeing an amended type certificate for the new 737-7 airplane, clearing it for commercial service. “This important certification validates the rigor of our airplane’s…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/08/u-s-faa-certifies-new-boeing-737-7-airplane/",
-    "day": "2026-08-04",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/08/737-7-max-ID-fb3c1b364a1c.jpg"
-   },
-   {
-    "headline": "NAM adds fifth Boeing 747 Freighter",
-    "summary": "Network Airline Management (NAM) has expanded its freighter fleet with the addition of a Boeing 747-400BCF, increasing its Boeing 747 fleet to five aircraft. The converted freighter entered service at the end of July…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/08/04/nam-adds-fifth-boeing-747-freighter/",
-    "day": "2026-08-04",
-    "img": null
    }
   ],
   "finance": [
@@ -3362,6 +3362,22 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "Wheels Up partners with Fraser Yachts, for jet-to-yacht connections",
+    "summary": "Charter provider Wheels Up has partnered with Fraser Yachts, a full-service yacht broker, to provide jet-to-yacht journeys for clients. The post Wheels Up partners with Fraser Yachts, for jet-to-yacht connections…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/08/12/wheels-up-partners-with-fraser-yachts-for-jet-to-yacht-connections/",
+    "day": "2026-08-12",
+    "img": null
+   },
+   {
+    "headline": "AB Jets reveals new Bombardier order, launches jet card",
+    "summary": "Two additional Challenger 3500s will join AB Jets following delivery of its first three super-midsize private jets The post AB Jets reveals new Bombardier order, launches jet card appeared first on Private Jet Card…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/08/12/ab-jets-reveals-new-bombardier-order-launches-jet-card/",
+    "day": "2026-08-12",
+    "img": null
+   },
    {
     "headline": "How One Of The Cheapest Jets In The Sky Undercuts Charter Rates By Over $1,000 Per Hour",
     "summary": "What makes the Cirrus SF50 so compelling.",
@@ -4305,22 +4321,6 @@
     "url": "https://privatejetcardcomparisons.com/2026/07/14/jettly-waives-jet-card-enrollment-fee-throughout-july/",
     "day": "2026-07-15",
     "img": null
-   },
-   {
-    "headline": "TLC Jet extends American Airlines AAdvantage promotion",
-    "summary": "First-time charter customers with TLC Jet earn double status points and miles via American AAdvantage through Labor Day The post TLC Jet extends American Airlines AAdvantage promotion appeared first on Private Jet Card…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/07/14/tlc-jet-extends-american-airlines-aadvantage-promotion/",
-    "day": "2026-07-14",
-    "img": null
-   },
-   {
-    "headline": "Embraer launches the Phenom 300EV with auto-land capability for max safety",
-    "summary": "Embraer has launched the Phenom 300EV, the third generation of the planemakers best-selling light jet following the highly… The post Embraer launches the Phenom 300EV with auto-land capability for max safety appeared…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/embraer-phenom-300ev-garmin-autoland-safety",
-    "day": "2026-07-14",
-    "img": "https://www.aerotime.aero/images/2026/07/Embraer-Phenom-300EV.jpg"
    }
   ],
   "policy": [
@@ -5046,6 +5046,38 @@
    }
   ],
   "defense": [
+   {
+    "headline": "The Real Reason Why The KC-46 Pegasus Became Both Essential & Deeply Troubled",
+    "summary": "The snag with the USAF's tanker modernization plans.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/real-reason-kc-46-pegasus-became-essential-deeply-troubled/",
+    "day": "2026-08-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/kc-46-pegasus.jpg"
+   },
+   {
+    "headline": "Air Force Moves Ahead with Plan to Put HH-60W at Andrews",
+    "summary": "New helicopters, a new unit, and more Airmen are primed to move to Joint Base Andrews, Md., as the Air Force upgrades to modified HH-60Ws for its executive transport needs around the nation’s capital. In an Aug. 12…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/air-force-moves-ahead-plan-hh-60w-at-andrews/",
+    "day": "2026-08-12",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/9839082-scaled-900x600.jpg"
+   },
+   {
+    "headline": "BRRRRT Act’s Text Reveals New Details About Plan to Save the A-10s",
+    "summary": "New details in the BRRRRT Act’s full text reveal plans to keep selected Warthogs recoverable, examine potential foreign transfers and test emerging autonomous systems. Weeks after it was first introduced to the U.S.…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/08/12/brrrrt-acts-plan-to-save-the-a-10s/",
+    "day": "2026-08-12",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/04/9493570b-scaled.jpg"
+   },
+   {
+    "headline": "DARPA seeks ‘unconstrained, radical’ concepts for next-gen hypersonic cruise missile",
+    "summary": "The Pentagon’s secretive research agency says new advances are needed to counter adversary air defenses, along with innovative manufacturing techniques that can produce hypersonic weapons affordably and at scale.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/08/darpa-seeks-unconstrained-radical-concepts-for-next-gen-hypersonic-cruise-missile/",
+    "day": "2026-08-12",
+    "img": null
+   },
    {
     "headline": "Turkish Air Force F-16 crashes near Yalova during training, pilot ejects",
     "summary": "A Turkish Air Force F-16 fighter crashed during a training flight in the northwestern province of Yalova on… The post Turkish Air Force F-16 crashes near Yalova during training, pilot ejects appeared first on AeroTime .",
@@ -5973,38 +6005,6 @@
     "url": "https://www.aerotime.aero/articles/lockheed-martin-ai-flies-f-16-in-27-live-target-intercepts",
     "day": "2026-08-04",
     "img": "https://www.aerotime.aero/images/X-62A-VISTA-aircraft-dogfighting.jpg"
-   },
-   {
-    "headline": "US Air Force puts F-15EX and F-16 engine suppliers on notice",
-    "summary": "The US Air Force is preparing to open fighter engine production for the F-15EX Eagle II and F-16… The post US Air Force puts F-15EX and F-16 engine suppliers on notice appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/usaf-fighter-engine-recompetition-f15ex-f16",
-    "day": "2026-08-04",
-    "img": "https://www.aerotime.aero/images/2026/08/An-F-15E-Strike-Eagle-engine-the-F100-PW-220-goes-through-a-routine-afterburner-test.jpg"
-   },
-   {
-    "headline": "Australia names Ghost Bat, hypersonics, lasers as defense technology priorities",
-    "summary": "Australia has placed autonomous aircraft, hypersonic weapons and high-energy lasers among the six priorities of a new 10-year strategy… The post Australia names Ghost Bat, hypersonics, lasers as defense technology…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/australia-ghost-bat-hypersonics-lasers-defense-strategy",
-    "day": "2026-08-04",
-    "img": "https://www.aerotime.aero/images/Boeing-MQ-28A-Ghost-Bat-drones.jpg"
-   },
-   {
-    "headline": "Private Investors Purchase Majority Stake in L3Harris’ Space Propulsion Business",
-    "summary": "AE Industrial closed its purchase of a majority stake in L3Harris’ space propulsion business and plans to re-establish it as Rocketdyne, a nod to its more than 60 years of heritage as a rocket enginemaker. The post…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/private-investors-buy-l3harris-space-propulsion-business/",
-    "day": "2026-08-04",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/ar-rl10-two-engines-centaur-upper-stage.avif"
-   },
-   {
-    "headline": "Colombia buys 2 KC-390s from Embraer in $336 million deal",
-    "summary": "The Colombian Aerospace Force said the first aircraft is expected for delivery in 2029, and that a second will follow in 2030.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/08/colombia-buys-2-kc-390s-from-embraer-in-336-million-deal/",
-    "day": "2026-08-04",
-    "img": null
    }
   ],
   "others": []
