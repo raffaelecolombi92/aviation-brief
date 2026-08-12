@@ -1,7 +1,47 @@
 {
- "generated": "2026-08-11T21:40+00:00",
+ "generated": "2026-08-12T01:23+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Cebu Pacific NW26 Asia Network Additions – 11AUG26",
+    "summary": "Published at 1800PDT 11AUG26 / 0100GMT 12AUG26 Cebu Pacific last week opened reservations for 3 additional routes in Asia for Northern winter 2026/27 season, including service resumption. Cebu – Nagoya eff 19NOV26 4…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260811-5jnw26int",
+    "day": "2026-08-12",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "PIA Resumes Islamabad – Beijing From late-Oct 2026",
+    "summary": "Published at 1701PDT 11AUG26 / 0001GMT 12AUG26 Pakistan International Airlines (PIA) during Northern winter 2026/27 season plans to resume Islamabad – Beijing Capital route. Previously, AeroRoutes only highlighted this…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260811-pknw26pek",
+    "day": "2026-08-12",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "FedEx Celebrates Legacy of Founder Frederick W. Smith with Airport Dedication and FWS Day of Service + a retrojet livery on Boeing 777F N864FD",
+    "summary": "FedEx announced: On August 11, 2026, the Memphis community and FedEx team members worldwide came together to honor the legacy of the late FedEx founder Frederick W. Smith. In a dual tribute, the Memphis-Shelby County…",
+    "source": "World Airline News",
+    "url": "https://worldairlinenews.com/2026/08/11/fedex-celebrates-legacy-of-founder-frederick-w-smith-with-airport-dedication-and-fws-day-of-service-a-retrojet-livery-on-boeing-777f-n864fd/",
+    "day": "2026-08-11",
+    "img": "https://worldairlinenews.com/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-3.09.49-PM.png"
+   },
+   {
+    "headline": "Neos Resumes Rome – Dubai Flights in NW26",
+    "summary": "Published at 1600PDT / 2300GMT 11AUG26 Italian carrier Neos during Northern winter 2026/27 season plans to resume seasonal Rome Fiumicino – Dubai al Maktoum route, after the hiatus in 2025/26 season. Upon service…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260811-nonw26dwc",
+    "day": "2026-08-11",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Emirates Oct 2026 Singapore Service Changes",
+    "summary": "Published at 1500PDT / 2200GMT 11AUG26 Emirates during the month of October 2026 intends to resume 2nd daily A380 flight on Dubai – Singapore route. Reflected in recent schedule update, the 2nd daily EK354/355 flight…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260811-ekoct26sin",
+    "day": "2026-08-11",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "Delta Air Lines Investigating Hoax WiFi Network On Las Vegas Flight After Hacking Conference",
     "summary": "Delta is investigating a possible hoax Wi-Fi network on a Las Vegas-Atlanta flight after DEF CON 34, though no aircraft systems were hacked.",
@@ -921,49 +961,17 @@
     "url": "https://www.aeroroutes.com/eng/260806-tksep26kix",
     "day": "2026-08-06",
     "img": null
-   },
-   {
-    "headline": "Saudia Extends Jeddah – Birmingham Suspension to late-1Q27",
-    "summary": "Published at 0415PDT / 1115GMT 06AUG26 Saudia in the last 48 hours filed additional changes to Jeddah – Birmingham route during Northern winter 2026/27 season. As of 06AUG26, the airline has extended planned service…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260806-svnw26bhx",
-    "day": "2026-08-06",
-    "img": null
-   },
-   {
-    "headline": "Riyadh Air Schedules Bangkok Sep 2026 Launch",
-    "summary": "Published at 0330PDT / 1030GMT 06AUG26 Riyadh Air today (06AUG26) opened reservations for service to Thailand, as reservations for Riyadh – Bangkok Suvarnabhumi route opened after 1020GMT. The airline’s 787-9 aircraft…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260806-rxsep26bkk",
-    "day": "2026-08-06",
-    "img": null
-   },
-   {
-    "headline": "The New Long-Haul Players Reshaping Global Route Maps In 2026",
-    "summary": "Multiple new entrants and established carriers are continuing to reshape the global long-haul route map in 2026.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/new-long-haul-players-reshaping-global-route-maps-2026/",
-    "day": "2026-08-06",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/global-route-maps.jpg"
-   },
-   {
-    "headline": "Iberia to operate special A321XLR flight with Starlink to observe solar eclipse",
-    "summary": "Spanish flag carrier Iberia will operate a special charter flight to observe the total solar eclipse that will… The post Iberia to operate special A321XLR flight with Starlink to observe solar eclipse appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/iberia-to-operate-special-a321xlr-flight-with-starlink-to-observe-solar-eclipse",
-    "day": "2026-08-06",
-    "img": "https://www.aerotime.aero/images/2024/10/Iberia-Airbus-A321XLR-e1786004822857.jpg"
-   },
-   {
-    "headline": "Starlux One-Time A350-1000 Taipei – Prague Flight in mid-Aug 2026",
-    "summary": "Published at 0300PDT / 1000GMT 06AUG26 Starlux Airlines has temporarily moved forward Airbus A350-1000 debut on its recently launched Taipei Taoyuan – Prague flight. On 11AUG26, service will be operated by the -1000…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260806-jxaug26prg",
-    "day": "2026-08-06",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "Talking tech",
+    "summary": "We review the highlights of our recent ‘Making AI Work in Airports’ webinar, which covered the huge potential of artificial intelligence and the environment needed to encourage its future development. Watched by over…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/talking-tech/?utm_source=rss&utm_medium=rss&utm_campaign=talking-tech",
+    "day": "2026-08-11",
+    "img": null
+   },
    {
     "headline": "Southwest Launches 5 New Nonstop International Routes: See Full List Now",
     "summary": "They are from four airports across the country. Find them all here!",
@@ -1915,17 +1923,25 @@
     "url": "https://simpleflying.com/delta-cuts-24-long-haul-routes-from-worlds-busiest-airport/",
     "day": "2026-07-31",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/12/delta_airlines_777-200er_on_short_final_after_a_long_flight_-41344091452.jpg"
-   },
-   {
-    "headline": "93%+ Full: Southwest's 11 Busiest Routes With Seats Nearly Sold Out [Map & List]",
-    "summary": "They are all across the US, with some intriguing entries. Find them all here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/93pc-full-southwests-11-busiest-routes-with-seats-nearly-sold-out/",
-    "day": "2026-07-31",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/244-southwest-airlines-boeing-737-700-avi-johnson-_-shutterstock-1.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Single-Pilot Airliners Might Be Closer Than You Think: Here's Why That's Controversial",
+    "summary": "The technology for single-pilot flying is getting closer. Yet, regulators have responded to the controversy by blocking development.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/single-pilot-airliners-closer-think-why-controversial/",
+    "day": "2026-08-11",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/single-pilot-airliners.jpg"
+   },
+   {
+    "headline": "17% Drop: Boeing Delivered 53 New Aircraft In July",
+    "summary": "Boeing delivered 53 aircraft in July, down monthly, but still firmly ahead year-on-year.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/boeing-delivers-53-new-aircraft-july/",
+    "day": "2026-08-11",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/why-the-us-isn-t-worried-about-boeing-737-max-production-stability.jpg"
+   },
    {
     "headline": "5 Reasons Why Pilots Prefer The Boeing 787 Dreamliner",
     "summary": "The aircraft offers exceptional long-haul capabilities.",
@@ -2869,22 +2885,6 @@
     "url": "https://simpleflying.com/netflix-boeing-whistleblower-documentary-august-19/",
     "day": "2026-08-03",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/boeing-787-tail.jpg"
-   },
-   {
-    "headline": "The Regional Jet Cliff: What Happens When The Bombardier CRJ & Embraer E-Jet Fleets Age Out",
-    "summary": "The aircraft have dominated the regional jet market for years.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/what-happens-bombardier-crj-embraer-e-jet-fleets-age-out/",
-    "day": "2026-08-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/regional-jet-cliff.jpg"
-   },
-   {
-    "headline": "The Brand-New Inflight Addition That United Airlines Passengers Are Raving About",
-    "summary": "United's new premium-heavy layout on its Boeing 787-9 fleet is designed to compete with the world's best airlines.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/new-inflight-addition-united-airlines-passengers-are-raving-about/",
-    "day": "2026-08-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/brand-new-inflight.jpg"
    }
   ],
   "finance": [
@@ -3354,6 +3354,14 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "How One Of The Cheapest Jets In The Sky Undercuts Charter Rates By Over $1,000 Per Hour",
+    "summary": "What makes the Cirrus SF50 so compelling.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/cheapest-jet-undercuts-charter-rates/",
+    "day": "2026-08-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/a-cirrus-vision-sf50.jpg"
+   },
    {
     "headline": "Charter revenue up 101% at Surf Air as losses continue",
     "summary": "Surf Air posted a net loss of $28.1 million on $29.5 million in revenue with an EBITDA loss of $10.5 million in Q2 2026 The post Charter revenue up 101% at Surf Air as losses continue appeared first on Private Jet Card…",
@@ -4305,14 +4313,6 @@
     "url": "https://www.aerotime.aero/articles/embraer-phenom-300ev-garmin-autoland-safety",
     "day": "2026-07-14",
     "img": "https://www.aerotime.aero/images/2026/07/Embraer-Phenom-300EV.jpg"
-   },
-   {
-    "headline": "Charter broker Chapman Freeborn moves 121 Mongolian horses",
-    "summary": "Chapman Freeborn provides private air passenger and cargo charter services for corporations, governments, NGOs, relief agencies, and UHNWs The post Charter broker Chapman Freeborn moves 121 Mongolian horses appeared…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/07/14/charter-broker-chapman-freeborn-moves-121-mongolian-horses/",
-    "day": "2026-07-14",
-    "img": null
    }
   ],
   "policy": [
@@ -5030,6 +5030,30 @@
    }
   ],
   "defense": [
+   {
+    "headline": "No Shelters, No Problem: The Logic Behind Andersen AFB's 20-Acre Concrete Expansion",
+    "summary": "Hardened aircraft shelters can protect parked aircraft from select munitions, while also providing convenient targeting solutions to other munitions.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/logic-behind-andersen-afb-20-acre-concrete-expansion/",
+    "day": "2026-08-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/no-shelters-no-problem.jpg"
+   },
+   {
+    "headline": "Mystery drones repeatedly breach airspace over Australian F-35 base",
+    "summary": "Multiple unidentified drones repeatedly entered restricted airspace around one of Australia’s most sensitive military air bases recently, raising questions… The post Mystery drones repeatedly breach airspace over…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/mystery-drones-australian-f35-base-williamtown",
+    "day": "2026-08-11",
+    "img": "https://www.aerotime.aero/images/australian_airman_on_the_wing_of_a_f-35a.jpg"
+   },
+   {
+    "headline": "Budget Instability Puts Golden Dome at Risk, Guetlein Warns",
+    "summary": "Space Force Gen. Michael A. Guetlein, the director of the Pentagon’s Golden Dome program, warned that without the Defense Department’s $350 billion reconciliation request, the homeland missile defense effort is in dire…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/budget-instability-golden-dome-guetlein-warns/",
+    "day": "2026-08-11",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/9819415-900x600.jpg"
+   },
    {
     "headline": "The Specific Super Hornet, F-15, And F-16 Variants Being Quietly Phased Out In 2026",
     "summary": "The US fighter fleet is quietly shrinking in 2026 as aging F-15s, F-16s, Super Hornets, and A-10s enter their final chapters.",
@@ -5965,30 +5989,6 @@
     "url": "https://www.airandspaceforces.com/air-force-seeks-new-ideas-for-cheap-mq-9-alternatives-by-year-end/",
     "day": "2026-08-03",
     "img": "https://www.airandspaceforces.com/app/uploads/2025/09/9229028-900x600.jpg"
-   },
-   {
-    "headline": "Space Force Picks 15 Firms to Build Test and Training Infrastructure",
-    "summary": "The Space Force chose 15 companies to compete to build out its advanced live and simulated test and training range. The post Space Force Picks 15 Firms to Build Test and Training Infrastructure appeared first on Air &…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/space-force-picks-15-firms-build-test-and-training-infrastructure/",
-    "day": "2026-08-03",
-    "img": "https://www.airandspaceforces.com/app/uploads/2022/06/Active_Duty_Air_Space-900x600.jpg"
-   },
-   {
-    "headline": "Ukraine’s Fire Point CEO On How It’s Making Missiles And Drones To “Destroy The Russian Empire”",
-    "summary": "Iryna Terekh talks Flamingo cruise missiles, weaponizing AI, Ukraine's future interceptors and much more in our wide-ranging interview. The post Ukraine’s Fire Point CEO On How It’s Making Missiles And Drones To…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/news-features/ukraines-fire-point-ceo-on-how-its-making-missiles-and-drones-to-destroy-the-russian-empire",
-    "day": "2026-08-03",
-    "img": "https://www.twz.com/wp-content/uploads/2026/08/Fire-Point-Missile-Drone-Russia-Ukraine.jpg?quality=85"
-   },
-   {
-    "headline": "US Air Force jet engine manufacturing plagued by ‘significant challenges’",
-    "summary": "Jet engine manufacturing is plagued by production delays, quality control issues and material shortages, the U.S. Air Force said.",
-    "source": "Defense News",
-    "url": "https://www.defensenews.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges/",
-    "day": "2026-08-03",
-    "img": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UZGNAHZEFVER7DYJZXQTW6OBSY.jpg"
    }
   ],
   "others": []
