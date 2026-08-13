@@ -1,7 +1,23 @@
 {
- "generated": "2026-08-13T01:24+00:00",
+ "generated": "2026-08-13T04:47+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Air Canada 2026-27 Toronto – Barcelona Holidays Service",
+    "summary": "Published at 2000PDT 12AUG26 / 0300GMT 13AUG26 Air Canada during Northern winter 2026/27 season schedules limited time service on Toronto Pearson – Barcelona route, as the airline schedules 3 weekly flights during…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260812-acnw26yyzbcn",
+    "day": "2026-08-13",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Air Canada April 2027 Montreal – Lyon Aircraft Changes",
+    "summary": "Published at 1900PDT 12AUG26 / 0200GMT 13AUG26 Air Canada during the month of April 2027 schedules short term Airbus A321XLR service on Montreal – Lyon route, reflected in recent schedule update. From Montreal, the…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260812-acapr27yullys",
+    "day": "2026-08-13",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "Emirates Plans Kinshasa; Casablanca Expansion in Feb 2027",
     "summary": "Published at 1800PDT 12AUG26 / 0100GMT 13AUG26 Emirates in the first quarter of 2027 plans service expansion to Africa, as the carrier’s preliminary schedule for new service to Kinshasa and expanded flights to…",
@@ -945,25 +961,17 @@
     "url": "https://runwaygirlnetwork.com/2026/08/air-canada-delivers-virtually-flawless-wi-fi-experience-on-e175/",
     "day": "2026-08-08",
     "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/07/IMG_3009.jpeg"
-   },
-   {
-    "headline": "Press Release: EC gives go-ahead for IRIS², expands satellite network",
-    "summary": "Today, the European Commission and the SpaceRISE consortium concluded negotiations and signed an implementation agreement to roll out IRIS², the European Union’s new flagship satellite constellation. The agreement…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/08/iiris%c2%b2-deployment-with-enhanced-security-expanded-satellites-network/",
-    "day": "2026-08-08",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2024/10/image007.jpg"
-   },
-   {
-    "headline": "ValueJet of Nigeria adds the first of three Boeing 737-800s",
-    "summary": "ValueJet on August 7, 2026 announced the following: We’re proud to welcome the first of three Boeing 737NG aircraft to the ValueJet family, a defining milestone in our growth journey. Its arrival marks the beginning of…",
-    "source": "World Airline News",
-    "url": "https://worldairlinenews.com/2026/08/08/valuejet-of-nigeria-adds-the-first-of-three-boeing-737-800s/",
-    "day": "2026-08-08",
-    "img": "https://worldairlinenews.com/wp-content/uploads/2026/08/765998219_18345832708247628_5035878768528080366_n.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "JetBlue Receives FAA Certification On BlueFirst Seat, 1st Modified Cabin Expected Next Month",
+    "summary": "JetBlue’s BlueFirst cabin nears launch after FAA certification clears a key regulatory hurdle.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/jetblue-faa-certification-bluefirst-seat-1st-modified-cabin-next-month/",
+    "day": "2026-08-13",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/11/jetblue-airbus-a321lr-lifting-off-to-the-us.jpg"
+   },
    {
     "headline": "1st Half Of 2026: Delta Air Lines Cancels Nearly Twice As Many Flights As In 2025",
     "summary": "Delta’s cancellations have nearly doubled in 2026 despite improved on-time performance and stronger hiring.",
@@ -1915,14 +1923,6 @@
     "url": "https://www.passengerterminaltoday.com/news/sustainability/free-bus-travel-offered-to-london-luton-airport-passengers-this-august.html",
     "day": "2026-08-03",
     "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/08/Luton_Airport_Day_1_PM-3201_RT-1.jpg-e1785764114952.jpeg"
-   },
-   {
-    "headline": "Munich and Centrair deepen sister airport cooperation",
-    "summary": "Munich Airport hosted a high-level delegation from Chubu Centrair International Airport (Centrair) in Nagoya, Japan, for a multi-day exchange focused on innovation, operational excellence and strategic cooperation…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/operations-news/munich-and-centrair-deepen-sister-airport-cooperation.html",
-    "day": "2026-08-03",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/08/CEOs_MUC_Centrair-e1785752542743.jpeg"
    }
   ],
   "fleet": [
@@ -4325,6 +4325,14 @@
   ],
   "policy": [
    {
+    "headline": "United 787 flight to Munich diverts to Boston after cockpit windshield cracks",
+    "summary": "A United Airlines Boeing 787-8 flying from Washington Dulles Airport (IAD) to Munich (MUC) diverted to Boston Logan… The post United 787 flight to Munich diverts to Boston after cockpit windshield cracks appeared first…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/united-787-munich-boston-cracked-windshield",
+    "day": "2026-08-13",
+    "img": "https://www.aerotime.aero/images/united_b787-scaled.jpg"
+   },
+   {
     "headline": "Low-cost eSAF developer Lydian raises $43m in financing round backed by BEV airline fund",
     "summary": "US eSAF startup Lydian has announced the close of a $43 million Series A funding...",
     "source": "GreenAir News",
@@ -5046,6 +5054,14 @@
    }
   ],
   "defense": [
+   {
+    "headline": "6 Active Fighter Jets That Can Exceed Mach 2",
+    "summary": "Several modern fighter jets can exceed Mach 2 at altitude, although the most advanced, like F-35 and J-35, sometimes max out below that.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/active-fighter-jets-that-exceed-mach-2/",
+    "day": "2026-08-13",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/mach-20.jpg"
+   },
    {
     "headline": "From Classified Test Flight To $20 Billion Contract: The F-47’s Rapid Rise",
     "summary": "The Boeing F-47 reached a $20 billion contract in just five years. Here's how secret flights and digital engineering rewrote fighter development.",
@@ -5997,14 +6013,6 @@
     "url": "https://breakingdefense.com/2026/08/the-reasons-why-group-2-drones-are-right-sized-for-the-fight/",
     "day": "2026-08-05",
     "img": null
-   },
-   {
-    "headline": "The World’s Largest Air Forces By Number Of F-35s",
-    "summary": "A closer look at some of the leading F-35 armadas around the world.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/worlds-largest-air-forces-by-number-of-f-35s/",
-    "day": "2026-08-04",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/10/f35.jpg"
    }
   ],
   "others": []
