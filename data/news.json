@@ -1,7 +1,15 @@
 {
- "generated": "2026-08-13T04:47+00:00",
+ "generated": "2026-08-13T07:18+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "airBaltic Adds Cologne – Aleppo Service From mid-Aug 2026",
+    "summary": "Published at 0000PDT / 0700GMT 13AUG26 German carrier LEAV Aviation starting next week is launching new service to Syria, with the addition of Cologne/Bonn – Aleppo route. Airbus A320 aircraft to serve this route twice…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260813-kkaug26alp",
+    "day": "2026-08-13",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "Air Canada 2026-27 Toronto – Barcelona Holidays Service",
     "summary": "Published at 2000PDT 12AUG26 / 0300GMT 13AUG26 Air Canada during Northern winter 2026/27 season schedules limited time service on Toronto Pearson – Barcelona route, as the airline schedules 3 weekly flights during…",
@@ -953,14 +961,6 @@
     "url": "https://simpleflying.com/porter-airlines-flight-canceled-toddler-airport-curfew/",
     "day": "2026-08-08",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/porter-airlines-e195-e2-calgary.jpg"
-   },
-   {
-    "headline": "Air Canada delivers virtually flawless Wi-Fi experience on E175",
-    "summary": "When Star Alliance member Air Canada in May 2025 started offering free, Bell-sponsored inflight Wi-Fi to Aeroplan loyalty members, including across its CRJ900 fleet, the brand new service performed incredibly well in…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/08/air-canada-delivers-virtually-flawless-wi-fi-experience-on-e175/",
-    "day": "2026-08-08",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/07/IMG_3009.jpeg"
    }
   ],
   "airports": [
@@ -5055,6 +5055,14 @@
   ],
   "defense": [
    {
+    "headline": "The Air Forces Operating The World's Newest Stealth Fighters In 2026",
+    "summary": "More than 20 air forces now fly stealth fighters, but the world has split into two rival clubs that never overlap.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/newest-stealth-fighter-fleets-2026/",
+    "day": "2026-08-13",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/stealth-fighters.jpg"
+   },
+   {
     "headline": "6 Active Fighter Jets That Can Exceed Mach 2",
     "summary": "Several modern fighter jets can exceed Mach 2 at altitude, although the most advanced, like F-35 and J-35, sometimes max out below that.",
     "source": "Simple Flying",
@@ -6005,14 +6013,6 @@
     "url": "https://theaviationist.com/2026/08/05/usmc-vmfa-115-first-f-35c-flight/",
     "day": "2026-08-05",
     "img": "https://theaviationist.com/wp-content/uploads/2026/08/USMC-VMFA-115-F-35C-1.jpg"
-   },
-   {
-    "headline": "The reasons why Group 2 drones are right-sized for the fight",
-    "summary": "[Sponsored] Fuel cell technology lets smaller, more versatile VTOLs handle tasks previously reserved for larger drones.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/08/the-reasons-why-group-2-drones-are-right-sized-for-the-fight/",
-    "day": "2026-08-05",
-    "img": null
    }
   ],
   "others": []
