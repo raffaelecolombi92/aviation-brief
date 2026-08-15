@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T09:19+00:00",
+ "generated": "2026-08-15T12:25+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,14 @@
   ],
   "airports": [
    {
+    "headline": "Concession revenue decline hits Airports of Thailand as Middle Conflict weighs on passenger demand",
+    "summary": "Airports of Thailand’s (AOT) non-aeronautical revenues for the three- and nine-month periods ended 30 June fell by -7.96% and 5.56%, respectively to THB7,258.67 million (US$219 million) and THB 23,863.54 million (US$720…",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/concession-revenue-decline-hits-airports-of-thailand-as-middle-conflict-weighs-on-passenger-demand/?utm_source=rss&utm_medium=rss&utm_campaign=concession-revenue-decline-hits-airports-of-thailand-as-middle-conflict-weighs-on-passenger-demand",
+    "day": "2026-08-15",
+    "img": null
+   },
+   {
     "headline": "5 Things Passengers Don't Know About Takeoffs From The World's Highest Airports",
     "summary": "Operating from high-altitude airports is not the same as operating from a standard airport.",
     "source": "Simple Flying",
@@ -1915,17 +1923,17 @@
     "url": "https://simpleflying.com/boeing-777x-banned-some-airports-like-airbus-a380/",
     "day": "2026-08-05",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/boeing-777x.png"
-   },
-   {
-    "headline": "Air India Launches New 17-Hour Ultra-Long Nonstop Route To North America [Map]",
-    "summary": "It will replace partner Air Canada on this very long link. Find out more here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/air-india-launches-new-17-hour-ultra-long-nonstop-route-to-north-america-map/",
-    "day": "2026-08-05",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/air-india-boeing-777-300er-night-sky-1.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "The Busiest: The Top 7 Airbus A350-900 Routes With Over 1,300 Frequencies In 2026",
+    "summary": "Japan Airlines dominates the world's busiest Airbus A350-900 routes in 2026, while other carriers across Asia make the rest top seven.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/top-7-airbus-a350-900-routes-over-1300-frequencies-2026/",
+    "day": "2026-08-15",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/a350-900.jpg"
+   },
    {
     "headline": "Flying Into Skardu: My First-Hand Experience At One Of The Himalayas' Most Spectacular Airports",
     "summary": "Why Skardu is one of the most dramatic airports in the world, more visually dramatic than higher airports on the Tibetan Plateau.",
@@ -2877,14 +2885,6 @@
     "url": "https://leehamnews.com/2026/08/06/bargain-unit-councils-give-thumbs-down-to-speea-contracts-recommended-by-negotiators/",
     "day": "2026-08-07",
     "img": null
-   },
-   {
-    "headline": "Press Release: AirFi launches AirFunnl media delivery stack for W-IFE",
-    "summary": "AirFi has announced the launch of AirFunnl, a new media delivery stack for inflight entertainment developed ​​by AirFi and supported by ​​the ​AION Media Group TITAN media suite​. The solution introduces AI-enhanced DRM…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/08/airfi-launches-airfunnl/",
-    "day": "2026-08-06",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2024/07/unnamed-1-e1722359489758-1024x597.png"
    }
   ],
   "finance": [
