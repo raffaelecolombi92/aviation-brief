@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T12:28+00:00",
+ "generated": "2026-08-16T15:15+00:00",
  "sections": {
   "network": [
    {
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "Concorde's Droop Nose Solved A Problem Its Delta Wing Created",
+    "summary": "Why did Concorde's nose droop? The answer lies in delta-wing aerodynamics, triple-redundant hydraulics, and a 250-knot rule every crew followed.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/concorde-droop-nose-delta-wing/",
+    "day": "2026-08-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/50years-on-20260803-165138.jpg"
+   },
+   {
     "headline": "Delta's New Airbus A330-900neos Will Feature A Massive 56 Delta One Suites",
     "summary": "Delta doubles down on long-haul luxury with a premium-heavy A330neo layout aimed at top transatlantic routes.",
     "source": "Simple Flying",
@@ -2877,14 +2885,6 @@
     "url": "https://airinsight.com/lufthansa-joins-emirates-in-rejecting-early-build-777-9s/",
     "day": "2026-08-07",
     "img": "https://airinsight.com/wp-content/uploads/2019/05/Lufthansalogo.jpg"
-   },
-   {
-    "headline": "Bjorn’s Corner: Aircraft Structures Part 13. Dry fiber infusion.",
-    "summary": "August 7, 2026, ©. Leeham News: In our series on aircraft structures, we have looked at hand layup with pre-impregnated fiber fabrics. We now look at the alternative manual layup method, dry fiber infusion. Dry fiber…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/08/07/bjorns-corner-aircraft-structures-part-13-dry-fiber-infusion/",
-    "day": "2026-08-07",
-    "img": null
    }
   ],
   "finance": [
@@ -5103,6 +5103,22 @@
   ],
   "defense": [
    {
+    "headline": "The A-10 Warthog Just Flew Its Final Sortie From The Base That Trained Its Pilots For 50 Years",
+    "summary": "The boneyard bids farewall to its last Warthogs.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/a10-final-sortie-training-base/",
+    "day": "2026-08-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/us-air-force-a10-fleet-20260803-163959.jpg"
+   },
+   {
+    "headline": "How Congress Increased The Navy’s Sixth-Gen Fighter Budget From $74 Million To Over $900 Million",
+    "summary": "The back story of the dramatic course change for the F/A-XX.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/navy-sixth-gen-fighter-budget/",
+    "day": "2026-08-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/could_boeings_f-47_become_the_basis_for_the_us_navys_future_fa-xx_fighter_jet_925_001-2683c2b4-20260801-132832.jpg"
+   },
+   {
     "headline": "5 Air Force Bases Spending Hundreds Of Millions To Rebuild Cold War-Era Runways",
     "summary": "A closer look at how these bases are preparing themselves for the future.",
     "source": "Simple Flying",
@@ -6045,22 +6061,6 @@
     "url": "https://theaviationist.com/2026/08/08/uk-releases-rfi-for-new-jet-trainer/",
     "day": "2026-08-08",
     "img": "https://theaviationist.com/wp-content/uploads/2026/08/UK_JTS_RFI_cover.jpg"
-   },
-   {
-    "headline": "Engineering the Future Force: Exclusive Interview with the Secretary of the U.S. Air Force",
-    "summary": "In an exclusive interview at EAA AirVenture Oshkosh 2026, the Secretary of the Air Force discusses modernization, readiness, pilot training, artificial intelligence, Space Force growth, recruiting, and the future of…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/08/08/exclusive-interview-secretary-us-air-force/",
-    "day": "2026-08-08",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/08/Enhc-F-22-Night-sR-2-4439-scaled-e1786198309426.jpg"
-   },
-   {
-    "headline": "C-17 Globemaster Vs. A400M Atlas: The West's 2 Airlift Workhorses Compared",
-    "summary": "Breaking down two of the top-in-class.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/c-17-globemaster-a400m-atlas-west-2-airlift-workhorses-compared/",
-    "day": "2026-08-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/c-17-globemaster-vs.jpg"
    }
   ],
   "others": []
