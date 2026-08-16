@@ -1,7 +1,23 @@
 {
- "generated": "2026-08-16T00:57+00:00",
+ "generated": "2026-08-16T03:42+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Why Delta Air Lines' Quiet Exit From Minneapolis Marks The End Of The DC-9 Era In America",
+    "summary": "Delta quietly ended all 717 flights from Minneapolis in May 2026. The DC-9 family had been flying from MSP for 60 years.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-delta-air-lines-quiet-exit-minneapolis-marks-end-dc-9-era-america/",
+    "day": "2026-08-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/the-dc-9-era.jpg"
+   },
+   {
+    "headline": "A Look At The Salaries Of Long-Haul Flight Attendants In 2026",
+    "summary": "This analysis will focus on major US airlines.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/salaries-long-haul-flight-attendants-in-2026/",
+    "day": "2026-08-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/a-look-at-the-salaries-of-long-haul-flight-attendants-in-2026.jpg"
+   },
    {
     "headline": "The Real Origin Of America's Pilot Shortage & Why It May Be Coming To An End",
     "summary": "A closer look at the reality of the current pilot hiring market, and what to expect in the near future.",
@@ -945,22 +961,6 @@
     "url": "https://avitrader.com/2026/08/12/ryanair-signs-five-year-google-cloud-partnership/",
     "day": "2026-08-12",
     "img": null
-   },
-   {
-    "headline": "5 Things Passengers Don’t Know About Business Class Upgrades",
-    "summary": "Securing an upgrade can be convoluted, and the process can be difficult to grasp.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/5-things-passengers-dont-know-about-business-class-upgrades/",
-    "day": "2026-08-12",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/business-class.jpg"
-   },
-   {
-    "headline": "ANA Oct 2026 777-300 Operations – 09AUG26",
-    "summary": "Published at 0200PDT / 0900GMT 12AUG26 Star Alliance member ANA in recent schedule update adjusted filing for Boeing 777-300 aircraft for the month of October 2026. As of 09AUG26, the 514-seater is scheduled to serve…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260812-nhoct26773",
-    "day": "2026-08-12",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "Why The Boeing 767 Refuses To Die Nearly 45 Years After Its 1st Flight",
+    "summary": "The 767 continues to have military and cargo usage, which will ensure it keeps flying for decades to come.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-boeing-767-refuse-die-nearly-45-years-1st-flight/",
+    "day": "2026-08-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/boeing-767.jpg"
+   },
+   {
     "headline": "Air India A320neo Lost Critical Flight Controls For 4 Seconds In 300ft Plunge, Airbus Says",
     "summary": "Airbus ordered hydraulic and sensor checks after sensors were removed and wiring inspections were flagged for VT-EXO.",
     "source": "Simple Flying",
@@ -2877,14 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/ryan-air-receives-saab-340bf-cargo-aircraft",
     "day": "2026-08-07",
     "img": "https://www.aerotime.aero/images/2026/08/Ryan-Air-Saab-340BF-cargo-Jetstream-Aviaton-Capital.jpg"
-   },
-   {
-    "headline": "Catalina plans Florida engineering hub",
-    "summary": "Catalina Aircraft Company has announced plans for a new Engineering and Technology Center (ETC) in Vero Beach, Florida, to support development of its Catalina SPAR amphibious aircraft. The multi-tenant facility will…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/08/07/catalina-plans-florida-engineering-hub/",
-    "day": "2026-08-07",
-    "img": null
    }
   ],
   "finance": [
