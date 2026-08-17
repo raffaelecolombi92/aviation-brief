@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T03:44+00:00",
+ "generated": "2026-08-17T06:41+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,30 @@
   ],
   "airports": [
    {
+    "headline": "Baggage Container Catches Fire Moments Before Loading Onto British Airways A321neo",
+    "summary": "Fire breaks out on the apron just before push back.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/british-airways-a321neo-baggage-container-fire-milan-malpensa/",
+    "day": "2026-08-17",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/british-airways-airbus-a321neo.jpg"
+   },
+   {
+    "headline": "Sydney Airport’s approved Master Plan targets integrated terminal by 2045",
+    "summary": "The Australian government has approved Sydney Airport’s Master Plan 2045, clearing the way for a major redevelopment of… The post Sydney Airport’s approved Master Plan targets integrated terminal by 2045 appeared first…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/sydney-airports-approved-master-plan-targets-integrated-terminal-by-2045",
+    "day": "2026-08-17",
+    "img": "https://www.aerotime.aero/images/2026/08/Untitled-design-31.jpg"
+   },
+   {
+    "headline": "Lean and green",
+    "summary": "It has been a summer of sustainability firsts with airports across the globe demonstrating their green credentials, writes Joe Bates. Western Sydney International (Nancy-Bird Walton) Airport’s (WSI) inaugural…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/lean-and-green-2/?utm_source=rss&utm_medium=rss&utm_campaign=lean-and-green-2",
+    "day": "2026-08-17",
+    "img": null
+   },
+   {
     "headline": "Bomb Threat Forces Southwest Airlines Passengers To Be Stuck On Houston Tarmac For Hours",
     "summary": "A bomb threat at Houston Hobby Airport left Southwest passengers stuck on the tarmac for hours as police and K9 units investigated.",
     "source": "Simple Flying",
@@ -1899,30 +1923,6 @@
     "url": "https://runwaygirlnetwork.com/2026/08/lufthansa-technik-philippines-breaks-ground-on-crk-facility/",
     "day": "2026-08-06",
     "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/08/2026-08-06-pr-rendering-ltp-clarkfacility-copyright-.jpg"
-   },
-   {
-    "headline": "No More Flagship? American Airlines Cuts Upgrade Eligibility For Elite Fliers On Some Flights",
-    "summary": "American’s new upgrade rules will block some economy elites from reaching lie-flat Business Class.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-cuts-upgrade-eligbility-elite-fliers-some-flights/",
-    "day": "2026-08-06",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/389-oneworld-any-abdul-n-quraishi-abs-_-shutterstock.jpg"
-   },
-   {
-    "headline": "An even more Northern Nose to Tail: Canadian North’s ATR 42-500",
-    "summary": "If the Boeing 737-300 Combi carried me to the edge of Canada’s North, the ATR 42-500 would take me well beyond it. My destination was Cambridge Bay, Nunavut, a tiny Indigenous settlement on the southern shore of…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/08/canadian-north-atr-42-500/",
-    "day": "2026-08-06",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/08/CANADIAN-NORTH-ATR-42-500-ON-RAMP-AT-CAMBRIDGE-BAY-DEPARTURE-1.jpeg"
-   },
-   {
-    "headline": "Anua charts course for cruise growth with Harding+ expansion to 27 ships",
-    "summary": "Following a strong first-at-sea debut with Harding+, Korean skincare brand ANUA is nearly doubling its cruise retail footprint with the retailer, including an expanded presence in Europe.",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/anua-charts-course-for-cruise-growth-with-harding-expansion-to-27-ships/?utm_source=rss&utm_medium=rss&utm_campaign=anua-charts-course-for-cruise-growth-with-harding-expansion-to-27-ships",
-    "day": "2026-08-06",
-    "img": null
    }
   ],
   "fleet": [
@@ -5119,6 +5119,14 @@
   ],
   "defense": [
    {
+    "headline": "How Much Do Military Pilots Make Compared To Commercial Pilots In 2026?",
+    "summary": "To go down the military path or the commercial path, the decision for prospective pilots is tough, and it brings very different pay realities.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/military-commercial-pilot-pay-comparison-2026/",
+    "day": "2026-08-17",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/pilot-20260805-145237.jpg"
+   },
+   {
     "headline": "5 Ways 6th-Generation Fighters Will Outclass The F-22 & F-35",
     "summary": "Sixth-generation aircraft will feature numerous enhancements that will allow them to perform in ways that proceeding aircraft simply cannot match.",
     "source": "Simple Flying",
@@ -6069,14 +6077,6 @@
     "url": "https://simpleflying.com/why-b-52-still-be-flying-alongside-americas-newest-stealth-bomber/",
     "day": "2026-08-09",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/why-the-b-52-will-still-be-flying-alongside-america-s-newest-stealth-bomber.jpg"
-   },
-   {
-    "headline": "Red Arrows cancel upcoming UK displays due to troubles returning from US tour",
-    "summary": "The Royal Air Force’s (RAF) Red Arrows aerobatic display team has canceled a series of upcoming appearances after… The post Red Arrows cancel upcoming UK displays due to troubles returning from US tour appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/red-arrows-cancel-uk-displays-troubles-returning-from-us-tour",
-    "day": "2026-08-09",
-    "img": "https://www.aerotime.aero/images/2026/08/RAF-Red-Arrows.jpg"
    }
   ],
   "others": []
