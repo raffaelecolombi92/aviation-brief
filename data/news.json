@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18T03:39+00:00",
+ "generated": "2026-08-18T06:32+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,22 @@
   ],
   "airports": [
    {
+    "headline": "Washington Dulles Passenger Fees Could Soar From $13 To $90 Under $20 Billion Rebuild Plan",
+    "summary": "The consumer cost of plans to tear down IAD and build the 'Trump Terminal.'",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/washington-dulles-passenger-fees-20-billion-rebuild/",
+    "day": "2026-08-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/welcome-sign-above-a-terminal-entrance-at-washington-dulles-international-airport.jpg"
+   },
+   {
+    "headline": "United A320 & American 737 Both Blow Tires At O’Hare Within Hours Of Each Other",
+    "summary": "Passengers were shuttled to terminals after burst tires forced two veteran jets to be taken out of service overnight.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-a320-american-737-blow-tires-ohare/",
+    "day": "2026-08-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/american-airlines-boeing-737-800-1.jpg"
+   },
+   {
     "headline": "The Mid-Size Florida Hub Betting $1.5 Billion That Delta Air Lines Will Turn It Into An International Gateway",
     "summary": "The legacy carrier signed a 20-year lease for six additional gates at the airport.",
     "source": "Simple Flying",
@@ -1907,22 +1923,6 @@
     "url": "https://simpleflying.com/austin-airport-examining-3-new-concourses-instead-2/",
     "day": "2026-08-07",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/611125796_1342049314628313_1977865905998209649_n.jpg"
-   },
-   {
-    "headline": "Man Facing Felony Charges After Sneaking Onto JetBlue Plane, Causes $2,400 Flight Delay",
-    "summary": "Security footage shows a lone figure roaming service roads before using portable stairs to enter the parked Airbus.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/man-felony-charges-sneaking-jetblue-plane-2400-flight-delay/",
-    "day": "2026-08-07",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/jetblue-airbus-a320.jpg"
-   },
-   {
-    "headline": "Why Rebuilding Chicago O'Hare Costs Nearly As Much Per Passenger As Riyadh's 6-Runway Mega-Airport",
-    "summary": "Riyadh Airport's expansion is much larger, increasing the airport's capacity significantly higher than the planned capacity for Chicago.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/rebuilding-chicago-ohare-costs-more-per-passenger-riyadh-6-runway-mega-airport/",
-    "day": "2026-08-07",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/o-hare-21-project-o-hare-21-simple-flying.jpg"
    }
   ],
   "fleet": [
@@ -5151,6 +5151,14 @@
   ],
   "defense": [
    {
+    "headline": "5 US Air Force Bases Being Rebuilt Into Global Mission Hubs",
+    "summary": "The US Air Force is rebuilding five bases with more than $19 billion, from Tinian's WWII airfield to Guam's $8 billion defense shield.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/5-us-air-force-bases-rebuilt-global-mission-hubs/",
+    "day": "2026-08-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/5-us-air-force-bases-being-rebuilt-into-global-mission-hubs.jpg"
+   },
+   {
     "headline": "Nellis HH-60Ws Rescue Navy Helicopter Crew in California Mountains",
     "summary": "Search and rescue Airmen from Nellis Air Base, Nev., flew more than 200 miles in two HH-60W Jolly Green IIs last week to rescue five of their Navy helicopter crew counterparts who were forced to land in mountainous…",
     "source": "Air & Space Forces Mag",
@@ -6101,14 +6109,6 @@
     "url": "https://www.airandspaceforces.com/air-force-promoting-fewer-staff-sergeants-2026/",
     "day": "2026-08-11",
     "img": "https://www.airandspaceforces.com/app/uploads/2023/08/7402188-900x600.jpg"
-   },
-   {
-    "headline": "Boeing Hands Flying-Taxi Venture To Archer Aviation With Nearly 20% Stake",
-    "summary": "Boeing shifts its autonomous aviation bets to Archer while retaining significant long-term upside.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/boeing-hands-flying-taxi-venture-archer-aviation-20-percent-stake/",
-    "day": "2026-08-10",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/wisk-aero-1.jpg"
    }
   ],
   "others": []
