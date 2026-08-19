@@ -1,7 +1,39 @@
 {
- "generated": "2026-08-18T21:18+00:00",
+ "generated": "2026-08-19T00:55+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "TAG Airlines Adds Flores – Merida From Nov 2026",
+    "summary": "Published at 1701PDT 18AUG26 / 0001GMT 19AUG26 Guatemala’s TAG Airlines at the launch of Northern winter 2026/27 season plans to launch service to Mexico, with Flores – Merida route scheduled from 03NOV26. ATR72…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260818-5unw26mid",
+    "day": "2026-08-19",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Major UAE Carrier Resumes Flights Over Iranian Airspace Despite EASA Warnings Not To",
+    "summary": "FlyDubai signals tangible savings for passengers and operations with shorter routes and lower emissions after detailed safety checks.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/flydubai-resumes-flights-iranian-airspace-easa-warnings/",
+    "day": "2026-08-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/flydubai-boeing-737-at-night.jpg"
+   },
+   {
+    "headline": "World2Fly Adds Katowice – Cancun Charters in 4Q26",
+    "summary": "Published at 1600PDT / 2300GMT 18AUG26 World2Fly during Northern winter 2026/27 season plans to operate regular charter service between Poland and Mexico, as the carrier lists 1 weekly Katowice – Madrid – Cancun –…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260818-2w4q26cun",
+    "day": "2026-08-18",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Copa Airlines Adds Porlamar Service in mid-4Q26",
+    "summary": "Published at 1500PDT / 2200GMT 18AUG26 Copa Airlines earlier this month announced expanded service to Venezuela, as the airline schedules Panama City – Porlamar flights. The airline will serve this route three times…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260818-cmnw26pmv",
+    "day": "2026-08-18",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "American brings back seatback screens in bid to match rivals",
     "summary": "American Airlines is reversing a nearly decade-old strategy of relying on passengers’ personal devices for inflight entertainment, announcing… The post American brings back seatback screens in bid to match rivals…",
@@ -929,41 +961,17 @@
     "url": "https://simpleflying.com/delta-air-lines-airbus-a330neo-double-diversion/",
     "day": "2026-08-14",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/shutterstock_2473979451_cropped.jpg"
-   },
-   {
-    "headline": "Gol Linhas Aéreas welcomes back former company executive as new CEO",
-    "summary": "Gol Linhas Aéreas has welcomed back a former company executive as its new CEO, with Celso Ferrer announcing… The post Gol Linhas Aéreas welcomes back former company executive as new CEO appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/gol-linhas-aereas-welcomes-back-former-company-executive-as-new-ceo",
-    "day": "2026-08-14",
-    "img": "https://www.aerotime.aero/images/2026/08/Boeing-737-800-of-GOL-Linhas-Aereas.jpg"
-   },
-   {
-    "headline": "Air China Sep 2026 Extra Cairo Flight",
-    "summary": "Published at 0500PDT / 1200GMT 14AUG26 Air China in early-September 2026 schedules one extra flight on Beijing Capital – Cairo route, in addition to existing 3 weekly flights. The additional service is scheduled on…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260814-casep26cai",
-    "day": "2026-08-14",
-    "img": null
-   },
-   {
-    "headline": "Air India NW26 Delhi – London / Paris Service Changes",
-    "summary": "Published at 0400PDT / 1100GMT 14AUG26 Air India in the last few days filed service changes for London and Paris for Northern winter 2026/27 season. Planned changes include the following. Delhi – London Heathrow eff…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260814-ainw26lhrcdg",
-    "day": "2026-08-14",
-    "img": null
-   },
-   {
-    "headline": "Air Algerie Opens Shanghai Bookings in NW26",
-    "summary": "Published at 0300PDT / 1000GMT 14AUG26 Air Algerie as of Thursday (13AUG26) opened reservations for its planned new Algiers – Shanghai Pu Dong route, scheduled to commence on 26OCT26. Previously reported on AeroRoutes …",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260814-ahnw26pvg",
-    "day": "2026-08-14",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "Cirrus jet suffers gear collapse during takeoff attempt from closed runway",
+    "summary": "Investigators are trying to determine why a Cirrus Vision Jet attempted to take off from a runway that… The post Cirrus jet suffers gear collapse during takeoff attempt from closed runway appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/cirrus-jet-gear-collapse-closed-runway-takeoff",
+    "day": "2026-08-18",
+    "img": "https://www.aerotime.aero/images/2026/08/AV808.jpeg"
+   },
    {
     "headline": "Lufthansa A380 Lands Short Of Runway, Damages Lights In Munich Just Days After A 787 Overran",
     "summary": "No passengers were injured and an investigation is underway.",
@@ -1915,17 +1923,17 @@
     "url": "https://airport-world.com/cracking-the-code/?utm_source=rss&utm_medium=rss&utm_campaign=cracking-the-code",
     "day": "2026-08-10",
     "img": null
-   },
-   {
-    "headline": "How United Is Quietly Rebuilding Washington Dulles Into Its Ultimate Hub",
-    "summary": "Trump is pushing to rebuild Dulles, but United is getting the global hub it always wanted.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/united-washington-dulles-hub/",
-    "day": "2026-08-10",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/conceptual-rendering-6.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "An Extra 4 Months: Air France Pushes Final Airbus A318 Retirement To March 2027",
+    "summary": "Air France will keep the compact A318 flying select city hops into March, preserving a boutique cabin and 131-seat setup.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/air-france-airbus-a318-retirement-march-2027/",
+    "day": "2026-08-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/air-france-airbus-a318-100-takeoff.jpg"
+   },
    {
     "headline": "1st Flight For Airbus’ A350F Set For Late September 2026",
     "summary": "A composite-built freighter brings lighter weight, higher fuel efficiency and extended revenue days for carriers.",
@@ -2877,14 +2885,6 @@
     "url": "https://theaircurrent.com/industry-strategy/archer-acquires-wisk-skygrid-insitu-from-boeing/",
     "day": "2026-08-10",
     "img": "https://theaircurrent.com/wp-content/uploads/2026/08/wisk-first-flight-dec-2025.jpg"
-   },
-   {
-    "headline": "Airbus July Orders & Deliveries",
-    "summary": "Airbus’s July O&D numbers are in, and the gap over 2025 keeps widening. Orders: 204 gross, but 66 cancellations brought",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/airbus-july-orders-deliveries/",
-    "day": "2026-08-10",
-    "img": "https://airinsight.com/wp-content/uploads/2014/01/Airbus_logo_3D_Blue.jpg"
    }
   ],
   "finance": [
@@ -5191,6 +5191,54 @@
   ],
   "defense": [
    {
+    "headline": "5 Financial Trade-Offs US Military Pilots Weigh Before Leaving For Airlines",
+    "summary": "Military pilots have financial trade-offs when transitioning to the commercial sector, although loss of seniority can be bigger for seasoned pilots.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/5-financial-tradeoffs-us-military-pilots-weigh-before-leaving-airlines/",
+    "day": "2026-08-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/5-financial-trade-offs.png"
+   },
+   {
+    "headline": "Pension Vs. Paycheck: What US Military Pilots Give Up To Fly For Airlines",
+    "summary": "Comparing the pay off of two very different aviation career paths.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/what-us-military-pilots-give-up-fly-airlines/",
+    "day": "2026-08-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/pension-vs-paycheck.png"
+   },
+   {
+    "headline": "6 Combat Aircraft Losses & Rescues That Defined Operation Epic Fury",
+    "summary": "The toll on American aircrew and aircraft in battle with Iran.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/combat-aircraft-losses-rescues-defined-operation-epic-fury/",
+    "day": "2026-08-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/6-combat-aircraft-losses.png"
+   },
+   {
+    "headline": "6 NATO Air Forces Ranked By What Their Top Fighter Pilots Take Home In 2026",
+    "summary": "Ranking the NATO air forces by highest pilot salaries is difficult, although it clusters around North America and Western Europe.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/6-nato-air-forces-ranked-top-fighter-pilots-take-home-2026/",
+    "day": "2026-08-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/6-nato-air-forces.png"
+   },
+   {
+    "headline": "Over a Year in, Experimental Ops Unit Matures CCA Concepts and Gets a New Commander",
+    "summary": "The Air Force’s Experimental Operations Unit hosted a change of command ceremony recently, another sign of how the CCA concept is maturing and becoming entrenched in the Air Force’s structure, to the point where…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/experimental-ops-unit-matures-cca-concepts-new-commander/",
+    "day": "2026-08-18",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/9870340-900x600.jpg"
+   },
+   {
+    "headline": "Air Force Wants New Family of Target Drones Ranging from Expendable to Sophisticated",
+    "summary": "The Air Force is looking for a new family of drones to serve as aerial targets for test missions, ranging from cheap, expendable quadcopters to large, reusable aircraft that can mimic fifth-generation enemy fighters.…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/air-force-new-family-aerial-target-drones/",
+    "day": "2026-08-18",
+    "img": "https://www.airandspaceforces.com/app/uploads/2023/06/BMQ167_Aerial_Target-900x600.jpg"
+   },
+   {
     "headline": "The Catch Of Buying An F-35: You Still Need Lockheed Martin To Keep It Stealthy",
     "summary": "The fine print at the bottom of the advanced fighter jet.",
     "source": "Simple Flying",
@@ -6101,54 +6149,6 @@
     "url": "https://simpleflying.com/logic-behind-andersen-afb-20-acre-concrete-expansion/",
     "day": "2026-08-12",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/no-shelters-no-problem.jpg"
-   },
-   {
-    "headline": "Mystery drones repeatedly breach airspace over Australian F-35 base",
-    "summary": "Multiple unidentified drones repeatedly entered restricted airspace around one of Australia’s most sensitive military air bases recently, raising questions… The post Mystery drones repeatedly breach airspace over…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/mystery-drones-australian-f35-base-williamtown",
-    "day": "2026-08-11",
-    "img": "https://www.aerotime.aero/images/australian_airman_on_the_wing_of_a_f-35a.jpg"
-   },
-   {
-    "headline": "Budget Instability Puts Golden Dome at Risk, Guetlein Warns",
-    "summary": "Space Force Gen. Michael A. Guetlein, the director of the Pentagon’s Golden Dome program, warned that without the Defense Department’s $350 billion reconciliation request, the homeland missile defense effort is in dire…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/budget-instability-golden-dome-guetlein-warns/",
-    "day": "2026-08-11",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/9819415-900x600.jpg"
-   },
-   {
-    "headline": "The Specific Super Hornet, F-15, And F-16 Variants Being Quietly Phased Out In 2026",
-    "summary": "The US fighter fleet is quietly shrinking in 2026 as aging F-15s, F-16s, Super Hornets, and A-10s enter their final chapters.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/super-hornet-f15-f16-variants-2026/",
-    "day": "2026-08-11",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/scrapping-119f-20260730-233337.jpg"
-   },
-   {
-    "headline": "Trump Snuck Off Air Force One In A Catering Truck To Fly On Boeing 757 Amid Iran Threat",
-    "summary": "A covert aviation switch used a catering truck and a C-32A to mask presidential movements after an Iran threat.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/trump-air-force-one-catering-truck-boeing-757-iran-threat/",
-    "day": "2026-08-11",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/air-force-c-32a.jpg"
-   },
-   {
-    "headline": "How Trump secretly switched Air Force One jets (twice) to evade an Iran threat",
-    "summary": "In an elaborate ruse straight out of a movie subplot, US President Donald Trump was secretly whisked off… The post How Trump secretly switched Air Force One jets (twice) to evade an Iran threat appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/trump-air-force-one-757-iran-threat",
-    "day": "2026-08-11",
-    "img": "https://www.aerotime.aero/images/2026/08/P20260708DT-3264.jpeg"
-   },
-   {
-    "headline": "DARPA Looks to Develop Next-Generation Hypersonic Cruise Missile",
-    "summary": "The Pentagon’s top research lab is interested in developing a hypersonic cruise missile prototype that provides “a revolutionary leap in operational performance,” as the first wave of U.S. hypersonic weapons enters…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/darpa-next-generation-hypersonic-cruise-missile/",
-    "day": "2026-08-11",
-    "img": "https://www.airandspaceforces.com/app/uploads/2023/03/hacm.jpeg"
    }
   ],
   "others": []
