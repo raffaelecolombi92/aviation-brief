@@ -1,7 +1,31 @@
 {
- "generated": "2026-08-20T06:35+00:00",
+ "generated": "2026-08-20T09:27+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Eurowings NW26 A320neo Premium BIZ Seats Network",
+    "summary": "Published at 0200PDT / 0900GMT 20AUG26 Eurowings recently outlined planned operations featuring The Premium BIZ Seats, scheduled from 01DEC26 on board the Airbus A320neo. Based on the airline’s bulletin, the Premium BIZ…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260820-ewnw2632n",
+    "day": "2026-08-20",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Jazeera Removes London Luton Launch In 3Q26",
+    "summary": "Published at 0100PDT / 0800GMT 20AUG26 Jazeera Airways in the late-second quarter of 2026 filed service changes to the UK, which saw the airline removed Kuwait City – London Luton launch. The airline originally planned…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260820-j93q26ltn",
+    "day": "2026-08-20",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Jazeera Adds Kuwait – Aswan in late-Oct 2026",
+    "summary": "Published at 0000PDT / 0700GMT 20AUG26 Jazeera Airways at the launch of Northern winter 2026/27 season plans to launch new route to Egypt, where the airline schedules Kuwait City – Aswan route launch on 25OCT26. Airbus…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260820-j9nw26asw",
+    "day": "2026-08-20",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "Cathay Pacific Schedules Almaty Jan 2027 Launch",
     "summary": "Published at 2300PDT 19AUG26 / 0600GMT 20AUG26 Cathay Pacific on Thursday (20AUG26) opened reservations for passenger service to Kazakhstan, with 3 weekly Hong Kong – Almaty flights scheduled. First flight is scheduled…",
@@ -937,33 +961,25 @@
     "url": "https://simpleflying.com/american-airlines-launches-6-new-transatlantic-routes/",
     "day": "2026-08-16",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/simpleflying-boeing-787-8-american-airlines-1786835373359.jpg"
-   },
-   {
-    "headline": "Only 155 Seats: American Airlines' 9 Airbus A321XLR Routes Revealed [Map]",
-    "summary": "The carrier is deploying the type on both domestic and international flights.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-airbus-a321xlr-routes/",
-    "day": "2026-08-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/809-american-airlines-airbus-a321neo-robin-guess-_-shutterstock.jpg"
-   },
-   {
-    "headline": "How Much Do American Pilots Make Compared To European Pilots In 2026?",
-    "summary": "A detailed transatlantic pay deep dive shows how contracts, taxes and seniority reshape pilot career earnings.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-european-pilot-pay-comparison-2026/",
-    "day": "2026-08-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/american-pilots.png"
-   },
-   {
-    "headline": "Engineer, Sacked Over 17-Min Delay After Singapore Airlines Jet Reboot, Awarded $28,000",
-    "summary": "A veteran Australian aircraft engineer has been awarded AU$40,000 (about US$28,044) in compensation after being sacked following a 17-minute delay to a Singapore Airlines flight.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/video/engineer-sacked-over-17-min-delay-after-singapore-airlines-jet-reboot-awarded-28-000/",
-    "day": "2026-08-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/singapore-a350-17min-delay.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "Airports of Thailand selects Rohde & Schwarz passenger scanners",
+    "summary": "Rohde & Schwarz will supply its QPS201 advanced imaging technology (AIT) security scanners to passenger security screening checkpoints across five Airports of Thailand-managed (AOT) airports, including Suvarnabhumi…",
+    "source": "Passenger Terminal Today",
+    "url": "https://www.passengerterminaltoday.com/news/security/airports-of-thailand-selects-rohde-schwarz-passenger-scanners.html",
+    "day": "2026-08-20",
+    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/08/Airports-of-Thailand-selects-Rohde-Schwarz-passenger-scanners-for-five-locations.jpg-e1787215418381.jpeg"
+   },
+   {
+    "headline": "Adelaide Airport to enhance passenger experience with Amadeus self-service technology upgrade",
+    "summary": "Adelaide Airport is set to upgrade its self-service check-in and bag drop with Amadeus’s travel technology. Under the terms of the new agreement, the airport will install more than 50 Amadeus Seamless Bag Drop S7 Air…",
+    "source": "Passenger Terminal Today",
+    "url": "https://www.passengerterminaltoday.com/news/technology/adelaide-airport-to-enhance-passenger-experience-with-amadeus-self-service-technology-upgrade.html",
+    "day": "2026-08-20",
+    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/08/Adelaide-Airport-e1787135320205.jpg"
+   },
    {
     "headline": "How This Australian Airport Is Setting The Global Security Standard The TSA's $781 Million Rollout Can't Match",
     "summary": "Sydney Airport has completed a government-mandated security overhaul and is striding ahead of the US.",
@@ -1907,25 +1923,17 @@
     "url": "https://airport-world.com/all-time-monthly-high-for-london-stansted-airport/?utm_source=rss&utm_medium=rss&utm_campaign=all-time-monthly-high-for-london-stansted-airport",
     "day": "2026-08-11",
     "img": null
-   },
-   {
-    "headline": "Clear’s secure identity platforms to be installed at Tampa International",
-    "summary": "Tampa International Airport has announced that Clear identity systems are expected to launch at its security screening checkpoints this autumn. The Hillsborough County Aviation Authority Board approved a contract on…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/check-in/clears-secure-identity-platforms-to-be-installed-at-tampa-international.html",
-    "day": "2026-08-11",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/08/Clear-secure-identity-platforms-to-be-installed-at-Tampa-International.jpg-e1786438834778.jpeg"
-   },
-   {
-    "headline": "British Airways Airbus A380 Flies 7 Hours To Nowhere After Weather Radar Failure",
-    "summary": "The superjumbo was forced to turnaround when its weather radar went blind.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/british-airways-a380-7-hours-nowhere-weather-radar-failure/",
-    "day": "2026-08-11",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/british-airways-airbus-a380.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "HAECO, CALC plan Hong Kong engine support platform",
+    "summary": "HAECO and China Aircraft Leasing Group (CALC) have signed a Memorandum of Understanding (MoU) to jointly develop an engine lifecycle support platform in Hong Kong. The agreement establishes a strategic framework for the…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/08/20/haeco-calc-plan-hong-kong-engine-support-platform/",
+    "day": "2026-08-20",
+    "img": null
+   },
    {
     "headline": "Cessna 150 Pilot Killed, 2 Troopers Hurt In Midair Crash With State Police Helicopter",
     "summary": "The small plane reportedly collided with the police chopper from behind.",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/18-hour-flights-qantas-11-new-ultra-long-nonstop-flights-revealed/",
     "day": "2026-08-11",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/209-qantas-airbus-a380-ceri-breeze-merrillie-redden-_-shutterstock.jpg"
-   },
-   {
-    "headline": "AerFin, Lufthansa Technik strike component deal",
-    "summary": "AerFin and Lufthansa Technik have signed a new multi-platform component agreement aimed at improving material availability and providing greater flexibility across the aviation supply chain. Under the agreement, AerFin…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/08/11/aerfin-lufthansa-technik-strike-component-deal/",
-    "day": "2026-08-11",
-    "img": null
    }
   ],
   "finance": [
@@ -5231,6 +5231,14 @@
   ],
   "defense": [
    {
+    "headline": "How Much Do US Marine Corps Pilots Make Compared To US Navy Pilots In 2026?",
+    "summary": "The two branches pay similar salaries but serve very different roles.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/marine-corps-navy-pilot-pay-comparison/",
+    "day": "2026-08-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/marine-corps-20260805-142311.jpg"
+   },
+   {
     "headline": "Golden Dome Secrecy Poses Challenge for Estimating Costs",
     "summary": "While Pentagon officials have revealed some details about the architecture behind the Golden Dome missile defense project, crafting an independent cost estimate for a largely classified program remains a challenge…",
     "source": "Air & Space Forces Mag",
@@ -6181,14 +6189,6 @@
     "url": "https://www.twz.com/air/did-sensors-on-iranian-drones-help-shoot-down-f-15e",
     "day": "2026-08-12",
     "img": "https://www.twz.com/wp-content/uploads/2026/08/F-15E-CENTCOM.jpg?quality=85"
-   },
-   {
-    "headline": "The Real Reason Why The KC-46 Pegasus Became Both Essential & Deeply Troubled",
-    "summary": "The snag with the USAF's tanker modernization plans.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/real-reason-kc-46-pegasus-became-essential-deeply-troubled/",
-    "day": "2026-08-12",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/kc-46-pegasus.jpg"
    }
   ],
   "others": []
