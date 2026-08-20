@@ -1,7 +1,39 @@
 {
- "generated": "2026-08-20T00:54+00:00",
+ "generated": "2026-08-20T03:41+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Seat Pitch Is Not Everything: 6 Premium Economy Perks Airlines Hide",
+    "summary": "What else do you get when booking premium economy?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/6-premium-economy-perks-airlines-hide/",
+    "day": "2026-08-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/seat-pitch.png"
+   },
+   {
+    "headline": "Lucky Air Adds Kunming – Udon Thani in Sep/Oct 2026",
+    "summary": "Published at 2000PDT 19AUG26 / 0300GMT 20AUG26 Chinese carrier Lucky Air from September 2026 schedules new route to Thailand, with the addition of 2 weekly Kunming – Udon Thani service. Boeing 737 to serve this route…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260819-8lsep26uth",
+    "day": "2026-08-20",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "FlyArystan Adds Astana – Yining From late-Oct 2026",
+    "summary": "Published at 1900PDT 19AUG26 / 0200GMT 20AUG26 FlyArystan this week announced additional route launch to China, as it plans to launch Astana – Yining route on 28OCT26. Airbus A320 aircraft to serve this route twice…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260819-fsnw26yin",
+    "day": "2026-08-20",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Philippine Airlines NW26 Manila – Seoul Service Increases",
+    "summary": "Published at 1800PDT 19AUG26 / 0100GMT 20AUG26 Philippine Airlines this week schedules service increase on Manila – Seoul Incheon route during Northern winter 2026/27 season, as overall service to increase from 14 to 17…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260819-prnw26icn",
+    "day": "2026-08-20",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "Garuda Indonesia Increases Guangzhou Sep/Oct 2026 Flights",
     "summary": "Published at 1701PDT 19AUG26 / 0001GMT 20AUG26 Garuda Indonesia in September and October 2026 schedules service increase on Jakarta – Guangzhou route, as the carrier plans to operate 7 weekly flights from 03SEP26 to…",
@@ -929,38 +961,6 @@
     "url": "https://www.aeroroutes.com/eng/260816-lynw26han",
     "day": "2026-08-16",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Can American Airlines Close The Profit Gap With Delta & United?",
-    "summary": "Can the largest US airline by number of flights return to the top when it comes to profitability?",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-catch-up-delta-united/",
-    "day": "2026-08-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/american-airlines-catch-up.jpg"
-   },
-   {
-    "headline": "Why Delta Air Lines' Quiet Exit From Minneapolis Marks The End Of The DC-9 Era In America",
-    "summary": "Delta quietly ended all 717 flights from Minneapolis in May 2026. The DC-9 family had been flying from MSP for 60 years.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-delta-air-lines-quiet-exit-minneapolis-marks-end-dc-9-era-america/",
-    "day": "2026-08-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/the-dc-9-era.jpg"
-   },
-   {
-    "headline": "A Look At The Salaries Of Long-Haul Flight Attendants In 2026",
-    "summary": "This analysis will focus on major US airlines.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/salaries-long-haul-flight-attendants-in-2026/",
-    "day": "2026-08-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/a-look-at-the-salaries-of-long-haul-flight-attendants-in-2026.jpg"
-   },
-   {
-    "headline": "The Real Origin Of America's Pilot Shortage & Why It May Be Coming To An End",
-    "summary": "A closer look at the reality of the current pilot hiring market, and what to expect in the near future.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/america-pilot-shortage-origin/",
-    "day": "2026-08-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/real-origin-pilot.jpg"
    }
   ],
   "airports": [
@@ -5231,6 +5231,22 @@
   ],
   "defense": [
    {
+    "headline": "Golden Dome Secrecy Poses Challenge for Estimating Costs",
+    "summary": "While Pentagon officials have revealed some details about the architecture behind the Golden Dome missile defense project, crafting an independent cost estimate for a largely classified program remains a challenge…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/golden-dome-secrecy-challenge-cost-estimates/",
+    "day": "2026-08-20",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/05/goldendome-900x600.jpeg"
+   },
+   {
+    "headline": "Navy Invests in Shield’s Vertical-Takeoff CCA; Air Force Holds Off",
+    "summary": "Shield AI recently received $50 million from the Navy and DIU to support development of its autonomous fighter jet X-BAT, but the Air Force isn’t investing yet for several reasons, experts say. The post Navy Invests in…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/navy-x-bat-investment-air-force/",
+    "day": "2026-08-20",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/02/x-bat-900x600.jpg"
+   },
+   {
     "headline": "150 Minutes To Nowhere: US Air Force Scraps C-17 Globemaster Flight Over Russian Missile Alert",
     "summary": "The flight was part of the annual Winter Fly-in (WINFLY) period.",
     "source": "Simple Flying",
@@ -6173,22 +6189,6 @@
     "url": "https://simpleflying.com/real-reason-kc-46-pegasus-became-essential-deeply-troubled/",
     "day": "2026-08-12",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/kc-46-pegasus.jpg"
-   },
-   {
-    "headline": "Air Force Moves Ahead with Plan to Put HH-60W at Andrews",
-    "summary": "New helicopters, a new unit, and more Airmen are primed to move to Joint Base Andrews, Md., as the Air Force upgrades to modified HH-60Ws for its executive transport needs around the nation’s capital. In an Aug. 12…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/air-force-moves-ahead-plan-hh-60w-at-andrews/",
-    "day": "2026-08-12",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/9839082-scaled-900x600.jpg"
-   },
-   {
-    "headline": "BRRRRT Act’s Text Reveals New Details About Plan to Save the A-10s",
-    "summary": "New details in the BRRRRT Act’s full text reveal plans to keep selected Warthogs recoverable, examine potential foreign transfers and test emerging autonomous systems. Weeks after it was first introduced to the U.S.…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/08/12/brrrrt-acts-plan-to-save-the-a-10s/",
-    "day": "2026-08-12",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/04/9493570b-scaled.jpg"
    }
   ],
   "others": []
