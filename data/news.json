@@ -1,7 +1,31 @@
 {
- "generated": "2026-08-19T21:19+00:00",
+ "generated": "2026-08-20T00:54+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Garuda Indonesia Increases Guangzhou Sep/Oct 2026 Flights",
+    "summary": "Published at 1701PDT 19AUG26 / 0001GMT 20AUG26 Garuda Indonesia in September and October 2026 schedules service increase on Jakarta – Guangzhou route, as the carrier plans to operate 7 weekly flights from 03SEP26 to…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260819-gasep26can",
+    "day": "2026-08-20",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Korean Air Resumes Melbourne Service From Dec 2026",
+    "summary": "Published at 1600PDT / 2300GMT 19AUG26 Korean Air today (19AUG26) announced service resumption on Seoul Incheon – Melbourne route, as it assumes Asiana Airlines’ seasonal service. Last served until March 2013, Korean…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260819-kedec26mel",
+    "day": "2026-08-19",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Air Arabia Plans Sharjah – Frankfurt Dec 2026 Launch",
+    "summary": "Published at 1500PDT / 2200GMT 19AUG26 Air Arabia today (19AUG26) announced new route launch from The UAE to Germany, where the airline schedules Sharjah – Frankfurt launch on 15DEC26. Airbus A320neo to serve this route…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260819-g9dec26fra",
+    "day": "2026-08-19",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "Turkmenistan Airlines NW26 International Service Changes",
     "summary": "Published at 1400PDT / 2100GMT 19AUG26 Turkmenistan Airlines in recent schedule update filed various international service changes for Northern winter 2026/27 season. Planned changes include the following. Ashgabat –…",
@@ -937,30 +961,6 @@
     "url": "https://simpleflying.com/america-pilot-shortage-origin/",
     "day": "2026-08-15",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/real-origin-pilot.jpg"
-   },
-   {
-    "headline": "Etihad Cancels Asmara 4Q26 Launch; Africa/China 1Q27 Launch Revision",
-    "summary": "Published at 1500PDT / 2200GMT 15AUG26 Etihad Airways in recent schedule upgrade gradually filed revisions to its planned network expansion to Africa and China from November 2026 and March 2027. Latest update as of…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260815-eynw26afas",
-    "day": "2026-08-15",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Etihad NW26 US Service Changes – 15AUG26",
-    "summary": "Published at 1415PDT / 2115GMT 15AUG26 Etihad Airways this week filed additional service changes to the US for Northern winter 2026/27 season. Planned service changes as of 15AUG26 includes the following. Abu Dhabi –…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260815-eynw26us",
-    "day": "2026-08-15",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "How Ryanair Wiped 1.5% Off An Island Region's GDP",
-    "summary": "Ryanair's abrupt Azores pullout shutters six routes and 400,000 seats, unsettling seasonal tourism flows.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/ryanair-wiped-island-gdp/",
-    "day": "2026-08-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/758-ryanair-boeing-737-max-8-markus-mainka-_-shutterstock-20260803-170654.jpg"
    }
   ],
   "airports": [
@@ -5231,6 +5231,14 @@
   ],
   "defense": [
    {
+    "headline": "150 Minutes To Nowhere: US Air Force Scraps C-17 Globemaster Flight Over Russian Missile Alert",
+    "summary": "The flight was part of the annual Winter Fly-in (WINFLY) period.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/us-air-force-scraps-c-17-globemaster-flight-russian-missile-alert/",
+    "day": "2026-08-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/09/20190327_c-17_globemaster_tail_10-0218_kadena_ab-33.jpg"
+   },
+   {
     "headline": "Gripen E Vs. F-35: Stealth Supremacy Or Maintenance Freedom?",
     "summary": "Comparing Sweden's warbird to the American stealth fighter.",
     "source": "Simple Flying",
@@ -6181,14 +6189,6 @@
     "url": "https://theaviationist.com/2026/08/12/brrrrt-acts-plan-to-save-the-a-10s/",
     "day": "2026-08-12",
     "img": "https://theaviationist.com/wp-content/uploads/2026/04/9493570b-scaled.jpg"
-   },
-   {
-    "headline": "DARPA seeks ‘unconstrained, radical’ concepts for next-gen hypersonic cruise missile",
-    "summary": "The Pentagon’s secretive research agency says new advances are needed to counter adversary air defenses, along with innovative manufacturing techniques that can produce hypersonic weapons affordably and at scale.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/08/darpa-seeks-unconstrained-radical-concepts-for-next-gen-hypersonic-cruise-missile/",
-    "day": "2026-08-12",
-    "img": null
    }
   ],
   "others": []
