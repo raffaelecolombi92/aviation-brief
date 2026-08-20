@@ -1,7 +1,23 @@
 {
- "generated": "2026-08-20T03:41+00:00",
+ "generated": "2026-08-20T06:35+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Cathay Pacific Schedules Almaty Jan 2027 Launch",
+    "summary": "Published at 2300PDT 19AUG26 / 0600GMT 20AUG26 Cathay Pacific on Thursday (20AUG26) opened reservations for passenger service to Kazakhstan, with 3 weekly Hong Kong – Almaty flights scheduled. First flight is scheduled…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260819-cxjan27ala",
+    "day": "2026-08-20",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "S7 Airlines Resumes Novosibirsk – Guangzhou in late-Dec 2026",
+    "summary": "Published at 2100PDT 19AUG26 / 0400GMT 20AUG26 Russian carrier S7 Airlines in late-December 2026 continues to expand service to China, with Novosibirsk – Guangzhou scheduled from 21DEC26. 737-800 aircraft to serve this…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260819-s7nw26can",
+    "day": "2026-08-20",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "Seat Pitch Is Not Everything: 6 Premium Economy Perks Airlines Hide",
     "summary": "What else do you get when booking premium economy?",
@@ -945,25 +961,17 @@
     "url": "https://simpleflying.com/video/engineer-sacked-over-17-min-delay-after-singapore-airlines-jet-reboot-awarded-28-000/",
     "day": "2026-08-16",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/singapore-a350-17min-delay.jpg"
-   },
-   {
-    "headline": "Etihad NW26 Europe Service Changes – 15AUG26",
-    "summary": "Published at 0300PDT / 1000GMT 16AUG26 Etihad Airways this past week filed various changes to its European operation for Northern winter 2026/27 season. Previously not reported changes as of 15AUG26 include the…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260816-eynw26eu",
-    "day": "2026-08-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "El Al Closes Hanoi Reservations From late-Oct 2026",
-    "summary": "Published at 0200PDT / 0900GMT 16AUG26 El Al Israel Airlines in the last few days closed reservations for its planned service to Vietnam, where it previously scheduled Tel Aviv – Hanoi route from 24OCT26. Prior to…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260816-lynw26han",
-    "day": "2026-08-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "How This Australian Airport Is Setting The Global Security Standard The TSA's $781 Million Rollout Can't Match",
+    "summary": "Sydney Airport has completed a government-mandated security overhaul and is striding ahead of the US.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-australian-airport-setting-global-security-standard-tsa-781-million-rollout-cant-match/",
+    "day": "2026-08-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/australian-airport-tsa.png"
+   },
    {
     "headline": "“Found Somebody”: 911 Call Recounts JetBlue Workers Finding Trespasser Sleeping On Plane",
     "summary": "The 32-year old trespasser was arrested and is facing charges.",
@@ -1915,17 +1923,25 @@
     "url": "https://simpleflying.com/british-airways-a380-7-hours-nowhere-weather-radar-failure/",
     "day": "2026-08-11",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/british-airways-airbus-a380.jpg"
-   },
-   {
-    "headline": "Heathrow Airport passenger traffic slips in July on Middle East and North America declines",
-    "summary": "Middle East routes saw a decline of -20.2% on the same month last year against the backdrop of war in the region, with the key North American market down by -3%.",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/heathrow-airport-passenger-traffic-slips-in-july-on-middle-east-and-north-america-declines/?utm_source=rss&utm_medium=rss&utm_campaign=heathrow-airport-passenger-traffic-slips-in-july-on-middle-east-and-north-america-declines",
-    "day": "2026-08-11",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "Cessna 150 Pilot Killed, 2 Troopers Hurt In Midair Crash With State Police Helicopter",
+    "summary": "The small plane reportedly collided with the police chopper from behind.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/cessna-150-pennsylvania-state-police-helicopter-midair-collision/",
+    "day": "2026-08-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/cessna-150-in-the-air.jpg"
+   },
+   {
+    "headline": "Why Some Boeing 777 Crews Never Stop The Aircraft Before Applying Full Takeoff Thrust",
+    "summary": "Have you ever noticed a 777 enter the runway, then proceed to take off without stopping? Here is why that happens, and why sometimes it does not.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-some-boeing-777-crews-never-stop-aircraft-before-applying-full-thrust/",
+    "day": "2026-08-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/boeing-777-crews.png"
+   },
    {
     "headline": "5 Forgotten Aerodynamic Fixes That Kept The McDonnell Douglas MD-11 Competitive",
     "summary": "A closer look at how McDonnell Douglas tried (and failed) to make the MD-11 compelling.",
@@ -2867,22 +2883,6 @@
     "summary": "AerFin and Lufthansa Technik have signed a new multi-platform component agreement aimed at improving material availability and providing greater flexibility across the aviation supply chain. Under the agreement, AerFin…",
     "source": "AviTrader",
     "url": "https://avitrader.com/2026/08/11/aerfin-lufthansa-technik-strike-component-deal/",
-    "day": "2026-08-11",
-    "img": null
-   },
-   {
-    "headline": "NOEMI targets India’s seaplane market",
-    "summary": "NOEMI Aerospace (NOEMI) has signed a memorandum of understanding (MoU) with Pawan Hans Ltd., one of India’s leading helicopter operators, to explore the introduction of electric amphibious aircraft for regional air…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/08/11/noemi-targets-indias-seaplane-market/",
-    "day": "2026-08-11",
-    "img": null
-   },
-   {
-    "headline": "DAE agrees four-aircraft 777F deal with Saudia",
-    "summary": "Dubai Aerospace Enterprise (DAE) has signed a purchase-leaseback agreement with Saudia covering four new Boeing 777F aircraft. The aircraft are scheduled for delivery between October 2026 and May 2027 and will be leased…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/08/11/dae-agrees-four-aircraft-777f-deal-with-saudia/",
     "day": "2026-08-11",
     "img": null
    }
