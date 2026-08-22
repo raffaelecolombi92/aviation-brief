@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T09:21+00:00",
+ "generated": "2026-08-22T12:27+00:00",
  "sections": {
   "network": [
    {
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "The Baby Queen: Why Did Boeing Build The 747SP?",
+    "summary": "A closer look at what made this aircraft special, and why it failed.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-did-boeing-build-the-747sp/",
+    "day": "2026-08-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/11/the-baby-queen-why-did-boeing-build-the-747sp.jpg"
+   },
+   {
     "headline": "Why The Boeing 787's Gear Retraction System Is Unlike Any Other Commercial Aircraft",
     "summary": "The Boeing 787 quickly became one of the most popular widebody aircraft ever produced.",
     "source": "Simple Flying",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/jetblue-four-cabin-overhaul-bluefirst/",
     "day": "2026-08-12",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/jet-blue-longest-routes-20260730-234645.jpg"
-   },
-   {
-    "headline": "Airbus A220’s performance drives BermudAir’s fleet growth plan",
-    "summary": "Subscription required By Howard Hardee Aug. 12, 2026, © Leeham News: While many airline fleet planners clamor for a stretched variant of the Airbus A220 closer to the heart of the narrowbody market, Adam Scott—chief…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/08/12/airbus-a220s-performance-drives-bermudairs-fleet-growth-plan/",
-    "day": "2026-08-12",
-    "img": null
    }
   ],
   "finance": [
@@ -5295,6 +5295,22 @@
   ],
   "defense": [
    {
+    "headline": "Spain Rejected The F-35 For A $7 Billion Eurofighter Deal & Left Its Navy Scavenging Retired US Marine Harriers",
+    "summary": "Exploring the paradigm shift emerging for Spanish naval aviation.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/spain-f35-eurofighter-harriers/",
+    "day": "2026-08-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/f35-eurofighter-20260731-184754.jpg"
+   },
+   {
+    "headline": "China’s Y-15 Turboprop Tactical Cargo Aircraft Emerges in Clearest Images Yet",
+    "summary": "New details emerged in the recent photos of the Shaanxi Y-15, initially known as Y-30, which is believed to be China’s future tactical transport aircraft. China’s new Y-15 four-engine turboprop transport aircraft…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/08/22/chinas-y-15-clearest-images-yet/",
+    "day": "2026-08-22",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/08/China-Y-15-Transporter-1.jpg"
+   },
+   {
     "headline": "Ground Clutter & The Doppler Notch: How A Helicopter Hides From Fighter Radar",
     "summary": "Fighter jets are designed to dominate the skies, but under the right circumstances, helicopters can turn the tables.",
     "source": "Simple Flying",
@@ -6237,22 +6253,6 @@
     "url": "https://theaviationist.com/2026/08/14/us-army-selects-m1-flight-school-next/",
     "day": "2026-08-14",
     "img": "https://theaviationist.com/wp-content/uploads/2026/08/R66_FSN.jpg"
-   },
-   {
-    "headline": "Army To Use Robinson R66 For Its New Helicopter Pilot Training Concept",
-    "summary": "The R66 will be part of a fundamentally different, contractor-run approach to producing Army helicopter pilots. The post Army To Use Robinson R66 For Its New Helicopter Pilot Training Concept appeared first on TWZ .",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/army-to-use-robinson-r66-for-its-new-helicopter-pilot-training-concept",
-    "day": "2026-08-14",
-    "img": "https://www.twz.com/wp-content/uploads/2026/08/Robinson-R66-Army.jpg?quality=85"
-   },
-   {
-    "headline": "Russia Is Still Flying A 1960s Soviet Flying Boat On Combat Missions Over The Black Sea",
-    "summary": "Why Beriev seaplanes are returning to the frontline six decades later.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/russia-soviet-flying-boat-black-sea/",
-    "day": "2026-08-14",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/combat-missions.jpg"
    }
   ],
   "others": []
