@@ -1,7 +1,23 @@
 {
- "generated": "2026-08-22T12:27+00:00",
+ "generated": "2026-08-22T15:15+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Why Widebody Pilots Lose Speed Authority The Moment They Cross Into Oceanic Airspace",
+    "summary": "Pilots face a vital need to maintain their speed over remote airspace.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/widebody-pilots-lose-speed-authority-moment-cross-oceanic-airspace/",
+    "day": "2026-08-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/a350_7.jpg"
+   },
+   {
+    "headline": "Allegiant Air's Massive Expansion: 15 New Routes To Florida Revealed [Map]",
+    "summary": "These corridors are spread across five airports in Florida.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/allegiant-air-new-florida-routes/",
+    "day": "2026-08-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/071-allegiant-air-airbus-a320-joe-a-kunzler-_-shutterstock.jpg"
+   },
    {
     "headline": "'4 To 5 Passengers Burned': Laptop Catches Fire On American Airlines Flight",
     "summary": "The device was contained by flight attendants, but multiple passengers were reportedly injured.",
@@ -945,22 +961,6 @@
     "url": "https://www.aerotime.aero/articles/former-flyadeal-ceo-steven-greenway-named-new-alliance-airlines-ceo",
     "day": "2026-08-19",
     "img": "https://www.aerotime.aero/images/2026/08/Untitled-design-37.jpg"
-   },
-   {
-    "headline": "JetSMART NW26 Buenos Aires Ezeiza Network Additions",
-    "summary": "Published at 2000PDT 18AUG26 / 0300GMT 19AUG26 JetSMART during Northern winter 2026/27 season schedules a trio of 3 nonstop routes to/from Buenos Aires Ezeiza , on board Airbus A320. Planned network additions as…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260818-janw26eze",
-    "day": "2026-08-19",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "SKYhigh Dominicana NS26 Boeing 737 Operations",
-    "summary": "Published at 1900PDT 18AUG26 / 0200GMT 19AUG26 SKYhigh Dominicana earlier this year introduced Boeing 737 operations, with the induction of Boeing 737-700 since early-May 2026. For the remainder of Northern summer 2026…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260818-dons26737",
-    "day": "2026-08-19",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "The 5-Minute Rule That Forces Pilots To Cut Thrust Just After Takeoff",
+    "summary": "It is a carefully planned procedure which relies heavily on accurate calculations.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/5-minute-rule-forces-pilots-cut-thrust-after-takeoff/",
+    "day": "2026-08-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/5-minute-rule.png"
+   },
+   {
     "headline": "The Baby Queen: Why Did Boeing Build The 747SP?",
     "summary": "A closer look at what made this aircraft special, and why it failed.",
     "source": "Simple Flying",
@@ -2877,14 +2885,6 @@
     "url": "https://avitrader.com/2026/08/13/universal-wins-brazil-approval-for-insight/",
     "day": "2026-08-13",
     "img": null
-   },
-   {
-    "headline": "JetBlue's New Four-Cabin Overhaul: What BlueFirst Base Actually Gets You (And What It Doesn't)",
-    "summary": "JetBlue's new BlueFirst Base fare offers a premium seat at a lower cost, but with reduced perks. Is it a trap or added value?",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/jetblue-four-cabin-overhaul-bluefirst/",
-    "day": "2026-08-12",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/jet-blue-longest-routes-20260730-234645.jpg"
    }
   ],
   "finance": [
@@ -5295,6 +5295,22 @@
   ],
   "defense": [
    {
+    "headline": "Virtual Foundations Courses Coming for Enlisted Airmen in PME Reorg",
+    "summary": "The Air Force plans to offer virtual enlisted Foundations courses Airmen can take at their convenience as part of a larger effort to modernize enlisted professional military education, or EPME. The post Virtual…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/virtual-enlisted-airmen-foundations-courses-p-reorg/",
+    "day": "2026-08-22",
+    "img": "https://www.airandspaceforces.com/app/uploads/2024/07/foundations-course-1-900x600.jpeg"
+   },
+   {
+    "headline": "Saab Unveils A3-001 Collaborative Combat Aircraft Concept",
+    "summary": "Saab plans to fly the first A3-001 demonstrator within 18 months, with three prototypes planned as the design evolves. Swedish defense company Saab unveiled on Aug. 21, 2026 a full-scale model of its next-generation…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/08/22/saab-unveils-a3-001-cca/",
+    "day": "2026-08-22",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/08/Saab_A3-001_1.jpg"
+   },
+   {
     "headline": "Spain Rejected The F-35 For A $7 Billion Eurofighter Deal & Left Its Navy Scavenging Retired US Marine Harriers",
     "summary": "Exploring the paradigm shift emerging for Spanish naval aviation.",
     "source": "Simple Flying",
@@ -6237,22 +6253,6 @@
     "url": "https://www.airandspaceforces.com/dod-directed-energy-weapons-airborne/",
     "day": "2026-08-14",
     "img": "https://www.airandspaceforces.com/app/uploads/2021/11/World_009_AC130J_laser-900x600.jpg"
-   },
-   {
-    "headline": "Pilots File Lawsuit Alleging Delta Air Lines Denied Paid Leave Amid Military Deployments",
-    "summary": "Federal judge clears class action as pilots seek common proof about comparable paid leave and reemployment protections.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/pilots-file-lawsuit-alleging-delta-air-lines-denied-paid-leave-military-deployments/",
-    "day": "2026-08-14",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/delta-air-lines-aircraft-at-gate.jpg"
-   },
-   {
-    "headline": "U.S. Army Selects M1 for Flight School Next Program",
-    "summary": "The U.S. Army M1 Support Services to train new pilots as part of the Flight School Next program, with the Robinson R66 helicopter replacing the UH-72 Lakota. The U.S. Army announced on Aug. 13, 2026, the selection of M1…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/08/14/us-army-selects-m1-flight-school-next/",
-    "day": "2026-08-14",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/08/R66_FSN.jpg"
    }
   ],
   "others": []
