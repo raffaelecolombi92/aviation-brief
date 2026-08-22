@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T03:37+00:00",
+ "generated": "2026-08-22T06:29+00:00",
  "sections": {
   "network": [
    {
@@ -1927,6 +1927,22 @@
   ],
   "fleet": [
    {
+    "headline": "Why The Boeing 787's Gear Retraction System Is Unlike Any Other Commercial Aircraft",
+    "summary": "The Boeing 787 quickly became one of the most popular widebody aircraft ever produced.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-boeing-787-gear-retraction-system-unlike-any-other-commercial-aircraft/",
+    "day": "2026-08-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/boeing-787.png"
+   },
+   {
+    "headline": "Why Doesn't The Boeing 737 Have Landing Gear Doors?",
+    "summary": "What is behind this design feature, and is it really all that unusual at all?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/boeing-737-has-no-landing-gear-doors/",
+    "day": "2026-08-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/349-united-airlines-boeing-737-max-8-harrisonkim1-_-shutterstock.jpg"
+   },
+   {
     "headline": "Why Boeing Skipped EASA Approval For The 737 MAX 7 For Now",
     "summary": "The aircraft will be operated almost entirely by Southwest Airlines.",
     "source": "Simple Flying",
@@ -2869,22 +2885,6 @@
     "url": "https://leehamnews.com/2026/08/12/airbus-a220s-performance-drives-bermudairs-fleet-growth-plan/",
     "day": "2026-08-12",
     "img": null
-   },
-   {
-    "headline": "How A Single $10 Component Can Delay The Delivery Of A $200 Million Aircraft",
-    "summary": "How can the industry fix this fragility?",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-a-single-10-component-can-delay-the-delivery-of-a-200-million-aircraft/",
-    "day": "2026-08-12",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/10-component.jpg"
-   },
-   {
-    "headline": "COMAC C919 Completes First International Flight to Mongolia",
-    "summary": "COMAC’s C919 completed its first international flight earlier today, flying from Beijing to Ulaanbaatar, Mongolia. This marks a milestone for",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/comac-c919-completes-first-international-flight-to-mongolia/",
-    "day": "2026-08-12",
-    "img": "https://airinsight.com/wp-content/uploads/2026/08/C919-image-CGTV.jpg"
    }
   ],
   "finance": [
