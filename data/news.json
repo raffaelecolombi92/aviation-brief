@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23T06:31+00:00",
+ "generated": "2026-08-23T09:23+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,14 @@
   ],
   "airports": [
    {
+    "headline": "Fuel Emergency As 20+ Flights Divert Or Hold After Man Breaches Manchester Airport",
+    "summary": "A late-night security incident prompted multiple diversions and long holds as one jet declared a fuel emergency.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/manchester-airport-breach-flights-diverted-fuel-emergency/",
+    "day": "2026-08-23",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/132-easyjet-airbus-a320neo-lukas-wunderlich-_-shutterstock-1.jpg"
+   },
+   {
     "headline": "\"Low Usage\": Air France Denies Paris Business Class Lounge Sauna Used As 'Sex Den'",
     "summary": "Wood-panel sauna and Clarins treatment room at CDG became the center of viral claims that tested lounge policies.",
     "source": "Simple Flying",
@@ -1915,17 +1923,17 @@
     "url": "https://simpleflying.com/technical-malfunction-forces-delta-air-lines-airbus-a321-return-atlanta-15-minutes/",
     "day": "2026-08-14",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/12/delta-airlines-airbus-a321-n377dn-at-phoenix-sky-harbor-intl-airport.jpg"
-   },
-   {
-    "headline": "Possible Agreement? easyJet & Air France-KLM Tie-Up Speculated Following Apollo Takeover",
-    "summary": "Apollo’s easyJet takeover could unlock a powerful new partnership with Air France-KLM across Europe.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/easyjet-air-france-klm-tie-up-speculated-apollo-takeover/",
-    "day": "2026-08-13",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/bustling_airport_apron_with_three_airliners_1920x1080.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "The Real Reason Why Aircraft Recyclers Dread The Retirement Of The Airbus A350 & Boeing 787",
+    "summary": "CFRP, short for carbon fiber reinforced polymer, has become the new standard for commercial aircraft construction. Lighter and stronger than tradition",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/the-real-reason-why-aircraft-recyclers-dread-the-retirement-of-the-airbus-a350-boeing-787/",
+    "day": "2026-08-23",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/boeing-787.jpg"
+   },
    {
     "headline": "The Real Reason Why The World's Largest Commercial Aircraft Only Has Reverse Thrust On 2 Engines",
     "summary": "The Airbus A380's two-thrust-reverser configuration is a carefully engineered design that improves efficiency and reliability.",
@@ -2877,17 +2885,17 @@
     "url": "https://www.aerotime.aero/articles/heart-aerospace-completes-first-flight-of-x1-battery-electric-demonstrator",
     "day": "2026-08-13",
     "img": "https://www.aerotime.aero/images/2026/08/x1-first-flight.jpeg"
-   },
-   {
-    "headline": "Turning Point: How Embraer Recovered from Boeing Merger Plans, Part 1",
-    "summary": "Subscription Required By Scott Hamilton and Bjorn Fehrm Aug. 13, 2026, © Leeham News: In 2017, Embraer faced what it thought was an existential crisis. Airbus agreed to buy 50.1% of the Bombardier C Series because of…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/08/13/turning-point-how-embraer-recovered-from-boeing-merger-plans-part-1/",
-    "day": "2026-08-13",
-    "img": null
    }
   ],
   "finance": [
+   {
+    "headline": "How Much Does An Airline Save By Keeping A 20-Year-Old Jet Instead Of Buying A New One?",
+    "summary": "Fuel, capacity, and total flight time are all considerations airlines weigh in fleet decisions.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airline-cost-keeping-old-aircraft-new-jet/",
+    "day": "2026-08-23",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/20-year-old-jets.jpg"
+   },
    {
     "headline": "MACH OE Adds First Seed Aircraft with United Airlines",
     "summary": "MACH OE, an open-ended aircraft fund, took delivery of two new Boeing 737 MAX 9 aircraft on July 29 and 30, 2026, placing both on long-term leases with United Airlines. The aircraft are the first of several targeted…",
@@ -5303,6 +5311,14 @@
   ],
   "defense": [
    {
+    "headline": "U.S. Navy Reveals AIM-424 “Malice” Long-Range Air-to-Air Missile",
+    "summary": "The U.S. Navy has publicly revealed a previously little-known next-generation air-to-air missile: the AIM-424 LRAAM (Long-Range Air-to-Air Missile), officially named “Malice.” The new missile was announced at the…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/08/23/us-navy-reveals-aim-424-malice-lraam/",
+    "day": "2026-08-23",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/08/AIM424FA18-scaled.jpg"
+   },
+   {
     "headline": "AIM-424 “Malice” Very Long-Range Air-To-Air Missile Emerges From The Shadows",
     "summary": "The Navy's newest extreme-range air-to-air missile is intended to be used by the F/A-18E/F Super Hornet, F-35C JSF and the upcoming F/A-XX. The post AIM-424 “Malice” Very Long-Range Air-To-Air Missile Emerges From The…",
     "source": "The War Zone",
@@ -6253,14 +6269,6 @@
     "url": "https://theaviationist.com/2026/08/16/dh88-comet-damaged-after-landing-incident/",
     "day": "2026-08-16",
     "img": "https://theaviationist.com/wp-content/uploads/2026/08/dh88comet_landing_incident_1.jpg"
-   },
-   {
-    "headline": "From 76 F-22 Raptors To 200 Next-Gen Fighters: How Much Larger America's Air Superiority Fleet Could Get",
-    "summary": "A closer look at the future of air power in the US Armed Forces.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-much-larger-americas-air-superiority-fleet-get/",
-    "day": "2026-08-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/from-76-f-22-raptors-to-200-next-gen-fighters-how-much-larger-america-s-air-superiority-fleet-could-get.jpg"
    }
   ],
   "others": []
