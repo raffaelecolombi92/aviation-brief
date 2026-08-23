@@ -1,7 +1,23 @@
 {
- "generated": "2026-08-23T15:16+00:00",
+ "generated": "2026-08-23T18:20+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "A Look At The Salaries Of US Navy Pilots In 2026",
+    "summary": "Several different ranks, aircraft, and the officers' responsibilities play a part in overall pay.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/salaries-of-us-navy-pilots-2026/",
+    "day": "2026-08-23",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/us-navy-pilots.jpg"
+   },
+   {
+    "headline": "United Airlines Stuck With Hundreds Of Boeing 737 MAX 10 Lie-Flat Seats It May Never Install",
+    "summary": "United has reshaped its premium transcontinental plans as the MAX 10’s role pivots toward a higher density domestic workhorse.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-airlines-boeing-737-max-10-lie-flat-seats-stuck/",
+    "day": "2026-08-23",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/united-airlines-boeing-737-max-10-flying.jpg"
+   },
    {
     "headline": "American Airlines' AI Is Rebooking Passengers Onto Later Flights Without Asking Them",
     "summary": "American Airlines is seeing increasing backlash over the mistakes of its relatively new artificial intelligence booking software. The program is designed to make it easier for delayed travelers to catch connections when…",
@@ -943,22 +959,6 @@
     "summary": "Published at 0300PDT / 1000GMT 19AUG26 Viva Air from November 2026 plans to resume Cancun – Acapulco service, last served until April 2024. The airline schedules 2 weekly flights from 03NOV26, on board Airbus A320…",
     "source": "AeroRoutes",
     "url": "https://www.aeroroutes.com/eng/260819-vbnw26aca",
-    "day": "2026-08-19",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "How Much Do Regional Airline Captains Make Compared To Major Airline Captains In 2026?",
-    "summary": "Now that pilot salaries after the pandemic upheaval have normalized, we can assess the gap between regional and major airline captains.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/regional-major-airline-captain-pay-comparison/",
-    "day": "2026-08-19",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/why-the-us-is-worried-about-pilot-shortages-and-what-it-means-for-airlines-20260805-151952.jpg"
-   },
-   {
-    "headline": "avianca NW26 Guatemala City – San Francisco Operations",
-    "summary": "Published at 0200PDT / 0900GMT 19AUG26 avianca during Northern winter 2026/27 season once again schedules Guatemala City – San Francisco seasonal route, which will be offered 4 times weekly from 02DEC26 to 31JAN27. This…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260819-avnw26guasfo",
     "day": "2026-08-19",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "The $472 Million Contract That Just Extended A 1960s Helicopter's Life Into The 2040s",
+    "summary": "With no replacement coming any time soon, the US Army is currently working to upgrade its Chinook fleet to fly into the 2040s.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/472-million-contract-extended-1960s-helicopters-life-2040s/",
+    "day": "2026-08-23",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/the-472-million-contract-that-just-extended-a-1960s-helicopter-s-life-into-the-2040s.jpg"
+   },
+   {
     "headline": "Why Boeing Handed Its Entire Autonomous Flight Future To Archer Aviation",
     "summary": "We try to decipher the reasoning behind the deal.",
     "source": "Simple Flying",
@@ -2877,14 +2885,6 @@
     "url": "https://airinsight.com/heart-aerospace-completes-x1-prototype-first-flight/",
     "day": "2026-08-13",
     "img": "https://airinsight.com/wp-content/uploads/2026/08/Heart-X1.jpg"
-   },
-   {
-    "headline": "First Production PD-8 engines delivered for SJ-100",
-    "summary": "United Engine Company in Russia has delivered the first production PD-8 engines to Yakovlev for installation on the fully Russian-built",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/first-production-pd-8-engines-delivered-for-sj-100/",
-    "day": "2026-08-13",
-    "img": "https://airinsight.com/wp-content/uploads/2026/08/First-Russian-SJ-100-flies-UAC.jpg"
    }
   ],
   "finance": [
@@ -5319,6 +5319,30 @@
   ],
   "defense": [
    {
+    "headline": "Russia's Su-57 Is Supposed To Challenge Western 5th-Gen Fighters — So Why Is Its Fleet So Small?",
+    "summary": "Around 44x more F-35s are known to be on order/planned than Russia's Su-57 Felon, creating a negative feedback loop for the Felon.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/russia-su57-fifth-gen-fighter-fleet/",
+    "day": "2026-08-23",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/russia-s-su-57.jpg"
+   },
+   {
+    "headline": "Cobra 600 Air Defense Drone Completes First Flight",
+    "summary": "Unveiled at the recent ILA Berlin air show, the Cobra 600 is a jet-powered uncrewed aircraft developed by Polaris to carry and launch a Diehl Defense IRIS-T air-to-air missile. The prototype for Diehl Defense’s Cobra…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/08/23/cobra-600-air-defense-drone-completes-first-flight/",
+    "day": "2026-08-23",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/08/Cobra-600-Jet-Drone-1.jpg"
+   },
+   {
+    "headline": "Argentina Abandons Efforts to Return Super Étendard Fighters to Service",
+    "summary": "The decision comes as Argentina restructures its Naval Aviation fleet, retires legacy aircraft and introduces new capabilities. After nearly forty years of service, including combat operations during the 1982 Falklands…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/08/23/argentina-retires-super-etendard/",
+    "day": "2026-08-23",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/08/Argentina-Super-Etendard-1.jpg"
+   },
+   {
     "headline": "Norway Approved for 21 UH-60M Black Hawks After Reversing Plans for HH-60W",
     "summary": "The U.S. has approved a possible foreign military sale (FMS) of up to 21 UH-60M Black Hawks to Norway plus spares and associated equipment for $2.3 billion. Just months after Norway reneged on its plan to acquire nine…",
     "source": "The Aviationist",
@@ -6253,30 +6277,6 @@
     "url": "https://simpleflying.com/usaf-bombers-launched-different-bases/",
     "day": "2026-08-17",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/b-2-spirit-mid-air.jpg"
-   },
-   {
-    "headline": "The US Air Force Bolted Jet Engines Onto Its Largest-Ever Bomber, But It Still Wasn't Enough To Save It",
-    "summary": "One of the overlooked and innovative engineering aspects of the B-36 Peacemaker was its use of four turbojets to supplement its six piston engines.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/largest-us-bomber-jet-engines/",
-    "day": "2026-08-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/us-air-force-jet-engines.jpg"
-   },
-   {
-    "headline": "The A-10 Warthog Just Flew Its Final Sortie From The Base That Trained Its Pilots For 50 Years",
-    "summary": "The boneyard bids farewall to its last Warthogs.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/a10-final-sortie-training-base/",
-    "day": "2026-08-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/us-air-force-a10-fleet-20260803-163959.jpg"
-   },
-   {
-    "headline": "How Congress Increased The Navy’s Sixth-Gen Fighter Budget From $74 Million To Over $900 Million",
-    "summary": "The back story of the dramatic course change for the F/A-XX.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/navy-sixth-gen-fighter-budget/",
-    "day": "2026-08-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/could_boeings_f-47_become_the_basis_for_the_us_navys_future_fa-xx_fighter_jet_925_001-2683c2b4-20260801-132832.jpg"
    }
   ],
   "others": []
