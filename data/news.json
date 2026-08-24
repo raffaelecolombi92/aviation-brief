@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T00:56+00:00",
+ "generated": "2026-08-24T03:49+00:00",
  "sections": {
   "network": [
    {
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "Is It True That The Airbus A350’s Price Tag Is 50% Less Than The Boeing 787’s?",
+    "summary": "The contrast between the 787 and A350 highlights a broader tension in engineering: the balance between innovation and efficiency.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/true-airbus-a350-price-tag-50-percent-less-than-boeing-787/",
+    "day": "2026-08-24",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/is-it-true-that-the-airbus-a350-s-price-tag-is-50-less-than-the-boeing-787-s-1.jpg"
+   },
+   {
     "headline": "The One Boeing 737-700 Hiding In Ryanair's 650 Aircraft Fleet",
     "summary": "Ryanair operates more than 650 aircraft, but only one is a Boeing 737-700. Discover SP-RUM's unusual history and where it flies today.",
     "source": "Simple Flying",
@@ -2877,14 +2885,6 @@
     "url": "https://avitrader.com/2026/08/14/standardaero-lands-precision-air-pw127m-mro-deal/",
     "day": "2026-08-14",
     "img": null
-   },
-   {
-    "headline": "Heart ES-30: The Regional Aircraft Built Around Scope",
-    "summary": "Heart Aerospace completed the first flight of its X1 demonstrator this week at Plattsburgh International Airport in New York, marking",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/heart-es-30-the-regional-aircraft-built-around-scope/",
-    "day": "2026-08-14",
-    "img": "https://airinsight.com/wp-content/uploads/2024/09/ES-30-front.png"
    }
   ],
   "finance": [
