@@ -1,7 +1,31 @@
 {
- "generated": "2026-08-25T00:57+00:00",
+ "generated": "2026-08-25T03:42+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Fiji Airways Increases Noumea Flights From Dec 2026",
+    "summary": "Published at 2000PDT 24AUG26 / 0300GMT 25AUG26 Fiji Airways from December 2026 plans to increase service to New Caledonia, with the addition of 3rd weekly Nadi – Noumea flight, effective 13DEC26. FJ291 NAN0800 – 1000NOU…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260824-fjnw26nou",
+    "day": "2026-08-25",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "IndiGo Adds Gaya – Bangkok in NW26",
+    "summary": "Published at 1900PDT 24AUG26 / 0200GMT 25AUG26 Indian low-cost carrier IndiGo at the launch of Northern winter 2026/27 season plans to launch new route to Thailand, as the carrier opened reservations for 2 weekly Gaya –…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260824-6enw26gaybkk",
+    "day": "2026-08-25",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "VietJet Air Adds Hanoi – Tainan in late-Oct 2026",
+    "summary": "Published at 1800PDT 24AUG26 / 0100GMT 25AUG26 VietJet Air during Northern winter 2026/27 season plans to resume service to Tainan , its 4th scheduled destination in Taiwan. Last served until October 2023 from Ho Chi…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260824-vjnw26tnn",
+    "day": "2026-08-25",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "Air India Expands Re-Configured Boeing 787 Network in NW26",
     "summary": "Published at 1701PDT 24AUG26 / 0001GMT 25AUG26 Air India during Northern winter 2026/27 season continues to ramp up the introduction of re-configured Boeing 787-8 and -9, as additional routes to/from Mumbai to see…",
@@ -937,30 +961,6 @@
     "url": "https://www.aeroroutes.com/eng/260820-etdec26af",
     "day": "2026-08-20",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "TAP Air Portugal Oct 2026 Extra Berlin Flights",
-    "summary": "Published at 0600PDT / 1300GMT 20AUG26 TAP Air Portugal in the first half of October 2026 schedules extra Lisbon – Berlin flights, with 7 round-trip flights scheduled with A320neo/321/330-900neo. Planned schedule as…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260820-tpoct26ber",
-    "day": "2026-08-20",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Retrospective: Why Qatar Airways Announced Then Abruptly Scrapped Its Las Vegas Plan",
-    "summary": "Qatar Airways has an impressive network of long-haul destinations in the United States of America. Indeed, current scheduling data made available by Cirium shows that the oneworld member flies to 11 US cities from its…",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/video/retrospective-why-qatar-airways-announced-then-abruptly-scrapped-its-las-vegas-plan/",
-    "day": "2026-08-20",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/qatar-las-vegas-never-launched.jpg"
-   },
-   {
-    "headline": "Singapore Airlines expands Europe network with new Madrid route, more flights",
-    "summary": "Singapore Airlines (SIA) announced it is expanding its European network with increased flight frequencies to several key cities… The post Singapore Airlines expands Europe network with new Madrid route, more flights…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/singapore-airlines-expands-europe-network-with-new-madrid-route-more-flights",
-    "day": "2026-08-20",
-    "img": "https://www.aerotime.aero/images/2026/08/Untitled-design-40.jpg"
    }
   ],
   "airports": [
