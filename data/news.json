@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T03:42+00:00",
+ "generated": "2026-08-25T06:36+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,38 @@
   ],
   "airports": [
    {
+    "headline": "American Airlines Will Open Its Exclusive First Class Dining Rooms To Business Class",
+    "summary": "AA opens its doors to more flyers as it rolls out lounge upgrades across the US.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-flagship-first-dining-opens-business-class/",
+    "day": "2026-08-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/american-airlines-boeing-777-200.jpg"
+   },
+   {
+    "headline": "Rome-Bound Delta A330 Diverts To Canada With 280 Onboard After 'Mechanical Emergency'",
+    "summary": "Emergency crews met the Delta jet in Newfoundland as a replacement aircraft ferried all passengers back to New York.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/delta-a330-rome-diverts-canada-mechanical-emergency/",
+    "day": "2026-08-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/delta-airbus-a330-300-takeoff-at-ams.jpg"
+   },
+   {
+    "headline": "‘Landmark leap’ – Proya steps up overseas expansion through nationwide US agreement with Ulta Beauty",
+    "summary": "“This milestone signals a pivotal shift in Proya’s global journey: moving beyond mere product export to brand globalisation,” says the premium Chinese beauty house as it secures a seminal agreement in the USA.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/landmark-leap-proya-steps-up-overseas-expansion-through-agreement-with-ulta-beauty/?utm_source=rss&utm_medium=rss&utm_campaign=landmark-leap-proya-steps-up-overseas-expansion-through-agreement-with-ulta-beauty",
+    "day": "2026-08-25",
+    "img": null
+   },
+   {
+    "headline": "Sleep well",
+    "summary": "Overnight accommodation and sleep options at airports continue to grow and now include everything from traditional hotels to cabins and sleep pods, writes Joe Bates. The need for accommodation at or close to an airport…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/sleep-well/?utm_source=rss&utm_medium=rss&utm_campaign=sleep-well",
+    "day": "2026-08-25",
+    "img": null
+   },
+   {
     "headline": "LAX Handled 3.76% Fewer Passengers In 2025 While Its Revenue Climbed To $2.34 Billion",
     "summary": "Los Angeles, a critical hub airport for global aviation, has recorded a revenue increase even with less passengers. How is this possible?",
     "source": "Simple Flying",
@@ -1891,38 +1923,6 @@
     "url": "https://simpleflying.com/only-243-miles-american-airlines-launches-new-ultra-short-airbus-a321xlr-flights/",
     "day": "2026-08-15",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/american-airlines-a321xlr-simple-flying.jfif"
-   },
-   {
-    "headline": "Long-Haul Delta Air Lines Flight Diverts Twice After Lavatory Leak Floods Cabin",
-    "summary": "Passengers faced hours on the ground as Delta maintenance repaired the cabin issue and the flight later required a crew swap.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/long-haul-delta-air-lines-flight-diverts-twice-lavatory-leak-floods-cabin/",
-    "day": "2026-08-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/delta-air-lines-airbus-a330-900-touchdown-at-jfk-1.jpg"
-   },
-   {
-    "headline": "Vietnam Airlines Boeing 787 Damaged After Taking Off Dangerously Late From Munich",
-    "summary": "A Munich departure turned chaotic as a 787-9 sustained heavy aft scraping and a puncture after a late rotation and runway overrun.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/vietnam-airlines-boeing-787-tail-strike-munich/",
-    "day": "2026-08-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/vietnam-airlines-boeing-787-9-landing.jpg"
-   },
-   {
-    "headline": "Southwest Airlines Launches 7 New Nonstop Routes From Its 5th Busiest Airport [Map & List]",
-    "summary": "The carrier is on the up in Nashville.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/southwest-airlines-new-nashville-routes/",
-    "day": "2026-08-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/shutterstock_2509061189_cropped.jpg"
-   },
-   {
-    "headline": "London Heathrow Flooding Shuts Road Access To United, American & Delta Terminals",
-    "summary": "A burst main has submerged roads around Heathrow's central terminals, stranding passengers and staff.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/london-heathrow-flooding-road-united-american-delta-terminals/",
-    "day": "2026-08-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/american-airlines-boeing-787-landing-at-london-heathrow.jpg"
    }
   ],
   "fleet": [
@@ -5351,6 +5351,14 @@
   ],
   "defense": [
    {
+    "headline": "The 5 US Air Force Bases Quietly Holding NATO's European Airpower Together In 2026",
+    "summary": "The fortresses of NATO's allied air power in Europe.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/usaf-bases-quietly-holding-nato-european-airpower-2026/",
+    "day": "2026-08-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/nato-s-european.png"
+   },
+   {
     "headline": "5 Design Choices That Made The P-51 Mustang Such A Powerful High-Altitude Fighter",
     "summary": "Analyzing the engineering behind an icon of aviation.",
     "source": "Simple Flying",
@@ -6301,14 +6309,6 @@
     "url": "https://www.aerotime.aero/articles/jolly-green-rescue-navy-mh60s-hard-landing-china-lake",
     "day": "2026-08-18",
     "img": "https://www.aerotime.aero/images/2026/08/A-US-Air-Force-HH-60W-Jolly-Green-II-assigned-to-the-88th-Test-and-Evaluation-Squadron-flies-over-Nellis-Air-Force-Base-Nevada.jpg"
-   },
-   {
-    "headline": "REGENT’s Squire seaglider completes wing-in-ground exercise with US military",
-    "summary": "REGENT announced on August 18, 2026, that Squire, its autonomous wing-on-ground (WIG) vehicle, successfully participated in Silent Swarm… The post REGENT’s Squire seaglider completes wing-in-ground exercise with US…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/regents-squire-seaglider-completes-wing-in-ground-exercise-with-us-military",
-    "day": "2026-08-18",
-    "img": "https://www.aerotime.aero/images/2026/08/69dce7216842738c85a5048a_IMG_6517HQ.jpeg"
    }
   ],
   "others": []
