@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26T03:49+00:00",
+ "generated": "2026-08-26T06:38+00:00",
  "sections": {
   "network": [
    {
@@ -3451,6 +3451,22 @@
   ],
   "bizav": [
    {
+    "headline": "NOEMI Aerospace signs MoU for up to 15 electric seaplanes in India",
+    "summary": "NOEMI Aerospace has signed a memorandum of understanding with SkyHop Aviation, India’s first dedicated commercial seaplane operator, for the introduction of up to 15 amphibious aircraft into the Indian market. [...] The…",
+    "source": "Business Airport International",
+    "url": "https://www.businessairportinternational.com/news/noemi-aerospace-signs-mou-for-up-to-15-electric-seaplanes-in-india.html",
+    "day": "2026-08-26",
+    "img": null
+   },
+   {
+    "headline": "Atlantic Aviation begins construction on new FBO at Nashville’s John C. Tune Airport",
+    "summary": "Atlantic Aviation has started construction on its first facility at John C. Tune Airport (JWN) in Nashville, Tennessee, with completion expected in the fourth quarter of 2027. The development includes [...] The post…",
+    "source": "Business Airport International",
+    "url": "https://www.businessairportinternational.com/news/atlantic-aviation-begins-construction-on-new-fbo-at-nashvilles-john-c-tune-airport.html",
+    "day": "2026-08-26",
+    "img": null
+   },
+   {
     "headline": "Sky Travel Solutions launches jet card with light jet focus",
     "summary": "Florida-based Part 135 operator Sky Travel Solutions expects to have a charter fleet of 11 Hawker 400s flying by early 2027 The post Sky Travel Solutions launches jet card with light jet focus appeared first on Private…",
     "source": "Private Jet Card Comparisons",
@@ -4393,25 +4409,17 @@
     "url": "https://privatejetcardcomparisons.com/2026/07/29/flyexclusive-expansion-global-transpark/",
     "day": "2026-07-29",
     "img": null
-   },
-   {
-    "headline": "Gulfstream drives General Dynamics beat as Aerospace revenue jumps 15%",
-    "summary": "General Dynamics reported second-quarter 2026 revenue of $14.09 billion on July 29, 2026, with its Aerospace segment posting the fastest… The post Gulfstream drives General Dynamics beat as Aerospace revenue jumps 15%…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/gulfstream-general-dynamics-q2-2026-results",
-    "day": "2026-07-29",
-    "img": "https://www.aerotime.aero/images/2026/07/The-Gulfstream-G800.jpg"
-   },
-   {
-    "headline": "Reacting to five ‘secrets’ about private jets",
-    "summary": "Flexjet's Steve Varsano sets the record straight about how private jet travel actually works after an influencer's social media post The post Reacting to five ‘secrets’ about private jets appeared first on Private Jet…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/07/29/debunking-private-jets-secrets-varsano/",
-    "day": "2026-07-29",
-    "img": null
    }
   ],
   "policy": [
+   {
+    "headline": "Max Power & Chaos: Why Some Retired Pilots Say Go-Around Procedures Need Rethinking",
+    "summary": "How the industry is working to make the terminal area safer.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/some-retired-pilots-go-around-procedures-rethinking/",
+    "day": "2026-08-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/max-power-chaos.png"
+   },
    {
     "headline": "‘Pungent odor’ forces SWISS Boeing 777 to divert to Azores",
     "summary": "A SWISS Boeing 777-300ER flying from Chicago to Zurich diverted to the Azores on August 25, 2026, after… The post ‘Pungent odor’ forces SWISS Boeing 777 to divert to Azores appeared first on AeroTime .",
@@ -5363,17 +5371,17 @@
     "url": "https://www.aerotime.aero/articles/isar-aerospace-signs-deal-to-launch-orbital-rockets-from-canadas-atlantic-coast",
     "day": "2026-07-07",
     "img": "https://www.aerotime.aero/images/2025/03/Isar-Aerospace-Spectrum-rocket-on-the-launch-pad-of-Andoya-Spacesport-e1774353136939.jpg"
-   },
-   {
-    "headline": "India certifies multiple Embraer aircraft including E195 and E195-E2 jets",
-    "summary": "India’s Directorate General of Civil Aviation (DGCA) has certified multiple Embraer aircraft from the E-Jets family, including the… The post India certifies multiple Embraer aircraft including E195 and E195-E2 jets…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/india-certifies-embraer-aircraft-e195-e195-e2-jets",
-    "day": "2026-07-07",
-    "img": "https://www.aerotime.aero/images/2026/07/Embraer-E195-E2-Tech-Eagle.jpg"
    }
   ],
   "defense": [
+   {
+    "headline": "TSA Scraps Its Secretive Gold+ Program, But Airport Security Is Going Private Anyway",
+    "summary": "The plan to replace TSA agents across the US is being scaled back and rebranded.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/tsa-scraps-gold-plus-program-airport-security-privatization/",
+    "day": "2026-08-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/members-of-the-transportation-security-administration-honor-guard-from-the-nashville-airport-post-the-colors.jpg"
+   },
    {
     "headline": "The $4.9 Billion Rebuild Turning A Hurricane-Ravaged Air Force Base Into A Major F-35 Hub",
     "summary": "Hurricane Michael destroyed Tyndall AFB in 2018. The Air Force is spending $5 billion to rebuild it as a 78-jet F-35 hub.",
@@ -6325,14 +6333,6 @@
     "url": "https://www.airandspaceforces.com/us-south-korea-ulchi-freedom-shield-exercise-trump/",
     "day": "2026-08-19",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/08/2025-working-together-900x600.jpeg"
-   },
-   {
-    "headline": "Air Forces Southern Focuses on Intel Sharing for Major SOUTHCOM Exercise",
-    "summary": "A major U.S. Southern Command exercise this month brought representatives from 10 Latin American countries to Davis-Monthan Air Force Base, Ariz., for the air component of the event, with a focus on intelligence sharing…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/air-forces-southern-intel-sharing-southcom-exercise-panamax/",
-    "day": "2026-08-19",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/PANAMAX-AOC-photo-900x600.jpeg"
    }
   ],
   "others": []
