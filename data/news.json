@@ -1,7 +1,55 @@
 {
- "generated": "2026-08-26T16:13+00:00",
+ "generated": "2026-08-26T19:42+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Delta Air Lines To Introduce New Delta One Product, Set To Begin Crew Training Next Week",
+    "summary": "Rollout of the new product will launch out of Los Angeles.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/delta-air-lines-introduce-new-delta-one-product-crew-training-next-week/",
+    "day": "2026-08-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/09/shutterstock_1040187844-1.jpg"
+   },
+   {
+    "headline": "“A Wonderful Reimagining”: Plus-Size Passenger Praises United Airlines For New Economy Beds",
+    "summary": "The product is set to launch in 2027 on select United widebody aircraft.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/plus-size-passenger-praises-united-airlines-new-economy-beds/",
+    "day": "2026-08-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/united-airlines_787-9-relax-row_couple_march-2026_cropped.jpg"
+   },
+   {
+    "headline": "US Airline Snapshot Model using US DOT’s T-2",
+    "summary": "Its been some time since we last shared this data model. Using the US DOT’s T-2 dataset, we developed this",
+    "source": "AirInsight",
+    "url": "https://airinsight.com/us-airline-snapshot-model-using-us-dots-t-2/",
+    "day": "2026-08-26",
+    "img": "https://airinsight.com/wp-content/uploads/2023/06/A320neo-Sichuan-Airlines-MSN7540-details-scaled.jpg"
+   },
+   {
+    "headline": "Wizz Air Dec 2026 Sarajevo Network Expansion",
+    "summary": "Published at 1200PDT / 1900GMT 26AUG26 Wizz Air last week announced network expansion at Sarajevo , with 3 routes to be added from December 2026. Berlin – Sarajevo eff 03DEC26 2 weekly A321neo W64696 BER1005 – 1155SJJ…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260826-w6dec26sjj",
+    "day": "2026-08-26",
+    "img": null
+   },
+   {
+    "headline": "LOT Adds Gdansk – Paris Orly From April 2027",
+    "summary": "Published at 1100PDT / 1800GMT 26AUG26 LOT Polish Airlines last week announced the launch of Gdansk – Paris Orly route, scheduled to launch on 05APR27. This route will be served by Boeing 737 MAX 8, 4 times weekly.…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260826-lons27gdnory",
+    "day": "2026-08-26",
+    "img": null
+   },
+   {
+    "headline": "Saudia Opens Booking For Expanded Manchester Service in 1Q27",
+    "summary": "Published at 1000PDT / 1700GMT 26AUG26 Saudia this week opened reservations for additional flights on Jeddah – Manchester route. Reported earlier this month on AeroRoutes , the Skyteam member plans to increase service…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260826-sv1q27man",
+    "day": "2026-08-26",
+    "img": null
+   },
    {
     "headline": "The Ex-Flight Attendant Who Scored Hundreds Of Free Flights By Posing As A Pilot For Nearly 5 Years",
     "summary": "A surprising story that asks questions about security procedures.",
@@ -913,57 +961,33 @@
     "url": "https://simpleflying.com/boeing-united-airlines-paid-1-million-sponsor-dot-secretary-reality-show/",
     "day": "2026-08-21",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/united-airlines-boeing-787-9.jpg"
-   },
-   {
-    "headline": "How Delta's Sky Club Redefined What Counts As A Visit & Caused 2 Cards To Lose Access Entirely",
-    "summary": "It's gettng harder to get the full value out of a loyalty program.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-sky-club-access/",
-    "day": "2026-08-21",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/n8delta-sky-club-b-atlanta-1-20260801-135158.jpg"
-   },
-   {
-    "headline": "Delta Air Lines Planning To Leverage AI To Increase Profits By 50%, CEO Says",
-    "summary": "Delta frames governance and pilot programs as safeguards while AI augments back office, maintenance and pricing teams.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-air-lines-leverage-ai-increase-profits-50-percent-ceo/",
-    "day": "2026-08-21",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/shutterstock_2772438269-1.jpg"
-   },
-   {
-    "headline": "JTA Doubles Okinawa – Taipei Flights From Sep 2026",
-    "summary": "Published at 1600PDT / 2300GMT 21AUG26 Japan TransOcean Air (JTA) this week announced service expansion on Okinawa – Taipei Taoyuan route, with the launch of 2nd daily flight from 24SEP26, on board Boeing 737-800.…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260821-nusep26tpe",
-    "day": "2026-08-21",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "SIA Adds Lufthansa Kuala Lumpur Codeshare in NW26",
-    "summary": "Published at 1500PDT / 2200GMT 21AUG26 Singapore Airlines (SIA) at the launch of Northern winter 2026/27 season plans to expand codeshare partnership with Lufthansa, covering the latter’s Frankfurt – Kuala Lumpur route…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260821-sqlhcodeshare",
-    "day": "2026-08-21",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "$800 Or Leave Toddler Behind: American Airlines Charges Mom After Child Turns 2 Mid-Trip",
-    "summary": "A family confronts an $871 surprise when an airline reverses lap seating and insists their toddler buy a seat.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-charges-mom-child-turns-2-mid-trip/",
-    "day": "2026-08-21",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/american_airbus_a321_n145an_bwi_md2-1.jpg"
-   },
-   {
-    "headline": "How Much More Do Widebody Pilots Make Than Narrowbody Pilots In 2026?",
-    "summary": "Widebody pilots can earn $60–$80 more per flight hour than narrowbody peers in 2026, but seniority, guarantees and premium flying can change the gap.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-much-cargo-pilots-make-compared-commercial/",
-    "day": "2026-08-21",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/widebody-pilots-20260810-174907.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "Final Touches: Hollywood Burbank Airport’s Brand New Terminal Debut Remains On Schedule",
+    "summary": "The facility, featuring affectionate nods to Tinseltown, is set to open officially in Mid-October.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/hollywood-burbank-new-terminal-debut-remains-schedule/",
+    "day": "2026-08-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/img_4398-1.jpg"
+   },
+   {
+    "headline": "United Airlines Unveils 2 New Long-Haul Airbus A321XLR Routes: See Flights Now",
+    "summary": "The carrier has confirmed that it'll deploy the narrowbody on these two routes in December. Find out more here!",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-launches-1st-airbus-a321xlr-long-haul-routes-in-4-months/",
+    "day": "2026-08-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/united-airlines-a321xlr-in-amsterdam-mock-up.jpg"
+   },
+   {
+    "headline": "How This New Mega Airport Will Change An Entire Continent",
+    "summary": "This new Ethiopian Airlines hub will change the African aviation market forever.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-new-mega-airport-change-entire-continent/",
+    "day": "2026-08-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/how-this-new-mega-airport-will-change-an-entire-continent.jpg"
+   },
    {
     "headline": "Why United Airlines Is Launching 1st Nonstop Flights To This Tiny European Airport",
     "summary": "The carrier will begin flying to Europe's 169th-busiest airport next year. Find out why.",
@@ -1899,33 +1923,17 @@
     "url": "https://airport-world.com/cork-airport-appoints-an-official-time-partner/?utm_source=rss&utm_medium=rss&utm_campaign=cork-airport-appoints-an-official-time-partner",
     "day": "2026-08-18",
     "img": null
-   },
-   {
-    "headline": "Qantas Launches New 15-Hour Nonstop US Route In Just 4 Months [Map]",
-    "summary": "It is the largest unserved market between Australia & the US. Find out more here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/qantas-launches-this-new-15-hour-nonstop-us-route-in-just-4-months/",
-    "day": "2026-08-18",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/qantas-boeing-787-9.jpg"
-   },
-   {
-    "headline": "On location: Fraport-TAV on showcasing the spirit of Antalya",
-    "summary": "Fraport TAV Antalya Terminal Management General Manager Dr Frank Quante talks about the latest phase of development at one of Europe’s fastest-growing airports, and about bringing the spirit of the region into the…",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/on-location-fraport-tav-on-showcasing-the-spirit-of-antalya/?utm_source=rss&utm_medium=rss&utm_campaign=on-location-fraport-tav-on-showcasing-the-spirit-of-antalya",
-    "day": "2026-08-18",
-    "img": null
-   },
-   {
-    "headline": "Heathrow cargo trial using AI-powered computer vision technology",
-    "summary": "Menzies Aviation has launched a proof-of-concept trial of AI-powered cargo measurement and build-up technology at its cargo operations at London’s Heathrow Airport (LHR), in partnership with computer vision specialist…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/heathrow-cargo-trial-using-ai-powered-computer-vision-technology/?utm_source=rss&utm_medium=rss&utm_campaign=heathrow-cargo-trial-using-ai-powered-computer-vision-technology",
-    "day": "2026-08-18",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "Whisper Aero Flies Electric Glider on Its Quiet Fans",
+    "summary": "Free for nonsubscribers By Hanneke Weitering Aug. 26, 2026, © Leeham News and Analysis/AIN: An experimental glider aircraft equipped with two of Whisper Aero’s eQ250 electric ducted fans has achieved its first flights…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/08/26/whisper-aero-flies-electric-glider-on-its-quiet-fans/",
+    "day": "2026-08-26",
+    "img": null
+   },
    {
     "headline": "Britten-Norman begins ground testing of first Islander built since UK homecoming",
     "summary": "Britten-Norman has begun ground testing the first Islander aircraft that has been built in the UK since returning… The post Britten-Norman begins ground testing of first Islander built since UK homecoming appeared first…",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/four-aircraft-lessors-widebody-fleet/",
     "day": "2026-08-17",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/domination.jpg"
-   },
-   {
-    "headline": "How Much Do Boeing 737 MAX Aircraft Cost In 2026?",
-    "summary": "/how-much-boeing-737-max-costs-2026/",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-much-do-boeing-737-max-aircraft-cost-in-2026/",
-    "day": "2026-08-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/boeing-737-max-1.jpg"
    }
   ],
   "finance": [
@@ -4429,6 +4429,22 @@
   ],
   "policy": [
    {
+    "headline": "Pilot survives as burning Cirrus SR22 descends under parachute",
+    "summary": "A pilot escaped with minor injuries after a Cirrus SR22 caught fire in flight and descended beneath its… The post Pilot survives as burning Cirrus SR22 descends under parachute appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/cirrus-sr22-fire-caps-parachute-brazil",
+    "day": "2026-08-26",
+    "img": "https://www.aerotime.aero/images/2026/08/Screenshot-2026-08-26-at-2.04.17-PM.jpeg"
+   },
+   {
+    "headline": "Nose gear collapses as Sepehran Airlines 737 runs off runway in Iran",
+    "summary": "A Sepehran Airlines Boeing 737-500 veered off a runway after landing at Mashhad International Airport (MHD) in northwest… The post Nose gear collapses as Sepehran Airlines 737 runs off runway in Iran appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/sepehran-airlines-737-runway-excursion-iran",
+    "day": "2026-08-26",
+    "img": "https://www.aerotime.aero/images/2026/08/HQp9EOIbMAAZPvZ-1.jpeg"
+   },
+   {
     "headline": "North Atlantic Travel: A Sea of Red This Summer",
     "summary": "The North Atlantic market, between the US and Europe has traditionally been one of the key air travel markets. Our",
     "source": "AirInsight",
@@ -5371,25 +5387,41 @@
     "url": "https://simpleflying.com/boeing-777x-increased-range/",
     "day": "2026-07-07",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/shutterstock_2768234959_cropped.jpg"
-   },
-   {
-    "headline": "Why The B-52's New Engines Will Make It More Powerful Than Jets Built 40 Years After It",
-    "summary": "One engine swap makes a 1950s bomber more useful than the aircraft designed to replace it.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-b-52-engine-efficient/",
-    "day": "2026-07-07",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/artboard-16_9-3-15.jpg"
-   },
-   {
-    "headline": "DGCA certifies Embraer’s E2 family",
-    "summary": "PR: Directorate General of Civil Aviation (DGCA) has type certified aircraft variants from the Embraer E-Jets family, including E195-E2, E190",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/dgca-certifies-embraers-e2-family/",
-    "day": "2026-07-07",
-    "img": "https://airinsight.com/wp-content/uploads/2019/10/india-flag-a4.jpg"
    }
   ],
   "defense": [
+   {
+    "headline": "Boeing nabs whopping $131 billion F-15 deal",
+    "summary": "The contract covers over a decade of potential work for US and international F-15 fighter jets.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/08/boeing-nabs-whopping-131-billion-f-15-deal/",
+    "day": "2026-08-26",
+    "img": null
+   },
+   {
+    "headline": "Air Force awards $766 million for B-52 radar modernization",
+    "summary": "One contract worth up to $603 million was issued to RTX subsidiary Raytheon, while a second valued at roughly $163 million was issued to B-52 prime contractor Boeing.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/08/air-force-awards-766-million-for-b-52-radar-modernization/",
+    "day": "2026-08-26",
+    "img": null
+   },
+   {
+    "headline": "Bradley Fighting Vehicle Lugging Load Of Swarming Ground Drones Is A Sign Of What’s To Come",
+    "summary": "Bradleys deploying swarms of uncrewed ground vehicles would give the US Army a horde of new options for scouting and attacking. The post Bradley Fighting Vehicle Lugging Load Of Swarming Ground Drones Is A Sign Of…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/land/bradley-fighting-vehicle-lugging-load-of-swarming-ground-drones-is-a-sign-of-whats-to-come",
+    "day": "2026-08-26",
+    "img": "https://www.twz.com/wp-content/uploads/2026/08/bradley-fireant-ugv-swarms-us-army-testing.jpg?quality=85"
+   },
+   {
+    "headline": "J-10 Deal With Bangladesh Takes Shape As China’s Fighter Export Push Grows",
+    "summary": "Bangladesh could be in line to order the export version of the J-10, while mounting evidence points to another potential customer. The post J-10 Deal With Bangladesh Takes Shape As China’s Fighter Export Push Grows…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/air/j-10-deal-with-bangladesh-takes-shape-as-chinas-fighter-export-push-grows",
+    "day": "2026-08-26",
+    "img": "https://www.twz.com/wp-content/uploads/2026/08/J-10CE-export.jpg?quality=85"
+   },
    {
     "headline": "Why The C-17 Globemaster Is Getting A Complete Digital Cockpit Overhaul To Fly Until 2075",
     "summary": "The shift to a Modular Open Systems Architecture in the C-17's cockpit will enable faster upgrades and ensure long-term sustainability.",
@@ -6317,38 +6349,6 @@
     "url": "https://breakingdefense.com/2026/08/us-announces-4-5b-sale-of-four-kc-46a-refueling-aircraft-to-qatar/",
     "day": "2026-08-20",
     "img": null
-   },
-   {
-    "headline": "Turkish Aerospace plans naval version of Hurjet as it eyes expanded NATO exports",
-    "summary": "“We believe HÜRJET has the potential to become not only the trainer aircraft of Türkiye and Spain, but also a training platform for NATO,” CEO Mehmet Demiroglu said.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/08/turkish-aerospace-plans-naval-version-of-hurjet-as-it-eyes-expanded-nato-exports/",
-    "day": "2026-08-20",
-    "img": null
-   },
-   {
-    "headline": "Our Best Look At China’s New Y-15 Turboprop Airlifter",
-    "summary": "The four-engine turboprop is expected to form a key new piece of China’s modernizing military transport fleet. The post Our Best Look At China’s New Y-15 Turboprop Airlifter appeared first on TWZ .",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/our-best-look-at-chinas-new-y-15-turboprop-airlifter",
-    "day": "2026-08-20",
-    "img": "https://www.twz.com/wp-content/uploads/2026/08/China-Aircraft-transport-new.jpg?quality=85"
-   },
-   {
-    "headline": "Wildfire Is General Atomics’ Successor To The MQ-9 Reaper",
-    "summary": "The Wildfire concept has been entered into a new Pentagon competition to find a next generation of medium-altitude, long-endurance ISR and strike drone. The post Wildfire Is General Atomics’ Successor To The MQ-9 Reaper…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/wildfire-is-general-atomics-successor-to-the-mq-9-reaper",
-    "day": "2026-08-20",
-    "img": "https://www.twz.com/wp-content/uploads/2025/04/mq-9-stock.jpg?quality=85"
-   },
-   {
-    "headline": "Trump unveils granite helipad to protect lawn from new Marine One",
-    "summary": "US President Donald Trump led reporters onto the White House South Lawn on August 19, 2026, to show… The post Trump unveils granite helipad to protect lawn from new Marine One appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/trump-granite-helipad-marine-one-damages-lawn",
-    "day": "2026-08-20",
-    "img": "https://www.aerotime.aero/images/2026/08/4944223-e1787229009728.jpg"
    }
   ],
   "others": []
