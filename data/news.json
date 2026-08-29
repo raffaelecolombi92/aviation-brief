@@ -1,7 +1,31 @@
 {
- "generated": "2026-08-28T23:50+00:00",
+ "generated": "2026-08-29T05:14+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Air Canada Removes Montreal – Algiers NS27 Schedule",
+    "summary": "Published at 1900PDT 28AUG26 / 0200GMT 29AUG26 Air Canada during this week’s schedule update removed schedule filing of Montreal – Algiers route, previously scheduled to resume in June 2027. The airline previously lists…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260828-acns27alg",
+    "day": "2026-08-29",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Jetstar Japan Expands Tokyo – Taipei Flights From Dec 2026",
+    "summary": "Published at 1800PDT 28AUG26 / 0100GMT 29AUG26 Jetstar Japan from mid-December 2026 plans to expand service on Tokyo Narita – Taipei Taoyuan route, with overall service increases from 14 to 18 weekly, effective 26DEC26.…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260828-gkdec26nrttpe",
+    "day": "2026-08-29",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "China Eastern Increases Shanghai – Sapporo Flights in NW26",
+    "summary": "Published at 1701PDT 28AUG26 / 0001GMT 29AUG26 China Eastern during Northern winter 2026/27 season plans to increase service to Hokkaido, as the carrier opened reservations for additional Shanghai Pu Dong – Sapporo New…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260828-munw26cts",
+    "day": "2026-08-29",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "United Flight Changes Aircraft & Diverts Twice Flying Los Angeles To New York",
     "summary": "The passengers are still stranded in Cleveland.",
@@ -937,30 +961,6 @@
     "url": "https://www.aeroroutes.com/eng/260825-urnov26kgl",
     "day": "2026-08-25",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Virgin Atlantic NW26 Toronto Service Reductions",
-    "summary": "Published at 1000PDT / 1700GMT 25AUG26 Virgin Atlantic in recent weeks adjusted London Heathrow – Toronto Pearson operations for Northern winter 2026/27 season, operated by 397-seater Airbus A350-1000 aircraft. For the…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260825-vsnw26yyz",
-    "day": "2026-08-25",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Sunclass Airlines NW26 Ilha do Sal Service Changes",
-    "summary": "Published at 0900PDT / 1600GMT 25AUG26 Sunclass Airlines during Northern winter 2026/27 season is adjusting service to Ilha do Sal . The carrier will now operate Gothenburg – Ilha do Sal and Oslo – Ilha do Sal nonstop…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260825-dknw26sid",
-    "day": "2026-08-25",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Stranded In The Azores: Mystery Odor Forces SWISS Boeing 777 Diversion",
-    "summary": "A replacement Triple-Seven is on its way to pick up the stranded passengers.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/swiss-boeing-777-azores-diversion/",
-    "day": "2026-08-25",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/512-swiss-boeing-777-300-teng-wang-_-shutterstock.jpg"
    }
   ],
   "airports": [
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "The 30 Finished Boeing 777-9s Parked In Washington That No Airline Wants To Fly",
+    "summary": "What will happen to these Boeing 777-9s?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/30-unfinshed-boeing-777-9s-parked-washington-no-airline-wants-fly/",
+    "day": "2026-08-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/boeing-777-9s-parked.png"
+   },
+   {
     "headline": "5 Things Ground Crew Do Before Every Departure That Most Passengers Never See",
     "summary": "Every minute an aircraft spends at the gate is part of a carefully planned operation.",
     "source": "Simple Flying",
@@ -2877,14 +2885,6 @@
     "url": "https://runwaygirlnetwork.com/2026/08/ifpl-celebrates-30-years-of-engineering-excellence/",
     "day": "2026-08-18",
     "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/08/IFPL-V.2-1024x420.png"
-   },
-   {
-    "headline": "Why Enginemakers Are Building Their Largest MRO Facilities in India",
-    "summary": "By Jay Menon Subscription Required Aug. 18, 2026, © Leeham News: When former IATA head Willie Walsh assumed charge as chief executive of IndiGo in the first week of August, he inherited the operational epicenter of the…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/08/18/why-enginemakers-are-building-their-largest-mro-facilities-in-india/",
-    "day": "2026-08-18",
-    "img": null
    }
   ],
   "finance": [
