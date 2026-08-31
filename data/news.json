@@ -1,7 +1,15 @@
 {
- "generated": "2026-08-30T23:03+00:00",
+ "generated": "2026-08-31T03:00+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "The Striking Differences Between Business Class & Premium Economy On Ultra-Long-Haul Flights",
+    "summary": "The differences go far beyond price, with business class passengers enjoying more space, better service, and lounge access.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/difference-business-class-premium-economy-on-ultra-long-flights/",
+    "day": "2026-08-31",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/the-striking-differences-between-business-class-premium-economy-on-ultra-long-haul-flights.jpg"
+   },
    {
     "headline": "American Airlines To Pay $200,000 To Former Employee Over Blind Discrimination Lawsuit",
     "summary": "American Airlines will pay $200,000 after an EEOC blindness discrimination lawsuit, while agreeing to workplace and software accessibility changes",
@@ -953,14 +961,6 @@
     "url": "https://www.aeroroutes.com/eng/260826-su4q26pvg",
     "day": "2026-08-26",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "United Airlines Leaves Passengers Outside On Tarmac For 5 Hours After Crew Times Out Mid-Taxi",
-    "summary": "Onboard supply shortages, crew duty limits, and closed CBP facilities led to a nightmare situation on a Wisconsin tarmac.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/united-airlines-leaves-passengers-outside-tarmac-5-hours/",
-    "day": "2026-08-26",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/019-united-airlines-boeing-757-200-michael-derrer-fuchs-gingchen-_-shutterstock.jpg"
    }
   ],
   "airports": [
@@ -5415,6 +5415,22 @@
   ],
   "defense": [
    {
+    "headline": "Israel's Boeing 707 Tanker Era Nears End: The Replacement Aircraft That Hauls Roughly 15% More Fuel",
+    "summary": "Israel's new KC-46A Gideon tankers replace aging Re'ems and provide a modern foundation for long-range airpower.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/israel-boeing-707-tanker-era-near-end-replacement-aircraft-15-percent-more-fuel/",
+    "day": "2026-08-31",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/kc-46-cover-pic.jpg"
+   },
+   {
+    "headline": "Five Design Choices That Explain Why The F-35 And F-22 Handle Threats Completely Differently",
+    "summary": "The F-22 and F-35 share stealth technology, but five key design choices make them very different fighters.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/f35-f22-threat-handling-design-differences/",
+    "day": "2026-08-31",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/the-striking-differences-between-the-f-35-f-22-20260817-172533.jpg"
+   },
+   {
     "headline": "How Lockheed Turned A Wrecked YF-12 And A Test Fuselage Into The Only SR-71C",
     "summary": "The weirdest variant of the Blackbird.",
     "source": "Simple Flying",
@@ -6357,22 +6373,6 @@
     "url": "https://www.aerotime.aero/articles/us-navy-aim-424-malice-missile-250-nm-range",
     "day": "2026-08-24",
     "img": "https://www.aerotime.aero/images/2026/08/An-AIM-424-Malice-long-range-air-to-air-missile-inside-the-weapons-bay-of-a-US-Navy-F-35C-Lightning-II-during-testing-on-August-1-2026.jpg"
-   },
-   {
-    "headline": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran",
-    "summary": "Two U.S. tanker aircraft have left Bulgaria’s Bezmer air base, Bulgaria’s defense minister said, after their deployment in the Balkan country angered Iran.",
-    "source": "Defense News",
-    "url": "https://www.defensenews.com/global/europe/2026/08/24/two-us-tanker-aircraft-leave-bulgaria-a-month-after-deployment-upset-iran/",
-    "day": "2026-08-24",
-    "img": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/GNJEMRCQLJSXA6DVG5ZTGL2EIN.jpg"
-   },
-   {
-    "headline": "Why U-2 Pilots Breathe Pure Oxygen For An Hour Before Flying To 70,000 Feet",
-    "summary": "The intense pre-flight ritual of the Dragon Lady's aircrew.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/u-2-pilots-breathe-pure-oxygen-hour-before-flying-70000-feet/",
-    "day": "2026-08-24",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/u-2-pilots.png"
    }
   ],
   "others": []
