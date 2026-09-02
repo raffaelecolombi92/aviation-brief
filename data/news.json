@@ -1,7 +1,15 @@
 {
- "generated": "2026-09-02T02:27+00:00",
+ "generated": "2026-09-02T07:32+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Starlux Airlines NW26 Denpasar Operations",
+    "summary": "Published at 0000PDT / 0700GMT 02SEP26 Starlux Airlines this week filed additional changes to Taipei Taoyuan – Denpasar route for Northern winter 2026/27 season, as the carrier opened reservations for the 5th weekly…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260902-jxnw26dps",
+    "day": "2026-09-02",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "This Might Be Delta Air Lines' Greatest Asset From Merging With Northwest Airlines",
     "summary": "The SkyTeam founding member inherited quite a lot from the famous merger.",
@@ -953,17 +961,33 @@
     "url": "https://www.aeroroutes.com/eng/260828-brnw26hgh",
     "day": "2026-08-28",
     "img": null
-   },
-   {
-    "headline": "FlyOne Asia Adds Tashkent – Delhi From Nov 2026",
-    "summary": "Published at 0200PDT / 0900GMT 28AUG26 Uzbekistan’s FlyOne Asia in November 2026 plans to launch service to India, as reservations for Tashkent – Delhi route is now available. The airline’s A320 aircraft to operate this…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260828-7qnov26del",
-    "day": "2026-08-28",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "5 Airports Where A Single Runway Closure Can Bring An Area's Operations To A Standstill",
+    "summary": "These five airports handle up to 45 million passengers a year on a single active runway. A closure of any duration shuts everything down.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/single-runway-closure-regional-airport-disruption/",
+    "day": "2026-09-02",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/runways-20260817-173505.jpg"
+   },
+   {
+    "headline": "Commercial Flights Return Today To Venezuela's Main Airport 10 Weeks After Deadly Earthquakes",
+    "summary": "Commercial flights have returned to Caracas, but Venezuela's main airport remains far from fully recovered.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/commercial-flights-venezuela-airport-10-weeks-deadly-earthquakes/",
+    "day": "2026-09-02",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2162185013-1.jpg"
+   },
+   {
+    "headline": "First-half commercial revenue growth outstrips passenger traffic rise at Finland’s airports",
+    "summary": "The commercial growth of +9.2% year-on-year to June outstripped a +6.4% rise in passenger traffic in the period.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/first-half-commercial-revenue-growth-outstrips-passenger-traffic-rise-at-finlands-airports/?utm_source=rss&utm_medium=rss&utm_campaign=first-half-commercial-revenue-growth-outstrips-passenger-traffic-rise-at-finlands-airports",
+    "day": "2026-09-02",
+    "img": null
+   },
    {
     "headline": "United Airlines Cuts 10 Routes From The World's Busiest Airport: See Flights Now",
     "summary": "The routes appear to have been removed temporarily.",
@@ -1899,30 +1923,6 @@
     "url": "https://simpleflying.com/lax-passenger-traffic-revenue-growth-2025/",
     "day": "2026-08-24",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/5x7_jay0721-r2-e036-1-20260811-172507.jpg"
-   },
-   {
-    "headline": "Photos: JetBlue Opens Chic 12,000 Square Foot Boston BlueHouse Lounge",
-    "summary": "Exclusive perks extend to Mosaic 4 members, JetBlue Premier and Mint passengers alongside paid access for lower tiers.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/jetblue-boston-bluehouse-lounge-opening/",
-    "day": "2026-08-24",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/jetblue-bluehouse-boston-the-entry-1.jpg"
-   },
-   {
-    "headline": "Fuel \"Not Available\" For 14+ Hours At Buffalo Airport After Fuel Farm Circuit Failure",
-    "summary": "NOTAM outlined a nearly 14-hour window of no fuel services at the airport.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/buffalo-airport-fuel-not-available-circuit-failure/",
-    "day": "2026-08-24",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/simpleflying-aircraft-livery-1787609828711.jpg"
-   },
-   {
-    "headline": "2 Tourists Seriously Injured By Jetblast At Skiathos' Famous Plane-Spotting Beach",
-    "summary": "Crowds line Skiathos airport perimeter to feel departing jets while hazard signs and barriers are repeatedly ignored.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/2-tourists-injured-jetblast-skiathos-plane-spotting-beach/",
-    "day": "2026-08-24",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/skiathos-international-airport-alexandros-papadiamantis-eurowings-1.jpg"
    }
   ],
   "fleet": [
