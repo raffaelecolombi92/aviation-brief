@@ -1,7 +1,31 @@
 {
- "generated": "2026-09-05T17:04+00:00",
+ "generated": "2026-09-05T19:49+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Delta Air Lines Launches 5 New Nonstop Long-Haul Routes: See Flights Now",
+    "summary": "The airline has targeted some new markets.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/delta-launches-5-new-nonstop-long-haul-routes/",
+    "day": "2026-09-05",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2586506921-1-_cropped.jpg"
+   },
+   {
+    "headline": "5 Things Passengers Never Realize About What Happens During A Massive Cabin Retrofit",
+    "summary": "A cabin retrofit strips an aircraft to its bare structure and rebuilds it from the floor up.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/aircraft-cabin-retrofit-passenger-hidden-process/",
+    "day": "2026-09-05",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/premiumeconomyclassontheretrofittedemiratesboeing777-1-20260811-172703.jpg"
+   },
+   {
+    "headline": "American Airlines Nears 65-Jet Order That Could End Its All-Boeing Widebody Fleet",
+    "summary": "American leadership is considering modern Airbus widebodies in fleet design.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-65-widebody-order-airbus-boeing/",
+    "day": "2026-09-05",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/american-airlines-boeing-777-200.jpg"
+   },
    {
     "headline": "5 Airlines Offering First-Class-Level Sleep But In Business Class",
     "summary": "A closer look at the best ways to sleep in the sky.",
@@ -937,30 +961,6 @@
     "url": "https://www.aeroroutes.com/eng/260902-pcoct26mji",
     "day": "2026-09-02",
     "img": null
-   },
-   {
-    "headline": "Starlux Airlines NW26 Denpasar Operations",
-    "summary": "Published at 0000PDT / 0700GMT 02SEP26 Starlux Airlines this week filed additional changes to Taipei Taoyuan – Denpasar route for Northern winter 2026/27 season, as the carrier opened reservations for the 5th weekly…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260902-jxnw26dps",
-    "day": "2026-09-02",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "This Might Be Delta Air Lines' Greatest Asset From Merging With Northwest Airlines",
-    "summary": "The SkyTeam founding member inherited quite a lot from the famous merger.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-air-lines-greatest-asset-merger-with-northwest-airlines/",
-    "day": "2026-09-02",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/05/this-might-be-delta-air-lines-greatest-asset-from-merging-with-northwest-airlines.jpg"
-   },
-   {
-    "headline": "JetBlue Officially Unveils BlueFirst First Class While Slashing Economy Legroom By 2.3 Inches",
-    "summary": "The new product is expected to be available in the coming months.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/jetblue-unveils-bluefirst-first-class-slashing-economy-legroom-23-inches/",
-    "day": "2026-09-02",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/hieu-oa7nc76tl1i-unsplash-1.jpg"
    }
   ],
   "airports": [
@@ -5463,6 +5463,14 @@
   ],
   "defense": [
    {
+    "headline": "Why The US Air Force Is Betting Its Newest Stealth Fighters On A Hurricane-Flattened Florida Coastline",
+    "summary": "Building up a strategic air base in Hurricane Alley to deploy new stealth jets.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-us-air-force-betting-newest-stealth-fighters-hurricane-flattened-florida-coastline/",
+    "day": "2026-09-05",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/why-the-us-air-force-is-betting-its-newest-stealth-fighters-on-a-hurricane-flattened-florida-coastline-1.jpg"
+   },
+   {
     "headline": "The Air Force Built Digital Twins Of Its B-1s To Keep Them Flying Toward The B-21 Era",
     "summary": "How the USAF is keeping the BONE in the air.",
     "source": "Simple Flying",
@@ -6413,14 +6421,6 @@
     "url": "https://www.airandspaceforces.com/huey-whiskey-joint-base-andrews-helicopter-transition/",
     "day": "2026-08-28",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/08/helicopters-900x600.jpg"
-   },
-   {
-    "headline": "Military uses AV directed-energy system to ‘defeat’ drones at the border",
-    "summary": "The task force did not disclose exactly where the drones were engaged or who was suspected of flying them, but suggested they could have been used for reconnaissance by a drug cartel.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/08/military-uses-av-directed-energy-system-to-defeat-drones-at-the-border/",
-    "day": "2026-08-28",
-    "img": null
    }
   ],
   "others": []
