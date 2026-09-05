@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T19:49+00:00",
+ "generated": "2026-09-05T22:35+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,14 @@
   ],
   "airports": [
    {
+    "headline": "Delta Air Lines Passenger Allegedly Left With Severe Burns After Inflight Coffee Spill",
+    "summary": "The man describes developing immediate blisters and having no onboard first aid after a hot coffee spill on a San Juan-to-New York flight.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/delta-air-lines-passenger-allegedly-left-severe-burns-inflight-coffee-spill/",
+    "day": "2026-09-05",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/dal-a321n-n508da-jfk.jpg"
+   },
+   {
     "headline": "Why Air Canada Is Launching Nonstop Flights To This Tiny European Airport",
     "summary": "The airline is returning to Croatia after several years.",
     "source": "Simple Flying",
@@ -1915,17 +1923,33 @@
     "url": "https://airport-world.com/cyber-criminals-attack-manchester-airport-group/?utm_source=rss&utm_medium=rss&utm_campaign=cyber-criminals-attack-manchester-airport-group",
     "day": "2026-08-27",
     "img": null
-   },
-   {
-    "headline": "Digital first design",
-    "summary": "Sergio Colella, SITA’s president for Europe, considers how Frankfurt Airport’s new Terminal 3 is an example of the type of dynamic, common-use infrastructure airlines want to fit their changing business models. As the…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/digital-first-design/?utm_source=rss&utm_medium=rss&utm_campaign=digital-first-design",
-    "day": "2026-08-27",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "DHL's 1st Converted Boeing 777 Freighter Has Been Delivered & You Can Track It Live",
+    "summary": "DHL just received its first Mammoth-converted 777 freighter. It matches the factory-built 777F at a fraction of the cost.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/dhls-first-converted-777-freighter-has-been-delivered-and-you-can-track-it-live/",
+    "day": "2026-09-05",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/777-freighter.png"
+   },
+   {
+    "headline": "Trump To Fly Overseas On Ex-Qatari Boeing 747-8 With Unconfirmed Security Upgrades",
+    "summary": "A gifted 747-8 heads overseas amid secret plane swaps and unconfirmed countermeasures that leave experts uneasy.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/trump-fly-overseas-ex-qatari-boeing-747-8-unconfirmed-security-upgrades/",
+    "day": "2026-09-05",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/new_air_force_one_stops_at_raf_mildenhall_-9803478-2.jpg"
+   },
+   {
+    "headline": "Why Did This 17-Year-Old ATR 72 Fly Across The World From The Philippines To Canada?",
+    "summary": "From the Philippines to Northern Canada, this ATR 72 traveled the world, even after 17 years of use. Why is an aircraft like this needed?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/atr-72-journey-world-philippines-to-canada/",
+    "day": "2026-09-05",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/17-year-old-atr-72.png"
+   },
    {
     "headline": "89 Years Later, Amelia Earhart's Final Radio Words Remain One Of The Most Haunting Quotes In Aviation History",
     "summary": "The final words of one of aviation's most well-known figures still haunt those who listen to them today. Here is what we know 89 years later.",
@@ -2861,30 +2885,6 @@
     "url": "https://avitrader.com/2026/08/26/noemi-skyhop-eye-india-seaplane-fleet/",
     "day": "2026-08-26",
     "img": null
-   },
-   {
-    "headline": "RECARO unveils next-gen R4 premium seat",
-    "summary": "RECARO Aircraft Seating (RECARO) has introduced the R4, its next-generation premium-class aircraft seat, designed to combine improved ergonomics and passenger comfort with greater flexibility for airlines. The R4…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/08/26/recaro-unveils-next-gen-r4-premium-seat/",
-    "day": "2026-08-26",
-    "img": null
-   },
-   {
-    "headline": "Press Release: RECARO launches R4 next-gen premium class recliner",
-    "summary": "RECARO Aircraft Seating (RECARO), a global leader in premium aircraft seating solutions, is proud to introduce the next generation of premium class seating, the R4. As the successor to the successful PL3530, launched in…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/08/recaro-launches-the-next-generation-of-premium-class-seating-r4/",
-    "day": "2026-08-25",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/08/RECARO-R4-Premium-class-seat-in-blue-with-grey-headrests-1.jpg"
-   },
-   {
-    "headline": "How The 134-Inch GE9X Solves A Noise Problem That Chevrons Used To Handle",
-    "summary": "The Boeing 777X will be exclusively powered by next-generation GE9X turbofans, which lack the iconic chevrons of the Dreamliner.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-134-inch-ge9x-solves-noise-problem-chevrons-used-handle/",
-    "day": "2026-08-25",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/how-the-134-inch-ge9x-solves-a-noise-problem-that-chevrons-used-to-handle.jpg"
    }
   ],
   "finance": [
@@ -5463,6 +5463,30 @@
   ],
   "defense": [
    {
+    "headline": "Why The US Air Force Is Spending Nearly $1 Billion To Rebuild 1 Base For Just 21 F-15EX Jets",
+    "summary": "Purchasing fighter jets and other warplanes, training pilots, building support infrastructure, and maintenance facilities is more expensive.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-usaf-spending-nearly-1-billion-rebuild-base-21-f-15-ex-jets/",
+    "day": "2026-09-05",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/1-billion-to-rebuild.png"
+   },
+   {
+    "headline": "Why This Long-Range Bomber Will Likely Be The 1st Jet Aircraft To Reach 100 Years Of Continuous Flying",
+    "summary": "Upgrades, new engines, and modern radar are keeping the B-52 Stratofortress on track to become the first jet aircraft to reach 100 years in the skies.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/long-range-bomber-100-years-continuous-flying-b-52/",
+    "day": "2026-09-05",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/b-52_stratofortress_340-i-_oruzhei-noi-_e-skadril-i_vzletaet_vo_vremya_uchenii-_-u-s-_air_force_weapons_school_integration-_s_aviabazy-_nellis-_nevada-_2_iyunya_2021_g.jpg"
+   },
+   {
+    "headline": "US Fighters, Drones Strike 3 Iranian Oil Tankers After Iran Fires on Navy Ships",
+    "summary": "The U.S. military struck three Iranian oil tankers on Sept. 5, as the Trump administration and Iran battle for control over the Strait of Hormuz. The post US Fighters, Drones Strike 3 Iranian Oil Tankers After Iran…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/us-strikes-3-iranian-tankers-fighters-and-drones-trump-administration-seeks-higher-economic-costs-iran/",
+    "day": "2026-09-05",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/IMG_0473-1.jpeg"
+   },
+   {
     "headline": "Why The US Air Force Is Betting Its Newest Stealth Fighters On A Hurricane-Flattened Florida Coastline",
     "summary": "Building up a strategic air base in Hurricane Alley to deploy new stealth jets.",
     "source": "Simple Flying",
@@ -6397,30 +6421,6 @@
     "url": "https://www.airandspaceforces.com/f-35-price-rising-new-upgrades-inflation/",
     "day": "2026-08-28",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/08/F-35-closeup-900x600.jpeg"
-   },
-   {
-    "headline": "New Report: Space Force Spent $124M on Commercial Data, Services over Nearly 3 Years",
-    "summary": "The Space Force spent nearly $124 million on commercial space data and services between 2023 and 2025—and a little known interagency working group could help facilitate even more data buys going forward. The post New…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/new-watchdog-report-space-force-commercial-data-spending/",
-    "day": "2026-08-28",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/United_States_Bingham_Canyon_Mine_ICEYE_02_2019-900x600.jpg"
-   },
-   {
-    "headline": "Wilsbach Meets with Top Israeli Military Leaders in Middle East Visit",
-    "summary": "U.S. Air Force Chief of Staff Gen. Kenneth S. Wilsbach visited Israel in recent days as the conflict with Iran hit six months, meeting with the heads of the Israel Defense Forces and the Israeli Air Force. The post…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/wilsbach-meets-top-israeli-military-leaders/",
-    "day": "2026-08-28",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/HQov6i7XkAAJVce-900x600.jpeg"
-   },
-   {
-    "headline": "From Huey to Whiskey: How Andrews Is Starting a ‘Significant’ Helicopter Transition",
-    "summary": "The iconic “whup-whup-whup” of the 1st Helicopter Squadron’s UH-1N Hueys still echoes in the skies of the Washington D.C. area. But on Aug. 27, a new helicopter that first flew half a century after the Huey sat beside…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/huey-whiskey-joint-base-andrews-helicopter-transition/",
-    "day": "2026-08-28",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/helicopters-900x600.jpg"
    }
   ],
   "others": []
