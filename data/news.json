@@ -1,7 +1,23 @@
 {
- "generated": "2026-09-05T02:31+00:00",
+ "generated": "2026-09-05T07:18+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Air Zimbabwe Dec 2026 London Service Increases",
+    "summary": "Published at 2100PDT 04SEP26 / 0400GMT 05SEP26 Air Zimbabwe during Northern winter 2026/27 season plans to increase Harare – London Gatwick service, with the addition of 4th weekly flight, between 07DEC26 – 03JAN27.…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260904-umdec26lgw",
+    "day": "2026-09-05",
+    "img": null
+   },
+   {
+    "headline": "Ethiopian Expands Kilimanjaro / Zanzibar Service in NW26",
+    "summary": "Published at 2000PDT 04SEP26 / 0300GMT 05SEP26 Ethiopian Airlines from late-November 2026 schedules service increase on Addis Ababa – Kilimanjaro – Zanzibar – Addis Ababa route. From 30NOV26, the airline will operate…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260904-etnw26jroznz",
+    "day": "2026-09-05",
+    "img": null
+   },
    {
     "headline": "Why This Airline's New Airbus A350-1000 Headrest Speakers Aren't The Concert-Hall Experience Marketing Suggests",
     "summary": "Headrest speakers are an interesting bit of technology, but they have their problems. Here is what you need to know.",
@@ -945,25 +961,17 @@
     "url": "https://www.aeroroutes.com/eng/260901-3znw26cmb",
     "day": "2026-09-01",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Guess The Destinations: Air Canada Teases 5 New International Routes With $44,000 In Prizes",
-    "summary": "Air Canada teases five new international routes for Summer 2027 with $44,000 in prizes. Here are the clues and most likely destinations.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/air-canada-5-new-international-routes-44000-prizes/",
-    "day": "2026-09-01",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/simpleflying-airbus-a321xlr-air-canada-1788279250226.jpg"
-   },
-   {
-    "headline": "This Airline Has The World’s Most Comfortable Premium Economy Seat In 2026",
-    "summary": "The Dubai-based carrier's premium economy product is relatively new.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/airline-most-comfortable-premium-economy-seat-2026/",
-    "day": "2026-09-01",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/10/this-airline-has-the-world-s-most-comfortable-premium-economy-seat-in-2025.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "Frontier Airlines Confirms Its Final Day At New York JFK After Only 2 Years",
+    "summary": "After brief service at the busiest NYC airport a no-frills airline trims costly routes and bolsters year-round flights from LGA and EWR.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/frontier-airlines-new-york-jfk-exit-date-confirmed/",
+    "day": "2026-09-05",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/frontier-airlines-aircraft-landing-at-tampa-1.jpg"
+   },
    {
     "headline": "Air Canada Launches 14 Nonstop Routes From Vancouver To Asia-Pacific: See Flights Now",
     "summary": "New year round links and three weekly frequencies hint at strategic focus on China and high yield trans-Pacific demand.",
@@ -1915,17 +1923,17 @@
     "url": "https://airport-world.com/retailing-giant-costco-to-open-warehouse-at-brisbane-airport/?utm_source=rss&utm_medium=rss&utm_campaign=retailing-giant-costco-to-open-warehouse-at-brisbane-airport",
     "day": "2026-08-27",
     "img": null
-   },
-   {
-    "headline": "Malaysia Airports issues RFI for potential future advertising partners",
-    "summary": "Malaysia Airports has launched a Request for Information (RFI) to gather industry insights on the future development of its airport advertising estate. Leading global airport media operators, advertising concessionaires…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/malaysia-airports-issues-rfi-for-potential-future-advertising-partners/?utm_source=rss&utm_medium=rss&utm_campaign=malaysia-airports-issues-rfi-for-potential-future-advertising-partners",
-    "day": "2026-08-27",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "This Country's $5 Billion Resort Economy Quietly Depends On A 60-Year-Old Aircraft Design",
+    "summary": "New DHC-6 300-G arrivals promise improved range and payload while preserving the Twin Otter’s rugged seaplane versatility.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/5-billion-dollar-resort-economy-aircraft/",
+    "day": "2026-09-05",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/4-billion-resort-economy.png"
+   },
    {
     "headline": "6 Cabin Designs Made Famous Pioneered By The Original Boeing 747 That Airlines Still Use Today",
     "summary": "Many features we take for granted today.",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/lufthansa-air-france-first-class-privacy/",
     "day": "2026-08-25",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/1-20260811-173933.png"
-   },
-   {
-    "headline": "Traveled Work Remains Nagging Issue on Boeing Wichita 737 Line: Workers",
-    "summary": "Subscription required By Howard Hardee and Scott Hamilton Aug. 24, 2026, © Leeham News: Cutting down on traveled work at Spirit AeroSystems's former facility in Wichita, Kansas is critical for Boeing's efforts to…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/08/25/traveled-work-remains-nagging-issue-on-boeing-wichita-737-line-workers/",
-    "day": "2026-08-25",
-    "img": null
    }
   ],
   "finance": [
