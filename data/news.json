@@ -1,7 +1,15 @@
 {
- "generated": "2026-09-06T12:32+00:00",
+ "generated": "2026-09-06T17:27+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Ramp Agent Struck By Airbus A350 At Montreal Airport, Succumbs To Injuries",
+    "summary": "Tragedy struck at Montreal-Trudeau International Airport on August 24th as a ramp agent was struck by an Airbus A350-900. It’s said that the individual, now deceased, had stumbled during pushback.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/video/ramp-agent-struck-by-airbus-a350-at-montreal-airport-succumbs-to-injuries/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/french-bee-pushback.jpg"
+   },
    {
     "headline": "Why Pilots Fly Final Approach At Exactly 1.3 Times The Stall Speed",
     "summary": "The approach is always a highly critical stage of flight, demanding strict adherence to speeds calculated at 1.3 times the stall speed. But why?",
@@ -953,17 +961,25 @@
     "url": "https://www.aeroroutes.com/eng/260902-lhgnw26de",
     "day": "2026-09-02",
     "img": null
-   },
-   {
-    "headline": "Discover Airlines Adds UK Service in NS27",
-    "summary": "Published at 0200PDT / 0900GMT 02SEP26 Discover Airlines in Northern summer 2027 season plans to launch service to the UK, where it schedules 4 routes, available for booking since last week. Frankfurt – Bristol eff…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260902-4yns27gb",
-    "day": "2026-09-02",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "American Airlines Launches 10 Nonstop Routes From New York-JFK To Europe [List & Map]",
+    "summary": "The airline is adding two new destinations in 2027.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-launches-10-nonstop-routes-from-jfk-to-europe/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/12/aa.png"
+   },
+   {
+    "headline": "5 Global Cargo Airports Spending Billions To More Than Double Capacity By 2030",
+    "summary": "Some cargo airports around the world are expanding to sizes that have never been seen before. Here are 5 that are spending billions on infrastructure.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/5-global-cargo-airports-spending-billions-more-than-double-capacity-2030/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/5-global-cargo-airports-spending-billions-to-more-than-double-capacity-by-2030.jpg"
+   },
    {
     "headline": "Delta Air Lines Slashes 4 More Routes From New York & Las Vegas This Winter",
     "summary": "Domestic links from New York JFK, LaGuardia and Las Vegas will disappear in November and December.",
@@ -1907,25 +1923,25 @@
     "url": "https://simpleflying.com/delta-air-lines-waives-1000-rebooking-fee-son-see-dying-mother-last-time/",
     "day": "2026-08-27",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/delta-air-lines-airbus-a320.jpg"
-   },
-   {
-    "headline": "Zero New Gates: Inside Seattle-Tacoma $2.5 Billion Concourse Rebuild",
-    "summary": "How Seattle is addressing its capacity constraints.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/seattle-tacoma-concourse-rebuild/",
-    "day": "2026-08-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/concourse-rebuild.png"
-   },
-   {
-    "headline": "Delta Air Lines To Bring Back Los Angeles-London Flights By 2029, But Hopes For 2028 Olympics",
-    "summary": "Strategic LAX moves hint at wider Asia expansion and a push for premium corporate traffic around the 2028 Olympics.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-air-lines-bring-back-los-angeles-london-flights-2029-hopes-2028-olympics/",
-    "day": "2026-08-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/delta-airbus-a330-900-salt-lake-city.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Airbus receives H160 order from Japan’s Fire and Disaster Management Agency",
+    "summary": "Airbus has received a H160 helicopter order from Japan’s Fire and Disaster Management Agency (FDMA) to strengthen the… The post Airbus receives H160 order from Japan’s Fire and Disaster Management Agency appeared first…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/airbus-h160-japan-order-helicopter",
+    "day": "2026-09-06",
+    "img": "https://www.aerotime.aero/images/2026/09/Airbus-H160-helicopter.jpg"
+   },
+   {
+    "headline": "Germany’s Isar Aerospace makes launch history in Europe",
+    "summary": "German launch services provider Isar Aerospace has become the first commercial space company to successfully deliver satellites into orbit from western European territory, in a history-making achievement that bolsters…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/09/germanys-isar-aerospace-makes-satellite-launch-history-in-europe/",
+    "day": "2026-09-06",
+    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-11.07.55-AM.jpeg"
+   },
    {
     "headline": "First Flight for IAI A330-300 P2F Conversion",
     "summary": "IAI has completed the first flight of its Airbus A330-300 passenger to freight conversion program. The first Airbus A330-300BDSF, with",
@@ -2869,22 +2885,6 @@
     "url": "https://leehamnews.com/2026/08/26/whisper-aero-flies-electric-glider-on-its-quiet-fans/",
     "day": "2026-08-26",
     "img": null
-   },
-   {
-    "headline": "Britten-Norman begins ground testing of first Islander built since UK homecoming",
-    "summary": "Britten-Norman has begun ground testing the first Islander aircraft that has been built in the UK since returning… The post Britten-Norman begins ground testing of first Islander built since UK homecoming appeared first…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/britten-norman-ground-testing-first-islanderuk",
-    "day": "2026-08-26",
-    "img": "https://www.aerotime.aero/images/2026/08/Britten-Norman-Islander.jpg"
-   },
-   {
-    "headline": "Pontifications: Trending positive for Boeing, but still work to do",
-    "summary": "Aug. 26, 2026, © Leeham News: For nearly 20 years, beginning with the Potemkin-airplane 7-8-07 rollout of the 787, Boeing has stumbled from one miscue after another. The depths to which it bottomed out with the…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/08/26/pontifications-trending-positive-for-boeing-but-still-work-to-do/",
-    "day": "2026-08-26",
-    "img": null
    }
   ],
   "finance": [
@@ -3538,6 +3538,14 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "The NATO phonetic alphabet: What it is and why it matters?",
+    "summary": "The NATO phonetic alphabet, formally known as the International Radiotelephony Spelling Alphabet, assigns a specific word to each letter The post The NATO phonetic alphabet: What it is and why it matters? appeared first…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/09/06/the-nato-phonetic-alphabet-what-it-is-and-why-it-matters/",
+    "day": "2026-09-06",
+    "img": null
+   },
    {
     "headline": "Solairus Aviation, Clay Lacy deal ‘progressing extremely well’",
     "summary": "Over 80% of the Clay Lacy aircraft owners have already committed to making the transition to Solairus as the acquisition moves to closing The post Solairus Aviation, Clay Lacy deal ‘progressing extremely well’ appeared…",
@@ -4489,17 +4497,17 @@
     "url": "https://privatejetcardcomparisons.com/2026/08/05/northern-jet-first-safety-leaderboard-consecutive/",
     "day": "2026-08-05",
     "img": null
-   },
-   {
-    "headline": "Real Jet, Crypto.com link for private jet charter flight payments",
-    "summary": "Users with a Crypto.com account can now select the Crypto.com Pay option at checkout with Real Jet for seamless private jet charter payments The post Real Jet, Crypto.com link for private jet charter flight payments…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/08/05/real-jet-crypto-com-link-for-private-jet-charter-flight-payments/",
-    "day": "2026-08-05",
-    "img": null
    }
   ],
   "policy": [
+   {
+    "headline": "Mount Anak Krakatau eruption grounds flights at eight Indonesian airports",
+    "summary": "The Mount Anak Krakatau eruption and subsequent ash cloud has grounded flights at eight airports with thousands of… The post Mount Anak Krakatau eruption grounds flights at eight Indonesian airports appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/mount-anak-krakatau-eruption-indonesia-airports-closed",
+    "day": "2026-09-06",
+    "img": "https://www.aerotime.aero/images/2026/09/Mount-Anak-Krakatau-eruption.jpg"
+   },
    {
     "headline": "Passengers duct-tape disruptive man to seat as American Airlines flight diverts",
     "summary": "Passengers helped restrain and duct-tape a disruptive man to his first-class seat aboard an American Airlines flight after… The post Passengers duct-tape disruptive man to seat as American Airlines flight diverts…",
@@ -5451,17 +5459,49 @@
     "url": "https://avitrader.com/2026/07/16/easa-unveils-biggest-flight-simulation-overhaul-in-decades/",
     "day": "2026-07-16",
     "img": null
-   },
-   {
-    "headline": "Stelia Aerospace to double premium seat production capacity",
-    "summary": "Stelia Aerospace, the cabin interior brand of Airbus Atlantic, has put the wheels in motion to double its production capacity and bolster employee count to meet soaring demand for premium aircraft seats. Known for its…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/07/stelia-aerospace-to-double-premium-seat-production-capacity/",
-    "day": "2026-07-15",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2023/10/STELIA_Aerospace_RENDEZ-VOUS_220928_22V3MU_03.jpg"
    }
   ],
   "defense": [
+   {
+    "headline": "The US Army Flew The eVTOL Mission Profile In 1958, Then Quietly Walked Away",
+    "summary": "Why Piasecki's flying jeep was six decades ahead of its time.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/us-army-flew-evtol-mission-profile-1958-quietly-walked-away/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/evtol-mission.png"
+   },
+   {
+    "headline": "The US Air Force Just Bought A Stripped-Down Radar To Keep The B-52 Relevant Into The 2040s",
+    "summary": "Budget overruns force the BUFF to cut back.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/usaf-bought-stripped-down-radar-keep-b-52-relevant-2040s/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/b-52-relevant-into-the-2040s.png"
+   },
+   {
+    "headline": "USS Abraham Lincoln leaves Thailand following five-day ‘recharge’ break",
+    "summary": "USS Abraham Lincoln, a Nimitz-class nuclear-powered aircraft carrier, has departed Thailand after arriving for a five-day stay to… The post USS Abraham Lincoln leaves Thailand following five-day ‘recharge’ break…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/uss-abraham-lincoln-aircraft-carrier-leaves-thailand",
+    "day": "2026-09-06",
+    "img": "https://www.aerotime.aero/images/2026/09/USS-Abraham-Lincoln-aircraft-carrier.jpg"
+   },
+   {
+    "headline": "RAF Air Command Officially Renamed to Air & Space Command",
+    "summary": "From Sep. 1, the Royal Air Force’s headquarters is now to be known as Air & Space Command, reflecting the still increasing importance of the space domain to national security and the RAF’s role beyond Earth’s…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/09/06/raf-air-command-officially-renamed-to-air-space-command/",
+    "day": "2026-09-06",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/09/RAFAirSpaceCommand_1.jpg"
+   },
+   {
+    "headline": "First to Mach 2: A Look at the Douglas D-558 Skyrocket",
+    "summary": "Using both turbojet and rocket propulsion, the Douglas D-558 Skystreak and Skyrocket research aircraft set a series of speed and altitude milestones in the years after World War II, culminating in the first flight…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/09/06/douglas-d-558-skyrocket/",
+    "day": "2026-09-06",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/09/D558_1.jpg"
+   },
    {
     "headline": "A Look At The Salaries Of Royal Canadian Air Force Fighter Jet Pilots In 2026 & Why They're Still Not Enough",
     "summary": "Canada may have a small air force compared with its giant USAF counterpart, but it is still struggling to retain enough pilots for the aircraft it has",
@@ -6381,46 +6421,6 @@
     "url": "https://simpleflying.com/60000-hour-math-moving-third-america-b-1b-fleet-england/",
     "day": "2026-08-29",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/b-1b-cover.png"
-   },
-   {
-    "headline": "Russia Changing Missile And Drone Attack Strategy On Ukrainian Capital",
-    "summary": "Ukraine Situation Report: The new strategy prioritizes frequency over amplitude, wearing down the populace and exhausting air defenders. The post Russia Changing Missile And Drone Attack Strategy On Ukrainian Capital…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/news-features/russia-changing-missile-and-drone-attack-strategy-on-ukrainian-captial",
-    "day": "2026-08-29",
-    "img": "https://www.twz.com/wp-content/uploads/2026/08/Russian-Tactic-Change.jpg?quality=85"
-   },
-   {
-    "headline": "The 1970s STOL Prototype Duel The US Air Force Canceled Then Quietly Turned Into The C-17",
-    "summary": "The dead-end that led to an icon of global airlift for the USAF.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/1970s-stol-prototype-duel-usaf-canceled-quietly-turned-into-c-17/",
-    "day": "2026-08-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/1970s-stol-prototype.png"
-   },
-   {
-    "headline": "6 Air Forces Betting On Advanced Fourth-Gen Fighters Instead Of Waiting For 5th-Gen",
-    "summary": "The global air powers opting out of fifth-generation jets.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/air-forces-fourth-gen-fighter-upgrades/",
-    "day": "2026-08-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/how-the-general-dynamics-of-f-16-s-fly-by-wire-system-changed-modern-fighter-jet-design-20260810-165843.jpg"
-   },
-   {
-    "headline": "South Korea launches concept study for sixth-generation fighter",
-    "summary": "South Korea has launched a concept study for a future fighter that could eventually succeed the KF-21 Boramae,… The post South Korea launches concept study for sixth-generation fighter appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/south-korea-sixth-generation-fighter-concept-study",
-    "day": "2026-08-29",
-    "img": "https://www.aerotime.aero/images/2026/08/y7TBozKmlR5VRPih5VyCzHk5Tfqpj8ChhmsDBarxaxG7O-91nZB5ebIZNbDWIVbeIml6utqVliGNURuY_wB3clPAKGMxwHKplFhZ-tMNHTe2tUiaB390UJVcwfOoQhI4dW0Wk-_n87DvTKcTSYok3GKCiDH9_mkvzBSEMqd85FKGe_PLp31daNn5VuSsmpMu-1.jpeg"
-   },
-   {
-    "headline": "South Korea Launches Next Generation Fighter Program",
-    "summary": "The South Korean Defense Acquisition Program Administration (DAPA) has sought detailed industry proposals for a sixth generation jet. South Korea set the ball rolling for its future next-generation jet, with the Defense…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/08/29/south-korea-launches-next-generation-fighter-program/",
-    "day": "2026-08-29",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/08/rokaf-next-gen.jpg"
    }
   ],
   "others": []
