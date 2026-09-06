@@ -1,7 +1,15 @@
 {
- "generated": "2026-09-06T19:53+00:00",
+ "generated": "2026-09-06T22:38+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Delta Honors \"Ridiculously Low\" $17.34 Upgrade To Delta One On 15-Hour Seoul Flight",
+    "summary": "A complicated itinerary somehow led to a cheap upgrade.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/delta-one-17-dollar-upgrade-atlanta-seoul/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2586506921-1-_cropped.jpg"
+   },
    {
     "headline": "Air 21 Boeing 767-300F N1399A operating for Prime Air overruns the runway at Miami International Airport",
     "summary": "Developing story – more details to follow. Here is what we know: On September 6, 2026, at approximately 2:00 PM Eastern Daylight Time, a cargo aircraft operated for Amazon Prime Air suffered a runway overrun upon…",
@@ -953,17 +961,17 @@
     "url": "https://www.aeroroutes.com/eng/260902-dknw26helsid",
     "day": "2026-09-02",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "airBaltic NS27 Removed Routes Summary – 01SEP26",
-    "summary": "Published at 0400PDT / 1100GMT 02SEP26 airBaltic this week filed service changes for Northern summer 2027 season, as the airline removed 18 routes, based on schedule filing comparisons 30AUG26 vs 01SEP26. Riga – Dubai 3…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260902-btns27cxl",
-    "day": "2026-09-02",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "5 Dead After Amazon Prime Air-Branded Boeing 767-300F Overruns Runway In Miami",
+    "summary": "The aircraft, operated by 21 Air, reportedly touched down at a speed faster than normal.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/amazon-prime-air-boeing-767-300f-overruns-runway-miami/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/prime-air-767-mia-1.png"
+   },
    {
     "headline": "American Airlines Launches 10 Nonstop Routes From New York-JFK To Europe [List & Map]",
     "summary": "The airline is adding two new destinations in 2027.",
@@ -1067,6 +1075,14 @@
     "url": "https://simpleflying.com/frontier-airlines-new-york-jfk-exit-date-confirmed/",
     "day": "2026-09-05",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/frontier-airlines-aircraft-landing-at-tampa-1.jpg"
+   },
+   {
+    "headline": "Press Release: Malaysia Airlines resumes direct flights to Fukuoka",
+    "summary": "Malaysia Airlines has marked its return to Fukuoka with the resumption of direct flights from Kuala Lumpur. The reinstated route strengthens the airline’s Japan network, while offering the only direct connection between…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/09/malaysia-airlines-strengthens-direct-flights-fukuoka-kuala-lumpur/",
+    "day": "2026-09-04",
+    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/Malaysia-Airlines-Strengthens-Japan-Connectivity-with-Resumption-of-Direct-Flights-to-Fukuoka.jpg"
    },
    {
     "headline": "Air Canada Launches 14 Nonstop Routes From Vancouver To Asia-Pacific: See Flights Now",
@@ -1907,25 +1923,17 @@
     "url": "https://www.passengerterminaltoday.com/news/security/smiths-detection-ct-software-achieves-tsa-level-2ab-certification.html",
     "day": "2026-08-28",
     "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/07/smiths-e1784542844775.jpg"
-   },
-   {
-    "headline": "TSA axes short-lived Gold+ program",
-    "summary": "The Transportation Security Administration (TSA) said on August 24 that an “evolved” Screening Partnership Program (SPP) will replace the previously announced Gold+ initiative. The Gold+ program was developed to enable…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/security/tsa-axes-short-lived-gold-program.html",
-    "day": "2026-08-28",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/08/TSA-ditches-short-lived-Gold-plus-program.jpg"
-   },
-   {
-    "headline": "Delta Air Lines Waives $1,000 Rebooking Fee To Allow Son To See His Dying Mother For The Last Time",
-    "summary": "Delta waived a $1,000 fare difference, helping a passenger reach his dying mother—and echoing my own experience years earlier.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-air-lines-waives-1000-rebooking-fee-son-see-dying-mother-last-time/",
-    "day": "2026-08-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/delta-air-lines-airbus-a320.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Boeing Missed Break-Even On The 747SP By A Single Airframe Before Killing Production",
+    "summary": "The 747SP reached its magic number five years after production ended",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/boeing-missed-break-even-747sp-single-airframe-killing-production/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/boeing-missed-break-even-on-the-747sp-by-a-single-airframe-before-killing-production.jpg"
+   },
    {
     "headline": "Airbus receives H160 order from Japan’s Fire and Disaster Management Agency",
     "summary": "Airbus has received a H160 helicopter order from Japan’s Fire and Disaster Management Agency (FDMA) to strengthen the… The post Airbus receives H160 order from Japan’s Fire and Disaster Management Agency appeared first…",
@@ -2021,6 +2029,14 @@
     "url": "https://simpleflying.com/boeing-f-47-considered-over-homegrown-6th-gen-fighter/",
     "day": "2026-09-05",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/backtrack-boeing-47.avif"
+   },
+   {
+    "headline": "Press Release: FLY91 places historic order for 40 ATR 72-600 aircraft",
+    "summary": "FLY91 has announced the purchase of 40 ATR 72-600 aircraft for around $1 billion, marking the largest ATR firm order in almost a decade, and the largest ever by a regional airline. Deliveries are scheduled from 2027 to…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/09/press-release-fly91-places-historic-order-for-40-atr-72-600-aircraft/",
+    "day": "2026-09-04",
+    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/ATR-x-FLY91-Event-Images-3-2.jpg"
    },
    {
     "headline": "Why Regional Airlines Are Parking Aircraft & Minting Captains In Just 18 Months",
@@ -2869,22 +2885,6 @@
     "url": "https://simpleflying.com/video/why-airlines-can-t-get-enough-widebody-jets/",
     "day": "2026-08-26",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/62_lh_is-it-true-that-the-world-is-running-short-on-widebody-aircraft_h_site-copy.jpg"
-   },
-   {
-    "headline": "Airbus workers in Spain begin indefinite strike",
-    "summary": "Thousands of Airbus employees in Spain have begun an indefinite strike after workers rejected a company proposal on… The post Airbus workers in Spain begin indefinite strike appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/airbus-workers-spain-indefinite-strike",
-    "day": "2026-08-26",
-    "img": "https://www.aerotime.aero/images/2026/08/airbus.jpeg"
-   },
-   {
-    "headline": "Whisper Aero Flies Electric Glider on Its Quiet Fans",
-    "summary": "Free for nonsubscribers By Hanneke Weitering Aug. 26, 2026, © Leeham News and Analysis/AIN: An experimental glider aircraft equipped with two of Whisper Aero’s eQ250 electric ducted fans has achieved its first flights…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/08/26/whisper-aero-flies-electric-glider-on-its-quiet-fans/",
-    "day": "2026-08-26",
-    "img": null
    }
   ],
   "finance": [
@@ -3538,6 +3538,22 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "Here’s How Much A Private Jet Charter From New York To London Actually Costs In 2026",
+    "summary": "Discover 2026 private jet costs on the New York-London route, aircraft types, pricing drivers, and why demand stays structurally high.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-much-private-jet-charter-new-york-london-costs-in-2026/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/main-image-16_9-20-1-1.jpeg"
+   },
+   {
+    "headline": "Unity Jets in Tommy Paul U.S. Open Tennis sponsorship",
+    "summary": "Private jet charter broker Unity Jets is sponsoring Tommy Paul's coaching box during the U.S. Open Tennis Championships The post Unity Jets in Tommy Paul U.S. Open Tennis sponsorship appeared first on Private Jet Card…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/09/06/unity-jets-in-tommy-paul-u-s-open-tennis-sponsorship/",
+    "day": "2026-09-06",
+    "img": null
+   },
    {
     "headline": "The NATO phonetic alphabet: What it is and why it matters?",
     "summary": "The NATO phonetic alphabet, formally known as the International Radiotelephony Spelling Alphabet, assigns a specific word to each letter The post The NATO phonetic alphabet: What it is and why it matters? appeared first…",
@@ -4479,22 +4495,6 @@
     "summary": "Along with releasing its flight schedule through May 2027, Slate Aviation also announced a 20% off site-wide sale on all seats and flights. The post Slate Aviation starts sitewide 20% off sale through May 2027 appeared…",
     "source": "Private Jet Card Comparisons",
     "url": "https://privatejetcardcomparisons.com/2026/08/05/slate-sitewide-sale-may-2027/",
-    "day": "2026-08-05",
-    "img": null
-   },
-   {
-    "headline": "The 5 Most Expensive Celebrity Private Jets Flying In 2026, Ranked By Price Tag",
-    "summary": "Worth up to several hundreds of millions of dollars, the prices paid by celebrities for their private jets can be hard to fathom.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/most-expensive-celebrity-private-jets-flying-2026-price-tag/",
-    "day": "2026-08-05",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/celebrity-private-jets.jpg"
-   },
-   {
-    "headline": "Northern Jet ranks first on safety leaderboard for two quarters",
-    "summary": "After ranking first on the Naples Airport Fly Safe Fly Quiet Leaderboard for two consecutive quarters, Northern Jet thanked the airport The post Northern Jet ranks first on safety leaderboard for two quarters appeared…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/08/05/northern-jet-first-safety-leaderboard-consecutive/",
     "day": "2026-08-05",
     "img": null
    }
@@ -5463,6 +5463,22 @@
   ],
   "defense": [
    {
+    "headline": "The US Air Force Just Admitted AI Cannot Replace A 2nd Pilot On The B-21 Raider",
+    "summary": "The USAF isn't ready to go all-in on AI with its latest and greatest warbird.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/usaf-admitted-ai-cannot-replace-2nd-pilot-b-21-raider/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/ai-cannot-replace-a-2nd-pilot.png"
+   },
+   {
+    "headline": "Aevum’s Sleek Space Launch Drone Turns Heads at Long Beach Airport",
+    "summary": "After years of little activity, the Ravn X rolled out of a hangar at Long Beach Airport for its very first autonomous taxi tests and caught the attention of local enthusiasts. Designed to launch small payloads into…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/09/06/aevum-ravn-x-long-beach/",
+    "day": "2026-09-06",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/09/AevumRavnX_1.jpg"
+   },
+   {
     "headline": "How A C-130 Letter Change From H To J Forces A Full Guard Wing Overhaul",
     "summary": "With the USAF's active-duty units now transitioned to the Super Hercules, remaining ANG and Reserve units are completing the transition.",
     "source": "Simple Flying",
@@ -6405,22 +6421,6 @@
     "url": "https://www.aerotime.aero/articles/turkeys-supersonic-hurjet-completes-maiden-flight-video",
     "day": "2026-08-30",
     "img": "https://www.aerotime.aero/images/2026/08/Hurjet-advanced-jet-trainer.jpg"
-   },
-   {
-    "headline": "Greece to build €3.1B integrated air defense network with Israel",
-    "summary": "Greece is moving ahead with a €3.1 billion program to build a nationwide air and missile defense network… The post Greece to build €3.1B integrated air defense network with Israel appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/greece-to-build-e3-1b-integrated-air-defense-network-with-israel",
-    "day": "2026-08-30",
-    "img": "https://www.aerotime.aero/images/2026/08/SPYDER-air-defense-launcher.jpg"
-   },
-   {
-    "headline": "Russia turns to imported Jet A-1 as refinery disruptions hit fuel supply",
-    "summary": "Russia has imported around 70,000 tons of Jet A-1 aviation fuel from South Korea and Egypt, with Ukraine’s… The post Russia turns to imported Jet A-1 as refinery disruptions hit fuel supply appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/russia-turns-to-imported-jet-a-1-as-refinery-disruptions-hit-fuel-supply",
-    "day": "2026-08-30",
-    "img": "https://www.aerotime.aero/images/2026/08/Russian-Il-76MD-90A.jpg"
    }
   ],
   "others": []
