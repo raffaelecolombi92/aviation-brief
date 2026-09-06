@@ -1,7 +1,15 @@
 {
- "generated": "2026-09-06T17:27+00:00",
+ "generated": "2026-09-06T19:53+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Air 21 Boeing 767-300F N1399A operating for Prime Air overruns the runway at Miami International Airport",
+    "summary": "Developing story – more details to follow. Here is what we know: On September 6, 2026, at approximately 2:00 PM Eastern Daylight Time, a cargo aircraft operated for Amazon Prime Air suffered a runway overrun upon…",
+    "source": "World Airline News",
+    "url": "https://worldairlinenews.com/2026/09/06/air-21-boeing-767-300f-n1399a-operating-for-prime-air-overruns-the-runway-at-miami-international-airport/",
+    "day": "2026-09-06",
+    "img": "https://worldairlinenews.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-12.31.06-PM.png"
+   },
    {
     "headline": "Ramp Agent Struck By Airbus A350 At Montreal Airport, Succumbs To Injuries",
     "summary": "Tragedy struck at Montreal-Trudeau International Airport on August 24th as a ramp agent was struck by an Airbus A350-900. It’s said that the individual, now deceased, had stumbled during pushback.",
@@ -953,14 +961,6 @@
     "url": "https://www.aeroroutes.com/eng/260902-btns27cxl",
     "day": "2026-09-02",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Lufthansa Group NW26 Germany – Europe Network Changes",
-    "summary": "Published at 0300PDT / 1000GMT 02SEP26 Lufthansa in late-August 2026 filed additional service changes for Europe, which sees certain Lufthansa mainline service being replaced by Air Dolomiti, Discover Airlines and…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260902-lhgnw26de",
-    "day": "2026-09-02",
-    "img": null
    }
   ],
   "airports": [
@@ -4501,6 +4501,14 @@
   ],
   "policy": [
    {
+    "headline": "The 21.5-Inch Business Class Seat That Threatens Collins, Safran & RECARO's Grip On Mid-Size Airlines",
+    "summary": "Unum is providing a staggered alternative to the mainstream reverse herringbone configuration in premium cabins.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/21-5-inch-business-class-seat-threatens-collins-safran-recaro-grip-mid-size-airlines/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/the-21-5-inch-business-class-seat-that-threatens-collins-safran-recaro-s-grip-on-mid-size-airlines.jpg"
+   },
+   {
     "headline": "Mount Anak Krakatau eruption grounds flights at eight Indonesian airports",
     "summary": "The Mount Anak Krakatau eruption and subsequent ash cloud has grounded flights at eight airports with thousands of… The post Mount Anak Krakatau eruption grounds flights at eight Indonesian airports appeared first on…",
     "source": "AeroTime",
@@ -5451,17 +5459,25 @@
     "url": "https://avitrader.com/2026/07/16/avair-buys-full-stop-technics/",
     "day": "2026-07-16",
     "img": null
-   },
-   {
-    "headline": "EASA unveils biggest flight simulation overhaul in decades",
-    "summary": "The European Union Aviation Safety Agency (EASA) has unveiled a sweeping new regulatory framework for Flight Simulation Training Devices (FSTDs), marking the most significant reform of flight simulation qualification in…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/16/easa-unveils-biggest-flight-simulation-overhaul-in-decades/",
-    "day": "2026-07-16",
-    "img": null
    }
   ],
   "defense": [
+   {
+    "headline": "How A C-130 Letter Change From H To J Forces A Full Guard Wing Overhaul",
+    "summary": "With the USAF's active-duty units now transitioned to the Super Hercules, remaining ANG and Reserve units are completing the transition.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-c-130-letter-change-h-j-force-full-guard-wing-overhaul/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/lockheed-c-130-flying.jpg"
+   },
+   {
+    "headline": "Mysterious Black Jet That Emerged At Long Beach Airport Identified",
+    "summary": "With a sleek airframe the size of an A-5 Vigilante, its silhouette drew immediate attention from local aviation photographers who had never seen anything like it there. The post Mysterious Black Jet That Emerged At Long…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/space/mysterious-black-jet-that-emerged-at-long-beach-airport-identified",
+    "day": "2026-09-06",
+    "img": "https://www.twz.com/wp-content/uploads/2026/09/RAVN-X-1-long-beach.jpg?quality=85"
+   },
    {
     "headline": "The US Army Flew The eVTOL Mission Profile In 1958, Then Quietly Walked Away",
     "summary": "Why Piasecki's flying jeep was six decades ahead of its time.",
@@ -6405,22 +6421,6 @@
     "url": "https://www.aerotime.aero/articles/russia-turns-to-imported-jet-a-1-as-refinery-disruptions-hit-fuel-supply",
     "day": "2026-08-30",
     "img": "https://www.aerotime.aero/images/2026/08/Russian-Il-76MD-90A.jpg"
-   },
-   {
-    "headline": "The Gulf War Lesson That Explains Why America's Guam Bomber Base Is So Vulnerable",
-    "summary": "The strategy behind the USAF's choice to not fortify Andersen AFB.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/guam-bomber-base-gulf-war-vulnerability/",
-    "day": "2026-08-30",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/andersen-afb-20260811-173041.jpg"
-   },
-   {
-    "headline": "The $60,000-Per-Hour Math Behind Moving A Third Of America's B-1B Fleet To England",
-    "summary": "Moving one-third of America's B-1B fleet to England cut flight times, reduced costs and transformed Fairford into a key strike hub.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/60000-hour-math-moving-third-america-b-1b-fleet-england/",
-    "day": "2026-08-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/b-1b-cover.png"
    }
   ],
   "others": []
