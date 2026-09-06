@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T02:28+00:00",
+ "generated": "2026-09-06T07:31+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,22 @@
   ],
   "airports": [
    {
+    "headline": "Alaska Airlines Sued For $521,900 After 11 Japanese Paintings Ruined In Honolulu Rainstorm",
+    "summary": "A shipment of fragile paper paintings was left exposed on a Honolulu ramp during torrential rain.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/alaska-airlines-lawsuit-japanese-paintings-honolulu-rain-damage/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/hawaiian-airlines-jet-with-cargo-pallets.jpg"
+   },
+   {
+    "headline": "San Diego Departures Cleared \"At Their Own Risk\" After Drone Grounds 400+ Flights",
+    "summary": "A stratospheric tower and a rogue drone converged over San Diego, scrambling travel plans and testing airport limits.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/san-diego-departures-cleared-own-risk-drone-grounds-400-flights/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/jetblue-landing-in-san-diego-wirestock-creators.jpg"
+   },
+   {
     "headline": "How This Airport Operator Is Worth More Than United Airlines",
     "summary": "Why this Spanish airport operator has a higher valuation than most of the world's largest airlines.",
     "source": "Simple Flying",
@@ -1907,25 +1923,17 @@
     "url": "https://simpleflying.com/petition-rename-nashville-airport-dolly-parton-130000-signatures/",
     "day": "2026-08-27",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/10/bna-aerial-october-2025-1-1.jpg"
-   },
-   {
-    "headline": "Plagued By Real Estate: Delta Air Lines Looks At Opening Houston Sky Club",
-    "summary": "Delta pushes to place a Sky Club at IAH despite United's fortress hub and scarce terminal real estate restricting options.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-air-lines-looks-opening-houston-sky-club/",
-    "day": "2026-08-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/shutterstock_2595834665-2.jpg"
-   },
-   {
-    "headline": "Singapore to host first Passenger Terminal Expo Asia",
-    "summary": "With Asia a key engine of global aviation growth, airport leaders, government officials and technology specialists will gather… The post Singapore to host first Passenger Terminal Expo Asia appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/passenger-terminal-expo-asia-singapore-2026",
-    "day": "2026-08-27",
-    "img": "https://www.aerotime.aero/images/2026/08/Singapore-Marina-Bay.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Why Dassault Is Quietly Ending The Falcon 900LX After 40 Years Of Trijet Dominance",
+    "summary": "The last trijet 900LX may have quietly been delivered in 2025 and now eyes are turned to whether Dassault will develop a new 4X business jet.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-dassault-quietly-ending-falcon-900lx-40-years-trijet-dominance/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/falcon-900lx.png"
+   },
    {
     "headline": "Why Boeing Must Tear Open 30 Finished 777X Jets Before They Can Ever Fly",
     "summary": "Boeing's 777X program has been plagued with delays, forcing the manufacturer to modify 30 completed aircraft before they can be delivered to airlines.",
@@ -2877,14 +2885,6 @@
     "url": "https://leehamnews.com/2026/08/26/airbus-once-boasted-of-more-widebody-sales-than-boeing-now-it-is-a-distant-second/",
     "day": "2026-08-26",
     "img": null
-   },
-   {
-    "headline": "Why Do Airlines Fly Some Of Their Largest Aircraft On The Shortest Routes?",
-    "summary": "From a 12-minute flight to a short hop to help train pilots, here are some of the shortest widebody routes in the world and why they exist.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-airlines-fly-some-largest-aircraft-shortest-routes/",
-    "day": "2026-08-26",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/why-do-airlines-fly-some-of-their-largest-aircraft-on-the-shortest-routes.jpg"
    }
   ],
   "finance": [
@@ -5463,6 +5463,14 @@
   ],
   "defense": [
    {
+    "headline": "5 Coast Guard Air Stations With The Biggest Search & Rescue Responsibilities",
+    "summary": "A closer look at some of the biggest 'Coastie' air bases.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/coast-guard-air-stations-rescue-roles/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/coast-guard-air-stations.png"
+   },
+   {
     "headline": "Air Tanker Meets Flying ICU In The RAF's Airbus Voyager",
     "summary": "From aerial refueling to aeromedical evacuation, the RAF's Voyager provides critical support for British and coalition airpower.",
     "source": "Simple Flying",
@@ -6413,14 +6421,6 @@
     "url": "https://simpleflying.com/how-saab-650-engineer-team-outflanked-europe-fcas-consortium-cheaper-combat-drone/",
     "day": "2026-08-29",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/saab-s-650-engineer-team.png"
-   },
-   {
-    "headline": "Q&A: The Future of Air Force Cyber Systems and Warfighter Comms",
-    "summary": "Just over a year ago, in July 2025, the Air Force established a dedicated office on the Air Staff for communications/cyber functions, separate from the intelligence directorate it had long been attached to. Brig. Gen.…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/q-and-a-future-air-force-cyber-systems-warfighter-comms/",
-    "day": "2026-08-28",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/250724-F-SQ068-1086-900x600.jpeg"
    }
   ],
   "others": []
