@@ -1,7 +1,15 @@
 {
- "generated": "2026-09-07T02:25+00:00",
+ "generated": "2026-09-07T07:48+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Update: EVA Air Maintains A330 Kaohsiung – Macau Service in NW26",
+    "summary": "Published at 0000PDT / 0700GMT 07SEP26 AeroRoutes on 03-04SEP26 published the update of EVA Air’s planned service changes on Kaohsiung – Macau route, where the airline schedules 7 weekly flights instead of 5, from…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260907-brnw26khhmfm",
+    "day": "2026-09-07",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "Delta Honors \"Ridiculously Low\" $17.34 Upgrade To Delta One On 15-Hour Seoul Flight",
     "summary": "A complicated itinerary somehow led to a cheap upgrade.",
@@ -953,17 +961,25 @@
     "url": "https://www.aeroroutes.com/eng/260902-u54vns27rmo",
     "day": "2026-09-02",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Sunclass Airlines NW26 Helsinki – Ilha do Sal Routing Changes",
-    "summary": "Published at 0500PDT / 1200GMT 02SEP26 Sunclass Airlines during Northern winter 2026/27 season schedules service changes between Helsinki and Ilha do Sal, as the airline schedules nonstop Helsinki – Ilha do Sal…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260902-dknw26helsid",
-    "day": "2026-09-02",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "United Airlines Won't Fly To Dubai Again Until March 2027 At The Earliest",
+    "summary": "The scheduled return to the UAE's mega-hub slides to the right.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-airlines-newark-dubai-route-march-2027/",
+    "day": "2026-09-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/united-airlines-boeing-787-dreamliner.jpg"
+   },
+   {
+    "headline": "Cleaning goes high-tech",
+    "summary": "Joe Bates shines the spotlight on Queen Alia International Airport’s Smart Cleaning System and the state-of-the-art robotic technology taking airport cleaning to the next level. As Airport Service Quality (ASQ) customer…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/cleaning-goes-high-tech/?utm_source=rss&utm_medium=rss&utm_campaign=cleaning-goes-high-tech",
+    "day": "2026-09-07",
+    "img": null
+   },
    {
     "headline": "Why Delta Air Lines Chose Atlanta Over New York-JFK To Anchor Its New Middle East Strategy",
     "summary": "The story behind a rocky start to DAL's new Gulf strategy.",
@@ -1907,25 +1923,25 @@
     "url": "https://moodiedavittreport.com/capsuletransit-adds-technology-led-sleep-lounge-to-kuala-lumpur-airport-hospitality-offering/?utm_source=rss&utm_medium=rss&utm_campaign=capsuletransit-adds-technology-led-sleep-lounge-to-kuala-lumpur-airport-hospitality-offering",
     "day": "2026-08-28",
     "img": null
-   },
-   {
-    "headline": "Beyond accessibility: Closing the retail gap for underserved travellers",
-    "summary": "The UK Government’s recent Aviation Bill vowed to improve access to air travel for disabled people. While this is a welcome step, accessibility shouldn’t end with ensuring someone can physically get from check-in to…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/beyond-accessibility-closing-the-retail-gap-for-under-serviced-travellers/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-accessibility-closing-the-retail-gap-for-under-serviced-travellers",
-    "day": "2026-08-28",
-    "img": null
-   },
-   {
-    "headline": "AAHK releases its Sustainability Report 2025/26",
-    "summary": "Airport Authority Hong Kong (AAHK) today released its Sustainability Report 2025/26, outlining the sustainability performance of Hong Kong International Airport (HKIA) in the fiscal year ending March 31, 2026. It notes…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/aahk-releases-its-sustainability-report-2025-26/?utm_source=rss&utm_medium=rss&utm_campaign=aahk-releases-its-sustainability-report-2025-26",
-    "day": "2026-08-28",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "How Cabin Crew Rest & Sleep On The Boeing 747-8",
+    "summary": "A closer look at the rest areas available to crew members on one of the world's largest passenger aircraft.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/cabin-crew-rest-sleep-on-the-boeing-747-8/",
+    "day": "2026-09-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/boeing_747-8_-14035493952.jpg"
+   },
+   {
+    "headline": "Why Airlines Keep Paying 30% More For The Airbus A220 Over Embraer's E195-E2",
+    "summary": "Even though the E195-E2 is a smaller, shorter-range airliner, its market value is surprisingly close to that of the Airbus A220-300.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airlines-keep-paying-30-percent-more-airbus-a220-embraer-e195-e2/",
+    "day": "2026-09-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/why-airlines-keep-paying-30-more-for-the-airbus-a220-over-embraer-s-e195-e2.jpg"
+   },
    {
     "headline": "Why Airbus' Target Of 12 A350s Per Month By 2028 Is Now In Serious Doubt",
     "summary": "Integration challenges from Spirit Aerosystems site acquisition are causing delays.",
@@ -2867,22 +2883,6 @@
     "summary": "Subscription Required By Bjorn Fehrm and Scott Hamilton Aug. 27, 2026, © Leeham News: Following the collapse of its joint venture with Boeing in April 2020, Embraer Group faced a major challenge in reintegrating Embraer…",
     "source": "Leeham News",
     "url": "https://leehamnews.com/2026/08/27/turning-point-part-3-embraer-through-covid-until-2023/",
-    "day": "2026-08-27",
-    "img": null
-   },
-   {
-    "headline": "Islander enters ground tests ahead of September first flight",
-    "summary": "Britten-Norman’s latest Islander has entered its ground test programme, putting the aircraft on course for a first flight in September and eventual delivery to the Falkland Islands Government Air Service (FIGAS). The…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/08/27/islander-enters-ground-tests-ahead-of-september-first-flight/",
-    "day": "2026-08-27",
-    "img": null
-   },
-   {
-    "headline": "Second A320 acquisition boosts Werner Aero’s parts drive",
-    "summary": "Werner Aero has acquired an Airbus A320-200 airframe, MSN 2964, which is currently located at the eCube facility in St Athan, Wales, where it will be dismantled for spare parts. The acquisition marks Werner Aero’s…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/08/27/second-a320-acquisition-boosts-werner-aeros-parts-drive/",
     "day": "2026-08-27",
     "img": null
    }
@@ -5463,6 +5463,14 @@
   ],
   "defense": [
    {
+    "headline": "RAF completes operation on remote Arctic island with US and Norwegian allies",
+    "summary": "The British Royal Air Force (RAF) has taken part in a demonstration on a remote Arctic island alongside… The post RAF completes operation on remote Arctic island with US and Norwegian allies appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/raf-completes-operation-on-remote-arctic-island-with-us-and-norwegian-allies",
+    "day": "2026-09-07",
+    "img": "https://www.aerotime.aero/images/2026/09/A400-of-the-RAF-Air-Mobility-Force.jpg"
+   },
+   {
     "headline": "Why The US Air Force Runs A Cold War-Scale C-17 Air Bridge From 1 Base In Germany",
     "summary": "The never-ending mission that keeps Air Force jets in the air over the Atlantic.",
     "source": "Simple Flying",
@@ -6413,14 +6421,6 @@
     "url": "https://simpleflying.com/f35-f22-threat-handling-design-differences/",
     "day": "2026-08-31",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/the-striking-differences-between-the-f-35-f-22-20260817-172533.jpg"
-   },
-   {
-    "headline": "How Lockheed Turned A Wrecked YF-12 And A Test Fuselage Into The Only SR-71C",
-    "summary": "The weirdest variant of the Blackbird.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/lockheed-blackbird-built-2-wrecks-flew-crooked-entire-career/",
-    "day": "2026-08-30",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/the-lockheed-blackbird-built-from-2-wrecks-that-flew-crooked-for-its-entire-career.jpg"
    }
   ],
   "others": []
