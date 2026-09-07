@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T22:38+00:00",
+ "generated": "2026-09-07T02:25+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,14 @@
   ],
   "airports": [
    {
+    "headline": "Why Delta Air Lines Chose Atlanta Over New York-JFK To Anchor Its New Middle East Strategy",
+    "summary": "The story behind a rocky start to DAL's new Gulf strategy.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-delta-air-lines-chose-atlanta-over-new-york-jfk-anchor-new-middle-east-strategy/",
+    "day": "2026-09-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/middle-east-strategy.png"
+   },
+   {
     "headline": "5 Dead After Amazon Prime Air-Branded Boeing 767-300F Overruns Runway In Miami",
     "summary": "The aircraft, operated by 21 Air, reportedly touched down at a speed faster than normal.",
     "source": "Simple Flying",
@@ -1915,17 +1923,17 @@
     "url": "https://airport-world.com/aahk-releases-its-sustainability-report-2025-26/?utm_source=rss&utm_medium=rss&utm_campaign=aahk-releases-its-sustainability-report-2025-26",
     "day": "2026-08-28",
     "img": null
-   },
-   {
-    "headline": "Smiths Detection CT software achieves TSA Level 2AB certification",
-    "summary": "Smiths Detection has achieved Transportation Security Administration (TSA) Level 2AB certification for its prohibited item (PI) detection software, intended for use at airport security checkpoints in the United States.…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/security/smiths-detection-ct-software-achieves-tsa-level-2ab-certification.html",
-    "day": "2026-08-28",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/07/smiths-e1784542844775.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Why Airbus' Target Of 12 A350s Per Month By 2028 Is Now In Serious Doubt",
+    "summary": "Integration challenges from Spirit Aerosystems site acquisition are causing delays.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-target-12-a350s-month-2028-serious-doubt/",
+    "day": "2026-09-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/airbus-target-of-12-a350s.png"
+   },
    {
     "headline": "Boeing Missed Break-Even On The 747SP By A Single Airframe Before Killing Production",
     "summary": "The 747SP reached its magic number five years after production ended",
@@ -2877,14 +2885,6 @@
     "url": "https://avitrader.com/2026/08/27/second-a320-acquisition-boosts-werner-aeros-parts-drive/",
     "day": "2026-08-27",
     "img": null
-   },
-   {
-    "headline": "Why Airlines Can’t Get Enough Widebody Jets",
-    "summary": "In this video, we take a look at why the world appears to be running short on widebody aircraft, what's causing the shortage, how Boeing's 777X delays have made the situation even worse, and why airlines may have to…",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/video/why-airlines-can-t-get-enough-widebody-jets/",
-    "day": "2026-08-26",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/62_lh_is-it-true-that-the-world-is-running-short-on-widebody-aircraft_h_site-copy.jpg"
    }
   ],
   "finance": [
@@ -5463,6 +5463,22 @@
   ],
   "defense": [
    {
+    "headline": "Why The US Air Force Runs A Cold War-Scale C-17 Air Bridge From 1 Base In Germany",
+    "summary": "The never-ending mission that keeps Air Force jets in the air over the Atlantic.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-usaf-cold-war-scale-c-17-air-bridge-1-base-germany/",
+    "day": "2026-09-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/why-the-us-air-force-runs-a-cold-war-scale-c-17-air-bridge-from-1-base-in-germany.jpg"
+   },
+   {
+    "headline": "The Pacific Air Bases Where The US Air Force Is Deploying Its Newest Fighters Right Now",
+    "summary": "The US is currently updating the fighter jets stationed in Japan, while various airstrips are being upgraded to support non-permanent operations.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/pacific-air-bases-where-usaf-deploying-newest-fighters/",
+    "day": "2026-09-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/f-15-fighter-jets.png"
+   },
+   {
     "headline": "The US Air Force Just Admitted AI Cannot Replace A 2nd Pilot On The B-21 Raider",
     "summary": "The USAF isn't ready to go all-in on AI with its latest and greatest warbird.",
     "source": "Simple Flying",
@@ -6405,22 +6421,6 @@
     "url": "https://simpleflying.com/lockheed-blackbird-built-2-wrecks-flew-crooked-entire-career/",
     "day": "2026-08-30",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/the-lockheed-blackbird-built-from-2-wrecks-that-flew-crooked-for-its-entire-career.jpg"
-   },
-   {
-    "headline": "Uzbekistan Unveils its Chinese J-10CE Fighters",
-    "summary": "Weeks after the first photographs emerged, Uzbek J-10CE fighters have now been officially shown on national television. Uzbekistan’s acquisition of the Chinese J-10CE fighter jets was finally confirmed on Aug. 28, 2026…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/08/30/uzbekistan-unveils-its-chinese-j-10ce-fighters/",
-    "day": "2026-08-30",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/08/Uzbekistan-J-10-China-1-.png"
-   },
-   {
-    "headline": "Turkey’s supersonic Hürjet completes maiden flight: video",
-    "summary": "The first production Hürjet advanced jet trainer built for the Turkish Air Force has completed its maiden flight,… The post Turkey’s supersonic Hürjet completes maiden flight: video appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/turkeys-supersonic-hurjet-completes-maiden-flight-video",
-    "day": "2026-08-30",
-    "img": "https://www.aerotime.aero/images/2026/08/Hurjet-advanced-jet-trainer.jpg"
    }
   ],
   "others": []
