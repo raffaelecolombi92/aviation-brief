@@ -1,7 +1,39 @@
 {
- "generated": "2026-09-10T20:42+00:00",
+ "generated": "2026-09-10T22:54+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "US Senators Urge Delta Air Lines To Remain Neutral On Flight Attendant Union",
+    "summary": "Senators press Delta CEO to stay hands off as flight attendants allege managerial pushback over organizing efforts.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/us-senators-delta-air-lines-remain-neutral-flight-attendant-union/",
+    "day": "2026-09-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2754405543-1.jpg"
+   },
+   {
+    "headline": "United cancels Denver 9/11 flyover after community concerns",
+    "summary": "United Airlines has canceled a planned Boeing 777 flyover with F-16 fighter escorts in Denver after community concerns… The post United cancels Denver 9/11 flyover after community concerns appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/united-cancels-denver-911-memorial-flyover",
+    "day": "2026-09-10",
+    "img": "https://www.aerotime.aero/images/United-Airlines-Boeing-777-landing-at-Frankfurt-Airport-FRA.jpg"
+   },
+   {
+    "headline": "Air Cairo Expands NW26 Istanbul Network",
+    "summary": "Published at 1500PDT / 2200GMT 10SEP26 Air Cairo during Northern winter 2026/27 season plans to expand service to Türkiye, with the launch of Hurghada – Istanbul and Sharm el Sheikh – Istanbul route. Hurghada – Istanbul…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260910-smnw26ist",
+    "day": "2026-09-10",
+    "img": null
+   },
+   {
+    "headline": "Air Cairo Adds El Dabaa (El Alamein) – Moscow Service From Sep 2026",
+    "summary": "Published at 1400PDT / 2100GMT 10SEP26 Air Cairo this week launched new route to Russia, which saw the inaugural of El Dabaa (El Alamein) – Moscow Sheremetyevo route on 09SEP26. This route is operated by Airbus A320neo…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260910-smsep26svo",
+    "day": "2026-09-10",
+    "img": null
+   },
    {
     "headline": "American Airlines Ends Partnership With Hyatt, Leading To New Agreement With Delta Air Lines",
     "summary": "The partnership will end when the contract term ends in November, but existing members have a short grace period.",
@@ -929,41 +961,17 @@
     "url": "https://www.aeroroutes.com/eng/260907-g9nw26lgw",
     "day": "2026-09-07",
     "img": null
-   },
-   {
-    "headline": "Vueling Moves 737 MAX 8 Service Entry to Jan 2027",
-    "summary": "Published at 1200PDT / 1900GMT 07SEP26 Vueling in recent schedule update revised planned Boeing 737 MAX 8-200 service entry. Initially scheduled from 18DEC26, service entry is now scheduled on 06JAN27. For the remainder…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260907-vyjan277m8",
-    "day": "2026-09-07",
-    "img": null
-   },
-   {
-    "headline": "Boeing’s Deal to Lose: American’s Widebody Decision",
-    "summary": "Reports state American Airlines’ widebody decision has narrowed to two aircraft: the Airbus A330-900neo and the Boeing 787-10, to replace",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/boeings-deal-to-lose-americans-widebody-decision/",
-    "day": "2026-09-07",
-    "img": "https://airinsight.com/wp-content/uploads/2026/04/American-Airlines-aircraft-fuselage.jpg"
-   },
-   {
-    "headline": "Etihad Expands NS27 Palma de Mallorca Service",
-    "summary": "Published at 1100PDT / 1800GMT 07SEP26 Etihad in recent schedule update plans to expand seasonal service on Abu Dhabi – Palma de Mallorca route in 2027, as seasonal service now scheduled from 16MAY27, instead of…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260907-eyns27pmi",
-    "day": "2026-09-07",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Etihad Revises 194-seater A321LR Service Entry in 2027",
-    "summary": "Published at 1000PDT / 1700GMT 07SEP26 Etihad Airways in last week’s schedule update filed first revision to its planned 3-class 194-seater Airbus A321LR operations, with configuration of F2J6Y186. Service entry is now…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260907-eyjan2732q",
-    "day": "2026-09-07",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "Delta Air Lines Boeing 757-200 Returns To New York-JFK Due To Pressurization Issues",
+    "summary": "Delta's latest Boeing 757 pressurization incident comes as the airline gradually replaces its nearly 30-year-old fleet.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/delta-air-lines-boeing-757-200-return-jfk-pressurization-issues/",
+    "day": "2026-09-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/delta-757-200-with-tug-1.jpg"
+   },
    {
     "headline": "United Airlines’ CEO Credits His Card Counting & Gambling Skill For Being Banned From Casinos",
     "summary": "United's CEO honed blackjack techniques in Atlantic City and Las Vegas until casinos flagged his play and barred him.",
@@ -1915,17 +1923,33 @@
     "url": "https://www.passengerterminaltoday.com/news/security/cbp-brings-passenger-screening-program-to-bermuda.html",
     "day": "2026-09-03",
     "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/09/CBP-brings-passenger-screening-program-to-Bermuda.jpg-e1788358088998.jpeg"
-   },
-   {
-    "headline": "Honolulu To Baltimore: Southwest Unveils First 4 Airport Lounges, At Least 11 Planned",
-    "summary": "The next era at SWA comes with new landside perks.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/southwest-airlines-first-airport-lounges-austin-baltimore-honolulu-nashville/",
-    "day": "2026-09-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/a-southwest-airlines-boeing-737-700-arriving-at-san-jose-international-airport.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Alaska Airlines Is Fighting Delta's 180-Jet Widebody Fleet With Just 7 Boeing 787-9s",
+    "summary": "A closer look at why Alaska Airlines' widebody fleet doesn't need to be large to seriously change Delta's intercontinental network at Seattle.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/alaska-airlines-fighting-delta-180-widebody-jet-fleet-7-boeing-787-9s/",
+    "day": "2026-09-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/delta-s-180-jet-widebody-fleet.png"
+   },
+   {
+    "headline": "The A321XLR’s 2027 Transatlantic Land Grab",
+    "summary": "The Airbus A321XLR continues to attract attention. Although the cabin reaction has been mixed, airline planning is a longer game. Airlines are committed to the aircraft and plan to use it extensively across the North…",
+    "source": "AirInsight",
+    "url": "https://airinsight.com/the-a321xlrs-2027-transatlantic-land-grab/",
+    "day": "2026-09-10",
+    "img": "https://airinsight.com/wp-content/uploads/2025/12/American-Airlines-Airbus-A321XLR-landing.png"
+   },
+   {
+    "headline": "Researchers test magnetic navigation to protect aircraft from GPS jamming",
+    "summary": "GPS jamming and spoofing pose a growing threat to aviation by blocking satellite signals or feeding aircraft false… The post Researchers test magnetic navigation to protect aircraft from GPS jamming appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/magnetic-navigation-aircraft-gps-jamming",
+    "day": "2026-09-10",
+    "img": "https://www.aerotime.aero/images/2026/09/Recently-Saved-1-of-1-2.jpeg"
+   },
    {
     "headline": "How Many Miles Per Gallon Does A Boeing 747-8 Get?",
     "summary": "The newest version of the jumbo jet gets through a lot of fuel, but its high capacity means that the consumption is spread across more passengers.",
@@ -2859,30 +2883,6 @@
     "summary": "JCB Aero, part of the AMAC Aerospace Group, has expanded its MRO capabilities after securing a new Part 145 approval covering Boeing aircraft. Based in Auch, near Toulouse, Frace, JCB Aero began its MRO operations in…",
     "source": "AviTrader",
     "url": "https://avitrader.com/2026/09/03/jcb-aero-achieves-boeing-part-145-certification/",
-    "day": "2026-09-03",
-    "img": null
-   },
-   {
-    "headline": "StandardAero opens Winnipeg facility expansion",
-    "summary": "StandardAero has opened a 70,000 ft² extension to its Winnipeg facility, increasing MRO and component repair capacity for airline and military operators worldwide. The expanded site supports GE Aerospace CF34-3/8 and…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/09/03/standardaero-opens-winnipeg-facility-expansion/",
-    "day": "2026-09-03",
-    "img": null
-   },
-   {
-    "headline": "Embraer celebrates delivery of its 2,000th E-Jet",
-    "summary": "Embraer has celebrated the delivery of its 2,000th E-Jet, marking a major achievement for the company. The milestone aircraft, an E195-E2, was handed over to Azul Linhas Aéreas, Brazil’s largest airline by number of…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/09/03/embraer-celebrates-delivery-of-its-2000th-e-jet/",
-    "day": "2026-09-03",
-    "img": null
-   },
-   {
-    "headline": "AnimaWings selects SAMCO for Airbus A220 maintenance",
-    "summary": "AnimaWings has selected SAMCO Aircraft Maintenance (SAMCO), as the base maintenance provider for its Airbus A220 fleet. The newly signed agreement further strengthens the companies’ existing relationship and builds on…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/09/03/animawings-selects-samco-for-airbus-a220-maintenance/",
     "day": "2026-09-03",
     "img": null
    }
@@ -5471,6 +5471,14 @@
   ],
   "defense": [
    {
+    "headline": "The US Air Force's Plan To Fly The C-17 Until 2075 While Its Replacement Exists Only On Paper",
+    "summary": "Why the USAF is working to sustain its C-17 fleet and possibly restart production, even as it looks to develop the NGAL replacement.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/usaf-plan-fly-c-17-2075-replacement-exists-paper/",
+    "day": "2026-09-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/boeing-c-17-globlemaster-iii.png"
+   },
+   {
     "headline": "5 Forgotten Pacific Airfields From History That Are Quietly Returning To Frontline US Air Force Service In 2026",
     "summary": "The revitalization campaign to restore America's chain of Pacific air bases.",
     "source": "Simple Flying",
@@ -6421,14 +6429,6 @@
     "url": "https://theaircurrent.com/defense/pentagon-pacific-fuel-strategy-island-hopping-warfare/",
     "day": "2026-09-03",
     "img": "https://theaircurrent.com/wp-content/uploads/2026/09/Cover-3.jpg"
-   },
-   {
-    "headline": "US Navy seeks carrier combat drones carrying up to 10,000 pounds",
-    "summary": "The US Navy is asking defense companies to propose autonomous combat aircraft capable of launching from aircraft carriers,… The post US Navy seeks carrier combat drones carrying up to 10,000 pounds appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/us-navy-carrier-combat-drones-10000-pound-payload",
-    "day": "2026-09-03",
-    "img": "https://www.aerotime.aero/images/2026/09/1000w_q95.jpeg"
    }
   ],
   "others": []
