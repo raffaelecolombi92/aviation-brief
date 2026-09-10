@@ -1,7 +1,23 @@
 {
- "generated": "2026-09-10T02:40+00:00",
+ "generated": "2026-09-10T07:47+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "China Airlines Maintains Kaohsiung – Chongqing in NW26",
+    "summary": "Published at 0000PDT / 0700GMT 10SEP26 China Airlines this week filed schedule update to its planned Chongqing service during Northern winter 2026/27 season. The Skyteam member will continue to operate Kaohsiung –…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260910-cinw26ckg",
+    "day": "2026-09-10",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Centrum Air Confirms Tashkent – Hyderabad late-Sep 2026 Launch",
+    "summary": "Published at 2000PDT 09SEP26 / 0300GMT 10SEP26 Uzbekistan’s Centrum Air from late-September 2026 plans to launch Tashkent – Hyderabad route, initially scheduled to commence on 30MAR26. The airline would operate 2 weekly…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260909-c6sep26hyd",
+    "day": "2026-09-10",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "A Look At The Salaries Of UK Airline Pilots In 2026",
     "summary": "Pilot salaries in the UK vary widely by airline and experience, with earnings ranging from modest starting pay to six-figure Captain salaries.",
@@ -945,25 +961,25 @@
     "url": "https://worldairlinenews.com/2026/09/05/afcom-cargo-signs-loi-for-four-boeing-777-8-freighters/",
     "day": "2026-09-05",
     "img": "https://worldairlinenews.com/wp-content/uploads/2026/09/Screenshot-2026-09-05-at-8.27.18-AM.png"
-   },
-   {
-    "headline": "The Airlines With The World’s Most Superior Economy Class Seats In 2026",
-    "summary": "All of five airlines that we will cover are based in Asia, and two of them are Japanese.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/airlines-superior-economy-class-seats/",
-    "day": "2026-09-05",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/12/the-airlines-with-the-world-s-superior-economy-class-seats-in-2025.jpg"
-   },
-   {
-    "headline": "US Airlines Will No Longer Owe You Meals Or Hotels For 10 'Uncontrollable' Delays",
-    "summary": "A DOT rule recategorizes ten types of delays, including unscheduled maintenance and unruly passengers.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/us-airlines-no-longer-owe-meals-hotels-uncontrollable-delays/",
-    "day": "2026-09-05",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/735-american-airlines-boeing-737-800-robin-guess-_-shutterstock.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "United Airlines Cancels Boeing 777 9/11 Flyover Timed For UA175 Moment Of Impact",
+    "summary": "The airline's plan for a commemorative flyover falls through.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-airlines-cancels-boeing-777-9-11-flyover-denver/",
+    "day": "2026-09-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/united-777-on-the-tarmac-at-den.jpg"
+   },
+   {
+    "headline": "Rent review",
+    "summary": "With upward-only rent reviews to be abolished in parts of the UK, Sam Folley and Natasha Saunders from international law firm Trowers & Hamlins consider how airports can protect their revenues. Buried within the newly…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/rent-review/?utm_source=rss&utm_medium=rss&utm_campaign=rent-review",
+    "day": "2026-09-10",
+    "img": null
+   },
    {
     "headline": "Why Qantas Is Quietly Building Its Newest Pacific Hub In Auckland, Not Sydney",
     "summary": "The circumstances that are favoring a larger operation in Auckland.",
@@ -1907,25 +1923,17 @@
     "url": "https://airport-world.com/copenhagen-airport-set-for-another-record-breaking-year/?utm_source=rss&utm_medium=rss&utm_campaign=copenhagen-airport-set-for-another-record-breaking-year",
     "day": "2026-09-02",
     "img": null
-   },
-   {
-    "headline": "5 Airports Where A Single Runway Closure Can Bring An Area's Operations To A Standstill",
-    "summary": "These five airports handle up to 45 million passengers a year on a single active runway. A closure of any duration shuts everything down.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/single-runway-closure-regional-airport-disruption/",
-    "day": "2026-09-02",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/runways-20260817-173505.jpg"
-   },
-   {
-    "headline": "Commercial Flights Return Today To Venezuela's Main Airport 10 Weeks After Deadly Earthquakes",
-    "summary": "Commercial flights have returned to Caracas, but Venezuela's main airport remains far from fully recovered.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/commercial-flights-venezuela-airport-10-weeks-deadly-earthquakes/",
-    "day": "2026-09-02",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2162185013-1.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Squawk 7700: The Emergencies We Tracked In A Week",
+    "summary": "We tracked five squawk 7700 flights on the Simple Flying Flight Tracker in a week. They ranged from a cabin depressurization to galley steam.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/squawk-7700-emergencies-tracked-week/",
+    "day": "2026-09-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/the-emergencies.png"
+   },
    {
     "headline": "Boeing’s Spirit AeroSystems takeover proving costlier than expected",
     "summary": "Boeing’s takeover of Spirit AeroSystems, a major supplier that builds 737 fuselages and large sections of other Boeing… The post Boeing’s Spirit AeroSystems takeover proving costlier than expected appeared first on…",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/what-pilots-do-between-cruise-touchdown-choreograph-perfect-landing/",
     "day": "2026-09-01",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/choreograph.png"
-   },
-   {
-    "headline": "New Engine Oil Designed Not To Smell Could Hide Toxic Fumes From Crew, Union Warns",
-    "summary": "Industry data and conference debates highlight fume incidents and push for probes into oils that mask telltale smells.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/engine-oil-designed-not-to-smell-toxic-fumes-cabin-crew/",
-    "day": "2026-09-01",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/aircraft-jet-engine-outside-on-the-apron.jpg"
    }
   ],
   "finance": [
@@ -5463,6 +5463,22 @@
   ],
   "defense": [
    {
+    "headline": "Iranian missile strike reportedly damages USAF A-10 and F-15Es in Jordan",
+    "summary": "Multiple US Air Force aircraft were damaged in an Iranian ballistic missile attack on Muwaffaq Salti Air Base… The post Iranian missile strike reportedly damages USAF A-10 and F-15Es in Jordan appeared first on AeroTime…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/iranian-missile-strike-reportedly-damages-us-a-10-and-f-15es-in-jordan",
+    "day": "2026-09-10",
+    "img": "https://www.aerotime.aero/images/2026/09/A-USAF-F-15E-Strike-Eagle-from-Muwaffaq-Salti-Air-Base-Jordan-configured-for-counter-drone-operations.jpg"
+   },
+   {
+    "headline": "Iran Damages US A-10, F-15s with Missile Attack on Air Base in Jordan",
+    "summary": "An Iranian ballistic missile attack on a key U.S. air base in Jordan damaged multiple U.S. warplanes, people familiar with the matter confirmed to Air & Space Forces Magazine. The post Iran Damages US A-10, F-15s with…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/iran-damages-a-10-f-15s-with-missile-attack-on-air-base-in-jordan/",
+    "day": "2026-09-10",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/9908677-900x600.jpg"
+   },
+   {
     "headline": "General Atomics Offers First Glimpse of Wildfire Drone, Eyed as MQ-9 Successor",
     "summary": "General Atomics has unveiled the first renderings of its Wildfire drone, which it plans to pitch for the Air Force’s hunt for a new, low-cost Massed Modular Aircraft. The post General Atomics Offers First Glimpse of…",
     "source": "Air & Space Forces Mag",
@@ -6405,22 +6421,6 @@
     "url": "https://www.airandspaceforces.com/doubling-of-f-15ex-fleet-comes-with-risks-for-usaf-to-manage-new-pentagon-report/",
     "day": "2026-09-02",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/09/F-15EX-landing-at-Kadena-900x600.jpeg"
-   },
-   {
-    "headline": "Missile Shortage Has Now Hit Ukrainian F-16 Force",
-    "summary": "The shortage is so acute that the air force frantically tracks incoming missile shipments and waits to see whether they arrive before Russia’s next aerial barrage. The post Missile Shortage Has Now Hit Ukrainian F-16…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/missile-shortage-has-now-hit-ukrainian-f-16-force",
-    "day": "2026-09-02",
-    "img": "https://www.twz.com/wp-content/uploads/2026/09/UKRAINE-F-16.jpg?quality=85"
-   },
-   {
-    "headline": "Iranian Oil Tankers In The Cross Hairs Of New U.S. Campaign",
-    "summary": "At least two Iranian oil tankers were struck by the U.S. as part of Trump's new tanker-for-a-tanker policy. The post Iranian Oil Tankers In The Cross Hairs Of New U.S. Campaign appeared first on TWZ .",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/news-features/iranian-oil-tankers-in-the-cross-hairs-of-new-u-s-campaign",
-    "day": "2026-09-02",
-    "img": "https://www.twz.com/wp-content/uploads/2026/09/Tanker-Attack-CENTCOM.jpg?quality=85"
    }
   ],
   "others": []
