@@ -1,7 +1,23 @@
 {
- "generated": "2026-09-11T02:34+00:00",
+ "generated": "2026-09-11T07:41+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Frontier Adds Orlando – Colombia Service From Dec 2026",
+    "summary": "Published at 0000PDT / 0700GMT 11SEP26 Frontier Airlines in December 2026 plans to launch service to Colombia, the airline announced yesterday (10SEP26). The airline will offer service to Bogota, Cartagena and Medellin…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260911-f9nw26co",
+    "day": "2026-09-11",
+    "img": null
+   },
+   {
+    "headline": "Batik Air Malaysia 1Q27 Osaka Service Increases",
+    "summary": "Published at 2000PDT 10SEP26 / 0300GMT 11SEP26 Batik Air Malaysia in the first quarter of 2027 plans to increase Kuala Lumpur – Osaka Kansai flights, where the airline lists 4th weekly flight from 06FEB27. The…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260910-od1q27kix",
+    "day": "2026-09-11",
+    "img": null
+   },
    {
     "headline": "Xiamen Airlines Closes NW26 Middle East Reservations",
     "summary": "Published at 1900PDT 10SEP26 / 0200GMT 11SEP26 Xiamen Airlines since August 2026 filed additional changes to its Middle East operations for Northern winter 2026/27 season. Beijing Daxing – Doha Reservations closed for…",
@@ -945,25 +961,17 @@
     "url": "https://runwaygirlnetwork.com/2026/09/cathay-pacific-and-google-partner-to-research-and-trial-ai-powered-contrail-avoidance/",
     "day": "2026-09-07",
     "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/A7V0503.jpg"
-   },
-   {
-    "headline": "American Is Changing One Narrowbody Strategy, And Premium Seats Are Jumping From 25% To 40%",
-    "summary": "Here's why American is investing in additional premium seating and an improved passenger experience.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-narrowbody-premium-seat-expansion/",
-    "day": "2026-09-07",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/081826-premium-seatback-ife-thumb-20260825-155328.jpg"
-   },
-   {
-    "headline": "Nearly Two Decades Later, 'We're Gonna Be In The Hudson' Remains One Of Modern Aviation's Most Famous Radio Calls",
-    "summary": "Bird strikes have tripled since Sully landed in the Hudson in 2009. The FAA recorded a record 24,447 in 2025 despite $400 million in prevention.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/us-airways-1549-hudson-famous-radio-call/",
-    "day": "2026-09-07",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/famous-radio-calls.png"
    }
   ],
   "airports": [
+   {
+    "headline": "Strong airside sales maintain Zurich Airport commercial momentum in August",
+    "summary": "The rise in airside sales outstripped +4.5% passenger traffic growth in the eight-month period.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/strong-airside-sales-maintain-zurich-airport-commercial-momentum-in-august/?utm_source=rss&utm_medium=rss&utm_campaign=strong-airside-sales-maintain-zurich-airport-commercial-momentum-in-august",
+    "day": "2026-09-11",
+    "img": null
+   },
    {
     "headline": "Delta Air Lines Boeing 757-200 Returns To New York-JFK Due To Pressurization Issues",
     "summary": "Delta's latest Boeing 757 pressurization incident comes as the airline gradually replaces its nearly 30-year-old fleet.",
@@ -1915,17 +1923,17 @@
     "url": "https://www.passengerterminaltoday.com/news/operations-news/heathrow-expansion-projected-to-generate-over-108000-jobs-across-uk.html",
     "day": "2026-09-03",
     "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/09/heathrow_third_runway_ed608-e1788420644898.jpeg"
-   },
-   {
-    "headline": "CBP brings passenger screening program to Bermuda",
-    "summary": "US Customs and Border Protection (CBP) has introduced its Enhanced Passenger Processing (EPP) program at Bermuda’s L F Wade International Airport. The process is designed to improve security and streamline the…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/security/cbp-brings-passenger-screening-program-to-bermuda.html",
-    "day": "2026-09-03",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/09/CBP-brings-passenger-screening-program-to-Bermuda.jpg-e1788358088998.jpeg"
    }
   ],
   "fleet": [
+   {
+    "headline": "‘We don’t see eVTOLs as our competitors’: Horizon CEO sets sights on true rival",
+    "summary": "Horizon Aircraft CEO Brandon Robinson knows a few things about fast aircraft having flown CF-18 Hornet fighters in… The post ‘We don’t see eVTOLs as our competitors’: Horizon CEO sets sights on true rival appeared first…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/horizon-aircraft-brandon-robbinson-helicopter-evtol",
+    "day": "2026-09-11",
+    "img": "https://www.aerotime.aero/images/2026/09/Horizon-Aircraft-CEO-Brandon-Robinson.jpg"
+   },
    {
     "headline": "The Boeing 777X's Folding Wingtips: Why No Other Airliner Has Ever Had This",
     "summary": "Folding wingtips are not something that has been commonplace in aviation, so why has Boeing now decided to go all in on the technology?",
@@ -2877,14 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/embraer-delivers-2000th-ejet-azul-brazil",
     "day": "2026-09-03",
     "img": "https://www.aerotime.aero/images/2026/09/Embraer-E175-E2-Azul.jpg"
-   },
-   {
-    "headline": "JCB Aero receives Boeing Part 145 maintenance approval",
-    "summary": "JCB Aero has announced the extension of its Maintenance, Repair and Overhaul (MRO) capabilities following the receipt of… The post JCB Aero receives Boeing Part 145 maintenance approval appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/jcb-aero-receives-boeing-part-145-maintenance-approval",
-    "day": "2026-09-03",
-    "img": "https://www.aerotime.aero/images/2026/09/JCB-Aero.jpg"
    }
   ],
   "finance": [
@@ -5471,6 +5471,14 @@
   ],
   "defense": [
    {
+    "headline": "AETC Launches Blueprint with AI Training for All Airmen",
+    "summary": "Strategic guidance from the command in charge of Air Force training lays out a plan to train all Airmen in artificial intelligence and build “Digital Airmen” across the force’s training and education enterprise. The…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/aetc-blueprint-ai-training-all-airmen/",
+    "day": "2026-09-11",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/virtual-class-900x600.jpg"
+   },
+   {
     "headline": "Why The US Air Force Relied On A Single Texas C-130 Wing For The Entire Pacific's Valiant Shield 2026",
     "summary": "The vital mission of Airmen on far-flung islands across the Pacific.",
     "source": "Simple Flying",
@@ -6421,14 +6429,6 @@
     "url": "https://simpleflying.com/why-air-national-guard-first-new-f-15ex/",
     "day": "2026-09-04",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/f-15ex-eagle-card-customers-singapore-20260824-194513.jpg"
-   },
-   {
-    "headline": "Last EC-130H Makes Its Final Flight Ahead of Retirement",
-    "summary": "The last EC-130H Compass Call in the Air Force’s active inventory made its final flight Sept. 2, as the service prepares to retire the venerable electronic warfare aircraft and pivot to the new EA-37B. The post Last…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/last-ec-130h-makes-its-final-flight-ahead-of-retirement/",
-    "day": "2026-09-04",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/9834470-900x600.jpg"
    }
   ],
   "others": []
