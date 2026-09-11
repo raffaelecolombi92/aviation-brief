@@ -1,7 +1,95 @@
 {
- "generated": "2026-09-11T13:10+00:00",
+ "generated": "2026-09-11T18:07+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Southwest Airlines Flight Attendant Who Died On Hawaii Layover Honored As Body Returns Home",
+    "summary": "The flight was welcomed by a water cannon salute.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/southwest-airlines-flight-attendant-died-hawaii-layover-honored-body-returns-home/",
+    "day": "2026-09-11",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2821353923_cropped.jpg"
+   },
+   {
+    "headline": "Air Canada Launches 14 New Nonstop Routes To Europe: See Full List & Map Now",
+    "summary": "New narrowbodies are allowing the carrier to increase its portfolio of secondary transatlantic destinations.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/air-canada-new-routes-europe/",
+    "day": "2026-09-11",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/air-canada-boeing-787-9-mock-up.jpg"
+   },
+   {
+    "headline": "Qatar Airways expands Winter network to over 170 destinations, adds new routes",
+    "summary": "Qatar Airways has announced a major expansion of its global network, reaching more than 170 destinations during the… The post Qatar Airways expands Winter network to over 170 destinations, adds new routes appeared first…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/qatar-airways-expands-winter-network-to-over-170-destinations-adds-new-routes",
+    "day": "2026-09-11",
+    "img": "https://www.aerotime.aero/images/2026/09/Untitled-design-73.jpg"
+   },
+   {
+    "headline": "Emirates brings Premium Economy to Paris, completing French route rollout",
+    "summary": "Emirates has announced that it will deploy its retrofitted Airbus A380 on the Dubai-Paris route starting October 25,… The post Emirates brings Premium Economy to Paris, completing French route rollout appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/emirates-brings-premium-economy-to-paris-completing-french-route-rollout",
+    "day": "2026-09-11",
+    "img": "https://www.aerotime.aero/images/2026/09/Untitled-design-72.jpg"
+   },
+   {
+    "headline": "Statement from American Airlines on 25th anniversary of 9/11",
+    "summary": "American Airlines announced: We remember and mourn those who were lost in the tragic events of 9/11, including 23 members of the American Airlines family. Our airline, industry, country and world were forever changed.…",
+    "source": "World Airline News",
+    "url": "https://worldairlinenews.com/2026/09/11/statement-from-american-airlines-on-25th-anniversary-of-9-11/",
+    "day": "2026-09-11",
+    "img": null
+   },
+   {
+    "headline": "Vietravel Airlines signs a LOI for 50 Airbus aircraft",
+    "summary": "In Vietnam, leisure carrier Vietravel Airlines signed a major Letter of Intent with Airbus on September 10, 2026, outlining its intention to purchase 50 new narrowbody airliners to power a fleet transformation. The…",
+    "source": "World Airline News",
+    "url": "https://worldairlinenews.com/2026/09/11/vietravel-airlines-signs-a-loi-for-50-airbus-aircraft/",
+    "day": "2026-09-11",
+    "img": null
+   },
+   {
+    "headline": "Arkia Schedules Manila late-Dec 2026 Launch",
+    "summary": "Published at 1100PDT / 1800GMT 11SEP26 Arkia – Israeli Airlines during Northern winter 2026/27 season plans to launch service to The Philippines, with 1 weekly Tel Aviv – Manila scheduled from 21DEC26. Airbus A330-200…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260911-iznw26mnl",
+    "day": "2026-09-11",
+    "img": null
+   },
+   {
+    "headline": "Israir Schedules New York mid-Sep 2026 Launch",
+    "summary": "Published at 1000PDT / 1700GMT 11SEP26 Israir from mid-September 2026 plans to launch service to the US, where the airline schedules Tel Aviv – New York JFK inaugural on 16SEP26, on board Airbus A330-200 aircraft.…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260911-6hsep26jfk",
+    "day": "2026-09-11",
+    "img": null
+   },
+   {
+    "headline": "Air Saint-Pierre Extra St. John’s NFLD Service in 4Q26",
+    "summary": "Published at 0900PDT / 1600GMT 11SEP26 Air Saint-Pierre in the fourth quarter of 2026 schedules addition service on Saint-Pierre – St. John’s NFLD route, with the addition of 3rd weekly flight on Fridays. Additional…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260911-pj4q26yyt",
+    "day": "2026-09-11",
+    "img": null
+   },
+   {
+    "headline": "SalamAir Expands Salalah Network in NW26",
+    "summary": "Published at 0800PDT / 1500GMT 11SEP26 SalamAir at the launch of Northern winter 2026/27 season plans to launch 3 routes at Salalah , reflecting the airline’s announcement in late-August 2026. Salalah – Calicut eff…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260911-ovnw26sll",
+    "day": "2026-09-11",
+    "img": null
+   },
+   {
+    "headline": "Turkish Airlines Permanently Removes 11 destinations into 2027",
+    "summary": "Published at 0700PDT / 1400GMT 11SEP26 Turkish Airlines in recent weeks gradually adjusted operation schedules, up to this week. The Star Alliance member earlier this year cancelled service to selected destinations…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260911-tkyr2627",
+    "day": "2026-09-11",
+    "img": null
+   },
    {
     "headline": "Virgin Atlantic Sells 2 Boeing 787-9s To LOT Polish Airlines, Focuses On New A330neos",
     "summary": "Virgin Atlantic has taken the next step in reducing its Dreamliner fleet, handing over two of its Boeing 787-9s to LOT Polish Airlines. The UK carrier is working to bring its 787 fleet down from 17 to 14 jets. LOT's…",
@@ -747,6 +835,14 @@
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    },
    {
+    "headline": "Paris Premier Lounge marks pinnacle of Eurostar experience",
+    "summary": "Eurostar, one of Europe’s leading international rail operators, runs an effective monopoly on trains between London, Paris, and Brussels, posing stiff competition to airlines thanks to its speed and convenience — and…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/09/paris-premier-lounge-marks-pinnacle-of-eurostar-experience/",
+    "day": "2026-09-08",
+    "img": null
+   },
+   {
     "headline": "Airbus Wins AIRCAIRO Narrowbody Order With Deal For 15 A320neo Jets",
     "summary": "Ownership shift signals deeper investment in network expansion and tourism as fleet scales toward 130 aircraft by 2034.",
     "source": "Simple Flying",
@@ -865,105 +961,49 @@
     "url": "https://www.aerotime.aero/articles/japan-airlines-to-be-an-official-supplier-for-2026-asian-games-in-aichi-nagoya",
     "day": "2026-09-08",
     "img": "https://www.aerotime.aero/images/2026/09/Untitled-design-66.jpg"
-   },
-   {
-    "headline": "Aeromexico NS27 Europe Network Additions",
-    "summary": "Published at 1100PDT / 1800GMT 08SEP26 Aeromexico last week filed operational schedule for its planned European network expansion in Northern summer 2027 season, with the launch of 2 routes. Guadalajara – Paris Charles…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260908-amns27eu",
-    "day": "2026-09-08",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Pegasus Begins AirAsia X Asia Codeshare From Sep 2026",
-    "summary": "Published at 1000PDT / 1700GMT 08SEP26 AirAsia X and Pegasus Airlines last week launched codeshare partnership, with AirAsia’s D7-coded flight numbers appearing on selected Pegasus Airlines service. The codeshare…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260908-pcd7codeshare",
-    "day": "2026-09-08",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Aeroitalia Begins Tripoli Mitiga From Sep 2026",
-    "summary": "Published at 0900PDT / 1600GMT 08SEP26 Aeroitalia this past weekend launched service to Libya, where the airline schedules service to Tripoli Mitiga , from both Milan Bergamo and Rome Fiumicino. Milan Bergamo – Tripoli…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260908-xzsep26mji",
-    "day": "2026-09-08",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Air Cairo Adds Brussels Service From Dec 2026",
-    "summary": "Published at 0800PDT / 1500GMT 08SEP26 Air Cairo from mid-December 2026 plans to launch service to Brussels, connecting 2 cities in Egypt on board Airbus A320 aircraft. Cairo – Brussels eff 18DEC26 2 weekly A320 SM619…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260908-smdec26bru",
-    "day": "2026-09-08",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Iberia NW26 London Gatwick Service Changes",
-    "summary": "Published at 0700PDT / 1400GMT 08SEP26 Iberia during Northern winter 2026/27 season is adjusting service on Madrid – London Gatwick route, where the 2 daily flights will be operated by Iberia mainline from 25OCT26…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260908-ibnw26lgw",
-    "day": "2026-09-08",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Vintage Livery On Modern Routes: Track FedEx's Retro Boeing 777-200 'Rosie'",
-    "summary": "The cargo carrier is one of several airlines to operate aircraft with retro liveries.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/fedex-boeing-777-vintage-livery/",
-    "day": "2026-09-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/img_0392.jpg"
-   },
-   {
-    "headline": "Within 50 Feet: 2 Airlink E-Jets Only Just Clear Cape Town Stadium In Viral Flyover",
-    "summary": "Two Airlink Embraer E-Jets performed a risky low-level flyover of Cape Town's DHL Stadium in late-August ahead of a rugby match between South Africa and New Zealand. The maneuver was broadcast live on television and…",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/video/within-50-feet-2-airlink-e-jets-only-just-clear-cape-town-stadium-in-viral-flyover/",
-    "day": "2026-09-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/airlink-flyover.jpg"
-   },
-   {
-    "headline": "It's Official: Breeze Retires Last E190, Moving To An All-Airbus A220 Fleet",
-    "summary": "A new era for the Utah-based airline.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/breeze-airways-all-airbus-a220-fleet/",
-    "day": "2026-09-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/copy-of-33-breeze-airways-airbus-a220-semrah-odobasic-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Inside United's New Airbus A321XLR: What Passengers Can Actually Expect",
-    "summary": "The Star Alliance carrier recently revealed more details about its upcoming Airbus A321XLRs.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/united-airbus-a321xlr-passenger-cabin-experience/",
-    "day": "2026-09-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/p-20260818-125359.jpeg"
-   },
-   {
-    "headline": "The 20-Cent Hourly Pay Gap That Could Quietly Decide Which Legacy Airline Pilots Choose In 2026",
-    "summary": "Per diem rates are unique at each airline.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/20-cent-hourly-pay-gap-pilots-airlines/",
-    "day": "2026-09-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/untitled-design-25-20260824-192222.jpg"
-   },
-   {
-    "headline": "SWISS plans to donate its last A340-300 to Switzerland’s transport museum",
-    "summary": "SWISS and the Swiss Museum of Transport are working together to preserve one of the airline’s last Airbus… The post SWISS plans to donate its last A340-300 to Switzerland’s transport museum appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/swiss-plans-to-donate-its-last-a340-300-to-switzerlands-transport-museum",
-    "day": "2026-09-08",
-    "img": "https://www.aerotime.aero/images/2026/09/Untitled-design-65.jpg"
-   },
-   {
-    "headline": "Xiamen Airlines NW26 Xiamen – Paris Aircraft Changes",
-    "summary": "Published at 0600PDT / 1300GMT 08SEP26 Xiamen Airlines during Northern winter 2026/27 season schedules aircraft changes on Xiamen – Paris Charles de Gaulle route, reflected in recent schedule update. From 28NOV26 to…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260908-mfnw26cdg",
-    "day": "2026-09-08",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "Emirates Wins Major Germany Breakthrough After 22-Year Berlin Push",
+    "summary": "After 22 years of lobbying, Emirates can finally add Berlin as its fifth German gateway with daily flights possible.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/emirates-wins-major-germany-breakthrough-22-year-berlin-push/",
+    "day": "2026-09-11",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/emirates_777_1920x1080.jpg"
+   },
+   {
+    "headline": "25 Years After 9/11: How The TSA Has Evolved",
+    "summary": "A quarter of a century after the US's worst terror attack, security in the country's aviation sector has changed considerably.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/25-years-after-911-how-the-tsa-has-evolved/",
+    "day": "2026-09-11",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/transportation_security_administration_checkpoint_at_john_glenn_columbus_international_airport_cropped.jpg"
+   },
+   {
+    "headline": "Wella Professionals brings F1 Academy energy to Madrid Airport with Avolta",
+    "summary": "Wella Professionals is bringing beauty and motorsport together at Madrid Airport Terminal 4 with Avolta through an experiential F1 Academy activation centred on product discovery and traveller engagement.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/wella-professionals-brings-f1-academy-energy-to-madrid-airport-with-avolta/?utm_source=rss&utm_medium=rss&utm_campaign=wella-professionals-brings-f1-academy-energy-to-madrid-airport-with-avolta",
+    "day": "2026-09-11",
+    "img": null
+   },
+   {
+    "headline": "Boston Logan deploys Amelia AI hologram for passenger wayfinding",
+    "summary": "Boston Logan International Airport has introduced Amelia, a life-size AI avatar concierge designed to guide passengers through the terminal using natural conversation and real-time directions. The pilot service…",
+    "source": "Passenger Terminal Today",
+    "url": "https://www.passengerterminaltoday.com/news/wayfinding/boston-logan-deploys-amelia-ai-hologram-for-passenger-wayfinding.html",
+    "day": "2026-09-11",
+    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/09/Amelia_LoganAirport_Massport_Protohologram33.jpg-e1789118104557.jpeg"
+   },
+   {
+    "headline": "Philadelphia airport rolls out Watchfire digital displays in two terminals",
+    "summary": "MarketPlace PHL, which operates the concessions program at Philadelphia International Airport (PHL), has installed a new digital display network from Watchfire to modernize how it communicates with passengers. Installed…",
+    "source": "Passenger Terminal Today",
+    "url": "https://www.passengerterminaltoday.com/news/displays-signage/philadelphia-airport-rolls-out-watchfire-digital-displays-in-two-terminals.html",
+    "day": "2026-09-11",
+    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/09/phl-e1789117433191.jpeg"
+   },
    {
     "headline": "British Airways' Massive Growth: Record 27 Heathrow-US Routes & 4 Million Seats In 2026",
     "summary": "The carrier has more Heathrow-US routes and capacity this year than ever before. Find out more here!",
@@ -1883,49 +1923,49 @@
     "url": "https://runwaygirlnetwork.com/2026/09/southwest-first-lounges-to-debut-in-aus-bwi-hnl-bna/",
     "day": "2026-09-03",
     "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/SWAExterior-5.jpg"
-   },
-   {
-    "headline": "TAP Air Portugal Launches New 9-Hour Nonstop US Route In 1 Month: See Flights Now",
-    "summary": "TAP’s new Orlando route drives targeted US growth as the airline expands its winter transatlantic network.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/tap-air-portugal-launches-new-9-hour-us-route/",
-    "day": "2026-09-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/tap_air_portugal_a330neo_1920x1080.jpg"
-   },
-   {
-    "headline": "Emirates' Final 8 Routes On The Massive 615-Seat Airbus A380: See Flights Now",
-    "summary": "Just two of them account for seven in ten flights. Find out more now!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/emirates-final-8-routes-on-the-massive-615-seat-airbus-a380/",
-    "day": "2026-09-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/21.jpg"
-   },
-   {
-    "headline": "DFW and ORD: American’s Two Problem Airports",
-    "summary": "Air travel is like all other consumer services, providers try to ‘sell’ everything around the product, which influences consumers into",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/dfw-and-ord-americans-two-problem-airports/",
-    "day": "2026-09-03",
-    "img": "https://airinsight.com/wp-content/uploads/2026/04/American-Airlines-aircraft-fuselage.jpg"
-   },
-   {
-    "headline": "Duty Free Global Beauty builds K-beauty portfolio for global travel retail expansion",
-    "summary": "Duty Free Global Beauty will represent Beauty of Joseon, Isoi, Daily Weekly, Pleuvoir, Teabless, Holika Holika and Dr.Pepti, supporting the brands’ development and distribution across airports, airlines, cruises, border…",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/duty-free-global-beauty-builds-k-beauty-portfolio-for-global-travel-retail-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=duty-free-global-beauty-builds-k-beauty-portfolio-for-global-travel-retail-expansion",
-    "day": "2026-09-03",
-    "img": null
-   },
-   {
-    "headline": "Melbourne to host next ACI World Airport Experience Summit",
-    "summary": "Melbourne Airport will host 2027’s ACI World Airport Experience Summit, ACI World announced today as the eighth edition officially closed in Istanbul, Turkey. The announcement caps a week of high-level collaboration…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/melbourne-to-host-next-aci-world-airport-experience-summit/?utm_source=rss&utm_medium=rss&utm_campaign=melbourne-to-host-next-aci-world-airport-experience-summit",
-    "day": "2026-09-03",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "79 Years Later, Chuck Yeager's Famous Radio Call Still Captures The First Supersonic Flight",
+    "summary": "79 years later, Chuck Yeager’s “screwy Machmeter” radio call still captures the understated moment he broke the sound barrier in the Bell X-1.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/chuck-yeager-sound-barrier-radio-call/",
+    "day": "2026-09-11",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/chuck-yeager-s-famous-radio-call.png"
+   },
+   {
+    "headline": "Why Airlines Just Copied Air New Zealand's Skycouch After A Decade Of It Being A Top Long-Haul Economy Product",
+    "summary": "Air New Zealand's Skycouch has been generating revenue since 2011. It took 15 years for a major US carrier to license the idea.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-no-airline-copied-air-new-zealand-skycouch-decade-top-long-haul-economy-product/",
+    "day": "2026-09-11",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/new-zealand-s-skycouch.png"
+   },
+   {
+    "headline": "Emirates Little Sister: flydubai Is Launching Boeing 737 Freighter Flights",
+    "summary": "Flydubai adds to its belly cargo products by leasing 737-800 freighters. It will grow further with the arrival of 787s.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/flydubai-launching-dedicated-freigther-flights/",
+    "day": "2026-09-11",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/340-flydubai-boeing-737-800-kbp-spotter-_-shutterstock.jpg"
+   },
+   {
+    "headline": "Two working engines shut down before fatal Royal Navy Merlin ditching: UK probe",
+    "summary": "A split diaphragm in an engine fuel component, coupled with a misdiagnosed emergency and the shutdown of two working engines, caused the fatal ditching… The post Two working engines shut down before fatal Royal Navy…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/royal-navy-merlin-fatal-ditching-working-engines-shut-down",
+    "day": "2026-09-11",
+    "img": "https://www.aerotime.aero/images/2026/09/Royal-Navy-Merlin-HC4-helicopter-operating-from-the-flight-deck-of-HMS-Queen-Elizabeth.jpg"
+   },
+   {
+    "headline": "Bjorn’s Corner: Aircraft Structures, Part 18: Automated Dry Fiber AFP Placement",
+    "summary": "Free for nonsubscribers September 11, 2026, © Leeham News: Last week we started looking at different automated methods to lay down composite dry fiber reinforcement that are later infused with epoxy and cured with heat…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/09/11/bjorns-corner-aircraft-structures-part-18-automated-dry-fiber-afp-placement/",
+    "day": "2026-09-11",
+    "img": null
+   },
    {
     "headline": "More than 10 A320neo and 737 MAX jets earmarked for teardown at TARMAC",
     "summary": "More than 10 Airbus A320neo and Boeing737 MAX family aircraft have been earmarked for teardown before the end… The post More than 10 A320neo and 737 MAX jets earmarked for teardown at TARMAC appeared first on AeroTime .",
@@ -2845,46 +2885,6 @@
     "url": "https://simpleflying.com/allegiant-air-cancels-flights-to-these-35-airports-see-full-list-now/",
     "day": "2026-09-03",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/071-allegiant-air-airbus-a320-joe-a-kunzler-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Here’s Why The Boeing 777X Won’t Let Pilots Take Off With Its Wings Still Folded",
-    "summary": "A look at the huge twinjet's safety features.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-boeing-777x-wont-let-pilots-takeoff-wings-folded-26/",
-    "day": "2026-09-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/adjusted-safe-zone.png"
-   },
-   {
-    "headline": "How A 124-Seat Regional Jet Is Quietly Taking Over 2,000-Mile Leisure Routes On 4 Continents",
-    "summary": "The impact of the Embraer E2.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-124-seat-regional-jet-quietly-taking-over-2000-mile-leisure-routes-4-continents/",
-    "day": "2026-09-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/2-000-mile-leisure-routes.png"
-   },
-   {
-    "headline": "The World’s 1st Hypersonic Hydrogen Jet: What We Know So Far",
-    "summary": "Hypersonix is an Australian startup looking to change aviation as we know it.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/the-worlds-1st-hypersonic-hydrogen-jet-what-we-know-so-far/",
-    "day": "2026-09-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/11/hypersonic.jpg"
-   },
-   {
-    "headline": "Quality Issues on Airbus A330-900 Results in Delayed Deliveries",
-    "summary": "Airbus announced that quality issues on the horizontal tailplane of the A330-900 resulted in no deliveries for the aircraft in",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/quality-issues-on-airbus-a330-900-results-in-delayed-deliveries/",
-    "day": "2026-09-03",
-    "img": "https://airinsight.com/wp-content/uploads/2026/09/Airbus-A330-900-scaled.jpg"
-   },
-   {
-    "headline": "FLY91’s Bet: Regional Aviation Isn’t Dying Everywhere",
-    "summary": "PR: New Delhi, 03 September 2026 – FLY91 and ATR today announced the purchase of 40 ATR 72-600 aircraft for around",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/fly91s-bet-regional-aviation-isnt-dying-everywhere/",
-    "day": "2026-09-03",
-    "img": "https://airinsight.com/wp-content/uploads/2026/09/ATR-160413_HD-1-1-1024x683-1.jpg"
    }
   ],
   "finance": [
@@ -3546,6 +3546,14 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "GAMA Q2 Results Are Mixed for General Aviation",
+    "summary": "Prefer immediate full access? Subscribe for complete analysis + ongoing updates Want this applied to your fleet or portfolio? We can run a focused 15–20 minute walkthrough on the implications for your specific programs…",
+    "source": "AirInsight",
+    "url": "https://airinsight.com/gama-q2-results-are-mixed-for-general-aviation/",
+    "day": "2026-09-11",
+    "img": "https://airinsight.com/wp-content/uploads/2026/02/GAMA-e1771525224447.png"
+   },
    {
     "headline": "Vista House makes Asia debut at the Formula 1, in Singapore",
     "summary": "Vista Global will bring its luxury House accommodations to Asia for the first time, at the Formula 1 Singapore Grand Prix in October. The post Vista House makes Asia debut at the Formula 1, in Singapore appeared first…",
@@ -4497,14 +4505,6 @@
     "url": "https://simpleflying.com/cheapest-jet-undercuts-charter-rates/",
     "day": "2026-08-12",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/a-cirrus-vision-sf50.jpg"
-   },
-   {
-    "headline": "Charter revenue up 101% at Surf Air as losses continue",
-    "summary": "Surf Air posted a net loss of $28.1 million on $29.5 million in revenue with an EBITDA loss of $10.5 million in Q2 2026 The post Charter revenue up 101% at Surf Air as losses continue appeared first on Private Jet Card…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/08/11/surf-air-q2-revenue-gains-8-yoy-as-charter-revenue-increases-101/",
-    "day": "2026-08-11",
-    "img": null
    }
   ],
   "policy": [
@@ -5471,6 +5471,62 @@
   ],
   "defense": [
    {
+    "headline": "The 66-Year-Old KC-135 That Flew Its Final Mission In December, Then Got Pulled Back Out Of The Boneyard",
+    "summary": "Ethel's retirement highlights the KC-135's long service as the KC-46 Pegasus begins replacing America's aging tanker fleet.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/66-year-old-kc-135-final-mission-december-got-pulled-back-out-boneyard/",
+    "day": "2026-09-11",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/kc-135-headline-image.png"
+   },
+   {
+    "headline": "Inside The 9,000-Mile Nonstop Mission That Rewrote How Charleston Generates C-17 Airlift",
+    "summary": "A C-17 can fly 9,000 miles nonstop, but Charleston’s latest exercise shows why maintenance is crucial to sustained airlift readiness.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/9000-mile-nonstop-mission-rewrote-charleston-generates-c-17-airlift/",
+    "day": "2026-09-11",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/9-000-mile-nonstop-mission.png"
+   },
+   {
+    "headline": "Air Force BMT Puts Finishing Touches on 1st Airbase Training Range—and Plans for More",
+    "summary": "Under a late summer sun, Air Force basic trainees practice safely rearming a retired F-16 Fighting Falcon at Joint Base San Antonio-Lackland, Texas, with mock AIM-9 Sidewinder missiles. Nearby, a bulldozer levels the…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/air-force-bmt-airbase-training-range-f-16-c-130/",
+    "day": "2026-09-11",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/BMT-AIM9-2-900x600.jpeg"
+   },
+   {
+    "headline": "Last AV-8B Harrier Built for USMC Retired as Museum Display",
+    "summary": "A Harrier from the VMA-223 “Bulldogs,” the last built for the USMC, was demilitarized and transported to the National Naval Aviation Museum in Pensacola. Another event marked the bittersweet retirement of the AV-8B…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/09/11/last-av-8b-harrier-built-usmc-museum-display/",
+    "day": "2026-09-11",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/09/Last-Harrier-Built-Retired-1.jpg"
+   },
+   {
+    "headline": "Canada, Ukraine to jointly produce defense tech, part of ‘100-year partnership’",
+    "summary": "Ottawa also pledged to invest approximately $350 million to purchase air defense interceptors via the Joint Ukraine Multinational Program, also known as JUMPSTART.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/09/canada-ukraine-to-jointly-produce-defense-tech-part-of-100-year-partnership/",
+    "day": "2026-09-11",
+    "img": null
+   },
+   {
+    "headline": "One Of These Missiles Is Set To Be The Army’s Next Mid-Tier Anti-Air Interceptor",
+    "summary": "The new Enduring Shield system paired with AIM-9X Sidewinders already gives the Army its first mid-range air defense capability in decades. The post One Of These Missiles Is Set To Be The Army’s Next Mid-Tier Anti-Air…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/land/one-of-these-missiles-is-set-to-be-the-armys-next-mid-tier-anti-air-interceptor",
+    "day": "2026-09-11",
+    "img": "https://www.twz.com/wp-content/uploads/2026/09/two-missiles-head-to-head-new-army-interceptor.jpg?quality=85"
+   },
+   {
+    "headline": "France Accelerates Rafale F5 Upgrade After Collapse Of FCAS Next-Gen Fighter Project",
+    "summary": "France is investing in a new Rafale configuration, along with drone wingmen, that aim to carry French tactical aviation deep into the 2030s. The post France Accelerates Rafale F5 Upgrade After Collapse Of FCAS Next-Gen…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/air/france-accelerates-rafale-f5-upgrade-after-collapse-of-fcas-next-gen-fighter-project",
+    "day": "2026-09-11",
+    "img": "https://www.twz.com/wp-content/uploads/2026/09/RAFALE-AND-NEURON.jpg?quality=85"
+   },
+   {
     "headline": "Canada picks six systems in drone push, expands Ukraine ties",
     "summary": "Canada has established a national marketplace in order to buy drones for its armed forces and coast guard, while expanding defense-industrial cooperation with… The post Canada picks six systems in drone push, expands…",
     "source": "AeroTime",
@@ -6371,62 +6427,6 @@
     "summary": "Roughly $6.1 billion of military equipment was cleared for potential sales to Saudi Arabia, Oman and Iraq, spanning precision munitions to fighter jet sustainment, according to the State Department.",
     "source": "Breaking Defense",
     "url": "https://breakingdefense.com/2026/09/us-clears-5b-in-jdams-for-saudi-arabia-other-middle-east-deals/",
-    "day": "2026-09-04",
-    "img": null
-   },
-   {
-    "headline": "U.S. Air Force Seeks Anti-Aircraft Guns To Protect Its Overseas Bases",
-    "summary": "The request for anti-drone and anti-cruise missile guns comes as the Air Force is pushing to take on more air defense responsibilities at its forward bases. The post U.S. Air Force Seeks Anti-Aircraft Guns To Protect…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/land/u-s-air-force-seeks-anti-aircraft-guns-to-protect-its-overseas-bases",
-    "day": "2026-09-04",
-    "img": "https://www.twz.com/wp-content/uploads/2026/09/Rheinmetall-Stationaere-Flugabwehr-Oerlikon-Skyshield.fbcb7be7-Firefly-Upscaler-2x-scale.jpg?quality=85"
-   },
-   {
-    "headline": "Space Force May Export Launch Lessons to Foreign Partners",
-    "summary": "As U.S. allies look to establish sovereign military space launch capabilities, the Space Force is exploring ways to transfer lessons learned from its National Security Space Launch program to support its international…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/space-force-export-launch-lessons-foreign-partners/",
-    "day": "2026-09-04",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/0926_TOC-900x600.jpg"
-   },
-   {
-    "headline": "Guard F-16s Kept Pace on Kadena Deployment, but Edge Wears Thin",
-    "summary": "An F-16 Air National Guard unit’s six-month deployment to Kadena Air Base, Japan, this year illustrated the capabilities the Guard’s oldest fighter units can still offer—but also the challenges they face, officials told…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/guard-f-16s-kadena-deployment/",
-    "day": "2026-09-04",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/fighter-in-profile-900x600.jpg"
-   },
-   {
-    "headline": "USAF Tests C2 Capabilities Across 4,000 Miles in High-Stress Virtual Exercise",
-    "summary": "The Air Force recently conducted a virtual stress test of its command-and-control capabilities, linking Air Operations Centers in New Mexico and the United Kingdom and forcing commanders to run personnel recovery and…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/usaf-c2-capabilities-4000-miles-virtual-exercise/",
-    "day": "2026-09-04",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/screen-airman-flag-900x600.jpg"
-   },
-   {
-    "headline": "Eight VT ANG F-35A Jets Arrive at RAF Lakenheath on Their Way Back from Middle East Deployment",
-    "summary": "The first eight of a dozen Vermont Air National Guard F-35As are returning home from their combat deployment in the CENTCOM area of operations. Split into two flights, the first eight F-35A jets of the Green Mountain…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/04/vt-ang-f-35s-return/",
-    "day": "2026-09-04",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/09/VT-ANG-F-35.jpg"
-   },
-   {
-    "headline": "L3Harris Builds First Podded Viper Shield for the F-16",
-    "summary": "The company says the first pod was assembled using production systems, as Viper Shield orders grow to 233 units across eight allied nations. According to a statement released on Sept. 3, 2026, L3Harris Technologies has…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/04/viper-shield-pod/",
-    "day": "2026-09-04",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/09/Viper-Shield-rendering.jpg"
-   },
-   {
-    "headline": "F-35 costs jump in latest production lots",
-    "summary": "Compared to recent contracts, the average flyaway cost of an F-35A and F-35B rose by over 11 percent, while the price of an F-35C climbed over 8 percent, according to figures supplied by the F-35 Joint Program Office.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/09/f-35-costs-jump-in-latest-production-lots/",
     "day": "2026-09-04",
     "img": null
    }
