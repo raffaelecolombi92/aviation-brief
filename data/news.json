@@ -1,7 +1,15 @@
 {
- "generated": "2026-09-12T02:43+00:00",
+ "generated": "2026-09-12T07:36+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "“I Begged”: JetBlue Allegedly Forced Passenger Who Booked On United To Leave Surfboard Behind",
+    "summary": "A well-known surfer says he pleaded with agents after a reservation swap forced him to leave a backup surfboard behind at the airport.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/jetblue-allegedly-force-passenger-booked-united-leave-surfboard-behind/",
+    "day": "2026-09-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/jetblue-airbus-a320-1.jpg"
+   },
    {
     "headline": "7 Of The Most Spacious Transatlantic Premium Economy Seats You Can Book Today",
     "summary": "Mainline carriers typically provide 38 inches in seat pitch on transatlantic routes, although the seat recline can vary significantly.",
@@ -951,14 +959,6 @@
     "summary": "Published at 1600PDT / 2300GMT 08SEP26 Etihad today (08SEP26) announced the launch of new route to Saudi Arabia, with the first Abu Dhabi – Red Sea flight scheduled on 04OCT26. Airbus A320 aircraft to serve this route…",
     "source": "AeroRoutes",
     "url": "https://www.aeroroutes.com/eng/260908-ey4q26rsi",
-    "day": "2026-09-08",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Etihad Extends Gothenburg to Year-Round Service in NS27",
-    "summary": "Published at 1500PDT / 2200GMT 08SEP26 Etihad Airways last week announced service extension to its new Abu Dhabi – Gothenburg route, scheduled to commence on 17DEC26. Initially scheduled as seasonal operation until…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260908-eyns27got",
     "day": "2026-09-08",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "10+ 737 MAX & A320neo Jets Set For Teardown This Year As Parts Demand Soars",
+    "summary": "This comes just months after three Spirit Airlines A320neos were scrapped with only three years of active service.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/737-max-a320neo-teardown-2026-parts-demand/",
+    "day": "2026-09-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/boeing-737-max-8-ian-dewar-photography-1.jpg"
+   },
+   {
     "headline": "How Much Does It Cost To Convert A Boeing 767 Into A Cargo Freighter?",
     "summary": "Converting a 767 into a cargo freighter can be costly, but many operators have turned to it because of high cargo demand.",
     "source": "Simple Flying",
@@ -2875,14 +2883,6 @@
     "summary": "Embraer and ANA Holdings (ANA HD) have signed an agreement for eight E190-E2 aircraft, formalising the group’s fleet expansion plans announced on July, 29, 2026. The deal builds on ANA HD’s original firm order for 15…",
     "source": "AviTrader",
     "url": "https://avitrader.com/2026/09/04/ana-holdings-orders-eight-additional-embraer-e190-e2/",
-    "day": "2026-09-04",
-    "img": null
-   },
-   {
-    "headline": "Nayak Aircraft Services takes over LAS Maintenance",
-    "summary": "Nayak Aircraft Services has acquired a controlling stake in Portugal’s LAS Group, which comprises LAS Maintenance, LAS Training and SLOT-Human Resources. Founder João Louro will retain a shareholding and continue to…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/09/04/nayak-aircraft-services-takes-over-las-maintenance/",
     "day": "2026-09-04",
     "img": null
    }
@@ -5471,6 +5471,14 @@
   ],
   "defense": [
    {
+    "headline": "Why Did Lockheed Martin Build The F-35 With A Single Engine Instead Of Two?",
+    "summary": "The F-35’s single-engine design looks surprising until you see how STOVL capability, weight, and commonality drove the decision.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/lockheed-martin-f35-single-engine-design-reasons/",
+    "day": "2026-09-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/internalfuel-20260901-153835.jpg"
+   },
+   {
     "headline": "At Pentagon, Trump Leads 9/11 Commemoration on 25th Anniversary",
     "summary": "President Donald Trump and government and military leaders past and present paid tribute to the victims, survivors, and heroes of the Sept. 11 terrorist attack on the Pentagon, marking 25 years since a hijacked plane…",
     "source": "Air & Space Forces Mag",
@@ -6421,14 +6429,6 @@
     "url": "https://simpleflying.com/b-21-raider-pilots-pay-vs-f-35-pilots/",
     "day": "2026-09-04",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2759873675-1.jpg"
-   },
-   {
-    "headline": "Fresh US Fighter Jets Rotate into Middle East as Trump Tries to Up Pressure on Iran",
-    "summary": "The U.S. is rotating fresh fighter squadrons to the Middle East to support the Trump administration’s open-ended campaign of economic and military pressure against Iran. The post Fresh US Fighter Jets Rotate into Middle…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/us-fighter-jets-rotate-middle-east-iran/",
-    "day": "2026-09-04",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/260630-F-UV276-1066-900x600.jpeg"
    }
   ],
   "others": []
