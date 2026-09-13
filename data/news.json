@@ -1,7 +1,15 @@
 {
- "generated": "2026-09-13T20:09+00:00",
+ "generated": "2026-09-13T22:47+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Frontier Airlines Passengers Stranded Overnight After Crew Timeout From Weather Diversion",
+    "summary": "Frontier passengers were stranded overnight in Knoxville after severe weather forced a diversion and the flight crew reached its legal duty limit.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/frontier-airlines-passengers-standed-overnight-crew-timeout-weather-diversion/",
+    "day": "2026-09-13",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2421356787_cropped.jpg"
+   },
    {
     "headline": "Breeze Airways & Delta Air Lines Hit With FAA Order To Inspect Airbus A220 Fuel Hose Lines",
     "summary": "FAA targets 13 US Airbus A220s for fuel hose inspections after a twisting defect raised concerns over fuel leaks and potential fire risks.",
@@ -953,17 +961,17 @@
     "url": "https://www.aeroroutes.com/eng/260909-kesep26bne",
     "day": "2026-09-09",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Air Cambodia NW26 Network Expansion / COMAC C909 Service Debut",
-    "summary": "Published at 2300PDT 08SEP26 / 0600GMT 09SEP26 Air Cambodia in recent schedule update filed planned network expansion for Northern winter 2026/27 season, including the launch of scheduled service to Russia Far East, as…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260908-k6nw26",
-    "day": "2026-09-09",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "The FAA Just Sent $158 Million To 3 Sun Belt Airports While Northern Hubs Got Nothing Close",
+    "summary": "Investigating where the FAA is investing the most for airport improvements.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/faa-158-million-3-sun-belt-airport-northern-hubs-nothing-close/",
+    "day": "2026-09-13",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/158-million-to-3-sun-belt-airports.png"
+   },
    {
     "headline": "Allegiant Air Launches 11 New Nonstop Routes From Major US Airport: See Full List Now",
     "summary": "Spirit's collapse has been Allegiant's gain.",
@@ -1915,17 +1923,17 @@
     "url": "https://simpleflying.com/specialized-shelters-built-protect-b-21-raider-harsh-winters/",
     "day": "2026-09-05",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/b-21-cover-image-2.png"
-   },
-   {
-    "headline": "Frontier Airlines Confirms Its Final Day At New York JFK After Only 2 Years",
-    "summary": "After brief service at the busiest NYC airport a no-frills airline trims costly routes and bolsters year-round flights from LGA and EWR.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/frontier-airlines-new-york-jfk-exit-date-confirmed/",
-    "day": "2026-09-05",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/frontier-airlines-aircraft-landing-at-tampa-1.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "11 Miles Off: Business Jet Lands At US Bomber Base RAF Fairford By Mistake",
+    "summary": "Cessna Citation makes head-scratching landing mistake, ending up at military base.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/business-jet-lands-raf-fairford-bomber-base-mistake/",
+    "day": "2026-09-13",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/usaf-b-1b-at-raf-fairford-4.jpg"
+   },
    {
     "headline": "GE Aerospace Just Solved Its Biggest Boeing 777X Engine Problem With 1 Redesign",
     "summary": "A newly reworked turbine seal triggers shop inspections and supplier ramp ups as GE lines up revised GE9X deliveries.",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/why-regional-airlines-parking-aircraft-minting-captains-just-18-months/",
     "day": "2026-09-04",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/aircraft-minting-captains.png"
-   },
-   {
-    "headline": "A B-29 Bomber Quirk Gave Boeing's 377 Stratocruiser Its Famous Cocktail Lounge",
-    "summary": "The Boeing 377 turned a bomber fuselage into a luxury airliner, but the jet age made its famous cocktail lounge too costly to keep.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/b-29-bomber-377-stratocruiser-lounge/",
-    "day": "2026-09-04",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/b-29-bomber-quirk.png"
    }
   ],
   "finance": [
@@ -5471,6 +5471,14 @@
   ],
   "defense": [
    {
+    "headline": "Here's How Many F-47 NGAD Fighters The US Air Force Wants Flying In The 2030s",
+    "summary": "The fundamental question hanging over the new sixth-generation jet.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-many-f-47-ngad-fighters-usaf-wants-flying-2030s/",
+    "day": "2026-09-13",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/f-47-ngad-fighters.png"
+   },
+   {
     "headline": "Australia Achieves Initial Operational Capability With LRASM and JASSM-ER Missiles",
     "summary": "New official visuals show RAAF F/A-18F Super Hornets releasing AGM-158B JASSM-ERs and a P-8A Poseidon striking a target ship with an AGM-158C LRASM during live-fire tests in 2025 and 2026. The Royal Australian Air Force…",
     "source": "The Aviationist",
@@ -6421,14 +6429,6 @@
     "url": "https://simpleflying.com/usaf-bought-stripped-down-radar-keep-b-52-relevant-2040s/",
     "day": "2026-09-06",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/b-52-relevant-into-the-2040s.png"
-   },
-   {
-    "headline": "USS Abraham Lincoln leaves Thailand following five-day ‘recharge’ break",
-    "summary": "USS Abraham Lincoln, a Nimitz-class nuclear-powered aircraft carrier, has departed Thailand after arriving for a five-day stay to… The post USS Abraham Lincoln leaves Thailand following five-day ‘recharge’ break…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/uss-abraham-lincoln-aircraft-carrier-leaves-thailand",
-    "day": "2026-09-06",
-    "img": "https://www.aerotime.aero/images/2026/09/USS-Abraham-Lincoln-aircraft-carrier.jpg"
    }
   ],
   "others": []
