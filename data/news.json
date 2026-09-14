@@ -1,7 +1,23 @@
 {
- "generated": "2026-09-13T22:47+00:00",
+ "generated": "2026-09-14T02:57+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Why In The World Do Some Flight Attendants Have To Commute So Far For Work?",
+    "summary": "Many crew accept long layovers, reserve shifts and transoceanic hops to avoid relocating to costly hub cities.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-flight-attendants-commute-far-work/",
+    "day": "2026-09-14",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/attendants.png"
+   },
+   {
+    "headline": "SWISS' New Airbus A350 Premium Economy Traded Legroom For A Privacy Shell Rivals Refuse To Copy",
+    "summary": "Why has SWISS opted for a fixed-shell seat in its premium economy cabin while other major carriers have rejected it?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/swiss-new-airbus-a350-premium-economy-traded-legroom-privacy-shell-rivals-refuse-copy/",
+    "day": "2026-09-13",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/swiss-new-airbus-a350-premium-economy.png"
+   },
    {
     "headline": "Frontier Airlines Passengers Stranded Overnight After Crew Timeout From Weather Diversion",
     "summary": "Frontier passengers were stranded overnight in Knoxville after severe weather forced a diversion and the flight crew reached its legal duty limit.",
@@ -945,22 +961,6 @@
     "url": "https://www.aeroroutes.com/eng/260909-fjns27wsi",
     "day": "2026-09-09",
     "img": null
-   },
-   {
-    "headline": "5 Things That Happen On The Flight Deck Before An Aircraft Crosses The Atlantic",
-    "summary": "Crossing the Atlantic is an extremely coordinated endeavor.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/5-things-happen-flight-deck-before-aircraft-crosses-atlantic/",
-    "day": "2026-09-09",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/5-things-that-happen-on-the-flight-deck-before-an-aircraft-crosses-the-atlantic.jpg"
-   },
-   {
-    "headline": "Korean Air Sep/Oct 2026 Brisbane Aircraft Changes",
-    "summary": "Published at 0000PDT / 0700GMT 09SEP26 Korean Air in September and October 2026 schedules aircraft changes on Seoul Incheon – Brisbane route, where the airline plans Boeing 787-10 service on 2 of 4 weekly flights…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260909-kesep26bne",
-    "day": "2026-09-09",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
@@ -1927,6 +1927,22 @@
   ],
   "fleet": [
    {
+    "headline": "The World's Most-Beloved Boeing 757 Sent To The Graveyard Is Now Destroyed For Good",
+    "summary": "The plane was recently dismantled for parts after 10 years in the skies.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/worlds-most-beloved-boeing-757-sent-graveyard-destroyed-good/",
+    "day": "2026-09-14",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/most-beloved-boeing-757.png"
+   },
+   {
+    "headline": "Airbus Built A Plane No Airline Wanted: Now Enthusiasts Are Racing To Fly It",
+    "summary": "A closer look at why the Airbus A318 was a flop, and how you can fly on one before it disappears from airline service for good.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-built-plane-no-airline-wanted-now-enthusiasts-racing-fly/",
+    "day": "2026-09-14",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/airbus-built-a-plane-no-airline-wanted-now-enthusiasts-are-racing-to-fly-it.jpg"
+   },
+   {
     "headline": "11 Miles Off: Business Jet Lands At US Bomber Base RAF Fairford By Mistake",
     "summary": "Cessna Citation makes head-scratching landing mistake, ending up at military base.",
     "source": "Simple Flying",
@@ -2869,25 +2885,17 @@
     "url": "https://simpleflying.com/boeing-f-47-considered-over-homegrown-6th-gen-fighter/",
     "day": "2026-09-05",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/backtrack-boeing-47.avif"
-   },
-   {
-    "headline": "Press Release: FLY91 places historic order for 40 ATR 72-600 aircraft",
-    "summary": "FLY91 has announced the purchase of 40 ATR 72-600 aircraft for around $1 billion, marking the largest ATR firm order in almost a decade, and the largest ever by a regional airline. Deliveries are scheduled from 2027 to…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/09/press-release-fly91-places-historic-order-for-40-atr-72-600-aircraft/",
-    "day": "2026-09-04",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/ATR-x-FLY91-Event-Images-3-2.jpg"
-   },
-   {
-    "headline": "Why Regional Airlines Are Parking Aircraft & Minting Captains In Just 18 Months",
-    "summary": "Over 500 regional jets are parked across the US because there are not enough pilots to fly them. Here is why, and where the pilots went.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-regional-airlines-parking-aircraft-minting-captains-just-18-months/",
-    "day": "2026-09-04",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/aircraft-minting-captains.png"
    }
   ],
   "finance": [
+   {
+    "headline": "Press Release: TSA marks 25th anniversary of 9/11 terrorist attacks",
+    "summary": "The Transportation Security Administration (TSA) today commemorated the 25th anniversary of the September 11, 2001, terrorist attacks, honoring the nearly 3,000 lives lost and reaffirming the agency’s commitment to…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/09/tsa-marks-25th-anniversary-of-september-11-terrorist-attacks/",
+    "day": "2026-09-11",
+    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/IMG_4356-e1789346868798.jpeg"
+   },
    {
     "headline": "BDO Ireland launches Aviation Advisory unit",
     "summary": "BDO Ireland has launched a dedicated Aviation Advisory unit to expand its services to the global aviation finance and aircraft leasing sectors, the professional services firm said. The new practice is led by partner and…",
@@ -3546,6 +3554,14 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "TLC Jet adds Fly and Stay promotion featuring Ritz-Carlton",
+    "summary": "First-time customers with TLC Jet get American Airlines miles and a gift card at The Ritz-Carlton through the end of October The post TLC Jet adds Fly and Stay promotion featuring Ritz-Carlton appeared first on Private…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/09/13/tlc-jet-adds-fly-and-stay-promotion-featuring-ritz-carlton/",
+    "day": "2026-09-13",
+    "img": null
+   },
    {
     "headline": "Op-Ed: Why private aviation should be far less manual for travelers",
     "summary": "Please enjoy this Op-Ed contribution from Justin Crabbe, the CEO & Founder of Jettly, a digital private jet marketplace, and BlackJet, a pre-paid private jet solution. Private aviation’s biggest value proposition is the…",
@@ -4495,14 +4511,6 @@
     "summary": "FlyUSA makes the Inc. 5000, a list of the fastest-growing U.S. private companies, for the third year in a row. The post FlyUSA Makes Inc. 5000 for Third Straight Year appeared first on Private Jet Card Comparisons .",
     "source": "Private Jet Card Comparisons",
     "url": "https://privatejetcardcomparisons.com/2026/08/12/flyusa-inc-5000-third-year-row/",
-    "day": "2026-08-12",
-    "img": null
-   },
-   {
-    "headline": "FlyExclusive revenue up 21.7% with positive EBITDA, EBITDAR",
-    "summary": "FlyExclusive posted its third-straight quarter of positive EBITDA while cutting net and operating losses on $111 million in revenue The post FlyExclusive revenue up 21.7% with positive EBITDA, EBITDAR appeared first on…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/08/12/flyexclusive-revenue-up-21-7-with-positive-ebitda-ebitdar/",
     "day": "2026-08-12",
     "img": null
    }
@@ -5471,6 +5479,30 @@
   ],
   "defense": [
    {
+    "headline": "The Aircraft The US Air Force Says Will Replace The A-10 Warthog, But Here's Why Critics Say It Can't",
+    "summary": "The A-10 carries six times more 30mm ammunition than the F-35A, but that enormous difference reflects two radically different ideas",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/aircraft-us-air-force-says-replace-a-10-warthog-why-critics-say-cant/",
+    "day": "2026-09-14",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/the-a-10-warthog.png"
+   },
+   {
+    "headline": "Eutelsat inks key agreements for OneWeb replenishment, IRIS² buildout",
+    "summary": "Eutelsat used the occasion of the International Space Summit in Paris to announce several key agreements that will ensure it can both replenish and expand its existing OneWeb Low Earth Orbit (LEO) satellite network, and…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/09/eutelsat-inks-key-agreements-for-oneweb-replenishment-iris%c2%b2-buildout/",
+    "day": "2026-09-14",
+    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/iStock-1136732962-e1789344919904.jpg"
+   },
+   {
+    "headline": "Former AFCENT Commander Reflects on Lessons of Epic Fury",
+    "summary": "Operation Epic Fury marked the U.S. military's largest air campaign in a generation, with strikes on 13,000 targets in Iran before the first in a series of shaky ceasefires began in April. Now, even as hostilities…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/former-afcent-commander-reflects-on-lessons-of-epic-fury/",
+    "day": "2026-09-14",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/9655770-900x600.jpg"
+   },
+   {
     "headline": "Here's How Many F-47 NGAD Fighters The US Air Force Wants Flying In The 2030s",
     "summary": "The fundamental question hanging over the new sixth-generation jet.",
     "source": "Simple Flying",
@@ -6405,30 +6437,6 @@
     "url": "https://simpleflying.com/how-c-130-letter-change-h-j-force-full-guard-wing-overhaul/",
     "day": "2026-09-06",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/lockheed-c-130-flying.jpg"
-   },
-   {
-    "headline": "Mysterious Black Jet That Emerged At Long Beach Airport Identified",
-    "summary": "With a sleek airframe the size of an A-5 Vigilante, its silhouette drew immediate attention from local aviation photographers who had never seen anything like it there. The post Mysterious Black Jet That Emerged At Long…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/space/mysterious-black-jet-that-emerged-at-long-beach-airport-identified",
-    "day": "2026-09-06",
-    "img": "https://www.twz.com/wp-content/uploads/2026/09/RAVN-X-1-long-beach.jpg?quality=85"
-   },
-   {
-    "headline": "The US Army Flew The eVTOL Mission Profile In 1958, Then Quietly Walked Away",
-    "summary": "Why Piasecki's flying jeep was six decades ahead of its time.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/us-army-flew-evtol-mission-profile-1958-quietly-walked-away/",
-    "day": "2026-09-06",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/evtol-mission.png"
-   },
-   {
-    "headline": "The US Air Force Just Bought A Stripped-Down Radar To Keep The B-52 Relevant Into The 2040s",
-    "summary": "Budget overruns force the BUFF to cut back.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/usaf-bought-stripped-down-radar-keep-b-52-relevant-2040s/",
-    "day": "2026-09-06",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/b-52-relevant-into-the-2040s.png"
    }
   ],
   "others": []
