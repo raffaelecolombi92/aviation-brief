@@ -1,7 +1,23 @@
 {
- "generated": "2026-09-14T21:19+00:00",
+ "generated": "2026-09-15T02:58+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "ANA NW26 Tokyo Haneda Long-Haul Aircraft Changes",
+    "summary": "Published at 1400PDT / 2100GMT 14SEP26 ANA during Northern winter 2026/27 season schedules selected aircraft change on long-haul routes, to/from Tokyo Haneda . Planned adjustments as of 13SEP26 include the following.…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260914-nhnw26hnd",
+    "day": "2026-09-15",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Virgin Atlantic Accelerates A330-300 Retirements As SAS Takes On Its Oldest Widebodies",
+    "summary": "The airline is onboarding new A330neos as SAS looks to quickly expand its widebody fleet.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/virgin-atlantic-accelerates-a330-300-retirements-sas-oldest-widebodies/",
+    "day": "2026-09-14",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/593-virgin-atlantic-airbus-a330-300-markus-mainka-_-shutterstock.jpg"
+   },
    {
     "headline": "Why United Airlines' New Airbus A321XLR Needs A Completely Different Fuel System",
     "summary": "Extended range is allowing United to connect new city pairs, but not without some consideration.",
@@ -945,25 +961,25 @@
     "url": "https://runwaygirlnetwork.com/2026/09/united-airlines-ventures-invests-in-assaia/",
     "day": "2026-09-09",
     "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/United-Airlines-aircraft-in-flight.png"
-   },
-   {
-    "headline": "Telesat restores commercial Lightspeed capacity with more satellites",
-    "summary": "Telesat has effectively restored the 25% of commercial Lightspeed capacity it diverted to the fast-growing defense market by greenlighting plans to expand the Low Earth Orbit (LEO) constellation to 225 satellites.…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/09/telesat-restores-commercial-lightspeed-capacity-with-more-satellites/",
-    "day": "2026-09-09",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2022/04/iStock-802997896-scaled.jpg"
-   },
-   {
-    "headline": "IndiGo Adds Guwahati – Bangkok in NW26",
-    "summary": "Published at 1600PDT / 2300GMT 09SEP26 Indian low-cost carrier IndiGo at the launch of Northern winter 2026/27 season schedules additional new route to Thailand. From 27OCT26, the airline to operate 2 weekly Guwahati –…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260909-6enw26bkk",
-    "day": "2026-09-09",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "American Airlines Is Plotting A Big Asia Comeback: Could LAX–Singapore Put It Back In The Transpacific Race?",
+    "summary": "A LAX to Singapore nonstop would force American to outmaneuver entrenched Asian hubs and dense one-stop feed networks.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-asia-comeback-transpacific-race/",
+    "day": "2026-09-14",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/american-airlines-787-9-los-angeles-philip-pilosian-1.jpg"
+   },
+   {
+    "headline": "First Look: Etihad Airways' New First Class Set To Roll Out On A330neo Deliveries In 2027",
+    "summary": "Etihad's incoming A330neos will feature four private First suites as the airline dramatically expands its premium-cabin strategy.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/etihad-airways-new-first-class-a330-900-deliveries-2027/",
+    "day": "2026-09-14",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/etihad-a330neo-cabin-1_1920x1080.jpg"
+   },
    {
     "headline": "Delta Air Lines Launches 5 New Nonstop Routes From Los Angeles: See Flights Now",
     "summary": "Delta is betting big on three new domestic, and two international destinations from the City of Angels.",
@@ -1907,25 +1923,41 @@
     "url": "https://simpleflying.com/united-airlines-newark-dubai-route-march-2027/",
     "day": "2026-09-07",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/united-airlines-boeing-787-dreamliner.jpg"
-   },
-   {
-    "headline": "Cleaning goes high-tech",
-    "summary": "Joe Bates shines the spotlight on Queen Alia International Airport’s Smart Cleaning System and the state-of-the-art robotic technology taking airport cleaning to the next level. As Airport Service Quality (ASQ) customer…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/cleaning-goes-high-tech/?utm_source=rss&utm_medium=rss&utm_campaign=cleaning-goes-high-tech",
-    "day": "2026-09-07",
-    "img": null
-   },
-   {
-    "headline": "Why Delta Air Lines Chose Atlanta Over New York-JFK To Anchor Its New Middle East Strategy",
-    "summary": "The story behind a rocky start to DAL's new Gulf strategy.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-delta-air-lines-chose-atlanta-over-new-york-jfk-anchor-new-middle-east-strategy/",
-    "day": "2026-09-07",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/middle-east-strategy.png"
    }
   ],
   "fleet": [
+   {
+    "headline": "Automatic? Boeing Test Pilot Explains How The 777X’s Folding Wings Work",
+    "summary": "A closer look at one of the jet's defining features.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/automatic-boeing-test-pilot-explains-how-777x-folding-wings-work/",
+    "day": "2026-09-15",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/12/over-20-planes-why-boeing-already-built-some-777xs-even-though-it-s-not-certified-yet.jpg"
+   },
+   {
+    "headline": "Etihad Airways goes beyond with CMF and First class on A330neo",
+    "summary": "Clean. Sleek. Gorgeous. Exciting. These are just some of the words being used to describe Etihad Airways’ cabin interiors for its forthcoming new Airbus A330neo twinjets — including an all-new First product — as…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/09/etihad-airways-goes-beyond-with-cmf-and-first-class-on-a330neo/",
+    "day": "2026-09-15",
+    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/Screenshot-2026-09-14-at-4.20.09-PM.png"
+   },
+   {
+    "headline": "Airbus Inks Major Deals With 2 Vietnamese Airlines For Up To 50 A320s, 5 A350s",
+    "summary": "A small Vietravel fleet faces rapid transformation with 50 narrowbodies on paper and deliveries starting from 2029.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/news-5/",
+    "day": "2026-09-14",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/vietnam-airlines-airbus-a350-900-departing-amsterdam-minhanphotos-1.jpg"
+   },
+   {
+    "headline": "The Airbus A318's Cleverest Feature Is Exactly Why Only 4 Remain Flying Today",
+    "summary": "Capable of steep approaches, airlines are finding it hard to justify A318 operations today.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-a318-cleverest-feature-exactly-why-only-4-flying-today/",
+    "day": "2026-09-14",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/the-airbus-a318-s-cleverest-feature-is-exactly-why-only-4-remain-flying-today.jpg"
+   },
    {
     "headline": "Embraer Just Delivered Its 2,000th E-Jet While Airbus' A220 Fights To Catch Up",
     "summary": "The A220 has the lead in the order book but still has to catch up.",
@@ -2853,38 +2885,6 @@
     "url": "https://avitrader.com/2026/09/07/us25-million-boost-for-pws-polish-engine-operation/",
     "day": "2026-09-07",
     "img": null
-   },
-   {
-    "headline": "QOCO broadens data service supporting Rolls-Royce Trent fleet",
-    "summary": "QOCO Systems and Rolls-Royce are expanding QOCO’s intelligent data service, which provides real-time airline operator data to Rolls-Royce systems to support engine reliability and maintenance operations. Delivered…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/09/07/qoco-broadens-data-service-supporting-rolls-royce-trent-fleet/",
-    "day": "2026-09-07",
-    "img": null
-   },
-   {
-    "headline": "How Cabin Crew Rest & Sleep On The Boeing 747-8",
-    "summary": "A closer look at the rest areas available to crew members on one of the world's largest passenger aircraft.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/cabin-crew-rest-sleep-on-the-boeing-747-8/",
-    "day": "2026-09-07",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/boeing_747-8_-14035493952.jpg"
-   },
-   {
-    "headline": "Why Airlines Keep Paying 30% More For The Airbus A220 Over Embraer's E195-E2",
-    "summary": "Even though the E195-E2 is a smaller, shorter-range airliner, its market value is surprisingly close to that of the Airbus A220-300.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/airlines-keep-paying-30-percent-more-airbus-a220-embraer-e195-e2/",
-    "day": "2026-09-07",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/why-airlines-keep-paying-30-more-for-the-airbus-a220-over-embraer-s-e195-e2.jpg"
-   },
-   {
-    "headline": "Why Airbus' Target Of 12 A350s Per Month By 2028 Is Now In Serious Doubt",
-    "summary": "Integration challenges from Spirit Aerosystems site acquisition are causing delays.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/airbus-target-12-a350s-month-2028-serious-doubt/",
-    "day": "2026-09-07",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/airbus-target-of-12-a350s.png"
    }
   ],
   "finance": [
@@ -5495,6 +5495,86 @@
   ],
   "defense": [
    {
+    "headline": "5 US Air Force Bases Still Flying Some Of The Service's Longest-Serving Aircraft Types",
+    "summary": "US Air Force bases are home to aircraft that have served for decades, continuing to perform vital missions long after entering service.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/us-air-force-bases-longest-serving-aircraft-types/",
+    "day": "2026-09-15",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/base-headline-pic-1.jpg"
+   },
+   {
+    "headline": "WATCH: Investing to Meet America’s Growing Demand for Missiles and Directed Energy",
+    "summary": "Across directed energy, precision optics, and advanced coatings, Attalon is investing in domestic manufacturing capacity, advanced production technologies, and skilled American workers to strengthen the U.S. defense…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/watch-investing-to-meet-americas-growing-demand-for-missiles-and-directed-energy/",
+    "day": "2026-09-15",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/attalon-directed-energy-900x600.jpg"
+   },
+   {
+    "headline": "F-35 Readiness Surged in Epic Fury; Now Pentagon and Lockheed Eye Broader Gains",
+    "summary": "For years, sustainment challenges and spare parts shortages have hindered the F-35 Joint Strike Fighter’s readiness. But the Air Force’s experience flying F-35s heavily in operations against Iran have showed what the…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/f-35-readiness-epic-fury-lockheed-pentagon-spare-parts/",
+    "day": "2026-09-15",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/F-35-CENTCOM-AOR-900x600.jpeg"
+   },
+   {
+    "headline": "CMSAF to Airmen: Use AI or ‘End Up in Everyone’s Rearview Mirror’",
+    "summary": "Today’s Airmen are going to have to embrace artificial intelligence the same way Chief Master Sergeant of the Air Force David R. Wolfe learned to love desktop computers and email in the 1990s, the senior enlisted Airman…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/cmsaf-airmen-use-ai-or-end-up-in-rearview-mirror/",
+    "day": "2026-09-15",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/55529297795_e0d1658b43_o-900x600.jpg"
+   },
+   {
+    "headline": "NATO fighters shoot down drone over Lithuania after airspace incursion",
+    "summary": "Suspected drone track traced to a flock of birds NATO fighter jets launched from Šiauliai Air Base identified… The post NATO fighters shoot down drone over Lithuania after airspace incursion appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/nato-fighters-shoot-down-drone-over-lithuania-after-airspace-incursion",
+    "day": "2026-09-14",
+    "img": "https://www.aerotime.aero/images/2026/09/Italian-Air-Force-Eurofighter-Typhoon-takes-off-from-Siauliai-Air-Base-during-a-NATO-Baltic-Air-Policing.jpg"
+   },
+   {
+    "headline": "Air Force Stacks Inert Sentinel ICBM Ahead of First Test in 2027",
+    "summary": "The Air Force has erected an inert version of its LGM-35A Sentinel intercontinental ballistic missile at Vandenberg Space Force Base, Calif., the service announced Sept. 14. Officials also confirmed at AFA’s Air, Space…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/air-force-stacks-inert-sentinel-icbm/",
+    "day": "2026-09-14",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/260914-F-AF000-1003-900x600.jpeg"
+   },
+   {
+    "headline": "Wilsbach Shares Airmen’s Stories of Epic Fury, Says 10 Got Battlefield Promotions for DUDE 44 Rescue",
+    "summary": "Ten Airmen received battlefield promotions for their roles in the daring rescue of DUDE 44, the crew of an F-15E Strike Eagle that was shot down over Iran this spring, Air Force Chief of Staff Ken. S. Wilsbach announced…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/wilsbach-airmen-epic-fury-battlefield-promotions-dude-44-rescue/",
+    "day": "2026-09-14",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/55528492220_bd5c4a7603_6k-900x600.jpg"
+   },
+   {
+    "headline": "New DUDE 44 Rescue Footage Reveals More About Aircraft Used in Iran Operation",
+    "summary": "Newly declassified footage aired by ’60 Minutes’ offers a closer look at the complex rescue of the F-15E crew shot down over Iran, including the previously reported C-295W and a deliberately blurred Little Bird whose…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/09/14/new-dude-44-rescue-footage/",
+    "day": "2026-09-14",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/09/IranRescueInterview_top.jpg"
+   },
+   {
+    "headline": "Anduril’s YFQ-44A Fury CCA Has Flown Alongside F-35s",
+    "summary": "The YFQ-44 Fury has already taken to the skies alongside fifth-gen fighters as the company works toward a true crewed-uncrewed teaming demonstration. The post Anduril’s YFQ-44A Fury CCA Has Flown Alongside F-35s…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/air/andurils-yfq-44a-fury-cca-has-flown-alongside-f-35s",
+    "day": "2026-09-14",
+    "img": "https://www.twz.com/wp-content/uploads/2026/09/Fury-CCA-1.jpg?quality=85"
+   },
+   {
+    "headline": "‘It’s not science fiction’: US Air Force must build trust in AI, says expert",
+    "summary": "The military must work on how to combat fast and reckless enemy AI agents that don’t necessarily operate with the same oversight, according to experts.",
+    "source": "Defense News",
+    "url": "https://www.defensenews.com/air/2026/09/14/its-not-science-fiction-us-air-force-must-build-trust-in-ai-says-expert/",
+    "day": "2026-09-14",
+    "img": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/WJML53ZNFBGJBNEUGFTI4SOPKA.jpg"
+   },
+   {
     "headline": "US already has weapons in orbit, Air Force secretary reveals",
     "summary": "The United States has weapons in orbit to defend its forces against hostile action, Air Force Secretary Troy… The post US already has weapons in orbit, Air Force secretary reveals appeared first on AeroTime .",
     "source": "AeroTime",
@@ -6373,86 +6453,6 @@
     "url": "https://www.twz.com/air/first-look-at-general-atomics-wildfire-its-successor-to-the-mq-9-reaper",
     "day": "2026-09-09",
     "img": "https://www.twz.com/wp-content/uploads/2026/09/general-atomics-wildfire-mq-9-successor-first-look_60d11c.jpg?quality=85"
-   },
-   {
-    "headline": "Saab tapped to continue work on Sweden’s next flagship fighter jet",
-    "summary": "The Swedish government has tapped Saab to continue work on a next-generation fighter jet concept, keeping a wholly domestic iron in the fire.",
-    "source": "Defense News",
-    "url": "https://www.defensenews.com/global/europe/2026/09/09/saab-tapped-to-continue-work-on-swedens-next-flagship-fighter-jet/",
-    "day": "2026-09-09",
-    "img": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XSEVXALHNNFXHIIH3MQP2CR43U.jpg"
-   },
-   {
-    "headline": "Anduril doubles down on Poland with autonomous aircraft pitch for F-35, Apache",
-    "summary": "U.S. tech company Anduril is pitching two drone types to accompany Poland's envisioned fleets of F-35 fighter jets and Apache attack helicopters.",
-    "source": "Defense News",
-    "url": "https://www.defensenews.com/global/europe/2026/09/09/anduril-doubles-down-on-poland-with-autonomous-aircraft-pitch-for-f-35-apache/",
-    "day": "2026-09-09",
-    "img": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/V6I2UDVZG5GU5OE7Y47WN3WP5Q.jpg"
-   },
-   {
-    "headline": "US Navy’s next-generation fighter decision to be unveiled soon, sources say",
-    "summary": "The program, currently unnamed but designated F/A-XX, has been buffeted by delays and funding disputes for years.",
-    "source": "Defense News",
-    "url": "https://www.defensenews.com/news/your-military/2026/09/09/us-navys-next-generation-fighter-decision-to-be-unveiled-soon-sources-say/",
-    "day": "2026-09-09",
-    "img": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TXGOMRWIQBGFXGOB64RKHTERYU.JPG"
-   },
-   {
-    "headline": "Covenant unveils Anthem long-range missile, targets 5,000 units a year from Texas",
-    "summary": "Covenant, a defense company headquartered in Washington, DC, announced a ground-launched strike weapon called Anthem and said it… The post Covenant unveils Anthem long-range missile, targets 5,000 units a year from…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/covenant-unveils-anthem-long-range-missile-targets-5000-units-a-year-from-texas",
-    "day": "2026-09-09",
-    "img": "https://www.aerotime.aero/images/2026/09/Covenant-Anthem-long-range-strike-weapon-in-flight.jpg"
-   },
-   {
-    "headline": "French Navy receives first two Falcon Albatros surveillance aircraft",
-    "summary": "The Direction générale de l’armement (DGA), the French defense procurement agency, has accepted the development phase and the… The post French Navy receives first two Falcon Albatros surveillance aircraft appeared first…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/french-navy-first-falcon-albatros-surveillance-aircraft",
-    "day": "2026-09-09",
-    "img": "https://www.aerotime.aero/images/a_falcon_2000_albatros_maritime_patrol_aircraft.jpg"
-   },
-   {
-    "headline": "US builds special B-21 hangar at Whiteman to check bomber’s stealth",
-    "summary": "The US Army Corps of Engineers has awarded Conti Federal Services a contract to build a specialized hangar… The post US builds special B-21 hangar at Whiteman to check bomber’s stealth appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/us-b21-raider-radio-frequency-hangar-whiteman-contract",
-    "day": "2026-09-09",
-    "img": "https://www.aerotime.aero/images/Northrop-Grumman-B-21-Raider-hangar.jpg"
-   },
-   {
-    "headline": "Globally Deployed, Combat Proven – All Platforms, All Weapons, One Solution",
-    "summary": "Today’s armament maintainers are tasked with performing flightline (O-Level) maintenance with an assortment of legacy test sets that greatly limit the ability to quickly and efficiently verify armament system readiness…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/globally-deployed-combat-proven-all-platforms-all-weapons-one-solution-3/",
-    "day": "2026-09-09",
-    "img": "https://www.airandspaceforces.com/app/uploads/2024/05/smartcanbg-2-900x600.jpg"
-   },
-   {
-    "headline": "Italy Orders Two More MQ-9A Block 5 Drones",
-    "summary": "The Italian Air Force has ordered two additional MQ-9A Block 5 Remotely Piloted Aircraft, which will be delivered by the end of 2027 together with new Ground Control Stations. General Atomics Aeronautical Systems, Inc.…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/09/italy-orders-two-more-mq-9a-block-5-drones/",
-    "day": "2026-09-09",
-    "img": "https://theaviationist.com/wp-content/uploads/2024/09/Italian_MQ-9_Block5_1.jpg"
-   },
-   {
-    "headline": "What to know about Europe’s next-gen fighter programs",
-    "summary": "FCAS? GCAP? Upgraded Eurofighter Typhoons? The Breaking Defense roundtable walks you through the options on the table.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/09/what-to-know-about-europes-next-gen-fighter-programs/",
-    "day": "2026-09-09",
-    "img": null
-   },
-   {
-    "headline": "Everything We Know About The U.S. Navy’s Submersible Drone Iran Just Captured",
-    "summary": "Anduril's Dive-LD uncrewed underwater vehicle falling into Iranian hands is significant, but the system was designed to be risked in contested waters. The post Everything We Know About The U.S. Navy’s Submersible Drone…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/sea/everything-we-know-about-the-u-s-navys-submersible-drone-iran-just-captured",
-    "day": "2026-09-09",
-    "img": "https://www.twz.com/wp-content/uploads/2026/09/anduril-dive-ld-iran-capture.jpg?quality=85"
    }
   ],
   "others": []
