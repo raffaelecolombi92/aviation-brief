@@ -1,7 +1,39 @@
 {
- "generated": "2026-09-16T02:55+00:00",
+ "generated": "2026-09-16T08:12+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Qantas Just Put Widebody-Grade Business Suites With Doors On A Narrowbody Airbus A321XLR",
+    "summary": "Qantas' new lie-flat business class sets new expectations for its widebody fleet.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/qantas-put-widebody-grade-business-suites-doors-narrowbody-airbus-a321xlr/",
+    "day": "2026-09-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/narrowbody-airbus-a321xlr.png"
+   },
+   {
+    "headline": "British Airways Secretly Rates Its Most Loyal Passengers, Blogger Finds",
+    "summary": "A hidden passenger score ranks loyalty and spending to decide who gets rebooked first during disruptions.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/british-airways-secret-rates-loyal-passenger/",
+    "day": "2026-09-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/ba-oneworld777.jpg"
+   },
+   {
+    "headline": "American Airlines Is Reportedly Blocking A321XLR Business Suites Over Faulty Seat Controls",
+    "summary": "Multiple Flagship Suites on American's A321XLRs are being sidelined after repeated control glitches leave lie-flat seats stuck.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-airbus-a321xlr-blocked-business-class-suites/",
+    "day": "2026-09-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/american-airlines-airbus-a321xlr-flagship-business-suite-1.jpg"
+   },
+   {
+    "headline": "How Etihad Is Using Its Widebody Fleet To Add Capacity Where Demand Is Strongest",
+    "summary": "Etihad is moving its biggest aircraft to the markets showing the strongest demand, from Paris and Tokyo to high-capacity Dhaka.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/etihad-widebody-fleet-capacity-route-demand/",
+    "day": "2026-09-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/etihad-airbus-a380-20260901-170358-1-1.jpg"
+   },
    {
     "headline": "Business Class Is No Longer Just For Frequent Flyers & Cabin Crew Are Noticing The Difference",
     "summary": "There has been a huge growth in business class travel, driven by the growth in the premium leisure travel market.",
@@ -929,41 +961,25 @@
     "url": "https://simpleflying.com/us-senators-delta-air-lines-remain-neutral-flight-attendant-union/",
     "day": "2026-09-10",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2754405543-1.jpg"
-   },
-   {
-    "headline": "United cancels Denver 9/11 flyover after community concerns",
-    "summary": "United Airlines has canceled a planned Boeing 777 flyover with F-16 fighter escorts in Denver after community concerns… The post United cancels Denver 9/11 flyover after community concerns appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/united-cancels-denver-911-memorial-flyover",
-    "day": "2026-09-10",
-    "img": "https://www.aerotime.aero/images/United-Airlines-Boeing-777-landing-at-Frankfurt-Airport-FRA.jpg"
-   },
-   {
-    "headline": "Air Cairo Expands NW26 Istanbul Network",
-    "summary": "Published at 1500PDT / 2200GMT 10SEP26 Air Cairo during Northern winter 2026/27 season plans to expand service to Türkiye, with the launch of Hurghada – Istanbul and Sharm el Sheikh – Istanbul route. Hurghada – Istanbul…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260910-smnw26ist",
-    "day": "2026-09-10",
-    "img": null
-   },
-   {
-    "headline": "Air Cairo Adds El Dabaa (El Alamein) – Moscow Service From Sep 2026",
-    "summary": "Published at 1400PDT / 2100GMT 10SEP26 Air Cairo this week launched new route to Russia, which saw the inaugural of El Dabaa (El Alamein) – Moscow Sheremetyevo route on 09SEP26. This route is operated by Airbus A320neo…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260910-smsep26svo",
-    "day": "2026-09-10",
-    "img": null
-   },
-   {
-    "headline": "American Airlines Ends Partnership With Hyatt, Leading To New Agreement With Delta Air Lines",
-    "summary": "The partnership will end when the contract term ends in November, but existing members have a short grace period.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-ends-partnership-hyatt-new-agreement-delta/",
-    "day": "2026-09-10",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/delta_dusk_arrival_into_anchorage_-43800864195.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "London Gatwick Airport issues major food & beverage tender",
+    "summary": "The opportunities include six bars and restaurants in around 3,800sq m of space across London Gatwick’s North and South terminals and come to market amid an exciting expansion phase for the airport.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/london-gatwick-issues-major-food-beverage-tender/?utm_source=rss&utm_medium=rss&utm_campaign=london-gatwick-issues-major-food-beverage-tender",
+    "day": "2026-09-16",
+    "img": null
+   },
+   {
+    "headline": "Stockholm Arlanda led the way for punctuality this summer",
+    "summary": "Sweden’s largest gateway, Stockholm Arlanda, has been named Europe’s most punctual airport this summer, based on Eurocontrol data. According to operator, Swedavia, strong collaboration between all airport stakeholders…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/stockholm-arlanda-leads-the-way-for/?utm_source=rss&utm_medium=rss&utm_campaign=stockholm-arlanda-leads-the-way-for",
+    "day": "2026-09-16",
+    "img": null
+   },
    {
     "headline": "Singapore Airlines Confirms Major Change To 11-Hour A380 Route: See Flights Now",
     "summary": "The move reshuffles A380 routes as Dubai services swap to A350s while Auckland links feed dozens of onward destinations.",
@@ -1907,25 +1923,25 @@
     "url": "https://simpleflying.com/british-airways-launches-3-nonstop-routes-from-gatwick-in-3-months/",
     "day": "2026-09-08",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/107-british-airways-boeing-777-200-felix-tchvertkin-_-shutterstock.jpg"
-   },
-   {
-    "headline": "\"Pretty Traumatic\": Delta Boeing 737 Drops To 9,000 Feet As Oxygen Masks Deploy",
-    "summary": "The short flight was interrupted by an emergency landing.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-boeing-737-traumatic-9000-feet-oxygen-masks-las-vegas/",
-    "day": "2026-09-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/delta-airlines-boeing-737-800-n3768-landing-on-runway-26-at-phoenix-sky-harbor-intl-airport.jpg"
-   },
-   {
-    "headline": "Two killed after Cessna crashes at San Diego’s Montgomery-Gibbs Airport",
-    "summary": "Two people died when a small Cessna Skyhawk aircraft crashed and caught fire on a runway at Montgomery-Gibbs… The post Two killed after Cessna crashes at San Diego’s Montgomery-Gibbs Airport appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/two-killed-after-cessna-crashes-at-san-diegos-montgomery-gibbs-airport",
-    "day": "2026-09-08",
-    "img": "https://www.aerotime.aero/images/2026/09/Untitled-design-64.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Boeing Close To Salvaging Deal For 150 Turkish Airlines 737 MAXs After CFM Engine Dispute",
+    "summary": "Update comes as Turkish Airlines is pushing to expand its operations out of Istanbul.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/boeing-salvaging-deal-150-turkish-airlines-737-maxs-cfm-engine-dispute/",
+    "day": "2026-09-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_1854534472.jpg"
+   },
+   {
+    "headline": "Korean Air Finalizes Record-Breaking 103 Boeing 777X, 787, 737-10 Aircraft Order",
+    "summary": "The largest-ever order placed in Korean Air's history will see greatly increased capacity across both widebody and narrowbody fleets.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/korean-air-record-breaking-103-boeing-777x-787-737-10-order/",
+    "day": "2026-09-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2024/07/korean-air-777x-and-787-10-render.jpg"
+   },
    {
     "headline": "The Embraer E195-E2's Unique Engine Placement That Sets It Apart From Every Other Regional Jet",
     "summary": "The E195-E2's engine fan is 21 inches wider than the one it replaced. Fitting it required a gull wing, taller gear, and three bespoke wing designs.",
@@ -2869,22 +2885,6 @@
     "url": "https://avitrader.com/2026/09/08/iai-converted-a330-300-freighter-completes-maiden-flight/",
     "day": "2026-09-08",
     "img": null
-   },
-   {
-    "headline": "The 382-Seat Airbus Replacing This Airline's Boeing 777 On 15-Hour Pacific Routes",
-    "summary": "The carrier is planning to grow again.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/382-seat-airbus-replacing-airline-boeing-777-15-hour-pacific-routes/",
-    "day": "2026-09-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/boeing-777-on-15-hour-pacific-routes.png"
-   },
-   {
-    "headline": "5 Airlines With The World's Most Superior Premium Economy Seats For Transatlantic Flights",
-    "summary": "Often, a good premium economy experience boils down to more about the service and catering than the seat itself.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/5-airlines-worlds-superior-premium-economy-seats-for-transatlantic-flights/",
-    "day": "2026-09-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/super-premium-economy.jpg"
    }
   ],
   "finance": [
@@ -3570,6 +3570,14 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "BAJit private jet broker OneFlight is pausing flights for 30 days",
+    "summary": "Multiple sources tell Private Jet Card Comparisons that OneFlight is pausing flights for at least 30 days. The post BAJit private jet broker OneFlight is pausing flights for 30 days appeared first on Private Jet Card…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/09/15/bajit-private-jet-broker-oneflight-is-pausing-flights-for-30-days/",
+    "day": "2026-09-16",
+    "img": null
+   },
    {
     "headline": "After FlyExclusive deal, Jet AI is still selling on-demand charter",
     "summary": "Alongside its new focus on data centers, Look Book & Fly by Jet Token offers a dynamic pricing charter deposit program The post After FlyExclusive deal, Jet AI is still selling on-demand charter appeared first on…",
@@ -4521,17 +4529,17 @@
     "url": "https://www.businessairportinternational.com/news/air-charter-service-flies-eclipse-watchers-to-spain-for-path-of-totality.html",
     "day": "2026-08-18",
     "img": null
-   },
-   {
-    "headline": "NOEMI Aerospace signs MoU for up to five electric seaplanes in the Philippines",
-    "summary": "Norwegian electric aircraft developer NOEMI Aerospace has signed a memorandum of understanding with Philippine seaplane operator Horizon Sun Charters (HSC) for three amphibious aircraft, with options for a further two.…",
-    "source": "Business Airport International",
-    "url": "https://www.businessairportinternational.com/news/noemi-aerospace-signs-mou-for-up-to-five-electric-seaplanes-in-the-philippines.html",
-    "day": "2026-08-18",
-    "img": null
    }
   ],
   "policy": [
+   {
+    "headline": "Heathrow expansion incompatible with climate targets, advises UK government watchdog",
+    "summary": "The UK’s independent statutory Climate Change Committee has advised the government that expansion of Heathrow...",
+    "source": "GreenAir News",
+    "url": "https://www.greenairnews.com/?p=9517&utm_source=rss&utm_medium=rss&utm_campaign=heathrow-expansion-incompatible-with-climate-targets-advises-uk-government-watchdog",
+    "day": "2026-09-16",
+    "img": null
+   },
    {
     "headline": "Amazon pauses 21 Air operations after deadly Miami 767 runway overrun",
     "summary": "Amazon has paused its use of 21 Air, the cargo carrier that operated the Boeing 767 freighter that overran a runway… The post Amazon pauses 21 Air operations after deadly Miami 767 runway overrun appeared first on…",
@@ -5483,17 +5491,17 @@
     "url": "https://www.aerotime.aero/articles/more-than-700-drones-seized-by-faa-led-counter-drone-effort-during-world-cup-26",
     "day": "2026-07-23",
     "img": "https://www.aerotime.aero/images/2026/07/Untitled-design-50.jpg"
-   },
-   {
-    "headline": "Sikorsky, Safran to explore cooperation on future rotorcraft",
-    "summary": "Sikorsky and Safran Helicopter Engines have signed an agreement to explore closer cooperation on existing and next-generation vertical lift platforms, expanding a partnership that spans more than four decades. The…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/07/23/sikorsky-safran-to-explore-cooperation-on-future-rotorcraft/",
-    "day": "2026-07-23",
-    "img": null
    }
   ],
   "defense": [
+   {
+    "headline": "AGM-190 Havoc Spear Small Cruise Missile Undergoes New Trials",
+    "summary": "The AFSOC said the latest combat evaluation took place this spring within U.S. Africa Command’s area of responsibility, with the missile employed from an AFSOC platform in a “test configuration.” The AGM-190A Havoc…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/09/16/agm-190-havoc-spear-new-trials/",
+    "day": "2026-09-16",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/09/AFSOC-Havoc-Spear-1.jpg"
+   },
    {
     "headline": "The 6 Largest Military Air Bases In The United States By Land Area",
     "summary": "Some US military air bases are so vast that their runways are almost an afterthought. Here are America's six largest by land area.",
@@ -6445,14 +6453,6 @@
     "url": "https://simpleflying.com/5-forgotten-pacific-airfields-history-quietly-returning-frontline-usaf-service-2026/",
     "day": "2026-09-10",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/5-forgotten-pacific-airfields.png"
-   },
-   {
-    "headline": "Space Force Taps Texas Site for New Deep Space Radar, Targets Operations in 2030",
-    "summary": "The Space Force has selected a site in north Texas as the preferred location for the final site of its new Deep Space Advanced Radar Capability, the service announced Sept. 9. The post Space Force Taps Texas Site for…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/space-force-texas-site-new-deep-space-radar/",
-    "day": "2026-09-10",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/250219-X-FC312-1003-e1789066548785-900x453.png"
    }
   ],
   "others": []
