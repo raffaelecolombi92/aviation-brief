@@ -1,7 +1,23 @@
 {
- "generated": "2026-09-15T23:22+00:00",
+ "generated": "2026-09-16T02:55+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Business Class Is No Longer Just For Frequent Flyers & Cabin Crew Are Noticing The Difference",
+    "summary": "There has been a huge growth in business class travel, driven by the growth in the premium leisure travel market.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/business-class-no-longer-frequent-flyers-cabin-crew-notice-the-difference/",
+    "day": "2026-09-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/cabin-crew.jpg"
+   },
+   {
+    "headline": "16-Hour Flights: Air New Zealand's 13 New Ultra-Long Nonstop Routes Revealed",
+    "summary": "Here are the airline's longest nonstop routes.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/16-hour-flights-air-new-zealands-longest-flights/",
+    "day": "2026-09-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/061-air-new-zealand-boeing-787-janice-chen-steve-worner-_-shutterstock.jpg"
+   },
    {
     "headline": "Delta Air Lines Cancels 17 International Routes: See Affected Flights Now",
     "summary": "The routes are spread across Europe, the Caribbean, Mexico and Central America, South America, and Oceania.",
@@ -945,25 +961,17 @@
     "url": "https://simpleflying.com/american-airlines-ends-partnership-hyatt-new-agreement-delta/",
     "day": "2026-09-10",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/delta_dusk_arrival_into_anchorage_-43800864195.jpg"
-   },
-   {
-    "headline": "Airlink Adds Port Elizabeth – Nelspruit From mid-Nov 2026",
-    "summary": "Published at 1300PDT / 2000GMT 10SEP26 South African carrier Airlink during Northern winter 2026/27 season plans to launch new domestic route, operating Port Elizabeth – Nelspruit (Kruger Mpumalanga) route. Embraer…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260910-4znov26mqp",
-    "day": "2026-09-10",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Kenya Airways NW26 Bangkok / Guangzhou Frequency Reductions",
-    "summary": "Published at 1200PDT / 1900GMT 10SEP26 Kenya Airways in recent schedule update revised planned operations on Nairobi – Bangkok Suvarnabhumi – Guangzhou route for Northern winter 2026/27 season. The Skyteam member…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260910-kqnw26bkkcan",
-    "day": "2026-09-10",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "Singapore Airlines Confirms Major Change To 11-Hour A380 Route: See Flights Now",
+    "summary": "The move reshuffles A380 routes as Dubai services swap to A350s while Auckland links feed dozens of onward destinations.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/singapore-airlines-major-change-a380-route/",
+    "day": "2026-09-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/singapore-airlines-a380-800-leaving-tokyo-narita-ryken-papy-1.jpg"
+   },
    {
     "headline": "NTSB Rejects 33% Of FAA Responses To 2025 Washington DC Crash Safety Recommendations As “Unacceptable”",
     "summary": "The NTSB says one-third of the FAA’s responses to post-DCA safety recommendations still fail to address critical risks.",
@@ -1915,14 +1923,6 @@
     "url": "https://www.aerotime.aero/articles/two-killed-after-cessna-crashes-at-san-diegos-montgomery-gibbs-airport",
     "day": "2026-09-08",
     "img": "https://www.aerotime.aero/images/2026/09/Untitled-design-64.jpg"
-   },
-   {
-    "headline": "Exclusive: Schiphol Group set to issue major airport advertising tender",
-    "summary": "The Schiphol Group tender spans three packages, with contracts to run until December 2032, as the airport company prepares to outsource its advertising and media activities.",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/exclusive-schiphol-group-set-to-issue-major-airport-advertising-tender/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-schiphol-group-set-to-issue-major-airport-advertising-tender",
-    "day": "2026-09-08",
-    "img": null
    }
   ],
   "fleet": [
@@ -5495,6 +5495,54 @@
   ],
   "defense": [
    {
+    "headline": "The 6 Largest Military Air Bases In The United States By Land Area",
+    "summary": "Some US military air bases are so vast that their runways are almost an afterthought. Here are America's six largest by land area.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/largest-us-military-air-bases-land-area/",
+    "day": "2026-09-16",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/airforcebase-20260901-155509.jpg"
+   },
+   {
+    "headline": "NASA Boss: Race to Moon Has National Security Stakes",
+    "summary": "NASA is pushing hard to get astronauts back to the moon by 2028—and the urgency is driven in no small part by the national security implications of doing so before China does, Administrator Jared Isaacman said Sept. 15.…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/nasa-administrator-moon-race-china-national-security-stakes/",
+    "day": "2026-09-16",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/55529197402_80a3b264e3_o-900x600.jpg"
+   },
+   {
+    "headline": "WATCH: Simulating Complex Threats in the Pacific with CAE",
+    "summary": "At AFA’s Air, Space & Cyber Conference, CAE takes Air & Space Forces Magazine behind the scenes of Valiant Shield 26, a Pacific exercise in June and July of 2026 focused on integrated air and missile defense and the…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/watch-simulating-complex-threats-in-the-pacific-with-cae/",
+    "day": "2026-09-16",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/Valiant-Shield-26-LVC-900x600.jpg"
+   },
+   {
+    "headline": "USAF’s Fighter Drones To Make Debut In A Large Scale Exercise",
+    "summary": "Exercise Emerald Flag will give the USAF a completely new opportunity to test how its CCA drones work together with crewed assets. The post USAF’s Fighter Drones To Make Debut In A Large Scale Exercise appeared first on…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/air/usafs-fighter-drones-to-make-debut-in-a-large-scale-exercise",
+    "day": "2026-09-16",
+    "img": "https://www.twz.com/wp-content/uploads/2026/09/cca-drones-first-large-scale-exercise-emerald-flag.jpg?quality=85"
+   },
+   {
+    "headline": "AETC Boss Maps Path for New T-7 to Reach Initial Operational Capability",
+    "summary": "The Air Force is targeting August 2027 for its new T-7A Red Hawk trainer jet to reach its initial operational capability. To get there, the head of Air and Education Training has three milestones he needs to see the…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/aetc-boss-path-to-ioc-new-t-7/",
+    "day": "2026-09-15",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/01/9469339-900x600.jpg"
+   },
+   {
+    "headline": "First Sentinel ICBM Fully Assembled for Planned 2027 Test Launch",
+    "summary": "An LGM-35A Sentinel intercontinental ballistic missile (ICBM) has been vertically stacked at Vandenberg Space Force Base, California, as preparations continue ahead of the missile’s anticipated first test launch next…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/09/16/first-sentinel-icbm-stacked/",
+    "day": "2026-09-15",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/09/SentinelVerticalStacking_1.jpg"
+   },
+   {
     "headline": "How Europe's F-35 Fleet Has Grown Over The Last 12 Months",
     "summary": "Europe has likely received more than three dozen F-35s over the last year making it the continent's fastest growing fighter jet.",
     "source": "Simple Flying",
@@ -6405,54 +6453,6 @@
     "url": "https://www.airandspaceforces.com/space-force-texas-site-new-deep-space-radar/",
     "day": "2026-09-10",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/09/250219-X-FC312-1003-e1789066548785-900x453.png"
-   },
-   {
-    "headline": "Israeli military creates new branch focused on AI, drones and robotics",
-    "summary": "“The battlefield is changing at a dizzying pace, and we are changing with it,” Israeli military Chief of Staff Lt. Gen. Eyal Zamir said.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/09/israeli-military-creates-new-branch-focused-on-ai-drones-and-robotics/",
-    "day": "2026-09-10",
-    "img": null
-   },
-   {
-    "headline": "Why A Fake $999,999 SR-71 Ride Went Viral While The Real Blackbird Sits In A Georgia Museum",
-    "summary": "The tall tale that set off an online frenzy for unbelievable seat tickets.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-fake-sr-71-ride-viral-real-blackbird-sits-georgia-museum/",
-    "day": "2026-09-10",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/fake-999-999-sr-71-ride.png"
-   },
-   {
-    "headline": "France orders eight Airbus U050 Capa-X drones after trials",
-    "summary": "The French armed forces have ordered eight Airbus U050 Capa-X uncrewed aircraft for the French Army and Navy… The post France orders eight Airbus U050 Capa-X drones after trials appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/france-airbus-u050-capa-x-drone-order",
-    "day": "2026-09-10",
-    "img": "https://www.aerotime.aero/images/2026/09/Airbus-U050-Capa-X-drone-in-flight.jpg"
-   },
-   {
-    "headline": "General Atomics unveils Wildfire drone as lower-cost MQ-9 Reaper successor",
-    "summary": "General Atomics Aeronautical Systems (GA-ASI) has unveiled Wildfire, a clean-sheet uncrewed aircraft it is currently offering to the US Air Force (USAF) as a… The post General Atomics unveils Wildfire drone as…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/general-atomics-wildfire-drone-mq-9-reaper-successor",
-    "day": "2026-09-10",
-    "img": "https://www.aerotime.aero/images/2026/09/General-Atomics-Wildfire-uncrewed-aircraft-system-concept-1.jpg"
-   },
-   {
-    "headline": "Global Strike ‘Campaign’ Aims to Speed Up B-1, B-52 Maintenance, Parts Supply",
-    "summary": "One year into a new campaign to boost readiness rates for the B-1B Lancer and B-52H Stratofortress bombers, Air Force Global Strike Command is claiming some early wins and planning to forge ahead with more improvements.…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/global-strike-campaign-b-1-b-52-maintenance-parts-supply/",
-    "day": "2026-09-10",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/B-1-maintenance-900x600.jpeg"
-   },
-   {
-    "headline": "USAF’s Only Aerial Spray Unit Squeezed by Demand, Aging Equipment, Slow Modernization",
-    "summary": "Over the past few months and peaking in August, crews with the 910th Airlift Wing out of Youngstown Air Reserve Station, Ohio, have been running nighttime, low-flying missions to kill a ubiquitous and deadly adversary…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/usaf-only-aerial-spray-unit-high-demand-aging-equipment/",
-    "day": "2026-09-10",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/9023812-900x600.jpg"
    }
   ],
   "others": []
