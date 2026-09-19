@@ -1,7 +1,47 @@
 {
- "generated": "2026-09-18T22:58+00:00",
+ "generated": "2026-09-19T02:44+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "TUI 1Q27 One-Time London Stansted – La Romana Flight",
+    "summary": "Published at 1900PDT 18SEP26 / 0200GMT 19SEP26 TUI Airways in the first quarter of 2027 schedules one-time London Stansted – La Romana flight, on board Boeing 787-8. Stansted departure is scheduled on 16FEB27, La Romana…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260918-tom1q27stnlrm",
+    "day": "2026-09-19",
+    "img": null
+   },
+   {
+    "headline": "Aurigny Adds Seasonal Jersey – Grenoble Route in NW26",
+    "summary": "Published at 1800PDT 18SEP26 / 0100GMT 19SEP26 Aurigny during Northern winter 2026/27 season plans to add seasonal Jersey – Grenoble route, on board ATR72 aircraft. The airline plans to serve this route on weekly basis…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260918-grnw26gnb",
+    "day": "2026-09-19",
+    "img": null
+   },
+   {
+    "headline": "SkyAlps Oct 2026 One-Time Salzburg – Skelleftea Flight",
+    "summary": "Published at 1701PDT 18SEP26 / 0001GMT 19SEP26 SkyAlps in mid-October 2026 schedules one-time service to Sweden, with Salzburg – Skelleftea route scheduled on 12 and 14OCT26, on board Dash 8-Q400 aircraft. BQ2302…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260918-bqoct26sft",
+    "day": "2026-09-19",
+    "img": null
+   },
+   {
+    "headline": "Air New Zealand's Last Grounded Boeing 787 Just Left The Australian Desert After 9 Months",
+    "summary": "The airline has now finally put the Trent 1000 disruption behind it.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/air-new-zealand-last-grounded-boeing-787-left-australian-desert-9-months/",
+    "day": "2026-09-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/air-new-zealand.png"
+   },
+   {
+    "headline": "Cathay Pacific Extends Almaty Schedules into late-Oct 2027",
+    "summary": "Published at 1600PDT / 2300GMT 18SEP26 Cathay Pacific this week opened reservations for Kazakhstan passenger service during Northern summer 2027 season, effective 30MAR27. The Oneworld member continues to operate Hong…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260918-cxns27ala",
+    "day": "2026-09-18",
+    "img": null
+   },
    {
     "headline": "How Much Does A Delta Premium Select Upgrade Actually Cost On Its Longest Routes?",
     "summary": "What you'll be paying for a wider seat and more legroom.",
@@ -921,46 +961,6 @@
     "url": "https://www.aeroroutes.com/eng/260914-nhnw26hnd",
     "day": "2026-09-15",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Virgin Atlantic Accelerates A330-300 Retirements As SAS Takes On Its Oldest Widebodies",
-    "summary": "The airline is onboarding new A330neos as SAS looks to quickly expand its widebody fleet.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/virgin-atlantic-accelerates-a330-300-retirements-sas-oldest-widebodies/",
-    "day": "2026-09-14",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/593-virgin-atlantic-airbus-a330-300-markus-mainka-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Why United Airlines' New Airbus A321XLR Needs A Completely Different Fuel System",
-    "summary": "Extended range is allowing United to connect new city pairs, but not without some consideration.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/united-airbus-a321xlr-different-fuel-system/",
-    "day": "2026-09-14",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/united-airlines_xlr_borntoexplore_march-2026_cropped-20260831-172926.jpg"
-   },
-   {
-    "headline": "Air Canada Plans Record 62 Nonstop Routes To Europe: See All Flights Now",
-    "summary": "The carrier has been aggressively growing its transatlantic footprint.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/air-canada-record-european-summer/",
-    "day": "2026-09-14",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/copy-of-3-air-canada-airbus-a330-peter-bueno-_-shutterstock.jpg"
-   },
-   {
-    "headline": "The Real Reason Why Delta Air Lines Is Retiring Its Boeing 757s Gradually Instead Of All At Once",
-    "summary": "Replacing its 757s is far easier said than done for Delta.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-air-lines-boeing-757-gradual-retirement/",
-    "day": "2026-09-14",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/still-flying-1-20260831-173133.jpg"
-   },
-   {
-    "headline": "Why A Brand-New US Airline Is Launching In 2027 With Zero Passenger Seats",
-    "summary": "The new airline start-up is using the name of a long-gone carrier.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/brand-new-us-airline-launching-2027-zero-passenger-seats/",
-    "day": "2026-09-14",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/zero-passenger-seats.png"
    }
   ],
   "airports": [
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "The 12,460-Mile Test Flight That Just Put Airbus Years Ahead Of Boeing's Stalled 777X",
+    "summary": "The Airbus A350-1000ULR has bought about a leap forward in the ultra-long-haul space.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/12460-mile-test-flight-airbus-years-ahead-boeing-stalled-777x/",
+    "day": "2026-09-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/12-460-mile-test-flight.png"
+   },
+   {
     "headline": "How Skunk Works Traced The SR-71's Cracking Titanium To Burbank's Summer Tap Water",
     "summary": "The SR-71's titanium cracking mystery led Skunk Works from failed summer welds to chlorinated Burbank tap water—and a remarkably simple fix.",
     "source": "Simple Flying",
@@ -2877,14 +2885,6 @@
     "url": "https://avitrader.com/2026/09/11/bombardiers-global-8000-cleared-for-london-city/",
     "day": "2026-09-11",
     "img": null
-   },
-   {
-    "headline": "‘We don’t see eVTOLs as our competitors’: Horizon CEO sets sights on true rival",
-    "summary": "Horizon Aircraft CEO Brandon Robinson knows a few things about fast aircraft having flown CF-18 Hornet fighters in… The post ‘We don’t see eVTOLs as our competitors’: Horizon CEO sets sights on true rival appeared first…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/horizon-aircraft-brandon-robbinson-helicopter-evtol",
-    "day": "2026-09-11",
-    "img": "https://www.aerotime.aero/images/2026/09/Horizon-Aircraft-CEO-Brandon-Robinson.jpg"
    }
   ],
   "finance": [
@@ -5511,6 +5511,22 @@
   ],
   "defense": [
    {
+    "headline": "How Much Do Fighter Pilots Earn Vs. Commercial Airline Pilots In 2026?",
+    "summary": "A closer look at what pilots earn in both fields around the world.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-much-fighter-pilots-earn-vs-commercial-pilots-2026/",
+    "day": "2026-09-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/vs.jpg"
+   },
+   {
+    "headline": "Why The US Navy Waited A Decade To Give Super Hornet Pilots The Air Force's Life-Saving Auto GCAS",
+    "summary": "The US Navy is finally bringing Auto-GCAS to its F/A-18 fleet, adding a critical layer of protection against potentially fatal ground collisions.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-us-navy-waited-decade-give-super-hornet-pilots-air-forces-life-saving-auto-gcas/",
+    "day": "2026-09-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/cover-image-f-18.png"
+   },
+   {
     "headline": "5 Air Force Bases Spending Billions To Prepare For The B-21 Raider's Arrival",
     "summary": "The B-21 may be the aircraft of the future, but getting it to the flight line requires rebuilding bases designed for bombers of the past.",
     "source": "Simple Flying",
@@ -6453,22 +6469,6 @@
     "url": "https://theaviationist.com/2026/09/15/boeing-awarded-lrip-contract-for-mq-25-stingray/",
     "day": "2026-09-15",
     "img": "https://theaviationist.com/wp-content/uploads/2026/09/260914-N-N0100-1001.jpg"
-   },
-   {
-    "headline": "Lockheed Martin Expands Vectis Production With Four Additional Aircraft",
-    "summary": "Skunk Works is moving ahead with four additional Vectis vehicles as the company accelerates development of its Group 5 collaborative combat aircraft toward a planned first flight in 2027. Lockheed Martin is…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/15/lockheed-martin-expands-vectis-production/",
-    "day": "2026-09-15",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/09/VectisSingle_OverSnowyMountains_Vectisv2SimGVersion_LowRes.jpg"
-   },
-   {
-    "headline": "Italian fighter jets shoot down unidentified drone over Lithuania",
-    "summary": "The incident marks the second time in 30 days that the Italian Air Force has responded to airspace incursions.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/09/italian-fighter-jets-shoot-down-unidentified-drone-over-lithuania/",
-    "day": "2026-09-15",
-    "img": null
    }
   ],
   "others": []
