@@ -1,7 +1,15 @@
 {
- "generated": "2026-09-20T17:52+00:00",
+ "generated": "2026-09-20T20:10+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Southwest Airlines Starts 6 Major New Nonstop Routes To Hawaii: See Flights Now",
+    "summary": "All but one originate in California.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/southwest-airlines-starts-6-new-routes-hawaii/",
+    "day": "2026-09-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2783061639_cropped.jpg"
+   },
    {
     "headline": "The London Court Hearing That Could End The Startup Trying To Revive The Airbus A380",
     "summary": "Could Global Airlines have met its match? A London court hearing may well end operations before they could ever takeoff.",
@@ -953,14 +961,6 @@
     "url": "https://simpleflying.com/frontier-airlines-allowing-passengers-cancel-any-flight-24-hours-before-departure/",
     "day": "2026-09-16",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2677800623-1.jpg"
-   },
-   {
-    "headline": "BermudAir to become world’s second Embraer E190 freighter operator",
-    "summary": "BermudAir will become the world’s second Embraer E190 freighter operator after signing a lease agreement with Miami-based lessor… The post BermudAir to become world’s second Embraer E190 freighter operator appeared…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/bermudair-embraer-e190-freighter-operator",
-    "day": "2026-09-16",
-    "img": "https://www.aerotime.aero/images/2026/09/Embraer-E190-Freighter-Bermudair.jpg"
    }
   ],
   "airports": [
@@ -1927,6 +1927,22 @@
   ],
   "fleet": [
    {
+    "headline": "Wing Production Lag Plagues Boeing’s Hopes To Boost 737 MAX Output To As Many As 63 Monthly Jets",
+    "summary": "Boeing’s 737 MAX production push is hitting a wing bottleneck, delaying its path from 47 to 52 and potentially 63 aircraft per month.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/wing-production-lag-plague-boeing-hopes-boost-737-output-many-as-63-monthly-jets/",
+    "day": "2026-09-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_1467931598_cropped.jpg"
+   },
+   {
+    "headline": "How The GE9X's 134-Inch Fan Creates Problems No Other Jet Engine Faces",
+    "summary": "The engine is set to launch on the Boeing 777X in 2027.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/ge9x-134-inch-fan-creates-problems-no-other-jet-engine-faces/",
+    "day": "2026-09-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/ge9x-134-inch.jpg"
+   },
+   {
     "headline": "Only 255 Were Built, But This Airbus Twinjet Rewrote The Rules Of Ocean Crossings",
     "summary": "Airbus built 255 A310s. Their ETOPS-certified Atlantic crossings helped kill the four-engine widebody.",
     "source": "Simple Flying",
@@ -2869,22 +2885,6 @@
     "url": "https://simpleflying.com/podcast-303/",
     "day": "2026-09-11",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/sf-podcast-cover.jpg"
-   },
-   {
-    "headline": "Avianca turns to Collins and Panasonic for INSIGNIA upgrade on 787s",
-    "summary": "Avianca in 2027 plans to start retrofitting the business class cabins of its Boeing 787s with new doored mini-suites from Collins Aerospace and 4K OLED-based Astrova inflight entertainment with Bluetooth connectivity…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/09/avianca-turns-to-collins-and-panasonic-for-insignia-upgrade-on-787s/",
-    "day": "2026-09-11",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/AVIANCA_INSIGNIA-901-b.jpg"
-   },
-   {
-    "headline": "79 Years Later, Chuck Yeager's Famous Radio Call Still Captures The First Supersonic Flight",
-    "summary": "79 years later, Chuck Yeager’s “screwy Machmeter” radio call still captures the understated moment he broke the sound barrier in the Bell X-1.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/chuck-yeager-sound-barrier-radio-call/",
-    "day": "2026-09-11",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/chuck-yeager-s-famous-radio-call.png"
    }
   ],
   "finance": [
@@ -4549,6 +4549,14 @@
   ],
   "policy": [
    {
+    "headline": "GE Aerospace Is Spending $1 Billion To Fix The Engine Shop-Visit Crunch Airlines Can't Escape",
+    "summary": "The global MRO upgrade strategy behind the CFM LEAP engine family.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/ge-aerospace-spending-1-billion-fix-engine-shop-visit-cruch-airlines-escape/",
+    "day": "2026-09-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/1-billion-to-fix-the-engine.png"
+   },
+   {
     "headline": "EASA releases annual aviation safety figures: 116 deaths in 2025",
     "summary": "The European Aviation Safety Agency (EASA) and Eurostat, the European Union’s statistical agency, have published the 2025 Annual… The post EASA releases annual aviation safety figures: 116 deaths in 2025 appeared first…",
     "source": "AeroTime",
@@ -5499,17 +5507,17 @@
     "url": "https://runwaygirlnetwork.com/2026/07/bluebox-unboxes-the-blue-to-drive-roi-for-connected-jets/",
     "day": "2026-07-25",
     "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/07/Screenshot-2026-07-25-at-3.42.00-PM-e1785009767855.jpeg"
-   },
-   {
-    "headline": "American Airlines’ New Flight Attendant Performance Scoring Draws Scrutiny Over Privacy",
-    "summary": "The Me@Work platform raises privacy concerns as critics argue that scores could be influenced by factors outside the flight attendants' control.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-new-flight-attendant-performance-scoring-scrutiny-privacy/",
-    "day": "2026-07-24",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/american-airlines-boeing-737-aircraft-is-airborne-as-it-departs-los-angeles-international-airport-los-angeles-california.jpg"
    }
   ],
   "defense": [
+   {
+    "headline": "Shahed-136 Clone Found By Florida Fisherman, Eglin AFB Admits It Lost A Drone",
+    "summary": "The drone hauled in off Florida appears to be of the same family as those used by the U.S. military to strike Iran. The post Shahed-136 Clone Found By Florida Fisherman, Eglin AFB Admits It Lost A Drone appeared first…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/air/shahed-136-clone-found-by-florida-fisherman-eglin-afb-admits-it-lost-a-drone",
+    "day": "2026-09-20",
+    "img": "https://www.twz.com/wp-content/uploads/2026/09/FLM136-fishing-boat-eglin.jpg?quality=85"
+   },
    {
     "headline": "The 7 Largest Air Force Bases By Population In The US",
     "summary": "Which airfield has the deepest roster?",
@@ -6461,14 +6469,6 @@
     "url": "https://www.defensenews.com/air/2026/09/15/f-35-proved-combat-readiness-during-middle-east-deployments-air-force-officials-say/",
     "day": "2026-09-15",
     "img": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JQ74DEWPWZGEPEUR2VFCQU3ZLY.jpg"
-   },
-   {
-    "headline": "France orders Rafale F5 radar, engine and EW work ahead of launch",
-    "summary": "The French defense procurement agency has ordered development work on five Rafale F5 systems ahead of the formal… The post France orders Rafale F5 radar, engine and EW work ahead of launch appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/france-rafale-f5-radar-engine-ew-development",
-    "day": "2026-09-15",
-    "img": "https://www.aerotime.aero/images/2026/07/Rafale-F5-mock-up-displayed-at-the-Paris-Air-Show.jpg"
    }
   ],
   "others": []
