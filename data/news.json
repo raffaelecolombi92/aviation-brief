@@ -1,7 +1,47 @@
 {
- "generated": "2026-09-19T22:37+00:00",
+ "generated": "2026-09-20T02:57+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Alaska Debuts 737-800 Inter-Hawaiian Island Service in 4Q26",
+    "summary": "Published at 1900PDT 19SEP26 / 0200GMT 20SEP26 Alaska Airlines this past summer filed Boeing 737-800 operation on inter-Hawaiian Islands service. Available for reservations since the week of 20JUL26, the Oneworld member…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260919-as4q26hi",
+    "day": "2026-09-20",
+    "img": null
+   },
+   {
+    "headline": "Sun d’Or Resumes Marrakech Service in NW26",
+    "summary": "Published at 1800PDT 19SEP26 / 0100GMT 20SEP26 Sun d’Or during Northern winter 2026/27 season plans to resume Tel Aviv – Marrakech route, last served until October 2023. The airline will operate this route twice weekly…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260919-lynw26rak",
+    "day": "2026-09-20",
+    "img": null
+   },
+   {
+    "headline": "ANA Tentatively Expands Lufthansa Europe Codeshare in NS27",
+    "summary": "Published at 1701PDT 19SEP26 / 0001GMT 20SEP26 Star Alliance member ANA in recent schedule updated filed additional codeshare routes operated by Lufthansa, that would commence on 28MAR27 at the earliest. Preliminary…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260919-nhlhcodeshare",
+    "day": "2026-09-20",
+    "img": null
+   },
+   {
+    "headline": "Why This Airline Built A 40-Seat Business Cabin To Attack Its Transpacific Competitor",
+    "summary": "STARLUX is moving to establish a long-haul luxury network to destinations on the East Coast and in Europe, centered on its new fleet of Airbus A350-10",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-airline-built-40-seat-business-cabin-attack-transpacific-competitor/",
+    "day": "2026-09-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/airline-built-a-40-seat-business-cabin.png"
+   },
+   {
+    "headline": "Air Serbia / China Southern Plans 4Q26 Codeshare Launch",
+    "summary": "Published at 1600PDT / 2300GMT 19SEP26 Air Serbia and China Southern from mid-October 2026 plans to launch reciprocal codeshare partnership, initially covering service between Serbia and China. Planned codeshare routes…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260919-juczcodeshare",
+    "day": "2026-09-19",
+    "img": null
+   },
    {
     "headline": "Hawaiian Airlines’ Boeing 737 Interisland Flights Will Launch With Alaska-Branded Aircraft",
     "summary": "Newer 737 interiors promise Wi-Fi, power outlets and upgraded comforts while easing maintenance pressure on older jets.",
@@ -921,46 +961,6 @@
     "url": "https://simpleflying.com/qantas-put-widebody-grade-business-suites-doors-narrowbody-airbus-a321xlr/",
     "day": "2026-09-16",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/narrowbody-airbus-a321xlr.png"
-   },
-   {
-    "headline": "British Airways Secretly Rates Its Most Loyal Passengers, Blogger Finds",
-    "summary": "A hidden passenger score ranks loyalty and spending to decide who gets rebooked first during disruptions.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/british-airways-secret-rates-loyal-passenger/",
-    "day": "2026-09-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/ba-oneworld777.jpg"
-   },
-   {
-    "headline": "American Airlines Is Reportedly Blocking A321XLR Business Suites Over Faulty Seat Controls",
-    "summary": "Multiple Flagship Suites on American's A321XLRs are being sidelined after repeated control glitches leave lie-flat seats stuck.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-airbus-a321xlr-blocked-business-class-suites/",
-    "day": "2026-09-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/american-airlines-airbus-a321xlr-flagship-business-suite-1.jpg"
-   },
-   {
-    "headline": "How Etihad Is Using Its Widebody Fleet To Add Capacity Where Demand Is Strongest",
-    "summary": "Etihad is moving its biggest aircraft to the markets showing the strongest demand, from Paris and Tokyo to high-capacity Dhaka.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/etihad-widebody-fleet-capacity-route-demand/",
-    "day": "2026-09-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/etihad-airbus-a380-20260901-170358-1-1.jpg"
-   },
-   {
-    "headline": "Business Class Is No Longer Just For Frequent Flyers & Cabin Crew Are Noticing The Difference",
-    "summary": "There has been a huge growth in business class travel, driven by the growth in the premium leisure travel market.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/business-class-no-longer-frequent-flyers-cabin-crew-notice-the-difference/",
-    "day": "2026-09-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/cabin-crew.jpg"
-   },
-   {
-    "headline": "16-Hour Flights: Air New Zealand's 13 New Ultra-Long Nonstop Routes Revealed",
-    "summary": "Here are the airline's longest nonstop routes.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/16-hour-flights-air-new-zealands-longest-flights/",
-    "day": "2026-09-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/061-air-new-zealand-boeing-787-janice-chen-steve-worner-_-shutterstock.jpg"
    }
   ],
   "airports": [
@@ -1927,6 +1927,22 @@
   ],
   "fleet": [
    {
+    "headline": "Is It True That The Boeing 737 MAX & Airbus A320neo Are Powered By The Same Engine?",
+    "summary": "Despite both aircraft operating with LEAP engines, they are not the same exact model.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/true-boeing-737-max-airbus-a320neo-powered-by-same-engine/",
+    "day": "2026-09-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/12/feature-image_73engine.jpg"
+   },
+   {
+    "headline": "How CFM's New LEAP-1B Turbine Redesign Could Double Time On Wing In Harsh Conditions",
+    "summary": "The HPT durability kit has just been certified and promises to deal with extreme conditions issues suffered by the LEAP engine family.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/cfm-leap1b-turbine-redesign-time-on-wing/",
+    "day": "2026-09-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/how-cfm-s-new-leap-1b-turbine-redesign-could-double-time-on-wing-in-harsh-conditions.jpg"
+   },
+   {
     "headline": "Track The Hurricane Hunters: Inside The WC-130Js That Fly Into Storms",
     "summary": "The Hurricane Hunters fly into storms at 10,000 feet under TEAL call signs you can track live. Here is what they do and how the mission works.",
     "source": "Simple Flying",
@@ -2869,22 +2885,6 @@
     "url": "https://simpleflying.com/flydubai-launching-dedicated-freigther-flights/",
     "day": "2026-09-11",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/340-flydubai-boeing-737-800-kbp-spotter-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Two working engines shut down before fatal Royal Navy Merlin ditching: UK probe",
-    "summary": "A split diaphragm in an engine fuel component, coupled with a misdiagnosed emergency and the shutdown of two working engines, caused the fatal ditching… The post Two working engines shut down before fatal Royal Navy…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/royal-navy-merlin-fatal-ditching-working-engines-shut-down",
-    "day": "2026-09-11",
-    "img": "https://www.aerotime.aero/images/2026/09/Royal-Navy-Merlin-HC4-helicopter-operating-from-the-flight-deck-of-HMS-Queen-Elizabeth.jpg"
-   },
-   {
-    "headline": "Bjorn’s Corner: Aircraft Structures, Part 18: Automated Dry Fiber AFP Placement",
-    "summary": "Free for nonsubscribers September 11, 2026, © Leeham News: Last week we started looking at different automated methods to lay down composite dry fiber reinforcement that are later infused with epoxy and cured with heat…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/09/11/bjorns-corner-aircraft-structures-part-18-automated-dry-fiber-afp-placement/",
-    "day": "2026-09-11",
-    "img": null
    }
   ],
   "finance": [
