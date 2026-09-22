@@ -1,7 +1,55 @@
 {
- "generated": "2026-09-21T21:35+00:00",
+ "generated": "2026-09-22T02:54+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Air Travel Adds Jinghong – Bangkok in NW26",
+    "summary": "Published at 1900PDT 21SEP26 / 0200GMT 22SEP26 Chinese carrier Air Travel (Hunan Airlines) at the launch of Northern winter 2026/27 season plans to launch new international route to Thailand, where the airline lists 2…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260921-a6nw26bkk",
+    "day": "2026-09-22",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Sichuan Airlines NW26 Chengdu – Hong Kong / Taipei Aircraft Changes",
+    "summary": "Published at 1800PDT 21SEP26 / 0100GMT 22SEP26 Sichuan Airlines during Northern winter 2026/27 season schedules aircraft changes on selected regional service to/from Chengdu Shuangliu . Chengdu Shuangliu – Hong Kong eff…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260921-3unw26hktw",
+    "day": "2026-09-22",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Vietnam Airlines Adds Ahmedabad in NW26",
+    "summary": "Published at 1701PDT 21SEP26 / 0001GMT 22SEP26 Vietnam Airlines at the launch of Northern winter 2026/27 season plans to launch new route to India, as the carrier filed schedule of Hanoi – Ahmedabad route. Airbus A321…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260921-vnnw26amd",
+    "day": "2026-09-22",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "China Establishes 108,000 Square-Mile No-Fly Zone After Dramatic Beijing Tower Crash",
+    "summary": "An Italy-sized flight ban now enforces strict tracking and preapproved routes across Beijing, Tianjin and Hebei.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/china-establishes-108000-square-mile-no-fly-zone-beijing-tower-crash/",
+    "day": "2026-09-21",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/china-eastern-aircraft-at-beijing-daxing-airport-sarunyu-l.jpg"
+   },
+   {
+    "headline": "VietJet Air NW26 Shizuoka Aircraft Changes",
+    "summary": "Published at 1600PDT / 2300GMT 21SEP26 VietJet Air at the launch of Northern winter 2026/27 season plans operational aircraft changes on Hanoi – Shizuoka route, as the carrier schedules 220-seater Airbus A321 for the 3…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260921-vjnw26fsz",
+    "day": "2026-09-21",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Garuda Indonesia Oct 2026 Tokyo – Praya Charters",
+    "summary": "Published at 1500PDT / 2200GMT 21SEP26 Garuda Indonesia in early-October 2026 schedules 3 charter flights from Tokyo Narita to Praya , on board Airbus A330-300 and Boeing 777-300ER aircraft. GA7300 NRT1100 – 1745LOP 333…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260921-gaoct26lop",
+    "day": "2026-09-21",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "These 14 Small US Cities Just Got Awarded $12 Million To Support Air Service",
     "summary": "Small airports leverage federal funding to entice carriers, revive lost routes and support marketing to rebuild connectivity.",
@@ -913,57 +961,41 @@
     "url": "https://www.aeroroutes.com/eng/260917-twdec26ukb",
     "day": "2026-09-18",
     "img": null
-   },
-   {
-    "headline": "Xiamen Airlines NW26 New York Service Changes",
-    "summary": "Published at 1800PDT 17SEP26 / 0100GMT 18SEP26 Xiamen Airlines this week filed service changes for Fuzhou – New York JFK route during Northern winter 2026/27 season from 25OCT26 to 27MAR27. The carrier once again…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260917-mfnw26jfk",
-    "day": "2026-09-18",
-    "img": null
-   },
-   {
-    "headline": "Ethiopian Confirms Durban Service Resumption in Dec 2026",
-    "summary": "Published at 1701PDT 17SEP26 / 0001GMT 18SEP26 Ethiopian Airlines in the last few days opened reservations for Addis Ababa – Durban route, a destination it last served until July 2017. From 11DEC26, Ethiopian will serve…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260917-etdec26dur",
-    "day": "2026-09-18",
-    "img": null
-   },
-   {
-    "headline": "American Airlines & Condor Ink New Interline Agreement",
-    "summary": "Passengers gain through checked baggage and protected connections across Condor routes from Frankfurt to leisure hubs.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-condor-ink-new-interline-agreement/",
-    "day": "2026-09-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/condor-airlines-airbus-a330-900-minh-k-tran.jpg"
-   },
-   {
-    "headline": "Southwest Airlines Launches New 6-Hour Nonstop Florida Route In 2 Months: See Map Now",
-    "summary": "Two other carriers will compete with Southwest on this transcontinental odyssey.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/6-hour-flights-southwest-launches-new-florida-route-in-2months/",
-    "day": "2026-09-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2670955671_cropped.jpg"
-   },
-   {
-    "headline": "Lufthansa Group To Grow Boeing 737 MAX Fleet By Securing 20 MAX 10 Orders",
-    "summary": "The airline group operates nearly 750 aircraft across all subsidiaries.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/lufthansa-group-grow-boeing-737-max-fleet-securing-20-max-10-orders/",
-    "day": "2026-09-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/12/untitled-design.png"
-   },
-   {
-    "headline": "Lufthansa Group orders 20 Boeing 737 MAX 10s",
-    "summary": "Lufthansa Group has ordered its first 20 Boeing 737 MAX 10s to replace older Airbus A320-family aircraft, with… The post Lufthansa Group orders 20 Boeing 737 MAX 10s appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/lufthansa-group-orders-20-boeing-737-max-10",
-    "day": "2026-09-17",
-    "img": "https://www.aerotime.aero/images/2026/09/Recently-Saved-1-of-1-9.jpeg"
    }
   ],
   "airports": [
+   {
+    "headline": "6 Airports So Isolated Pilots Need Extra Fuel Reserves Just To Fly There",
+    "summary": "Six remote airports reveal how extreme isolation changes airline fuel planning, alternates and the critical point of no return.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/isolated-airports-extra-fuel-reserves-pilots/",
+    "day": "2026-09-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/isolated.png"
+   },
+   {
+    "headline": "Images of the Day: Duty-free liquor shines on both sides of the English Channel/La Manche",
+    "summary": "Our images today come from the LeShuttle terminals, with an exploration of the liquor sections at Avolta’s World Duty Free in Folkestone and Le Marché Duty Free in Coquelles.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/images-of-the-day-duty-free-liquor-shines-on-both-sides-of-the-english-channel/?utm_source=rss&utm_medium=rss&utm_campaign=images-of-the-day-duty-free-liquor-shines-on-both-sides-of-the-english-channel",
+    "day": "2026-09-22",
+    "img": null
+   },
+   {
+    "headline": "Aspri Spirits acquisition powers new travel retail chapter for U’Luvka vodka",
+    "summary": "Luxury Polish vodka brand U’Luvka is targeting renewed travel retail expansion across Europe, the Middle East and Asia following its acquisition by Aspri Spirits and with the support of JP-GTR.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/aspri-spirits-acquisition-powers-new-travel-retail-chapter-for-uluvka-vodka/?utm_source=rss&utm_medium=rss&utm_campaign=aspri-spirits-acquisition-powers-new-travel-retail-chapter-for-uluvka-vodka",
+    "day": "2026-09-22",
+    "img": null
+   },
+   {
+    "headline": "American Airlines To Lead Phoenix's 1st New Terminal In Nearly 40 Years",
+    "summary": "Construction could start as early as 2029 with a total cost around $4.5 billion.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-lead-phoenix-1st-new-terminal-40-years/",
+    "day": "2026-09-21",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/650227283_1356461089844840_6253844482590135885_n.jpg"
+   },
    {
     "headline": "Air Canada Is Launching 11 Major New Nonstop Long-Haul Routes: See List & Map Now",
     "summary": "They're all in Europe, Asia and South America. Find them all now!",
@@ -1891,41 +1923,17 @@
     "url": "https://www.passengerterminaltoday.com/news/technology/montreal-trudeau-airport-deploys-veovo-flight-information-platform.html",
     "day": "2026-09-14",
     "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/09/YUL-Montreal–Trudeau_x_-Veovo-announcement19.jpg-e1789390437951.jpeg"
-   },
-   {
-    "headline": "Plaza Premium Group launches Allways meet-and-assist service at Heathrow",
-    "summary": "Plaza Premium Group (PPG) has launched its meet and assist brand Allways at London Heathrow Airport (LHR), offering personalized assistance to travelers across arrival, transit and departure journeys. The service…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/passenger-experience/plaza-premium-group-launches-allways-meet-and-assist-service-at-heathrow.html",
-    "day": "2026-09-14",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/09/Allways-Global_0437_Family-Meet-Greet-6-e1789379617743.jpeg"
-   },
-   {
-    "headline": "Amazon Pulls All Cargo From 21 Air After Fatal Boeing 767 Runway Overrun",
-    "summary": "Amazon Prime Air suspends cargo flight services by 21 Air.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/amazon-pulls-cargo-21-air-boeing-767-miami-runway-overrun/",
-    "day": "2026-09-14",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/ntsb-investigators-at-the-site-of-the-21-air-flight-7598-runway-excursion-at-mia.jpg"
-   },
-   {
-    "headline": "How United Airlines Is Rebuilding Its 2nd-Busiest Transatlantic Hub Without Breaking It",
-    "summary": "United stands to benefit from major work that will add 36 gates at Washington Dulles.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/united-airlines-rebuilding-2nd-busiest-transatlantic-hub-without-breaking/",
-    "day": "2026-09-14",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/washington-dulles-expansion.png"
-   },
-   {
-    "headline": "New AOCC on radar of Poland’s new multimodal hub",
-    "summary": "Port Polska has shared some initial designs of the state-of-the-art Airport Operations Control Centre (AOCC) for Poland’s new super hub. It will provide a shared working environment for airport operational teams…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/new-aocc-on-radar-of-polands-new-multimodal-hub/?utm_source=rss&utm_medium=rss&utm_campaign=new-aocc-on-radar-of-polands-new-multimodal-hub",
-    "day": "2026-09-14",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "The Silent 4-Year-Old Qantas Airbus A380 Decision That Predicted The Fleet's Early 2028 Retirement",
+    "summary": "Dragged down by higher fuel prices and buoyed by impending A350-1000ULR deliveries, Qantas will retire its A380s early.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/silent-4-year-old-qantas-airbus-a380-decision-predicted-fleet-early-2028-retirement/",
+    "day": "2026-09-21",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/silent-4-year-old-qantas-airbus-a380.png"
+   },
    {
     "headline": "Why Air Canada's 30 New Airbus A321XLRs Are The Real Test Of Engine Reliability",
     "summary": "The carrier is receiving its XLRs powered by improved Pratt & Whitney GTF Advantage engines.",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/video/the-aircraft-that-could-save-regional-flying/",
     "day": "2026-09-14",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/60e_lh_farnborough-airshow_atr_h_site-copy.jpg"
-   },
-   {
-    "headline": "Why Rolls-Royce's Trent 1000 Shop Visits Jumping 20% In 2025 Is Actually The Bullish Signal",
-    "summary": "The real story behind surging overhauls of Dreamliners around the world.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-rolls-royce-trent-1000-shop-visits-jumping-20-percent-2025-actually-bullish-signal/",
-    "day": "2026-09-14",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/rolls-royce-s-trent-1000.png"
    }
   ],
   "finance": [
@@ -3586,6 +3586,22 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "Jettly launches category jet card",
+    "summary": "Charter broker and platform Jettly is adding category fixed rates to its jet card program, in addition to specific aircraft pricing The post Jettly launches category jet card appeared first on Private Jet Card…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/09/21/jettly-launches-category-jet-card/",
+    "day": "2026-09-21",
+    "img": null
+   },
+   {
+    "headline": "Hera Flight expands fleet with 4 Citation X jets, before peak season",
+    "summary": "The new jets join Hera's 10 Citation X jets, bringing the Florida-based operator's fleet to 26 ahead of the peak season. The post Hera Flight expands fleet with 4 Citation X jets, before peak season appeared first on…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/09/21/hera-flight-expands-fleet-4-citation-x-jets/",
+    "day": "2026-09-21",
+    "img": null
+   },
    {
     "headline": "Hera offers 5 free hours to new members coming from OneFlight",
     "summary": "Hera Flight offers members coming from OneFlight 5 free flight hours for its 25-hour jet card, after the broker grounded its flights. The post Hera offers 5 free hours to new members coming from OneFlight appeared first…",
@@ -4529,25 +4545,17 @@
     "url": "https://www.businessairportinternational.com/news/archer-aviation-plans-downtown-los-angeles-vertiport-at-l-a-live-entertainment-district.html",
     "day": "2026-08-24",
     "img": null
-   },
-   {
-    "headline": "Infinity Aviation Group acquires third FBO with Trenton-Mercer Airport purchase",
-    "summary": "Infinity Aviation Group has acquired the fixed base operations of FlightServ at Trenton-Mercer Airport (TTN) in New Jersey, giving the company its third FBO on the US East Coast. The [...] The post Infinity Aviation…",
-    "source": "Business Airport International",
-    "url": "https://www.businessairportinternational.com/news/infinity-aviation-group-acquires-third-fbo-with-trenton-mercer-airport-purchase.html",
-    "day": "2026-08-24",
-    "img": null
-   },
-   {
-    "headline": "ACA NextGen Group adds five young professionals from charter sector",
-    "summary": "The Air Charter Association (ACA) has welcomed five new members to its NextGen Group, the association’s initiative for young professionals aged 35 and under working across the air charter industry. [...] The post ACA…",
-    "source": "Business Airport International",
-    "url": "https://www.businessairportinternational.com/news/charter/aca-nextgen-group-adds-five-young-professionals-from-charter-sector.html",
-    "day": "2026-08-24",
-    "img": null
    }
   ],
   "policy": [
+   {
+    "headline": "Press Release: EL AL offers Michelin-starred chef’s menu on key routes",
+    "summary": "EL AL Israel Airlines officially launched a new signature menu onboard flights to Tel Aviv from John F. Kennedy International Airport (JFK), Boston Logan International Airport (BOS) and Newark Liberty International…",
+    "source": "Runway Girl Network",
+    "url": "https://runwaygirlnetwork.com/2026/09/el-al-offers-michelin-starred-chefs-menu-on-key-routes/",
+    "day": "2026-09-21",
+    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/Screenshot-2026-09-21-at-9.51.02-AM-1024x700.png"
+   },
    {
     "headline": "Two killed in firefighting helicopter crash in California’s Yosemite National Park",
     "summary": "Two people were killed when a firefighting helicopter crashed while battling the Dome Fire in California’s Yosemite National… The post Two killed in firefighting helicopter crash in California’s Yosemite National Park…",
@@ -5499,17 +5507,41 @@
     "url": "https://www.greenairnews.com/?p=9382&utm_source=rss&utm_medium=rss&utm_campaign=news-extra-july-2026",
     "day": "2026-07-29",
     "img": null
-   },
-   {
-    "headline": "Boeing, GE among industry coalition pushing for speed-up of U.S. aircraft certification",
-    "summary": "FARNBOROUGH — Boeing, GE Aerospace and other large U.S. aviation manufacturers have formed an industry coalition that’s working with the Federal Aviation Administration to accelerate and modernize the aircraft…",
-    "source": "The Air Current",
-    "url": "https://theaircurrent.com/regulation/boeing-ge-industry-coalition-prism-faa-aircraft-certification/",
-    "day": "2026-07-27",
-    "img": "https://theaircurrent.com/wp-content/uploads/2026/07/boeing-777-9-n779xw-wh001-63e9a3cd-dfdc-4933-9ecb-ba5dddf82b57.jpg"
    }
   ],
   "defense": [
+   {
+    "headline": "The F-4 Phantom II's Brute-Force Design Is Why Modern Air Forces Can't Replace It",
+    "summary": "The F-4 Phantom II was noted for being a 'brick' that had the sheer thrust that allowed it to fly into combat and win.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/f-4-phantom-ii-brute-force-design-that-modern-air-forces-cant-replace/",
+    "day": "2026-09-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/f4-phantom.jpg"
+   },
+   {
+    "headline": "Air Force to Get First Next-Gen Tactical C2 Centers By Year’s End",
+    "summary": "A single-pallet-sized tactical operations center is slated to begin shipping to 70 Air Force units by the end of the year following a recent announcement by the company that made it and the Air Force entity responsible…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/air-force-toc-l-next-gen-tactical-c2-centers/",
+    "day": "2026-09-22",
+    "img": "https://www.airandspaceforces.com/app/uploads/2022/11/002_Operations_TOC_L-900x600.jpg"
+   },
+   {
+    "headline": "Massachusetts Guard Gets First F-35 to Replace Departed F-15s",
+    "summary": "The Massachusetts Air National Guard’s 104th Fighter Wing received its first F-35A Joint Strike Fighter on Sept. 13, becoming the latest unit to get its hands on the new fifth-generation jet. The post Massachusetts…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/massachusetts-guard-gets-first-f-35/",
+    "day": "2026-09-21",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/F-35-Massachusetts-900x600.jpeg"
+   },
+   {
+    "headline": "ADM-160 Miniature Air Launched Decoy Wreckage A Reminder Of Ongoing Spying On Iran’s Air Defenses",
+    "summary": "The U.S. and Israel need to keep a close eye on the status of Iran's battered air defenses. The post ADM-160 Miniature Air Launched Decoy Wreckage A Reminder Of Ongoing Spying On Iran’s Air Defenses appeared first on…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/air/adm-160-miniature-air-launched-decoy-wreckage-a-reminder-of-ongoing-spying-on-irans-air-defenses",
+    "day": "2026-09-21",
+    "img": "https://www.twz.com/wp-content/uploads/2026/09/ADM-160-MALD-WRECKAGE.jpg?quality=85"
+   },
    {
     "headline": "SDA Seeks to Expand Ground Architecture for Future Missile Tracking Satellites",
     "summary": "The Space Development Agency is opening a competition to expand its ground architecture to support a growing fleet of missile warning, tracking, and defense satellites. The post SDA Seeks to Expand Ground Architecture…",
@@ -6437,38 +6469,6 @@
     "url": "https://www.defensenews.com/global/mideast-africa/2026/09/16/israels-spice-1000-bombs-can-soon-drop-from-f-35-fighters/",
     "day": "2026-09-16",
     "img": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AVJE7KZHKJDNHILQLAT6CSBHLY.jpg"
-   },
-   {
-    "headline": "Houthis claim Saudi F-15 shootdown over Yemen as Mecca drone row escalates",
-    "summary": "Yemen’s Houthi movement said on September 16, 2026, that it shot down a Royal Saudi Air Force F-15… The post Houthis claim Saudi F-15 shootdown over Yemen as Mecca drone row escalates appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/houthis-claim-saudi-f-15-shootdown-over-yemen-as-mecca-drone-row-escalates",
-    "day": "2026-09-16",
-    "img": "https://www.aerotime.aero/images/2026/09/Royal-Saudi-Air-Force-Boeing-F-15SA-Eagle-fighter-jet.jpg"
-   },
-   {
-    "headline": "Anduril’s YFQ-44A Fury Expands Its Weapons Options With Air-to-Ground Munitions",
-    "summary": "Anduril fit checked its YFQ-44A Fury CCA with various air-to-ground munitions, and conducted the first formation flights of the autonomous fighter drone alongside F-35s. Anduril’s YFQ-44A Fury is expanding its…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/16/andurils-yfq-44a-fury-air-to-ground-munitions/",
-    "day": "2026-09-16",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/09/yfq44a2g1-scaled.jpg"
-   },
-   {
-    "headline": "How the industrial base is responding to Air Force, Space Force needs",
-    "summary": "[Sponsored] Demand signals from leadership are shaping investments in design, engineering and manufacturing.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/09/how-the-industrial-base-is-responding-to-air-force-space-force-needs/",
-    "day": "2026-09-16",
-    "img": null
-   },
-   {
-    "headline": "FQ-42 Vengeance Fighter Drone Program Update",
-    "summary": "Sponsored Content: The latest from General Atomics on FQ-42 Vengeance and the company's new Wildfire MQ-9 replacement platform. The post FQ-42 Vengeance Fighter Drone Program Update appeared first on TWZ .",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/sponsored-content/fq-42-vengeance-fighter-drone-program-update",
-    "day": "2026-09-16",
-    "img": "https://www.twz.com/wp-content/uploads/2026/09/2607_FQ-42A_DRONE_SR_0047_L22926_CUI_scr.jpg?quality=85"
    }
   ],
   "others": []
