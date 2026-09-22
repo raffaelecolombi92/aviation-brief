@@ -1,7 +1,63 @@
 {
- "generated": "2026-09-22T02:54+00:00",
+ "generated": "2026-09-22T08:10+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Wizz Air Is Stripping Engines From Its Brand-New Airbus A321XLRs Parked In Poland",
+    "summary": "Why isn't Wizz Air using its brand new, state-of-the-art A321XLRs?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/wizz-air-stripping-engines-brand-new-airbus-a321xlrs-poland/",
+    "day": "2026-09-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/01/wizz-air-airbus-a321xlr-in-the-air-custom-thumbnail.jpg"
+   },
+   {
+    "headline": "Thai VietJet Air NW26 Mumbai Service Changes",
+    "summary": "Published at 0100PDT / 0800GMT 22SEP26 Thai VietJet Air during Northern winter 2026/27 season is adjusting service to Mumbai, as the carrier plans to introduce Boeing 737 MAX aircraft from Bangkok from 01OCT26. The…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260922-vznw26bom",
+    "day": "2026-09-22",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Norse Atlantic Suspends New York Service in NW26",
+    "summary": "Published at 0000PDT / 0700GMT 22SEP26 Norse Atlantic earlier this month filed additional service changes for Northern winter 2026/27 season, as the carrier suspends service to New York. Affected routes include the…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260922-n0z0nw26jfk",
+    "day": "2026-09-22",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "EastarJet NW26 Seoul – Manado Operations",
+    "summary": "Published at 2300PDT 21SEP26 / 0600GMT 22SEP26 Korean carrier EastarJet this week opened bookings for Seoul Incheon – Manado route during Northern winter 2026/27 season, where the carrier continues to operate 1 daily…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260921-zenw26mdc",
+    "day": "2026-09-22",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Air Canada Discontinues Vancouver – Singapore Service in Jan 2027",
+    "summary": "Published at 2200PDT 21SEP26 / 0500GMT 22SEP26 Air Canada in late-January 2027 plans to discontinue Vancouver – Singapore service, as the carrier no longer accepts reservation for flights on/after 26JAN27 (Vancouver…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260921-acjan27sin",
+    "day": "2026-09-22",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Riyadh Air Schedules Milan Dec 2026 Launch",
+    "summary": "Published at 2100PDT 21SEP26 / 0400GMT 22SEP26 Riyadh Air on Monday (21SEP26) opened reservations for it service debut in Italy, with the launch of 4 weekly Riyadh – Milan Malpensa flights. Boeing 787-9 Dreamliner to…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260921-rxnw26mxp",
+    "day": "2026-09-22",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "AJet 1Q27 Kazakhstan Network Additions",
+    "summary": "Published at 2000PDT 21SEP26 / 0300GMT 22SEP26 AJet in the first quarter of 2027 plans to launch a pair of routes to Kazakhstan from Istanbul, with flights to Almaty and Astana scheduled with Turkish Airlines aircraft.…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260921-vf1q27kz",
+    "day": "2026-09-22",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "Air Travel Adds Jinghong – Bangkok in NW26",
     "summary": "Published at 1900PDT 21SEP26 / 0200GMT 22SEP26 Chinese carrier Air Travel (Hunan Airlines) at the launch of Northern winter 2026/27 season plans to launch new international route to Thailand, where the airline lists 2…",
@@ -903,62 +959,6 @@
     "summary": "Published at 0100PDT / 0800GMT 18SEP26 British Airways yesterday (17SEP26) announced planned intercontinental network adjustment for Northern summer 2027 season. Planned operation changes include the following. London…",
     "source": "AeroRoutes",
     "url": "https://www.aeroroutes.com/eng/260918-bans27inc",
-    "day": "2026-09-18",
-    "img": null
-   },
-   {
-    "headline": "Air Canada Shortens Vancouver – Osaka NW26 Seasonal Suspension",
-    "summary": "Published at 0000PDT / 0700GMT 18SEP26 Air Canada in recent schedule update filed additional changes to planned Vancouver – Osaka Kansai service during 2027. Initially scheduled to resume on 02MAR27 after 3-month…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260918-acnw26kix",
-    "day": "2026-09-18",
-    "img": null
-   },
-   {
-    "headline": "Azerbaijan Resumes Baku – Astrakhan From late-Sep 2026",
-    "summary": "Published at 2300PDT 17SEP26 / 0600GMT 18SEP26 Azerbaijan Airlines from late-September 2026 plans to resume Baku – Astrakhan service, on board Embraer E190 aircraft. Last served until February 2025, the airline will…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260917-j2sep26asf",
-    "day": "2026-09-18",
-    "img": null
-   },
-   {
-    "headline": "Qantas Freight Sep/Oct 2026 Singapore Seletar Charter Schedule",
-    "summary": "Published at 2200PDT 17SEP26 / 0500GMT 18SEP26 Qantas Freight in the schedule filing as filed additional flight from Singapore Seletar , with Airbus A321 Freighter. On 26SEP26 and 10OCT26, the airline’s routing is…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260917-qfcsep26xsp",
-    "day": "2026-09-18",
-    "img": null
-   },
-   {
-    "headline": "Air China 1Q27 Vancouver Service Increases",
-    "summary": "Published at 2100PDT 17SEP26 / 0400GMT 18SEP26 Star Alliance member Air China in January 2027 further restores frequencies on Beijing Capital – Vancouver route, as the carrier resumes 6th weekly flight from 02JAN27.…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260917-ca1q27yvr",
-    "day": "2026-09-18",
-    "img": null
-   },
-   {
-    "headline": "ZIPAIR Tokyo NW26 San Jose CA Operations",
-    "summary": "Published at 2000PDT 17SEP26 / 0300GMT 18SEP26 ZIPAIR Tokyo today (17SEP26) opened reservations for Tokyo Narita – San Jose CA service during Northern winter 2026/27 season, although scheduled on selected periods. The…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260917-zgnw26sjc",
-    "day": "2026-09-18",
-    "img": null
-   },
-   {
-    "headline": "How Much Do United Airlines Flight Attendants Make In 2026?",
-    "summary": "United flight attendants recently agreed to a massive pay revolution, so how much do they now earn?",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/united-airlines-flight-attendant-pay-2026/",
-    "day": "2026-09-18",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/senior-united-airlines-20260901-170526.jpg"
-   },
-   {
-    "headline": "Trinity Airways Adds Seoul – Kobe From Dec 2026",
-    "summary": "Published at 1900PDT 17SEP26 / 0200GMT 18SEP26 Trinity Airways (formerly known as T'way Air) during Northern winter 2026/27 season plans to launch Seoul Incheon – Kobe route, on board Boeing 737-800 aircraft. The…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260917-twdec26ukb",
     "day": "2026-09-18",
     "img": null
    }
@@ -1927,6 +1927,22 @@
   ],
   "fleet": [
    {
+    "headline": "1 Component, Triple The Time On Wing: Inside Rolls-Royce's Trent 1000 Turnaround",
+    "summary": "A look at what has improved with the engine.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/1-coponent-triple-time-wing-inside-rolls-royce-trent-1000-turnaround/",
+    "day": "2026-09-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/1-component-triple-the-time-on-wing-inside-rolls-royce-s-trent-1000-turnaround.jpg"
+   },
+   {
+    "headline": "Airbus Is Reviving Its Disused A380 Wing Factory To Tackle The A321neo Backlog",
+    "summary": "The European aerospace titan goes all-in on UK factories.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-revives-a380-wing-factory-a321neo-backlog/",
+    "day": "2026-09-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/fia-airshow-2024-day-1-a321xlr-flying-display.jpg"
+   },
+   {
     "headline": "The Silent 4-Year-Old Qantas Airbus A380 Decision That Predicted The Fleet's Early 2028 Retirement",
     "summary": "Dragged down by higher fuel prices and buoyed by impending A350-1000ULR deliveries, Qantas will retire its A380s early.",
     "source": "Simple Flying",
@@ -2869,22 +2885,6 @@
     "url": "https://simpleflying.com/american-airlines-works-with-boeing-for-1st-737-max-landing-gear-swap/",
     "day": "2026-09-14",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/084-american-airlines-boeing737-max-8-markus-mainka-_-shutterstock.jpg"
-   },
-   {
-    "headline": "The Aircraft That Built Today's Southwest Airlines Is Being Retired By 2031",
-    "summary": "The scale of Southwest's 737-700 fleet is mind-blowing.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/aircraft-built-southwest-airlines-retired-2031/",
-    "day": "2026-09-14",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/retired-by-2031.png"
-   },
-   {
-    "headline": "The Aircraft That Could Save Regional Flying",
-    "summary": "Tom Boon of Simple Flying sits down with ATR Chief Commercial Officer Alexis Vidal at the 2026 Farnborough Airshow to explore the future of regional aviation. From restoring lost air routes and identifying untapped…",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/video/the-aircraft-that-could-save-regional-flying/",
-    "day": "2026-09-14",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/60e_lh_farnborough-airshow_atr_h_site-copy.jpg"
    }
   ],
   "finance": [
