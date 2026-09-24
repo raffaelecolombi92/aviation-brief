@@ -1,7 +1,31 @@
 {
- "generated": "2026-09-23T23:24+00:00",
+ "generated": "2026-09-24T02:44+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Transavia France NW26 A320neo MENA Network Expansion",
+    "summary": "Published at 1900PDT 23SEP26 / 0200GMT 24SEP26 Transavia France during Northern winter 2026/27 season plans to expand Airbus A320neo network to Middle East and North Africa, reflected in recent schedule update. Paris…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260923-tonw2632n",
+    "day": "2026-09-24",
+    "img": null
+   },
+   {
+    "headline": "TUIfly Belgium NS27 Palermo Service Changes",
+    "summary": "Published at 1800PDT 23SEP26 / 0100GMT 24SEP26 TUIfly Belgium in Northern summer 2027 season is adjusting service to Palermo, becoming Brussels – Palermo nonstop terminator service. The summer seasonal flight in 2027…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260923-tbns27pmo",
+    "day": "2026-09-24",
+    "img": null
+   },
+   {
+    "headline": "TUIfly Belgium Resumes Djerba / Enfidha in NS27",
+    "summary": "Published at 1701PDT 23SEP26 / 0001GMT 24SEP26 TUIfly Belgium in Northern summer 2027 season plans to resume service to Djerba and Enfidha, last served until March 2025. Planned operations as follows. Brussels – Djerba…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260923-tbns26djenbe",
+    "day": "2026-09-24",
+    "img": null
+   },
    {
     "headline": "Lufthansa Apologizes For Adverse Social Media Response After Ignoring Passenger",
     "summary": "A quick corporate response highlights how airlines are adapting to a world with increased an social media presence.",
@@ -937,30 +961,6 @@
     "url": "https://runwaygirlnetwork.com/2026/09/united-pipes-football-games-via-dish-to-starlink-enabled-seatback-ife/",
     "day": "2026-09-20",
     "img": "https://runwaygirlnetwork.com/wp-content/uploads/2024/10/SEA-EWR-United-Airlines-United-NEXT-Image-Jason-Rabinowitz-5-e1789915643955.jpeg"
-   },
-   {
-    "headline": "Finnair's Record-Breaking 24-Hour Direct Flights Launch In 1 Month: See Route Now",
-    "summary": "An exciting step forward for the Finnish flag carrier.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/finnair-launches-24-hour-direct-flights-1-month/",
-    "day": "2026-09-20",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/363-finnair-airbus-a350-900-sergey-kustov-_-shutterstock.jpg"
-   },
-   {
-    "headline": "ANA’s Green Pokémon Jet takes to the skies",
-    "summary": "All Nippon Airways (ANA) publicly unveiled its latest “Pokémon Jet” on September 18, 2026. The aircraft, a Boeing… The post ANA’s Green Pokémon Jet takes to the skies appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/anas-green-pokemon-jet-takes-to-the-skies",
-    "day": "2026-09-20",
-    "img": "https://www.aerotime.aero/images/2026/09/1789707019047.jpeg"
-   },
-   {
-    "headline": "Why United Airlines' 66 Incoming Boeing 787-9s Are Breaking The Polaris Lounge Network",
-    "summary": "Investments in premium lounges are needed to keep up with premium cabin expansions.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-united-airlines-66-incoming-boeing-787-9s-breaking-polaris-lounge-network/",
-    "day": "2026-09-20",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/united-airlines-66-incoming-boeing-787-9s-1.png"
    }
   ],
   "airports": [
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "The Last Plane In America With Piston‑Engine Propellers",
+    "summary": "A closer look at the story of the Douglas DC-7, America's last piston-engine airliner, and its legacy before jets took over the skies,",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/the-last-plane-america-with-piston-engine-propellers/",
+    "day": "2026-09-24",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/07/the-last-plane-in-america-with-piston-engine-propellers.jpg"
+   },
+   {
     "headline": "The Problem Boeing Ran Into When It Built 30 777-9s Before Certification",
     "summary": "Emirates has rejected early airframes, and one has already been scrapped.",
     "source": "Simple Flying",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/embraer-e195-e2-unique-engine-placement-sets-apart-every-other-regional-jet/",
     "day": "2026-09-15",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/embraer-e195-e2-s-unique-engine.png"
-   },
-   {
-    "headline": "Dramatic Video: Boeing 737 Loses Tire During Takeoff As Cabin Ceiling Collapses",
-    "summary": "Crew and travelers evacuated safely after a sudden emergency landing amid dramatic cabin damage and chaotic scenes.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/boeing-737-loses-tire-takeoff-cabin-ceiling-collapses-dramaitc-video/",
-    "day": "2026-09-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/boeing-737-landing-at-taipei-yi-chuan-hsueh.jpg"
    }
   ],
   "finance": [
@@ -3610,6 +3610,14 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "OneFlight took $300 million in payments for future private flights",
+    "summary": "Tens of millions on TV ads, ambassadors, sponsorships, and free flights. Here's what happened at OneFlight, including from the former CFO The post OneFlight took $300 million in payments for future private flights…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/09/23/oneflight-took-300-million-in-payments-for-future-private-flights/",
+    "day": "2026-09-24",
+    "img": null
+   },
    {
     "headline": "Jets.com revamps clients services, adds referral incentives",
     "summary": "Jets.com is offering $10,000 in credits to current jet card members for new member referrals and $10,000 in cash for all new card referrals The post Jets.com revamps clients services, adds referral incentives appeared…",
@@ -4560,14 +4568,6 @@
     "source": "Private Jet Card Comparisons",
     "url": "https://privatejetcardcomparisons.com/2026/08/27/apollo-funds-joins-kkr-to-back-atlantic-aviation-fbo-chain/",
     "day": "2026-08-28",
-    "img": null
-   },
-   {
-    "headline": "Aviation parts supply chain will worsen, say maintenance pros",
-    "summary": "A survey by highlights supply chain issues facing maintenance professionals, with 66% saying the parts environment will worsen The post Aviation parts supply chain will worsen, say maintenance pros appeared first on…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/08/27/supply-chain-issues-airworthy-survey-2026/",
-    "day": "2026-08-27",
     "img": null
    }
   ],
@@ -5535,6 +5535,22 @@
   ],
   "defense": [
    {
+    "headline": "How New Zealand's NH90 Helicopters Are Outflying Fleets 5 Times Their Size",
+    "summary": "How did eight NH90s outfly Australia's fleet of 46? New Zealand may have found the secret to keeping the troubled helicopter flying.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-new-zealand-nh90-helicopters-outflying-fleets-5-times-size/",
+    "day": "2026-09-24",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/ew-zealand-s-nh90-helicopters.png"
+   },
+   {
+    "headline": "Air Force to Cut Civilian Jobs from China-Focused Research Center",
+    "summary": "The Air Force is slashing all civilian positions at its premier research institute for Chinese military aviation, prompting concern among experts who say it will dilute the service’s focus on the Pentagon’s most…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/air-force-cut-civilian-jobs-china-focused-research-center/",
+    "day": "2026-09-24",
+    "img": "https://www.airandspaceforces.com/app/uploads/2023/10/1123_World_Gordon_China_Intercepts-900x600.jpg"
+   },
+   {
     "headline": "Unsustainable losses of MQ-9 Reaper fleet spur U.S. Air Force to search for cheaper alternatives",
     "summary": "After losing more than a quarter of the U.S. fleet of General Atomics-built MQ-9 Reapers in the ongoing conflict with Iran, the U.S. Air Force is rushing to acquire a smaller, cheaper aircraft for intelligence and…",
     "source": "The Air Current",
@@ -6477,22 +6493,6 @@
     "url": "https://theaviationist.com/2026/09/18/lm-pentagon-agree-aim260-production-framework/",
     "day": "2026-09-18",
     "img": "https://theaviationist.com/wp-content/uploads/2026/09/aim260jatmframework_1.jpg"
-   },
-   {
-    "headline": "USSF Leaders Lay Out the Path to More Than Double the Force",
-    "summary": "When Space Force leaders started talking about expanding the service early this year, the idea was simple: double the size of the force in the next five years. At AFA’s Air, Space & Cyber conference this week, officials…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/space-force-leaders-more-than-double-the-force-growth/",
-    "day": "2026-09-17",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/9527765-900x600.jpg"
-   },
-   {
-    "headline": "CCA Drones to Fly at Large-Scale Air Force Exercise in December",
-    "summary": "The Air Force’s new Collaborative Combat Aircraft will take part in their first large-force engagement exercise in December, the head of the drones’ Experimental Operations Unit said Sept. 15. The post CCA Drones to Fly…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/air-force-cca-drones-large-scale-exercise-fly-emerald-flag/",
-    "day": "2026-09-17",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/9870340-900x600.jpg"
    }
   ],
   "others": []
