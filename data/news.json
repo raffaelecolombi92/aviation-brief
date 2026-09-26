@@ -1,7 +1,15 @@
 {
- "generated": "2026-09-26T20:33+00:00",
+ "generated": "2026-09-26T23:20+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Which US City You Fly From Decides If You Get Virgin Atlantic's Newest Upper Class Suite",
+    "summary": "Virgin Atlantic is making a massive premium push, with its latest and greatest product coming on its A330neo aircraft",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/us-city-fly-from-decides-virgin-atlantic-newest-upper-class-suite/",
+    "day": "2026-09-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/atlantic-s-newest-upper-class-suite.png"
+   },
    {
     "headline": "The Delta Air Lines Cabin That Only Exists Because A Seat Couldn't Get Certified",
     "summary": "A First Class-heavy A321neo configuration is forcing Delta to rethink it's premium strategy.",
@@ -953,14 +961,6 @@
     "url": "https://simpleflying.com/american-airlines-expands-starlux-partnership-future-asia/",
     "day": "2026-09-22",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/american-airlines-787-8-prague-kamilpetran-1.jpg"
-   },
-   {
-    "headline": "How British Airways Is Quietly Reclaiming The Midwest Cities US Legacies Abandoned After 9/11",
-    "summary": "After US airlines merged and several Midwest hubs were lost, British Airways had opportunities to reestablish direct flights with 787s.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-british-airways-reclaiming-midwest-us-legacy-abandoned-9-11/",
-    "day": "2026-09-22",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/us-legacies-abandoned-after-911.png"
    }
   ],
   "airports": [
@@ -1927,6 +1927,22 @@
   ],
   "fleet": [
    {
+    "headline": "Spotted: Brand-New Emirates Boeing 777-9 Rolls Out In Everett Ahead Of Paint Job",
+    "summary": "Emerging in green primer, the 777X will receive multiple paint coats and detailing ahead of interior fit.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/brand-new-emirates-boeing-777-9-rolls-out-everett-ahead-paint-job/",
+    "day": "2026-09-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/updated-photo.png"
+   },
+   {
+    "headline": "How Many Miles Per Gallon Does An Embraer E195-E2 Get?",
+    "summary": "The E2 achieves 0.77 miles per gallon. The per-passenger equivalent depends on each airline's configuration.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/embraer-e195-e2-miles-per-gallon/",
+    "day": "2026-09-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/e195-e2-tech-eagle-scaled-1-20260914-183126.jpg"
+   },
+   {
     "headline": "Why Are New Boeing Planes Green Before They Are Delivered?",
     "summary": "A closer look at the paint and production processes of Boeing airliners.",
     "source": "Simple Flying",
@@ -2869,22 +2885,6 @@
     "url": "https://simpleflying.com/ge9x-mid-seal-issues-arent-expected-delay-boeing-777x-service-entry-cfo/",
     "day": "2026-09-17",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/ge9x_engine_1920x1080.jpg"
-   },
-   {
-    "headline": "Alaska Airlines' 1st Transatlantic Summer Was Really Just 3 Different Fleet Bets From Seattle",
-    "summary": "Alaska launched three European routes from Seattle in 2026 using two aircraft types and three different strategies. Two more will arrive in 2027.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/alaska-airlines-1st-transatlantic-summer-really-just-3-different-fleet-bets-seattle/",
-    "day": "2026-09-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/alaska-airlines-1st-transatlantic-summer-was-really-just-3-different-fleet-bets-from-seattle.jpg"
-   },
-   {
-    "headline": "Lufthansa Expands Fleet with Boeing 737 MAX 10",
-    "summary": "PR: Lufthansa Group continues the modernization of its short- and medium-haul fleet. The Supervisory Board of Deutsche Lufthansa AG has approved the exercise of options for 20 Boeing 737 MAX 10 aircraft. The rights were…",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/lufthansa-expands-fleet-with-boeing-737-max-10/",
-    "day": "2026-09-17",
-    "img": "https://airinsight.com/wp-content/uploads/2025/01/2025-01-30-154749.jpeg"
    }
   ],
   "finance": [
@@ -5543,6 +5543,22 @@
   ],
   "defense": [
    {
+    "headline": "The Aircraft Replacing The Iconic KC-135 Stratotanker",
+    "summary": "The tale of the Pegasus and why the USAF still needs more.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/aircraft-replacing-kc135-stratotanker/",
+    "day": "2026-09-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/kc-46a-card-customers-israel-20260914-183524.jpeg"
+   },
+   {
+    "headline": "The World's Largest Air Forces By Number Of Bombers",
+    "summary": "A closer look at the world's biggest fleets of 'big wing' warbirds.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/worlds-largest-air-forces-by-number-bombers/",
+    "day": "2026-09-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/bombers.jpg"
+   },
+   {
     "headline": "3 Air Forces Still Flying The F-4 Phantom More Than 60 Years Later",
     "summary": "The F-4 Phantom entered service in 1960. Three air forces still fly it in 2026, while one privately owned example has returned to the skies.",
     "source": "Simple Flying",
@@ -6485,22 +6501,6 @@
     "url": "https://avitrader.com/2026/09/21/lockheed-martin-presents-first-german-f-35/",
     "day": "2026-09-21",
     "img": null
-   },
-   {
-    "headline": "Davis-Monthan AFB Inactivates its Last A-10C Thunderbolt II Units",
-    "summary": "The 355th Operations Group, 357th Fighter Squadron, 357th Fighter Generation Squadron, and 355th Training Squadron were inactivated during a ceremony, marking the end of A-10 operations at Davis-Monthan. The U.S. Air…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/21/davis-monthan-inactivates-last-a-10c-units/",
-    "day": "2026-09-21",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/09/USAF-Final-A-10-Units-Inactivated-1.jpg"
-   },
-   {
-    "headline": "Denmark Deploys F-35s to Greenland for the First Time",
-    "summary": "Two Royal Danish Air Force F-35A Lightning IIs landed at Kangerlussuaq Airport alongside U.S. F-16s and Canadian CF-18s as part of NATO’s Arctic Sentry initiative. For the first time, Royal Danish Air Force (RDAF) F-35A…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/21/denmark-f-35s-greenland-first-time/",
-    "day": "2026-09-21",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/09/Denmark-F-35-Greenland-1.jpg"
    }
   ],
   "others": []
