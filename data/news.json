@@ -1,7 +1,23 @@
 {
- "generated": "2026-09-26T03:05+00:00",
+ "generated": "2026-09-26T10:39+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Virgin Atlantic Concorde: Sir Richard Branson's Quixotic Supersonic Quest",
+    "summary": "A closer look at how Sir Richard Branson tried and failed to bring supersonic capabilities to the Virgin Atlantic fleet.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/virgin-atlantic-and-concorde-sir-richard-branson-quixotic-supersonic-quest/",
+    "day": "2026-09-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/03/virginatlantic.jpg"
+   },
+   {
+    "headline": "The Real Reason Why Air Canada's New Airbus A321XLR Couldn't Hold Down Its Most Important Transatlantic Route",
+    "summary": "Its A321XLRs were due to already be connecting Toronto and Heathrow.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/real-reason-why-air-canada-new-airbus-a321xlr-cant-hold-down-most-important-transatlantic-route/",
+    "day": "2026-09-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/the-real-reason-why-air-canada-s-new-airbus-a321xlr-couldn-t-hold-down-its-most-important-transatlantic-route.jpg"
+   },
    {
     "headline": "United Airlines Wished It Could Undo This Airbus Decision & It Finally Did",
     "summary": "A closer look at why United Airlines is unlikely to take its Airbus A350 orders.",
@@ -945,25 +961,25 @@
     "url": "https://runwaygirlnetwork.com/2026/09/china-coverage-gap-of-note-as-korean-air-and-asiana-offer-starlink/",
     "day": "2026-09-22",
     "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/iStock-1197114705.jpg"
-   },
-   {
-    "headline": "ANA launches its new “Green Pokémon Jet” special livery",
-    "summary": "All Nippon Airways (ANA) unveiled and dispatched its newest custom painted aircraft on September 18, 2026, rolling out a specially liveried green Pokémon Boeing 787-9 Dreamliner (JA923A) dedicated to the ongoing Pokémon…",
-    "source": "World Airline News",
-    "url": "https://worldairlinenews.com/2026/09/22/ana-launches-its-new-green-pokemon-jet-special-livery/",
-    "day": "2026-09-22",
-    "img": "https://worldairlinenews.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-6.49.43-AM.png"
-   },
-   {
-    "headline": "American selected to anchor Phoenix’s new West Terminal",
-    "summary": "Phoenix Sky Harbor International Airport (PHX) on September 21, 2026 announced American Airlines as the primary airline carrier for its future West Terminal, the airport’s first new terminal in nearly 40 years. The…",
-    "source": "World Airline News",
-    "url": "https://worldairlinenews.com/2026/09/22/american-selected-to-anchor-phoenixs-new-west-terminal/",
-    "day": "2026-09-22",
-    "img": "https://worldairlinenews.com/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-6.37.09-AM.png"
    }
   ],
   "airports": [
+   {
+    "headline": "Texas' First New Commercial Airport In 20+ Years Earns FAA Green Light For November Launch",
+    "summary": "A modern $79 million terminal prepares to welcome low-cost carrier Avelo with nine routes from North Texas.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/mckinney-national-airport-faa-certification-first-texas-20-years/",
+    "day": "2026-09-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/mckinney-national-airport-build-photo-finished-1.jpg"
+   },
+   {
+    "headline": "Uber gets green light to serve Sydney’s new international airport",
+    "summary": "Western Sydney International Airport (WSI) and Uber have announced a partnership designed to ease passenger journeys to and from Sydney’s new, 24-hour airport from October 25. Uber will have an exclusive pick-up zone…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/uber-gets-green-light-to-serve-sydneys-new-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=uber-gets-green-light-to-serve-sydneys-new-international-airport",
+    "day": "2026-09-26",
+    "img": null
+   },
    {
     "headline": "Turkish Airlines Plans 2 New Ultra-Long Routes To Australia: Here's Where",
     "summary": "Fleet upgrades and routing shifts set the stage for fresh nonstop links that could redraw continent to continent travel.",
@@ -1907,22 +1923,6 @@
     "url": "https://simpleflying.com/podcast-304/",
     "day": "2026-09-18",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/sf-podcast-cover.jpg"
-   },
-   {
-    "headline": "Just 48% Full: Delta Air Lines' Emptiest Routes From Its Atlanta Hub",
-    "summary": "Despite Atlanta being a very busy airport for Delta, it would not be expected to fill every seat on every flight.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-emptiest-atl-routes/",
-    "day": "2026-09-18",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/114-delta-air-lines-airbus-a319-karolis-kavolelis-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Stewart Wingate named next chair of London Gatwick",
-    "summary": "Stewart Wingate will succeed Baroness Margaret Ford as chair of the board of London Gatwick on October 1, 2026, following the baroness’s retirement, the airport announced. Baroness Ford has served as chair since…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/personnel/stewart-wingate-named-next-chair-of-london-gatwick.html",
-    "day": "2026-09-18",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/09/gatwick-2-e1789735229342.jpeg"
    }
   ],
   "fleet": [
@@ -4581,6 +4581,14 @@
   ],
   "policy": [
    {
+    "headline": "Over 500 A321neos May Have Fuselage Coating Flaw, But Airbus Says They're Safe To Fly",
+    "summary": "The issue involves excessively thin anti-corrosion primer on A321neo stringers.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-a321neo-fuselage-coating-flaw-500-jets/",
+    "day": "2026-09-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/airbus-a321neo-aircraft-on-static-display.jpg"
+   },
+   {
     "headline": "Military L-410 crashes in DR Congo, killing all 13 aboard",
     "summary": "A Let L-410 operated by Tracep Congo Aviation on a military flight crashed in Kenge, in the Democratic… The post Military L-410 crashes in DR Congo, killing all 13 aboard appeared first on AeroTime .",
     "source": "AeroTime",
@@ -5531,17 +5539,25 @@
     "url": "https://simpleflying.com/dhl-cargo-jet-collides-unidentified-object-bomb-drone/",
     "day": "2026-08-06",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/357vbqo5bv8wgky4qj-1.jpg"
-   },
-   {
-    "headline": "Joby targets September for first US eVTOL pilot program flights",
-    "summary": "Joby Aviation expects to conduct its first flights under the US eVTOL Integration Pilot Program (eIPP) in September… The post Joby targets September for first US eVTOL pilot program flights appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/joby-targets-september-first-us-evtol-pilot-flights",
-    "day": "2026-08-06",
-    "img": "https://www.aerotime.aero/images/2026/04/joby-nyc.JPG"
    }
   ],
   "defense": [
+   {
+    "headline": "How A Canceled Douglas Fighter & Canadian Interceptor Shaped The AIM-7 Sparrow",
+    "summary": "The AIM-7 Sparrow went from a troubled Vietnam-era missile to a highly effective weapon during Desert Storm.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-canceled-douglas-fighter-canadian-interceptor-shaped-aim-7-sparrow/",
+    "day": "2026-09-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/cover-image.png"
+   },
+   {
+    "headline": "To Secure Arctic, NORTHCOM Builds Closer Ties to Pacific, European Commands",
+    "summary": "U.S. Northern Command plans to sign an agreement with its European and Pacific counterparts to enhance coordination and close security seams in the Arctic, a strategically vital region that spans all three commands. The…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/northern-command-arctic-pacific-european/",
+    "day": "2026-09-26",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/260909-Z-PF062-1287-900x600.jpg"
+   },
    {
     "headline": "Air Force Injects $87M into IVEWS F-16 Electronic Warfare Upgrades",
     "summary": "The Air Force has invested $87.4 million to upgrade the F-16 Fighting Falcon's electronic warfare capabilities, bolstering the fighter's self-protection against increasingly advanced threats. Bringing the total program…",
@@ -6485,22 +6501,6 @@
     "url": "https://simpleflying.com/marine-corps-ch53e-super-stallion-retirement-2032/",
     "day": "2026-09-20",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/why-the-marine-corps-plans-to-retire-the-ch-53e-super-stallion-by-2032.jpg"
-   },
-   {
-    "headline": "A-10 Thunderbolt II Flies Final Weapons School Training Sortie at Nellis AFB",
-    "summary": "The A-10C completed its final training sortie with the 66th Weapons Squadron at Nellis AFB, marking the end of the aircraft’s operations with the U.S. Air Force Weapons School. The A-10 Thunderbolt II has completed its…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/20/a-10-final-weapons-school-sortie/",
-    "day": "2026-09-20",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/09/9937583.jpg"
-   },
-   {
-    "headline": "Treetop Thunderchiefs: How the F-105 Became a Low-Level Threat in Vietnam",
-    "summary": "Fast and agile at low altitudes, the F-105 gained new respect for the amount of punishment it could dish out as well as absorb. Designed as a Cold War fighter-bomber capable of delivering tactical nuclear bombs at low…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/20/treetop-thunderchiefs/",
-    "day": "2026-09-20",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/09/F105_1.jpg"
    }
   ],
   "others": []
