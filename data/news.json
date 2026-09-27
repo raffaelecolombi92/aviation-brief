@@ -1,7 +1,23 @@
 {
- "generated": "2026-09-26T23:20+00:00",
+ "generated": "2026-09-27T03:11+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "What Are The Benefits Of Flying In Premium Economy?",
+    "summary": "Premium economy has grown into a standard long-haul cabin class over the past decade.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/the-benefits-of-flying-premium-economy/",
+    "day": "2026-09-27",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/12/premiumeconomy-2.jpg"
+   },
+   {
+    "headline": "How Southwest Airlines' 5-Minute Crew Rule Change Quietly Pulled Boarding Forward On 65% Of Its Fleet",
+    "summary": "The airline's new policies are believed to have contributed to the five-minute change.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/southwest-airlines-5-minute-crew-rule-change-pull-boarding-forward-fleet/",
+    "day": "2026-09-27",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/southwest-airlines-5-minute-crew.png"
+   },
    {
     "headline": "Which US City You Fly From Decides If You Get Virgin Atlantic's Newest Upper Class Suite",
     "summary": "Virgin Atlantic is making a massive premium push, with its latest and greatest product coming on its A330neo aircraft",
@@ -945,25 +961,17 @@
     "url": "https://runwaygirlnetwork.com/2026/09/eutelsat-connected-rail-oneweb-leo-trial-poland/",
     "day": "2026-09-22",
     "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/image002-2000x1200-1.jpg"
-   },
-   {
-    "headline": "Canada's Regulator Fined Air Canada, Ordered WestJet To Change & Wheelchair Users Are Suing Anyway",
-    "summary": "Penalties and orders collide with lawsuits as aircraft design and loading rules force airlines to rethink operations.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/canada-regulator-fine-air-canada-ordered-westjet-change-wheelchair-users-suing-anyway/",
-    "day": "2026-09-22",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/air-canada-ordered-westjet.png"
-   },
-   {
-    "headline": "American Airlines Expands Starlux Partnership: Does It Signal Bigger Asia Plans?",
-    "summary": "Passengers can book mixed itineraries from Chicago to Taipei under single reservations as codeshares go live Sept 30.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-expands-starlux-partnership-future-asia/",
-    "day": "2026-09-22",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/american-airlines-787-8-prague-kamilpetran-1.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "TSA's $781 Million Scanner Rollout Quietly Changes 3 Things Every Flyer Does At Security",
+    "summary": "What do passengers need to know?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/tsa-781-million-scanner-quietly-change-3-things-every-flyer-does-security/",
+    "day": "2026-09-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/tsa-s-781-million.jpg"
+   },
    {
     "headline": "A Few Days: Alaska Airlines Expecting Boeing 737 MAX 10 Certification By Month’s End",
     "summary": "Months of testing and regulatory reviews converge as the largest 737 MAX variant inches toward airline service.",
@@ -1915,17 +1923,41 @@
     "url": "https://simpleflying.com/ana-unveil-2nd-pokemon-themed-aircraft-2026-inaugural-flight-honolulu/",
     "day": "2026-09-18",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/ana_green_pokemon_787-9_1920x1080.jpg"
-   },
-   {
-    "headline": "Delta Air Lines Planning To Open Minneapolis–St. Paul Airbus A350 Base In Early 2027",
-    "summary": "Delta's deeper MSP footprint could unlock seasonal long haul links and modernize aircraft on key transatlantic flights.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-air-lines-planning-minneapolis-st-paul-airbus-a350-base-early-2027/",
-    "day": "2026-09-18",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/delta-air-lines-a350-900-leaving-barcelona-santi-rodriguez.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Boeing Knew Of 737 MAX Landing Guidance Glitch For Nearly 2 Years Before Warning Airlines",
+    "summary": "Internal timelines and delayed alerts point to lingering navigation quirks in select MAX models during missed approaches.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/boeing-knew-737-max-software-glitch-before-warning-airlines/",
+    "day": "2026-09-27",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/boeing-737-max-8-marco-menezes.jpg"
+   },
+   {
+    "headline": "What A Retired Boeing 737's Engines Are Actually Worth",
+    "summary": "A retired 737's two engines can be worth $7-14 million. The airframe they came off of has almost no value without them.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/retired-boeing-737-engines-actually-worth/",
+    "day": "2026-09-27",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/engine.png"
+   },
+   {
+    "headline": "Boeing faces potential 737 Max 10 delay as FAA reviews software issue",
+    "summary": "Boeing faces a new setback to its efforts to launch the final two 737 Max models into commercial service after years of delays: a flight management software issue that may add to pilots’ workload as they grapple with a…",
+    "source": "The Air Current",
+    "url": "https://theaircurrent.com/feed/dispatches/boeing-software-issue-potential-delay-737-max-10/",
+    "day": "2026-09-27",
+    "img": "https://theaircurrent.com/wp-content/uploads/2026/09/boeing-737-10-max-n27752-1g002-73f157b3-3c30-48be-aef3-d1f128cf1e74.jpg"
+   },
+   {
+    "headline": "Why The World’s 1st Hydrogen-Powered Hypersonic Jet Could Fly At 12 Times The Speed Of Sound",
+    "summary": "This aircraft could offer some impressive capabilities.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-the-worlds-1st-hydrogen-powered-hypersonic-jet-could-fly-at-12-times-the-speed-of-sound/",
+    "day": "2026-09-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/11/1sthydrogen.jpg"
+   },
    {
     "headline": "Spotted: Brand-New Emirates Boeing 777-9 Rolls Out In Everett Ahead Of Paint Job",
     "summary": "Emerging in green primer, the 777X will receive multiple paint coats and detailing ahead of interior fit.",
@@ -2853,38 +2885,6 @@
     "url": "https://avitrader.com/2026/09/18/lufthansa-orders-20-boeing-737-max-10s-as-fleet-overhaul-continues/",
     "day": "2026-09-18",
     "img": null
-   },
-   {
-    "headline": "Press Release: RECARO celebrates SAS’s 80th with gaming chair",
-    "summary": "RECARO Aircraft Seating (RECARO) is celebrating the 80th anniversary of Scandinavian Airlines (SAS) with 80 customized RECARO Gaming Nxt chairs created exclusively for the airline. Each limited-edition chair represents…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/09/scandinavian-airlines-recaro-gaming-nxt-chair/",
-    "day": "2026-09-17",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/SAS-80th-Anniversary-RECARO-Gaming-Nxt-Chair_headrest-back_Copyright-RECARO-Aircraft-Seating.jpg"
-   },
-   {
-    "headline": "Press Release: Lufthansa Group expands Boeing 737 MAX fleet",
-    "summary": "Lufthansa Group continues the modernization of its short- and medium-haul fleet. The Supervisory Board of Deutsche Lufthansa AG has approved the exercise of options for 20 Boeing 737 MAX 10 aircraft. The rights were…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/09/lufthansa-group-expands-boeing-737-max-fleet/",
-    "day": "2026-09-17",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/737-10_boeing.jpg"
-   },
-   {
-    "headline": "Boeing Quietly Dismantled A Brand-New 777-9 After Deciding The Rework Cost More Than The Jet",
-    "summary": "A 777X aircraft has already been scrapped, and still no finished products have made their way to any customers. Why did this happen?",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/boeing-quietly-dismantled-brand-new-777-9-deciding-rework-cost-more-jet/",
-    "day": "2026-09-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/boeing-quietly-dismantled-a-brand-new-777-9-after-deciding-the-rework-cost-more-than-the-jet.jpg"
-   },
-   {
-    "headline": "The GE9X’s Mid-Seal Issues Aren’t Expected To Delay The Boeing 777X’s Service Entry, CFO Says",
-    "summary": "GE Aerospace says its redesigned GE9X mid-seal should keep Boeing's long-delayed 777X on track for 2027 service.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/ge9x-mid-seal-issues-arent-expected-delay-boeing-777x-service-entry-cfo/",
-    "day": "2026-09-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/ge9x_engine_1920x1080.jpg"
    }
   ],
   "finance": [
@@ -5543,6 +5543,14 @@
   ],
   "defense": [
    {
+    "headline": "Why Super Hornet Production Is Ending While The Air Force Is Buying More F-15EXs",
+    "summary": "Production of the Super Hornet is expected to end in 2027, while production of the F-15EX is ramping up into the 2030s.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/super-hornet-production-ending-f15ex-orders/",
+    "day": "2026-09-27",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/boeing-f-15-eagle.jpg"
+   },
+   {
     "headline": "The Aircraft Replacing The Iconic KC-135 Stratotanker",
     "summary": "The tale of the Pegasus and why the USAF still needs more.",
     "source": "Simple Flying",
@@ -6493,14 +6501,6 @@
     "url": "https://www.aerotime.aero/articles/japan-chinook-landing-ship-indonesia-wildfires",
     "day": "2026-09-21",
     "img": "https://www.aerotime.aero/images/2026/09/A-CH-47-Chinook-heavy-helicopter-aboard-JS-Kunisaki-at-Kijing-Port.jpg"
-   },
-   {
-    "headline": "Lockheed Martin presents first German F-35",
-    "summary": "Lockheed Martin has presented Germany’s first F-35A Lightning II fighter aircraft to the German government at a ceremony at the company’s F-35 production facility, marking a milestone in Germany’s acquisition of the…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/09/21/lockheed-martin-presents-first-german-f-35/",
-    "day": "2026-09-21",
-    "img": null
    }
   ],
   "others": []
