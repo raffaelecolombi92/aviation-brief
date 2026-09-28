@@ -1,7 +1,15 @@
 {
- "generated": "2026-09-27T23:32+00:00",
+ "generated": "2026-09-28T03:07+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "British Airways Is Cutting Airbus A380 Service On 7 Routes To Build The World's Largest Business-Class Cabin",
+    "summary": "A380 routes will be slashed temporarily by British Airways as it carries out an ambitious retrofit program.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/british-airways-cutting-airbus-a380-service-7-routes-build-worlds-largest-buisness-class-cabin/",
+    "day": "2026-09-28",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/british-airways-is-cutting-airbus-a380-service-on-7-routes-to-build-the-world-s-largest-business-class-cabin.jpg"
+   },
    {
     "headline": "Southwest & United Airlines Won’t Accept New Boeing 737 MAX Aircraft With Affected Software",
     "summary": "Southwest and United reject new Boeing 737 MAX jets with affected software as the FAA investigates a VNAV glitch threatening deliveries.",
@@ -953,14 +961,6 @@
     "url": "https://simpleflying.com/united-airlines-didnt-alert-police-seatmate-lewd-act-100-credit/",
     "day": "2026-09-23",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/united-express-embraer-e175-taking-off.jpg"
-   },
-   {
-    "headline": "The Transpacific Slump Behind Qantas' Biggest Airbus A380 Redeployment In Years",
-    "summary": "Qantas is in a more vunerable position than its competitors across the Pacific.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/transpacific-slump-qantas-biggest-airbus-a380-redeployment-years/",
-    "day": "2026-09-23",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/a380-redeployment.png"
    }
   ],
   "airports": [
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "The Forgotten 1960s Quad-Prop Tiltrotor That Foreshadowed The V-22 Osprey By 40 Years",
+    "summary": "Both Bell and Curtiss-Wright built demonstrator tiltrotors in the 1950s and 60s, but Curtiss's tiltrotors are now mostly lost to history.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/forgotten-1960s-quad-prop-tiltrotor-foreshadowed-v-22-osprey-40-years/",
+    "day": "2026-09-28",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/the-forgotten-1960s-quad-prop-tiltrotor-that-foreshadowed-the-v-22-osprey-by-40-years.jpg"
+   },
+   {
     "headline": "Why The World's Largest Passenger Aircraft Failed As A Freighter Even Though Airbus Plotted Its Success",
     "summary": "Faced with delays to its passenger A380-800, Airbus delayed the A380F until all its orders were canceled and industry lost faith in the program.",
     "source": "Simple Flying",
@@ -2875,14 +2883,6 @@
     "summary": "By Karl Sinclair • Contributing Writer September 18, 2026 Recent signs suggest reintegration of Spirit AeroSystems in Wichita, Kansas may not be proceeding in the smooth, orderly fashion that Boeing had hoped for. At…",
     "source": "Leeham News",
     "url": "https://leehamnews.com/2026/09/18/spirits-goodwill-and-questionable-contracts/",
-    "day": "2026-09-18",
-    "img": null
-   },
-   {
-    "headline": "Bjorn’s Corner: Aircraft Structures Part 19. Liquid Composite Molding",
-    "summary": "By Bjorn Fehrm • Aerospace Analyst September 18, 2026 Last week we looked at dry fiber layup methods that use a binder to tack fabrics or the tape in an AFP/ATL system to the previous ply, creating a... Read More The…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/09/18/bjorns-corner-aircraft-structures-part-19-liquid-composite-molding/",
     "day": "2026-09-18",
     "img": null
    }
@@ -5551,6 +5551,14 @@
   ],
   "defense": [
    {
+    "headline": "Why The Country That 1st Flew A 6th-Gen Fighter May Now Be A Decade Behind",
+    "summary": "A closer look at the global race to fly the ultimate stealth fighter.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-country-1st-flew-6th-gen-fighter-now-a-decade-behind/",
+    "day": "2026-09-28",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/decade-behind.jpg"
+   },
+   {
     "headline": "Boeing Spent $67 Million Of Its Own Money Building A Stealth Jet On Beech King Air Landing Gear",
     "summary": "The story of Boeing's test jet that never left Area 51.",
     "source": "Simple Flying",
@@ -6501,14 +6509,6 @@
     "url": "https://www.airandspaceforces.com/software-new-f-35-logistics-system-going-live/",
     "day": "2026-09-21",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/09/9722580-1-900x600.jpg"
-   },
-   {
-    "headline": "What F-16 Gun Kills Tell Us About the Future of Ukraine’s Air Force",
-    "summary": "A remarkable cockpit photograph released by Ukraine last week captures far more than the destruction of a Russian Geran jet-powered attack drone. It illustrates both how far the Ukrainian Air Force has come—and the gap…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/commentary-f-16-gun-kill-future-ukraine-air-force/",
-    "day": "2026-09-21",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/Ukrainian-Air-Force_F-16-900x600.jpeg"
    }
   ],
   "others": []
