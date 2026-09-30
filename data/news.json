@@ -1,7 +1,111 @@
 {
- "generated": "2026-09-30T11:46+00:00",
+ "generated": "2026-09-30T17:28+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "The 102-Seat American Airlines Jet Being Reconfigured To Carry 196 Passengers By 2027",
+    "summary": "American is lowering capacity on some of its Airbus A321 aircraft as part of a fleet-wide narrowbody refurbishment.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/102-seat-american-airlines-jet-being-reconfigured-carry-196-passenger-2027/",
+    "day": "2026-09-30",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/102-seat-american.png"
+   },
+   {
+    "headline": "Air New Zealand to add over 7,000 Shanghai–Auckland seats over Chinese New Year",
+    "summary": "Air New Zealand announced it will add more than 7,000 seats between Shanghai Pudong International Airport (PVG) and… The post Air New Zealand to add over 7,000 Shanghai–Auckland seats over Chinese New Year appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/air-new-zealand-to-add-over-7000-shanghai-auckland-seats-over-chinese-new-year",
+    "day": "2026-09-30",
+    "img": "https://www.aerotime.aero/images/2026/09/Untitled-design-88.jpg"
+   },
+   {
+    "headline": "FlyOne Armenia orders two Airbus A321neo aircraft",
+    "summary": "Armenian carrier FlyOne Armenia ordered two Airbus A321neo aircraft, the European planemaker announced on September 30, 2026. This… The post FlyOne Armenia orders two Airbus A321neo aircraft appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/flyone-armenia-orders-two-airbus-a321neo-aircraft",
+    "day": "2026-09-30",
+    "img": "https://www.aerotime.aero/images/2026/09/FlyOne-Armenia-A321neo.jpg"
+   },
+   {
+    "headline": "Singapore Airlines revamps in-flight dining with 100+ dishes and new serviceware",
+    "summary": "Singapore Airlines (SIA) announced it is introducing more than 100 new and refreshed dishes across all cabin classes,… The post Singapore Airlines revamps in-flight dining with 100+ dishes and new serviceware appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/singapore-airlines-revamps-in-flight-dining-with-100-dishes-and-new-serviceware",
+    "day": "2026-09-30",
+    "img": "https://www.aerotime.aero/images/2026/09/Untitled-design-87.jpg"
+   },
+   {
+    "headline": "The 787 Dreamliner’s first delivery changed what was possible",
+    "summary": "From Boeing: Employees walk alongside the first 787 Dreamliner delivered in 2011 to present it to launch customer ANA. The first 787 Dreamliner delivery 15 years ago launched a legacy that has exceeded many of the…",
+    "source": "World Airline News",
+    "url": "https://worldairlinenews.com/2026/09/30/the-787-dreamliners-first-delivery-changed-what-was-possible/",
+    "day": "2026-09-30",
+    "img": "https://worldairlinenews.com/wp-content/uploads/2026/09/the-787-dreamliners-image-1.jpeg"
+   },
+   {
+    "headline": "SAS and Lykke Coffee Farms team up to raise the bar for coffee in the air",
+    "summary": "SAS is partnering with Scandinavian coffee company Lykke Coffee Farms to introduce a new coffee experience across its network, bringing better coffee and a distinctly Scandinavian touch to the journey. For 80 years, SAS…",
+    "source": "World Airline News",
+    "url": "https://worldairlinenews.com/2026/09/30/sas-and-lykke-coffee-farms-team-up-to-raise-the-bar-for-coffee-in-the-air/",
+    "day": "2026-09-30",
+    "img": "https://worldairlinenews.com/wp-content/uploads/2026/09/9bd1e91bb72cd874_org.jpg"
+   },
+   {
+    "headline": "American Airlines reaffirms commitment to Feeding America as a Mission Partner during Hunger Action Month",
+    "summary": "American Airlines has announced a renewed partnership with Feeding America®, the nation’s largest hunger-relief organization. As a Mission Partner, American will continue its commitment to helping end hunger, ensuring…",
+    "source": "World Airline News",
+    "url": "https://worldairlinenews.com/2026/09/30/american-airlines-reaffirms-commitment-to-feeding-america-as-a-mission-partner-during-hunger-action-month/",
+    "day": "2026-09-30",
+    "img": "https://worldairlinenews.com/wp-content/uploads/2026/09/260920-Feeding-America-hero-update.jpg"
+   },
+   {
+    "headline": "Qanot Sharq 4Q26 Frankfurt Short Term Suspension",
+    "summary": "Published at 1000PDT / 1700PDT 30SEP26 Uzbekistan’s Qanot Sharq at the launch of Northern winter 2026/27 season schedules short term service suspension on Tashkent – Frankfurt route. The two weekly service will not be…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260930-hh4q26fra",
+    "day": "2026-09-30",
+    "img": null
+   },
+   {
+    "headline": "Turkish Airlines NS27 Intercontinental Network Changes – 29SEP26",
+    "summary": "Published at 0900PDT / 1600GMT 30SEP26 Turkish Airlines up to this week gradually filed selected changes to its planned intercontinental network for Northern summer 2027 season. Planned service changes as of 29SEP26…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260930-tkns27inc",
+    "day": "2026-09-30",
+    "img": null
+   },
+   {
+    "headline": "Turkish Airlines Expands Manila Service in NW26",
+    "summary": "Published at 0800PDT / 1500GMT 30SEP26 Turkish Airlines in recent schedule update filed expanded service to The Philippines for Northern winter 2026/27 season, as overall Istanbul – Manila service increases from 7 to 10…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260930-tknw26mnl",
+    "day": "2026-09-30",
+    "img": null
+   },
+   {
+    "headline": "Starlux Airlines NW26 San Francisco / Phoenix Aircraft Changes",
+    "summary": "Published at 0700PDT / 1400GMT 30SEP26 Starlux Airlines this week filed aircraft changes to the US for Northern winter 2026/27 season, as the airline moves A350-1000 Phoenix service to San Francisco. Taipei Taoyuan –…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260930-jxnw26us",
+    "day": "2026-09-30",
+    "img": null
+   },
+   {
+    "headline": "Air India Expands Sydney Flights From Dec 2026",
+    "summary": "Published at 0600PDT / 1300GMT 30SEP26 Air India in this week’s schedule update filed service increase on Delhi – Sydney route, where the carrier plans to operate 11 weekly flights from 16DEC26, instead of 7 weekly.…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260930-aidec26syd",
+    "day": "2026-09-30",
+    "img": null
+   },
+   {
+    "headline": "Smartwings NW26 Paris / Rome Service Reductions",
+    "summary": "Published at 0500PDT / 1200GMT 30SEP26 Smartwings in recent schedule update filed additional service reductions for Northern winter 2026/27 season, including Paris and Rome. Prague – Paris Charles de Gaulle 02NOV26 –…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260930-qsnw26eu",
+    "day": "2026-09-30",
+    "img": null
+   },
    {
     "headline": "Breaking: \"Major Disaster Averted\" As flydubai Pilot Reportedly Tries To Hijack Boeing 737",
     "summary": "The jet lost considerable altitude before the hijack was averted.",
@@ -857,113 +961,57 @@
     "url": "https://simpleflying.com/beverages-flight-attendants-never-order-flight/",
     "day": "2026-09-26",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/beverages-flight-attendants.png"
-   },
-   {
-    "headline": "How Ryanair Built Europe's Most Profitable Airline By Making Flying As Uncomfortable As Possible",
-    "summary": "The European short-haul aviation landscape has been conquered by a blue-and-yellow paradox that defies conventional corporate logic. An airline that routinely strips away basic cabin amenities, charges for hand luggage…",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/video/how-ryanair-built-europe-s-most-profitable-airline-by-making-flying-as-uncomfortable-as-possible/",
-    "day": "2026-09-26",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/ryanair-profit-discomfort.jpg"
-   },
-   {
-    "headline": "KLM Reveals 1st 5 Routes For Brand-New Airbus A350s: See Them All Now",
-    "summary": "An exciting step forward for the Dutch flag carrier.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/klm-reveals-1st-5-routes-for-new-a350s/",
-    "day": "2026-09-26",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/simpleflying-airbus-a350-900-klm-royal-dutch-airlines-1790155746582.jpg"
-   },
-   {
-    "headline": "Alaska Airlines announces service expansion from Paine Field",
-    "summary": "Alaska Airlines is planning a significant expansion out of Paine Field in Everett, Washington, saying it is set to increase capacity by 50% through spring 2027 via a mix of new routes and increased seat capacity. The…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/09/alaska-airlines-announces-service-expansion-from-paine-field/",
-    "day": "2026-09-26",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/46776829614_9d70e56d4d_b.jpg"
-   },
-   {
-    "headline": "Virgin Atlantic Concorde: Sir Richard Branson's Quixotic Supersonic Quest",
-    "summary": "A closer look at how Sir Richard Branson tried and failed to bring supersonic capabilities to the Virgin Atlantic fleet.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/virgin-atlantic-and-concorde-sir-richard-branson-quixotic-supersonic-quest/",
-    "day": "2026-09-26",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/03/virginatlantic.jpg"
-   },
-   {
-    "headline": "The Real Reason Why Air Canada's New Airbus A321XLR Couldn't Hold Down Its Most Important Transatlantic Route",
-    "summary": "Its A321XLRs were due to already be connecting Toronto and Heathrow.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/real-reason-why-air-canada-new-airbus-a321xlr-cant-hold-down-most-important-transatlantic-route/",
-    "day": "2026-09-26",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/the-real-reason-why-air-canada-s-new-airbus-a321xlr-couldn-t-hold-down-its-most-important-transatlantic-route.jpg"
-   },
-   {
-    "headline": "United Airlines Wished It Could Undo This Airbus Decision & It Finally Did",
-    "summary": "A closer look at why United Airlines is unlikely to take its Airbus A350 orders.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/united-airlines-wished-undo-airbus-decision-and-finally-did/",
-    "day": "2026-09-26",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/simpleflying-airbus-a350-900-united-airlines-1779318562741.jpg"
-   },
-   {
-    "headline": "Press Release: GCF and MSSA ink MoU to advance NTN certification",
-    "summary": "The Global Certification Forum (GCF) and the Mobile Satellite Services Association (MSSA) today announced the signing of a Memorandum of Understanding (MoU) to formalize cooperation on supporting and promoting…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/09/gcf-mssa-sign-memorandum-of-understanding/",
-    "day": "2026-09-25",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/image-1-e1790440940144.png"
-   },
-   {
-    "headline": "Why Didn’t Copa Airlines Copy United Airlines’ Evo-Blue Livery?",
-    "summary": "Explaining Copa Airlines' relationship with United Airlines and Continental Airlines in the past.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-didnt-copa-airlines-copy-united-airlines-evo-blue-livery/",
-    "day": "2026-09-25",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/copa-airlines-copy-united.png"
-   },
-   {
-    "headline": "Monopoly: Alaska Airlines To Expand Presence In Everett, Plans 50% Increase In Seats By Spring",
-    "summary": "Passengers from Snohomish County get faster security, simpler access and deeper West Coast route options next year.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/alaska-airlines-expand-presence-everett-increase-seats-spring/",
-    "day": "2026-09-25",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/alaska-airlines-737-700-leaves-seattle-joe-a-kunzler-1.jpg"
-   },
-   {
-    "headline": "Will Norse Atlantic's Cheap Transatlantic Flights Soon Disappear?",
-    "summary": "Will Norse Atlantic be the next failed low-cost long-haul experiment?",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/norse-atlantic-cheap-transatlantic-flights-disappear/",
-    "day": "2026-09-25",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/will-norse-atlantic-s-cheap-transatlantic-flights-soon-disappear.jpg"
-   },
-   {
-    "headline": "Only 5 Hours: Inside Delta Air Lines' New Shortest Routes To Europe [Map]",
-    "summary": "Seasonal hops and year round mainline links shrink transatlantic travel to Iceland and the UK in just over six hours.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-air-lines-11-shortest-routes-to-europe/",
-    "day": "2026-09-25",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/boeing-767-on-delta-air-lines.png"
-   },
-   {
-    "headline": "The Quiet FAA Program That Could Shave A Year Off Becoming An Airline Pilot",
-    "summary": "The stalled plan to modernize the way America trains pilots.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/quiet-faa-program-shave-year-off-becoming-airline-pilot/",
-    "day": "2026-09-25",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/quiet-faa-program.png"
-   },
-   {
-    "headline": "5 Airlines With Some Of The Highest Pilot Pay Packages In 2026",
-    "summary": "These airlines offer the highest public pay packages to their pilots.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/airlines-highest-published-pilot-pay-packages-2026/",
-    "day": "2026-09-25",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/pilotpay-1-20260901-170942.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "Inside TSA's $781 Million 'Horizon 25' Plan Reshaping US Airport Checkpoints Through 2028",
+    "summary": "The strategy centers on three areas.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/inside-tsa-781-million-horizon-25-plan-reshaping-us-airport-checkpoints-2028/",
+    "day": "2026-09-30",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/ewr-photo-2-1.png"
+   },
+   {
+    "headline": "Icelandair Cancels This 5-Hour Route To Canada: See Map Now",
+    "summary": "It is this Canadian city's third lost route to Europe in days. Find out more here!",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/icelandair-cancels-this-5-hour-route-to-canada/",
+    "day": "2026-09-30",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/icelandair-737-max-8-mock-up.jpg"
+   },
+   {
+    "headline": "Air Canada Launches These New 9-Hour Nonstop Routes In 1 Month: See Map Now",
+    "summary": "Air Canada will connect Toronto and Montréal nonstop with Tenerife this October using its new long-range Airbus A321XLR.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/air-canada-launches-these-new-9-hour-routes-in-1-month/",
+    "day": "2026-09-30",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/air_canada_a321_tenerife_1920x1080.jpg"
+   },
+   {
+    "headline": "American Airlines Pots Big Asia Comeback: Could LAX–Singapore Revive Its Transpacific Fortunes?",
+    "summary": "American Airlines could be about to make some big moves at LAX, with rumors swirling once again that the carrier could be considering nonstop international flights to Singapore. Competition is fierce in Los Angeles for…",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/video/american-airlines-plots-big-asia-comeback-could-lax-singapore-revive-its-transpacific-fortunes/",
+    "day": "2026-09-30",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/american-singapore.jpg"
+   },
+   {
+    "headline": "TSA union says checkpoint chair ban is an attempt to ‘take out’ workforce",
+    "summary": "A union representing Transportation Security Administration (TSA) workers has said that a decision by the US administration to… The post TSA union says checkpoint chair ban is an attempt to ‘take out’ workforce appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/tsa-union-says-checkpoint-chair-ban-is-an-attempt-to-take-out-workforce",
+    "day": "2026-09-30",
+    "img": "https://www.aerotime.aero/images/2026/09/TSA-document-check.jpg"
+   },
+   {
+    "headline": "Carbon reduction milestone for Miami International Airport",
+    "summary": "Miami International Airport has become one of only 15 US gateways to achieve Level 2 status in ACI’s Airport Carbon Accreditation programme. The airport, which received its certificate during ACI-North America’s recent…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/carbon-reduction-milestone-for-miami-international-airport/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-reduction-milestone-for-miami-international-airport",
+    "day": "2026-09-30",
+    "img": null
+   },
    {
     "headline": "IndiGo Slashes 11-Hour Nonstop A321XLR Flights To This European City: See Route Now",
     "summary": "IndiGo will have the world's longest commercial A321XLR service, but there's a twist. Find out more now!",
@@ -1875,57 +1923,17 @@
     "url": "https://simpleflying.com/delta-mulls-scrapping-new-15-hour-route-before-1st-flight/",
     "day": "2026-09-22",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/842-delta-air-lines-airbus-a350-angel-dibilio-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Why 14 Widebody Gates At JFK's New Terminal One Will Sit Empty Well Into 2027",
-    "summary": "The gates are surprisingly unused at the busy New York gateway.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/jfk-new-terminal-one-empty-widebody-gates-2027/",
-    "day": "2026-09-22",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/jfk-new-terminal-20260907-153740.jpg"
-   },
-   {
-    "headline": "Riga Airport launches tender for RIX Airport City hotel and office developments",
-    "summary": "The qualification stage opened today (22 September), covering two plots on the ambitious airport estate project.",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/riga-airport-launches-tender-for-rix-airport-city-hotel-and-office-developments/?utm_source=rss&utm_medium=rss&utm_campaign=riga-airport-launches-tender-for-rix-airport-city-hotel-and-office-developments",
-    "day": "2026-09-22",
-    "img": null
-   },
-   {
-    "headline": "Air Canada Cuts This 17-Hour Ultra-Long Nonstop Route: See Affected Flights Now",
-    "summary": "It is currently the airline's longest nonstop service, but not for long. Find out more here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/air-canada-cuts-this-16-hour-ultra-long-nonstop-route/",
-    "day": "2026-09-22",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/simpleflying-787-9-air-canada-1790068701394.jpg"
-   },
-   {
-    "headline": "Singapore Airlines Has Axed 4 Routes To This Major Continent: See Map & List Now",
-    "summary": "The carrier has ceased flying to these European destinations in the past few years. Find out more here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/singapore-airlines-has-axed-4-routes-to-this-major-continent/",
-    "day": "2026-09-22",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/singapore-airlines-a350-900-at-jakarta-l-juliantoro_cropped.jpg"
-   },
-   {
-    "headline": "KLM plans for Dubai, Riyadh and Dammam return within weeks",
-    "summary": "KLM Royal Dutch Airlines has published its winter schedule indicating that the resumption of flights to Dubai, Riyadh… The post KLM plans for Dubai, Riyadh and Dammam return within weeks appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/klmdubai-riyadh-dammam-winter-schedule",
-    "day": "2026-09-22",
-    "img": "https://www.aerotime.aero/images/2026/06/KLM-Airbus-A350-900-The-Night-Watch.jpg"
-   },
-   {
-    "headline": "Edinburgh Airport unveils £500 million investment plan with terminal footprint set to grow by +60%",
-    "summary": "Described as the biggest single investment in Scottish aviation history, alongside new gates and aircraft stands the programme will significantly expand the airport’s retail, food & beverage and other passenger…",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/edinburgh-airport-unveils-500-million-investment-plan-with-terminal-footprint-set-to-grow-by-60/?utm_source=rss&utm_medium=rss&utm_campaign=edinburgh-airport-unveils-500-million-investment-plan-with-terminal-footprint-set-to-grow-by-60",
-    "day": "2026-09-22",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "Ethiopian Airlines orders eight Boeing 777-8Fs and two 777 freighters",
+    "summary": "Ethiopian Airlines has committed to purchasing eight of Boeing’s upcoming 777-8F aircraft along with two additional 777F freighters… The post Ethiopian Airlines orders eight Boeing 777-8Fs and two 777 freighters…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/ethiopian-airlines-orders-boeing-777-freighters",
+    "day": "2026-09-30",
+    "img": "https://www.aerotime.aero/images/2026/09/Boeing-777-8-Freighter.jpg"
+   },
    {
     "headline": "Jazeera opts for LEAP engines to power nine A320neos",
     "summary": "Jazeera Airways (Jazeera) has selected CFM International LEAP-1A engines to power nine additional Airbus A320neo aircraft and expanded its existing engine services agreement with the manufacturer. The expanded agreement…",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/air-canada-30-new-airbus-a321xlr-real-test-engine-reliability/",
     "day": "2026-09-21",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/airbus-air-canada.jpg"
-   },
-   {
-    "headline": "Why A Flyable Boeing 777-300ER Just Sold For $12.5 Million After Being Grounded For 7 Years",
-    "summary": "The $12.5 million purchase price is just the starting point.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/flyable-boeing-777-300er-sold-12-million-grounded-7-years/",
-    "day": "2026-09-21",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/boeing-777-300er.png"
    }
   ],
   "finance": [
@@ -5575,6 +5575,62 @@
   ],
   "defense": [
    {
+    "headline": "Russia Quietly Turned Its Failed Boeing 777X Rival Into A Nuclear Doomsday Plane",
+    "summary": "The Il-96 has long been a VIP and special mission air force aircraft due to failing as a commercial airliner and the need for a prestige airliner.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/russia-quietly-turned-boeing-777x-rival-nuclear-doomsday-plane/",
+    "day": "2026-09-30",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/777x-rival.png"
+   },
+   {
+    "headline": "White House Taps Miller to Lead US Space Command",
+    "summary": "The White House nominated Lt. Gen. David Miller to lead U.S. Space Command, replacing Gen. Stephen Whiting, who is expected to retire by January 2027. The post White House Taps Miller to Lead US Space Command appeared…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/white-house-miller-nominated-lead-us-space-command/",
+    "day": "2026-09-30",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/55531432742_cd4739ac86_o-scaled-900x600.jpg"
+   },
+   {
+    "headline": "Former USS Klakring Sunk by U.S. and UK Forces During Exercise Atlantic Thunder",
+    "summary": "SM-6, Sea Venom, and Naval Strike Missile munitions were paired alongside a Mark 48 ADCAP torpedo to send the decommissioned Oliver Hazard Perry class frigate to the bottom of the Atlantic Ocean. Concluding Exercise…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/09/30/former-uss-klakring-sinkex/",
+    "day": "2026-09-30",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/09/KlakringSINKEX_1.jpg"
+   },
+   {
+    "headline": "Boeing nabs $2.4 billion deal for more F-15EX fighters",
+    "summary": "The award came on the same day that the planemaker secured a contract to build a sixth-generation fighter jet for the US Navy.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/09/boeing-nabs-2-4-billion-deal-for-more-f-15ex-fighters/",
+    "day": "2026-09-30",
+    "img": null
+   },
+   {
+    "headline": "Riyadh gets closer to F-35s, Damascus presses sovereignty and an expert take on Iran",
+    "summary": "Middle East Bureau Chief Agnes Helou reviews top news from the region before speaking with defense analyst Ryan Bohl.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/09/riyadh-gets-closer-to-f-35s-damascus-presses-sovereignty-and-an-expert-take-on-iran/",
+    "day": "2026-09-30",
+    "img": null
+   },
+   {
+    "headline": "Ukraine’s F-16 Fleet Is In A Readiness Crisis",
+    "summary": "As the war rages on, more than half of the aging fighters are reportedly grounded, while Western air-to-air missile stocks are also running low. The post Ukraine’s F-16 Fleet Is In A Readiness Crisis appeared first on…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/air/ukraines-f-16-fleet-is-in-a-readiness-crisis",
+    "day": "2026-09-30",
+    "img": "https://www.twz.com/wp-content/uploads/2026/09/F-16-UKRAINE-TAKEOFF.jpg?quality=85"
+   },
+   {
+    "headline": "UAE turns to Russian shadow airline for missions in Africa: Investigation",
+    "summary": "The company behind these planes, Aviacon Zitotrans, has been sanctioned by the United States, Canada and Ukraine for its support in Russia’s war effort.",
+    "source": "Defense News",
+    "url": "https://www.defensenews.com/global/mideast-africa/2026/09/30/uae-turns-to-russian-shadow-airline-for-missions-in-africa-investigation/",
+    "day": "2026-09-30",
+    "img": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/HV4FHNLFANGKJBSFXNHOKHKSWI.jpg"
+   },
+   {
     "headline": "France launches work to train Ukrainian pilots for Rafale fighters",
     "summary": "France has launched work on training Ukrainian pilots for the Dassault Rafale, according to Benjamin Haddad, the French… The post France launches work to train Ukrainian pilots for Rafale fighters appeared first on…",
     "source": "AeroTime",
@@ -6477,62 +6533,6 @@
     "url": "https://www.aerotime.aero/articles/raf-hawk-t2-crash-raf-valley-wales-pilots-eject",
     "day": "2026-09-23",
     "img": "https://www.aerotime.aero/images/2026/09/RAF-BAE-Systems-Hawk-T2-advanced-jet-training-aircraft-against-moody-grey-clouds-and-sky.jpg"
-   },
-   {
-    "headline": "Canada’s First F-35 Conducts Maiden Flight",
-    "summary": "The Royal Canadian Air Force’s first F-35A Lightning II flew for the first time, marking a milestone in Canada’s controversial fighter acquisition program to replace the CF-188 Hornet fleet. The first F-35A Lightning II…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/23/canadas-first-f-35-conducts-maiden-flight/",
-    "day": "2026-09-23",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/09/Canada_F-35_Flight.jpg"
-   },
-   {
-    "headline": "Air, Space Forces pick up research pace for orbital cargo delivery",
-    "summary": "The current focus is on low cost, high volume commercial cargo reentry pods, an Air Force Research Laboratory spokesperson told Breaking Defense.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/09/air-space-forces-pick-up-research-pace-for-orbital-cargo-delivery/",
-    "day": "2026-09-23",
-    "img": null
-   },
-   {
-    "headline": "Video Shows RAF Hawk T2 Trainer Crew Ejecting Before Jet Crashes (Updated)",
-    "summary": "The incident occurred shortly after the Hawk departed from RAF Valley on a training mission. The post Video Shows RAF Hawk T2 Trainer Crew Ejecting Before Jet Crashes (Updated) appeared first on TWZ .",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/video-shows-raf-hawk-t2-trainer-crew-ejecting-before-jet-crashes",
-    "day": "2026-09-23",
-    "img": "https://www.twz.com/wp-content/uploads/2026/09/HAWK-T2.jpg?quality=85"
-   },
-   {
-    "headline": "Air Force, civilian staff dispute status of China Aerospace Studies Institute",
-    "summary": "CASI's director said the move will effectively end the institute, even as the service says CASI’s mission will continue.",
-    "source": "Defense News",
-    "url": "https://www.defensenews.com/air/2026/09/23/air-force-civilian-staff-dispute-status-of-china-aerospace-studies-institute/",
-    "day": "2026-09-23",
-    "img": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/GEPBHMFVNRHTPHC3GZASWAUKPE.jpg"
-   },
-   {
-    "headline": "Why America's Oldest Strategic Bombers Are More Valuable Than Ever",
-    "summary": "The weary warbirds that continue to defend the skies.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/america-oldest-strategic-bombers-valuable/",
-    "day": "2026-09-23",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/04/strategic-bombers.jpg"
-   },
-   {
-    "headline": "The Last Boeing‑Built Heavy Bomber Still Airworthy",
-    "summary": "A closer look at the veteran Boeing warbird.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/the-last-boeing-built-heavy-bomber-airworthy-today/",
-    "day": "2026-09-23",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/07/airworth.jpg"
-   },
-   {
-    "headline": "France awards Airbus 25-year deal to secure military networks",
-    "summary": "France’s Directorate General for Armament (DGA) has awarded Airbus a 25-year contract to supply cybersecurity gateways for the… The post France awards Airbus 25-year deal to secure military networks appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/france-airbus-25-year-military-cybersecurity-paracom-contract",
-    "day": "2026-09-23",
-    "img": "https://www.aerotime.aero/images/2026/09/Airbus-CyberSecurity-SOC-Security-Operations-Centre.jpg"
    }
   ],
   "others": []
