@@ -1,7 +1,103 @@
 {
- "generated": "2026-10-01T03:40+00:00",
+ "generated": "2026-10-01T12:16+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Flight Crews Face More Radiation Than You Think",
+    "summary": "In this video, we'll examine why flight crews are exposed to more radiation than almost any other profession, what this new research actually found, how airlines around the world manage the risk differently, and whether…",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/video/flight-crews-face-more-radiation-than-you-think/",
+    "day": "2026-10-01",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/72_lh_flight-crews-higher-risk-dying-radiation-related-cancers-really-mean_h_site-copy.jpg"
+   },
+   {
+    "headline": "Delta Air Lines' New SkyMiles Rules Even Punish Its Top-Tier Diamond Medallion Members",
+    "summary": "SkyMiles has revised its rewards for top-tier members.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-delta-air-lines-new-skymiles-rules-punish-top-tier-diamond-medallion-members/",
+    "day": "2026-10-01",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/delta-air-lines-new-skymiles-rules-even-punish-its-top-tier-diamond-medallion-members.jpg"
+   },
+   {
+    "headline": "Here's How Much A Business Class Ticket On Singapore Airlines' Boeing 777 Actually Costs In 2026",
+    "summary": "There is no fixed price; fares vary by route, date, fare class, and availability.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/singapore-airlines-boeing-777-business-class-ticket-cost-2026/",
+    "day": "2026-10-01",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/here-s-how-much-a-business-class-ticket-on-singapore-airlines-boeing-777-actually-costs-in-2026.jpg"
+   },
+   {
+    "headline": "EVA Air Extends Taipei – Delhi Schedule into NS27",
+    "summary": "Published at 0500PDT / 1200GMT 01OCT26 Star Alliance member EVA Air as of Thursday (01OCT26) extended schedule listing for Taipei Taoyuan – Delhi route into Northern summer 2027 season, while flights on/after 28MAR27…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261001-brns27del",
+    "day": "2026-10-01",
+    "img": null
+   },
+   {
+    "headline": "Pegasus NW26 Kazakhstan Service Increases",
+    "summary": "Published at 0430PDT / 1130GMT 01OCT26 Pegasus in Northern winter 2026/27 season plans to increase flights to Kazakhstan, including service to Atyrau and Shymkent. Planned increases include the following, based on…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261001-pcnw26kz",
+    "day": "2026-10-01",
+    "img": null
+   },
+   {
+    "headline": "AJet NW26 Ankara – Central Asia Service Increases",
+    "summary": "Published at 0400PDT / 1100GMT 01OCT26 AJet during Northern winter 2026/27 season plans to increase service between Ankara and Central Asia, as selected routes saw frequency increases, based on schedule filing…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261001-vfnw26esb",
+    "day": "2026-10-01",
+    "img": null
+   },
+   {
+    "headline": "Ethiopian Expands N’djamena Flights From Dec 2026",
+    "summary": "Published at 0030PDT / 0730GMT 01OCT26 Ethiopian Airlines from December 2026 plans to expand Addis Ababa – N’djamena service. The airline from 02DEC26 will increase service from 7 to 11 weekly, 14 weekly from 14DEC26.…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261001-etdec26ndj",
+    "day": "2026-10-01",
+    "img": null
+   },
+   {
+    "headline": "Austrian NW26 Berlin Boeing 777/787 Operations",
+    "summary": "Published at 2345PDT 30SEP26 / 0645GMT 01OCT26 Austrian Airlines during Northern winter 2026/27 season plans to operate widebody aircraft on Vienna – Berlin route. Boeing 777-200ER and 787-9 to operate on following…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260930-osnw26ber",
+    "day": "2026-10-01",
+    "img": null
+   },
+   {
+    "headline": "Azerbaijan Airlines NS27 Flight Number Changes",
+    "summary": "Published at 2300PDT 30SEP26 / 0600GMT 01OCT26 Azerbaijan Airlines at the launch of Northern summer 2027 season plans flight number changes on various routes. Planned flight number changes from 28MAR27 include the…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260930-j2ns27fltnbr",
+    "day": "2026-10-01",
+    "img": null
+   },
+   {
+    "headline": "British Airways NW26 Madrid Widebody Aircraft Operations",
+    "summary": "Published at 2215PDT 30SEP26 / 0515GMT 01OCT26 British Airways during Northern winter 2026/27 season schedules Boeing 787 service on London Heathrow – Madrid route, scheduled on BA460/461 service. From 25OCT26 to…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260930-banw26mad",
+    "day": "2026-10-01",
+    "img": null
+   },
+   {
+    "headline": "Discover Airlines late-Oct 2026 One-Time A330 Palma de Mallorca Flight",
+    "summary": "Published at 2130PDT 30SEP26 / 0430GMT 01OCT26 Discover Airlines in late-October 2026 schedules one-time A330-300 service on Frankfurt – Palma de Mallorca route. The A330 will operate following schedule on 25OCT26.…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260930-4yoct26pmi",
+    "day": "2026-10-01",
+    "img": null
+   },
+   {
+    "headline": "Discover Airlines early-Oct 2026 A330 Larnaca Service",
+    "summary": "Published at 2100PDT 30SEP26 / 0400GMT 01OCT26 Discover Airlines this week schedules one-time widebody aircraft operation on Frankfurt – Larnaca route, as the airline plans A330-300 service on 02OCT26. 4Y1240 FRA0915 –…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/260930-4yoct26lca",
+    "day": "2026-10-01",
+    "img": null
+   },
    {
     "headline": "Malaysia Airlines Increases Medan Flights From Dec 2026",
     "summary": "Published at 2000PDT 30SEP26 / 0300GMT 01OCT26 Malaysia Airlines from December 2026 plans to increase Kuala Lumpur – Medan Kualanamu flight, with the new morning hour departure with 737-800, effective 01DEC26. MH860…",
@@ -865,105 +961,33 @@
     "url": "https://simpleflying.com/british-airways-cutting-airbus-a380-service-7-routes-build-worlds-largest-buisness-class-cabin/",
     "day": "2026-09-28",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/british-airways-is-cutting-airbus-a380-service-on-7-routes-to-build-the-world-s-largest-business-class-cabin.jpg"
-   },
-   {
-    "headline": "Southwest & United Airlines Won’t Accept New Boeing 737 MAX Aircraft With Affected Software",
-    "summary": "Southwest and United reject new Boeing 737 MAX jets with affected software as the FAA investigates a VNAV glitch threatening deliveries.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/southwest-united-airlines-wont-accept-new-boeing-737-max-affected-software/",
-    "day": "2026-09-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_1854801406-1.jpg"
-   },
-   {
-    "headline": "The Aircraft Qatar Airways Designed Qsuite Next Gen Around Will Not Be The One To Fly It 1st",
-    "summary": "Designed for the delayed Boeing 777-9, Qatar's Qsuite Next Gen will launch on a different airplane.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/aircraft-qatar-airways-qsuite-next-gen-not-one-fly-1st/",
-    "day": "2026-09-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/the-aircraft-qatar-airways-designed-qsuite-next-gen-around-will-not-be-the-one-to-fly-it-1st.jpg"
-   },
-   {
-    "headline": "What Are The Benefits Of Flying Delta Air Lines' Premium Select?",
-    "summary": "The SkyTeam carrier's premium economy product offers many perks for passengers.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/benefits-of-flying-delta-air-lines-premium-select-guide/",
-    "day": "2026-09-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/11/what-are-the-benefits-of-flying-delta-air-lines-premium-select.jpg"
-   },
-   {
-    "headline": "American Airlines Receives 10th Airbus A321XLR, Expects Fleet To Reach 12 By Year’s End",
-    "summary": "American Airlines now has 10 Airbus A321XLRs after N307NY and N308NY joined N315XR, expanding its premium long-haul narrowbody fleet.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-10th-airbus-a321xlr-fleet-reach-12-years-end/",
-    "day": "2026-09-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/a321xlraa-1.png"
-   },
-   {
-    "headline": "American Airlines Added 26 Seats To Its Boeing 777-300ER & Killed First Class Without Cutting Economy",
-    "summary": "A closer look at what to expect from American Airlines' flagship aircraft from now on.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-added-26-seats-boeing-777-300er-killed-first-class-cutting-economy/",
-    "day": "2026-09-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/american-airlines-added-26-seats-to-its-boeing-777-300er-killed-first-class-without-cutting-economy.jpg"
-   },
-   {
-    "headline": "Hawaiian Airlines A330 Flew Again Just Hours After Mystery Odor Sickened 7 Crew",
-    "summary": "The A330 returned to service within hours despite the fume event and a history of previous odor incidents.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/hawaiian-airlines-a330-mystery-odor-flight-attendants-sick/",
-    "day": "2026-09-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/861-hawaiian-airlines-airbus-a330-karolis-kavolelis-_-shutterstock-1.jpg"
-   },
-   {
-    "headline": "Delta Air Lines Only Has 1 Transatlantic Route From These 5 Airports: See Full List Now",
-    "summary": "These corridors serve two key SkyTeam hubs in Europe.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-air-lines-only-has-1-transatlantic-route-from-5-airports/",
-    "day": "2026-09-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/119-delta-air-lines-airbus-a330-300-minh-k-tran-kamilpetran-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Emirates Launches New Airbus A380 Flights To This Huge City In 1 Month: See Route Now",
-    "summary": "While this will be the first time the type has flown there regularly, it did make a one-off visit back in 2010.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/emirates-launches-new-a380-flights-to-huge-city/",
-    "day": "2026-09-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/142-emirates-airbus-a380-balta-mihaita-sorin-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Premium Economy Isn't Always Worth It. Here's When Extra Legroom Wins",
-    "summary": "Premium economy has evolved over the years, but so have fares for such seats.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/premium-economy-isnt-always-worth-it-when-extra-legroom-wins/",
-    "day": "2026-09-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/premium-economy.png"
-   },
-   {
-    "headline": "'Indecent': American Airlines Passenger Strips Naked Mid-Flight, Detained By Police In Miami",
-    "summary": "An American Airlines service had to be met by law enforcement on arrival at Miami International Airport late on earlier in September after it was reported that a female passenger was undressing herself and acting…",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/video/indecent-american-airlines-passenger-strips-naked-mid-flight-detained-by-police-in-miami/",
-    "day": "2026-09-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/american-strip.jpg"
-   },
-   {
-    "headline": "Only 217 Miles: Emirates' 13 Shortest Airbus A380 Flights Revealed [Map]",
-    "summary": "The superjumbo isn't just used for long-haul services.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/only-217-miles-emirates-13-shortest-a380-flights-revealed/",
-    "day": "2026-09-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/284-emirates-airbus-a380-markus-mainka-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Is It True That Airlines Are Making Extra-Legroom Economy The Smarter Buy In 2026?",
-    "summary": "Extra-legroom Economy can be a smarter buy in 2026, but Premium Economy still wins on long-haul flights where width, recline and comfort matter most.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/true-airlines-making-extra-legroom-economy-smarter-buy-2026/",
-    "day": "2026-09-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/smarter-buy-in-2026.png"
    }
   ],
   "airports": [
+   {
+    "headline": "Singapore Airlines Launches 8 Major New Routes In 2 Years: See Full List Now",
+    "summary": "In the past two years, all of these routes have started or will do so soon. There's some highly intriguing developments - find out more here!",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/singapore-airlines-launches-8-major-new-routes/",
+    "day": "2026-10-01",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/singapore-airlines-airbus-a350-900-airlinephoto.jpg"
+   },
+   {
+    "headline": "Doncaster Sheffield Airport investing in fire rescue vehicles",
+    "summary": "Doncaster Sheffield Airport has placed an order for three new state-of-the-art fire appliances as work continues to prepare the facility for the return of operations next year. The new appliances are due to be delivered…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/doncaster-sheffield-airport-investing-in-fire-rescue-vehicles/?utm_source=rss&utm_medium=rss&utm_campaign=doncaster-sheffield-airport-investing-in-fire-rescue-vehicles",
+    "day": "2026-10-01",
+    "img": null
+   },
+   {
+    "headline": "Industry coalition calls for ‘Digital Omnibus’ to enhance biometric journeys",
+    "summary": "ACI EUROPE, Amadeus, IATA, IDEMIA Public Security and SITA today announced the formation of the Responsible Biometrics Travel Industry Coalition, calling on EU policymakers to ensure the Digital Omnibus actively…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/industry-coalition-calls-for-digital-omnibus-to-enhance-biometric-journeys/?utm_source=rss&utm_medium=rss&utm_campaign=industry-coalition-calls-for-digital-omnibus-to-enhance-biometric-journeys",
+    "day": "2026-10-01",
+    "img": null
+   },
    {
     "headline": "Air Canada Just Ceded Its Only Route To Algeria As Air Algérie Doubles Down With Airbus A330neos",
     "summary": "Air Algérie benefits from Air Canada's decision to drop out of its Algiers route following jet fuel price hikes.",
@@ -1899,33 +1923,73 @@
     "url": "https://simpleflying.com/us-30bn-atc-upgrades-1-day-northeast-atc-meltdown/",
     "day": "2026-09-22",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2455815139-1.jpg"
-   },
-   {
-    "headline": "Milan Becomes 4th Destination As Riyadh Air's Rapid European Expansion Continues",
-    "summary": "Riyadh Air’s Dreamliner links Saudi capital and Milan with early arrivals and late morning returns on a four-times-weekly rhythm.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/milan-4th-destination-riyadh-air-european-expansion/",
-    "day": "2026-09-22",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/475785040_576785015184162_9006637184912918574_n-1.jpg"
-   },
-   {
-    "headline": "Delta Air Lines Launches These 5 New Nonstop Routes In October: See Full List Now",
-    "summary": "They are from multiple hubs and focus cities. Find out more here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-air-lines-launches-these-5-new-nonstop-routes-in-october/",
-    "day": "2026-09-22",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/111111.jpg"
-   },
-   {
-    "headline": "This Airbus A321 Has Been Sitting Abandoned In Switzerland For Over 4 Years: Here’s Why",
-    "summary": "An Aeroflot Airbus A321 has been stranded at Geneva for over four years. Here’s how sanctions, ownership and inactivity left the jet stuck in Europe",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/airbus-a321-abandoned-switzerland-4-years-why/",
-    "day": "2026-09-22",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2028030107_cropped.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Trump Praises Boeing After 737 MAX Survives 14,000ft Plunge During flydubai Cockpit Attack",
+    "summary": "A large section of the 737 MAX's rudder was ripped away during the extreme descent.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/trump-boeing-flydubai-737-max-plunge-cockpit-attack/",
+    "day": "2026-10-01",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/752-flydubai-boeing-737-max-9-markus-mainka-_-shutterstock-1.jpg"
+   },
+   {
+    "headline": "Why GE Aerospace Just Spent $11.75 Billion To Fix Engine Bottlenecks",
+    "summary": "GE Aerospace is purchasing CPP to get ahead of material casting bottlenecks.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/ge-aerospace-spent-11-billion-fix-90-week-bottleneck-leap-engine/",
+    "day": "2026-10-01",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/spent-11-75-billion-to-fix-a-90-week.png"
+   },
+   {
+    "headline": "Malaysia Aviation Group moves to acquire Sepang Aircraft Engineering from Airbus",
+    "summary": "Malaysia Aviation Group (MAG) has signed a sale and purchase agreement with Airbus to acquire Sepang Aircraft Engineering… The post Malaysia Aviation Group moves to acquire Sepang Aircraft Engineering from Airbus…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/malaysia-aviation-group-moves-to-acquire-sepang-aircraft-engineering-from-airbus",
+    "day": "2026-10-01",
+    "img": "https://www.aerotime.aero/images/2026/10/Untitled-design-89.jpg"
+   },
+   {
+    "headline": "Ethiopian orders ten Boeing freighters",
+    "summary": "Ethiopian Airlines has ordered eight Boeing 777-8 Freighters and two 777 Freighters as the African carrier expands its cargo fleet and global freight network, Boeing and the airline said on October 1. The order combines…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/10/01/ethiopian-orders-ten-boeing-freighters/",
+    "day": "2026-10-01",
+    "img": null
+   },
+   {
+    "headline": "SriLankan Engineering signs Jetstar line maintenance deal",
+    "summary": "SriLankan Engineering has signed a long-term line maintenance agreement with Jetstar, part of the Qantas Group, covering the airline’s flights to Colombo, Sri Lanka. Under the agreement, SriLankan Engineering will…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/10/01/srilankan-engineering-signs-jetstar-line-maintenance-deal/",
+    "day": "2026-10-01",
+    "img": null
+   },
+   {
+    "headline": "Malaysia Aviation Group to acquire Airbus MRO unit SAE",
+    "summary": "Malaysia Aviation Group (MAG) has signed an agreement with Airbus to acquire Sepang Aircraft Engineering (SAE), an Airbus Group subsidiary, as it seeks to expand its MRO business and increase third-party revenue. The…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/10/01/malaysia-aviation-group-to-acquire-airbus-mro-unit-sae/",
+    "day": "2026-10-01",
+    "img": null
+   },
+   {
+    "headline": "WGI to invest US$19 million in Aerospace MRO facility",
+    "summary": "Western Massachusetts aerospace company WGI plans to invest about US$19 million to build a 68,000 ft² maintenance, repair and overhaul (MRO) facility at its existing Southwick campus, the company said. The new facility…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/10/01/wgi-to-invest-us19-million-in-aerospace-mro-facility/",
+    "day": "2026-10-01",
+    "img": null
+   },
+   {
+    "headline": "FLYONE Armenia finalises order for two Airbus A321neo aircraft",
+    "summary": "FLYONE Armenia, the country’s largest airline, has finalised an order with Airbus for two A321neo aircraft, the carrier said. The agreement, initially announced as a memorandum of understanding during French President…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/10/01/flyone-armenia-finalises-order-for-two-airbus-a321neo-aircraft/",
+    "day": "2026-10-01",
+    "img": null
+   },
    {
     "headline": "US pushes for faster aircraft certification, citing competition from China",
     "summary": "US Transportation Secretary Sean Duffy said the United States wants to be able to shorten the time needed… The post US pushes for faster aircraft certification, citing competition from China appeared first on AeroTime .",
@@ -2821,73 +2885,41 @@
     "url": "https://simpleflying.com/a350-1000ulr-sydney-london-nonstop-works/",
     "day": "2026-09-22",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/qantas-project-sunrise-airbus-a350-1000ulrs-what-s-the-latest-20260922-115701.jpg"
-   },
-   {
-    "headline": "Airbus converts former A380 wing facility to A321 line in push to rate 75",
-    "summary": "Airbus is spending over $200 million (£150 million) to convert a former A380 wing production facility in Broughton,… The post Airbus converts former A380 wing facility to A321 line in push to rate 75 appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/airbus-converts-former-a380-wing-facility-a321-line-broughton",
-    "day": "2026-09-22",
-    "img": "https://www.aerotime.aero/images/2026/09/Airbus-Broughton-A321-wing-facility.jpg"
-   },
-   {
-    "headline": "AJW Group signs A330 support deal with Sun PhuQuoc Airways",
-    "summary": "AJW Group has signed a six-year Power-by-the-Hour (PBH) support agreement with Sun PhuQuoc Airways to support the Vietnamese carrier’s expanding Airbus A330 fleet as it develops medium- and long-haul operations across…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/09/22/ajw-group-signs-a330-support-deal-with-sun-phuquoc-airways/",
-    "day": "2026-09-22",
-    "img": null
-   },
-   {
-    "headline": "Werner Aero acquires third aircraft in August",
-    "summary": "Werner Aero has acquired an Airbus A319-100, MSN 2897, its third aircraft acquisition in August, and delivered it to eCube Solutions in St Athan, Wales, for entry into the company’s aircraft teardown programme. The…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/09/22/werner-aero-acquires-third-aircraft-in-august/",
-    "day": "2026-09-22",
-    "img": null
-   },
-   {
-    "headline": "AFI KLM E&M names Eléonore Tramus new CRMA Chief",
-    "summary": "Air France Industries KLM Engineering & Maintenance (AFI KLM E&M) has appointed Eléonore Tramus as chief executive of CRMA Aero Repair, effective immediately, as the engine component repair specialist looks to expand…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/09/22/afi-klm-em-names-eleonore-tramus-new-crma-chief/",
-    "day": "2026-09-22",
-    "img": null
-   },
-   {
-    "headline": "China Airlines picks REVIMA for B787 APU support",
-    "summary": "China Airlines has selected REVIMA to provide long-term maintenance, repair and overhaul (MRO) support for the airline’s APS5000 auxiliary power unit (APU) fleet on its Boeing 787 aircraft. Under the agreement, REVIMA…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/09/22/china-airlines-picks-revima-for-b787-apu-support/",
-    "day": "2026-09-22",
-    "img": null
-   },
-   {
-    "headline": "1 Component, Triple The Time On Wing: Inside Rolls-Royce's Trent 1000 Turnaround",
-    "summary": "A look at what has improved with the engine.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/1-coponent-triple-time-wing-inside-rolls-royce-trent-1000-turnaround/",
-    "day": "2026-09-22",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/1-component-triple-the-time-on-wing-inside-rolls-royce-s-trent-1000-turnaround.jpg"
-   },
-   {
-    "headline": "Airbus Is Reviving Its Disused A380 Wing Factory To Tackle The A321neo Backlog",
-    "summary": "The European aerospace titan goes all-in on UK factories.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/airbus-revives-a380-wing-factory-a321neo-backlog/",
-    "day": "2026-09-22",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/fia-airshow-2024-day-1-a321xlr-flying-display.jpg"
-   },
-   {
-    "headline": "Press Release: GE Aerospace to modernize Research Center with $225M",
-    "summary": "GE Aerospace today announced a $225 million investment to modernize the GE Aerospace Research Center in Niskayuna, NY, advancing the site’s legacy as the innovation engine behind breakthroughs in aviation advancements.…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/09/ge-aerospace-investing-225m-to-modernize-research-center/",
-    "day": "2026-09-21",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/drone_grc.jpg"
    }
   ],
   "finance": [
+   {
+    "headline": "RwandAir plans four more A330s as Europe, Far East expansion looms",
+    "summary": "RwandAir expects to take delivery of four more Airbus A330-200s in the current financial year, in addition to… The post RwandAir plans four more A330s as Europe, Far East expansion looms appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/rwandair-four-a330-europe-far-east-expansion",
+    "day": "2026-10-01",
+    "img": "https://www.aerotime.aero/images/2026/10/Interview-1620x1080-Reuben-Mbonye.png"
+   },
+   {
+    "headline": "Air France-KLM and Lufthansa Group submit final bids for TAP Air Portugal",
+    "summary": "Air France-KLM and Lufthansa Group, the two airline groups vying to acquire a 44.9% stake in TAP Air… The post Air France-KLM and Lufthansa Group submit final bids for TAP Air Portugal appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/air-france-klm-and-lufthansa-group-submit-final-bids-for-tap-air-portugal",
+    "day": "2026-10-01",
+    "img": "https://www.aerotime.aero/images/2025/01/TP1-1.jpg"
+   },
+   {
+    "headline": "Romanian airline Animawings files for insolvency, disposes of entire A220 fleet",
+    "summary": "Romanian private airline Animawings filed for insolvency at a court in Bucharest on September 30, 2026. Under this… The post Romanian airline Animawings files for insolvency, disposes of entire A220 fleet appeared first…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/romanian-airline-animawings-files-for-insolvency-disposes-of-entire-a220-fleet",
+    "day": "2026-10-01",
+    "img": "https://www.aerotime.aero/images/2024/12/Animawings-A220-e1744022622451.jpg"
+   },
+   {
+    "headline": "Avora Group consolidates aviation businesses under one platform",
+    "summary": "Avora Aviation, Fly2Sky, MX Technic and Avora Aviation Academy have been consolidated as business units of Avora Group, creating an integrated aviation platform spanning aircraft leasing, airline capacity, technical…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/10/01/avora-group-consolidates-aviation-businesses-under-one-platform/",
+    "day": "2026-10-01",
+    "img": null
+   },
    {
     "headline": "Volotea files for preliminary creditor protection as it attempts to recapitalize",
     "summary": "Volotea’s woes continue. According to reports appeared in the Spanish media on September 29, 2026, the regional low-cost… The post Volotea files for preliminary creditor protection as it attempts to recapitalize…",
@@ -3650,6 +3682,14 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "Protected: Corporate Jet Investor in Dubai 2026 – Attendee List",
+    "summary": "There is no excerpt because this is a protected post. The post Protected: Corporate Jet Investor in Dubai 2026 – Attendee List appeared first on Corporate Jet Investor .",
+    "source": "Corporate Jet Investor",
+    "url": "https://www.corporatejetinvestor.com/dubai-2026-attendee-list/",
+    "day": "2026-10-01",
+    "img": null
+   },
    {
     "headline": "A Look At The Salaries Of Private Jet Pilots In The US In 2026",
     "summary": "Private jet careers are still popular for pilots even though they typically pay less than commercial pilot positions.",
@@ -4600,14 +4640,6 @@
     "source": "Private Jet Card Comparisons",
     "url": "https://privatejetcardcomparisons.com/2026/09/03/ab-jets-headquarters-expansion-memphis/",
     "day": "2026-09-03",
-    "img": null
-   },
-   {
-    "headline": "Private Jet Card Comparisons introduces Tips & Tricks channel",
-    "summary": "Tips & Tricks are stories that provide readers insights on how to get the most of their private jet travel experience and minimize pain points The post Private Jet Card Comparisons introduces Tips & Tricks channel…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/09/02/private-jet-card-comparisons-introduces-tips-tricks-channel/",
-    "day": "2026-09-02",
     "img": null
    }
   ],
@@ -5575,6 +5607,46 @@
   ],
   "defense": [
    {
+    "headline": "Why Boeing's F-15EX Eagle II Hit 72.4% Availability In Its 1st Full Year",
+    "summary": "The first impression of the latest and greatest model in the Eagle family tree.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-boeing-f-15-ex-eagle-ii-hit-72-percent-availablility-1st-full-year/",
+    "day": "2026-10-01",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/boeing-s-f-15ex.png"
+   },
+   {
+    "headline": "Swedish Gripens to defend Ukraine aid hub as Poland eases air-defense rules",
+    "summary": "Swedish JAS 39 Gripen fighters begin contributing to the protection of the Rzeszów-Jasionka logistics hub supplying Ukraine from… The post Swedish Gripens to defend Ukraine aid hub as Poland eases air-defense rules…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/swedish-gripens-poland-ukraine-hub-air-defense-rules",
+    "day": "2026-10-01",
+    "img": "https://www.aerotime.aero/images/2026/10/Swedish-Air-Force-JAS-39C-Gripen-during-Exercise-Ramstein-Flag-26.jpg"
+   },
+   {
+    "headline": "Why the US Air Force Needs to Invest in Electronic Warfare",
+    "summary": "United States air forces are engaged in combat operations today, and not all the aircraft are modern stealthy platforms like the B-2, F-22, or F-35. The venerable Lockheed Martin F-16 Fighting Falcon remains the…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/why-the-us-air-force-needs-to-invest-in-electronic-warfare/",
+    "day": "2026-10-01",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/L3Harris-Viper-Shield-EW-RBAF-900x600.jpg"
+   },
+   {
+    "headline": "RAAF F/A-18F Super Hornet Spotted with AIM-260 During Gray Flag Test Event",
+    "summary": "A RAAF Super Hornet was spotted with an inert AIM-260 missile during the Gray Flag 2026 test event, few weeks after Australia announced the procurement of the new weapon. A Royal Australian Air Force F/A-18F Super…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/10/01/raaf-super-hornet-aim-260-gray-flag/",
+    "day": "2026-10-01",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/10/RAAF_JATM.jpg"
+   },
+   {
+    "headline": "What Europe’s military air fleets will look like in 30 years",
+    "summary": "Breaking Defense’s roundtable looks into a crystal ball to discuss the more distant future for the continent’s air forces.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/10/what-europes-military-air-fleets-will-look-like-in-30-years/",
+    "day": "2026-10-01",
+    "img": null
+   },
+   {
     "headline": "Drowning in Data: New Report Says Space Force Needs Lasers Comms to Beat the Bottleneck",
     "summary": "The long-standing method for communicating data down from space via radio frequencies has the potential to create deadly data bottlenecks that could slow and stymie future operations, according to a new report from…",
     "source": "Air & Space Forces Mag",
@@ -6493,46 +6565,6 @@
     "url": "https://theaviationist.com/2026/09/24/f-35-canopy-china/",
     "day": "2026-09-24",
     "img": "https://theaviationist.com/wp-content/uploads/2026/09/F-35-canopy-top.jpg"
-   },
-   {
-    "headline": "French Rafales Return to Japan for PEGASE 2026",
-    "summary": "Four Rafale F4s, supported by three A330 MRTTs and two A400Ms, stopped over at Hyakuri Air Base during the latest edition of the PEGASE long-range airpower projection mission. The Armée de l’Air et de l’Espace (AAE)…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/24/french-rafales-japan-pegase-2026/",
-    "day": "2026-09-24",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/09/rafalejapancover.jpg"
-   },
-   {
-    "headline": "Hawk trainer crash prompts UK to ground fleet",
-    "summary": "“Both pilots are doing well … and expected to make a full recovery,” said the UK Royal Air Force.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/09/hawk-trainer-crash-prompts-uk-to-ground-fleet/",
-    "day": "2026-09-24",
-    "img": null
-   },
-   {
-    "headline": "The Fraud Case That Claimed Rolls-Royce Used Scrap To Build Engines Powering The B-52, Global Hawk, & MQ-25",
-    "summary": "A troubling accusation leveled at a historic house of aviation.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/fraud-case-rolls-royce-engines-scrap-build-powering-b-52-global-hawk-mq-25-fraud/",
-    "day": "2026-09-24",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/rolls-royce-engines.jpg"
-   },
-   {
-    "headline": "How New Zealand's NH90 Helicopters Are Outflying Fleets 5 Times Their Size",
-    "summary": "How did eight NH90s outfly Australia's fleet of 46? New Zealand may have found the secret to keeping the troubled helicopter flying.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-new-zealand-nh90-helicopters-outflying-fleets-5-times-size/",
-    "day": "2026-09-24",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/ew-zealand-s-nh90-helicopters.png"
-   },
-   {
-    "headline": "Air Force to Cut Civilian Jobs from China-Focused Research Center",
-    "summary": "The Air Force is slashing all civilian positions at its premier research institute for Chinese military aviation, prompting concern among experts who say it will dilute the service’s focus on the Pentagon’s most…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/air-force-cut-civilian-jobs-china-focused-research-center/",
-    "day": "2026-09-24",
-    "img": "https://www.airandspaceforces.com/app/uploads/2023/10/1123_World_Gordon_China_Intercepts-900x600.jpg"
    }
   ],
   "others": []
