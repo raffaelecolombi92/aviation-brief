@@ -1,7 +1,15 @@
 {
- "generated": "2026-10-04T20:46+00:00",
+ "generated": "2026-10-04T23:46+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "“Take A Delay” Instead: American Airlines Ends Bumping Passengers Involuntarily Off Flights",
+    "summary": "American Airlines ends involuntary bumping, ordering staff to find volunteers instead—even if it means delaying flights or paying more compensation.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-ends-involuntarily-bumping-passengers-off-flights/",
+    "day": "2026-10-04",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_2012996687_cropped.jpg"
+   },
    {
     "headline": "The Legacy Airbus Operator Returning To Boeing After A Decade Away From The 737",
     "summary": "Lufthansa has buoyed its latest Boeing 737 order after having previously ditched the family.",
@@ -951,14 +959,6 @@
     "summary": "Published at 1900PDT 29SEP26 / 0200GMT 30SEP26 MIAT Mongolian Airlines in the last few days filed operational schedule for Ulaanbaatar – Singapore route during Northern winter 2026/27 season, as the carrier operates…",
     "source": "AeroRoutes",
     "url": "https://www.aeroroutes.com/eng/260929-omnw26sin",
-    "day": "2026-09-30",
-    "img": null
-   },
-   {
-    "headline": "Air Astana Plans Almaty – Langkawi Launch in Dec 2026",
-    "summary": "Published at 1800PDT 29SEP26 / 0100GMT 30SEP26 Air Astana during Northern winter 2026/27 season plans to launch new service to Malaysia, as the carrier schedules Almaty – Langkawi route. From 25DEC26, Airbus A321LR…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260929-kcnw26lgk",
     "day": "2026-09-30",
     "img": null
    }
@@ -1927,6 +1927,22 @@
   ],
   "fleet": [
    {
+    "headline": "Why Airbus Must Deliver 99 Jets A Month Through Year-End To Hit Its 2026 Target",
+    "summary": "Another year end sprint coming down the line.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-deliver-99-jets-month-year-end-2026-target/",
+    "day": "2026-10-04",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/airbus-must-deliver-99-jets.png"
+   },
+   {
+    "headline": "A Pair Of 4-Year-Old Spirit Airlines Airbus A320neos Just Became The Youngest Jets Ever Scrapped",
+    "summary": "What's leading airlines to take apart new aircraft decades before they're unflyable.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/pair-4-year-old-spirit-airlines-airbus-a320neos-youngest-jets-ever-scrapped/",
+    "day": "2026-10-04",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/4-year-old-spirit-airlines-airbus-a320neos.png"
+   },
+   {
     "headline": "Why The Boeing 747SP's Ultra-Long-Range Fuselage Design Will Be Nearly Impossible To Replicate In 2026",
     "summary": "The aircraft remains one of the most unique aircraft in commercial aviation history.",
     "source": "Simple Flying",
@@ -2869,22 +2885,6 @@
     "url": "https://simpleflying.com/what-happens-see-diversion-flight-tracker/",
     "day": "2026-09-24",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2357441959.jpg"
-   },
-   {
-    "headline": "New A321neo quality defect adds pressure to Airbus delivery schedule",
-    "summary": "Airbus is alerting its airline customers to a quality defect that could reduce corrosion resistance inside the fuselage structure of hundreds of A321neos, affecting both already delivered aircraft and single-aisles…",
-    "source": "The Air Current",
-    "url": "https://theaircurrent.com/aircraft-production/new-a321neo-quality-defect-pressure-airbus-delivery-schedule/",
-    "day": "2026-09-24",
-    "img": "https://theaircurrent.com/wp-content/uploads/2026/09/airbus-a321-forward-fuselage-xfw-2026.jpg"
-   },
-   {
-    "headline": "Game Aerospace’s GB2 firefighting aircraft completes first flight",
-    "summary": "Game Aerospace’s GB2 firefighting aircraft completed its first flight in Bentonville, Arkansas, on September 23, 2026, beginning flight… The post Game Aerospace’s GB2 firefighting aircraft completes first flight…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/game-aerospace-gb2-firefighting-aircraft-first-flight",
-    "day": "2026-09-24",
-    "img": "https://www.aerotime.aero/images/2026/09/Recently-Saved-1-of-1-17.jpeg"
    }
   ],
   "finance": [
@@ -4677,6 +4677,14 @@
   ],
   "policy": [
    {
+    "headline": "The 90-Inch Fan Rolls-Royce Thinks Will Break The CFM, Pratt & Whitney Narrowbody Duopoly",
+    "summary": "The next-era of air travel is still up for grabs.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/90-inch-fan-rolls-royce-thinks-break-cfm-pratt-whitney-narrowbody-duopoly/",
+    "day": "2026-10-04",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/90-inch-fan.png"
+   },
+   {
     "headline": "Press Release: New travel industry coalition calls for EU Digital Omnibus",
     "summary": "ACI EUROPE, Amadeus, IATA, IDEMIA Public Security and SITA today announced the formation of the Responsible Biometrics Travel Industry Coalition, calling on EU policymakers to ensure the Digital Omnibus actively…",
     "source": "Runway Girl Network",
@@ -5627,14 +5635,6 @@
     "url": "https://www.aerotime.aero/articles/atsb-qantas-a380-work-light-wing-final-report",
     "day": "2026-08-18",
     "img": "https://www.aerotime.aero/images/2026/08/Qantas-Airbus-A380-842-VH-OQK-arrives-at-Sydney-Airport-in-June-2022.jpg"
-   },
-   {
-    "headline": "Eve and RV Connex target Thai advanced air mobility framework",
-    "summary": "Eve Air Mobility and Thai aerospace and engineering company RV Connex have signed a memorandum of understanding (MOU) to support the development of a regulatory framework for advanced air mobility (AAM) operations in…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/08/18/eve-and-rv-connex-target-thai-advanced-air-mobility-framework/",
-    "day": "2026-08-18",
-    "img": null
    }
   ],
   "defense": [
