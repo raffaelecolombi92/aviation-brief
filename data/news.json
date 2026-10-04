@@ -1,7 +1,15 @@
 {
- "generated": "2026-10-04T16:19+00:00",
+ "generated": "2026-10-04T20:46+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "The Legacy Airbus Operator Returning To Boeing After A Decade Away From The 737",
+    "summary": "Lufthansa has buoyed its latest Boeing 737 order after having previously ditched the family.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/legacy-airbus-operator-returning-boeing-decade-away-737/",
+    "day": "2026-10-04",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/legacy-airbus-operator.png"
+   },
    {
     "headline": "The Quiet Boeing 787-10 Upgrade That Just Made United Airlines' Fleet Math Rival The Airbus A350",
     "summary": "United’s higher-weight Boeing 787-10 gains more range and payload, potentially expanding where the airline can deploy its largest Dreamliner.",
@@ -953,17 +961,33 @@
     "url": "https://www.aeroroutes.com/eng/260929-kcnw26lgk",
     "day": "2026-09-30",
     "img": null
-   },
-   {
-    "headline": "TUI Airways March 2027 Manchester – Nuuk Charters",
-    "summary": "Published at 1701PDT 29SEP26 / 0001GMT 30SEP26 TUI Airways in March 2027 schedules one-time charter service between Manchester and Greenland, on board Boeing 737 MAX 8. The airline plans to operate Manchester – Nuuk…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/260929-tommar27goh",
-    "day": "2026-09-30",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "How Alaska Airlines' 76-Seat Regional Jets Are Quietly Outflanking Southwest In San Diego",
+    "summary": "A fight is heating up in Southern California between Alaska Airlines and Southwest. Here's why.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-alaska-airlines-76-seat-regional-jets-quietly-outflanking-southwest-san-diego/",
+    "day": "2026-10-04",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/alaska-airlines-76-seat-regional-jets.png"
+   },
+   {
+    "headline": "5 Largest Commercial Airports In The World By Number Of Runways",
+    "summary": "Runways come in all sizes and all quantities, but some airports can boast more than any other. Here are 5 airports that have the most runways.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/largest-commercial-airports-world-number-of-runways/",
+    "day": "2026-10-04",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/763065164_2216449345591453_3538456114458057886_n.jpg"
+   },
+   {
+    "headline": "When American Airlines Mistakenly Flew A Non-ETOPS Airbus A321 To Hawaii",
+    "summary": "The mistake happened just 12 days after the carrier began deploying the aircraft type over the Pacific.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/when-american-airlines-flew-non-etops-airbus-a321-hawaii/",
+    "day": "2026-10-04",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_2362721621-1.jpg"
+   },
    {
     "headline": "Air Canada Begins 8-Hour Nonstop A321XLR Heathrow Flights In 2 Months: See Routes Now",
     "summary": "The carrier will eventually fly its A321XLRs to London from three Canadian cities.",
@@ -1899,33 +1923,17 @@
     "url": "https://simpleflying.com/airbus-a350f-first-test-flight-date-confirmed/",
     "day": "2026-09-25",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/a350f-msn700-rollout_ai-pho-0108-33-a350f-msn700-roll-out-015_cropped.jpg"
-   },
-   {
-    "headline": "Official: Nashville Airport Authority Majority Votes In Favor Of Renaming After Dolly Parton",
-    "summary": "Nashville International Airport (BNA) has taken its first formal step toward being renamed in honor of Dolly Parton. On September 11th, the Metropolitan Nashville Airport Authority (MNAA) Board voted unanimously, 6-0…",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/video/official-nashville-airport-authority-majority-votes-in-favor-of-renaming-after-dolly-parton/",
-    "day": "2026-09-25",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/parton-airport.jpg"
-   },
-   {
-    "headline": "UK CAA to assess NATS leadership as part of system failure review",
-    "summary": "The UK’s Civil Aviation Administration (CAA) has set out the scope of its independent review into a system… The post UK CAA to assess NATS leadership as part of system failure review appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/uk-caa-to-assess-nats-leadership-as-part-of-system-failure-review",
-    "day": "2026-09-25",
-    "img": "https://www.aerotime.aero/images/Ferrovial-sells-stake-in-Heathrow-to-PIF.jpg"
-   },
-   {
-    "headline": "Capturing pollution from aircraft emissions at Copenhagen Airport",
-    "summary": "Can air quality at an airport be improved with filters that capture pollution from aircraft? That is what Copenhagen Airport is now setting out to discover. To support this ambition, the airport is launching CPH Air…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/capturing-pollution-from-aircraft-emissions-at-copenhagen-airport/?utm_source=rss&utm_medium=rss&utm_campaign=capturing-pollution-from-aircraft-emissions-at-copenhagen-airport",
-    "day": "2026-09-25",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "Why The Boeing 747SP's Ultra-Long-Range Fuselage Design Will Be Nearly Impossible To Replicate In 2026",
+    "summary": "The aircraft remains one of the most unique aircraft in commercial aviation history.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/boeing-747sp-fuselage-design-2026/",
+    "day": "2026-10-04",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/pan_am_boeing_747sp_takeoff.jpg"
+   },
    {
     "headline": "Could New Zealand Ever Rebuild A Fighter Jet Fleet After Scrapping Its Air Combat Force?",
     "summary": "New Zealand could, in theory, rebuild a fighter jet fleet, but it still has no intention and is focusing on autonomous systems and recapitalization.",
@@ -2877,14 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/game-aerospace-gb2-firefighting-aircraft-first-flight",
     "day": "2026-09-24",
     "img": "https://www.aerotime.aero/images/2026/09/Recently-Saved-1-of-1-17.jpeg"
-   },
-   {
-    "headline": "Alaska Airlines expects Boeing 737 MAX 10 certification within days",
-    "summary": "Alaska Airlines said it expects Boeing’s 737 MAX 10 to receive FAA certification by the end of September… The post Alaska Airlines expects Boeing 737 MAX 10 certification within days appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/alaska-airlines-boeing-737-max-10-certification",
-    "day": "2026-09-24",
-    "img": "https://www.aerotime.aero/images/2025/08/N954AK-Alaska-Airlines-Boeing-737-9-MAX.jpg"
    }
   ],
   "finance": [
@@ -5639,6 +5639,22 @@
   ],
   "defense": [
    {
+    "headline": "Ex-Qatari Air Force One Sidelined For 'Cosmetic Upgrades,' But No Word On Missile Defenses",
+    "summary": "Break comes weeks after President Trump said the plane would be sent to be \"maxed out\".",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/trump-qatari-air-force-one-cosmetic-upgrades-missile-defense/",
+    "day": "2026-10-04",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/boeing-s-new-air-force-one.jpg"
+   },
+   {
+    "headline": "Inside The $1.4 Billion Program The US Air Force Just Stood Up At Grand Forks To Defend Its Own Bases",
+    "summary": "The USAF is up-arming its close-in base air defenses.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/inside-usaf-program-grand-forks-defend-own-bases/",
+    "day": "2026-10-04",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/1-4-billion-program.png"
+   },
+   {
     "headline": "Northrop Grumman’s autonomous cost-cutter Talon Blue takes first flight",
     "summary": "Northrop Grumman’s YFQ-48A Talon Blue has completed its first fully autonomous flight in Mojave, California, including taxi, takeoff,… The post Northrop Grumman’s autonomous cost-cutter Talon Blue takes first flight…",
     "source": "AeroTime",
@@ -6581,22 +6597,6 @@
     "url": "https://www.twz.com/air/british-police-arrest-men-driving-toward-u-s-bomber-base-in-the-u-k-with-suspected-explosives",
     "day": "2026-09-27",
     "img": "https://www.twz.com/wp-content/uploads/2026/09/Fairford-Arrests-Incident.jpg?quality=85"
-   },
-   {
-    "headline": "A Retired F-14 Tomcat's Ejection Seat Is Worth More Than Most Civilian Aircraft Engines",
-    "summary": "The curious market for surplus Navy fighter parts.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/f14-tomcat-ejection-seat-value-civilian-aircraft-engines/",
-    "day": "2026-09-27",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/usnavy-20260914-185028.jpg"
-   },
-   {
-    "headline": "‘Major Incident’ Near RAF Fairford After Arrests Made Under Explosives Act",
-    "summary": "After U.S. forces at RAF Fairford rapidly stepped up security precautions yesterday, police have now confirmed that arrests have been made and residents evacuated in the adjacent village of Whelford as explosive…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/27/major-incident-raf-fairford/",
-    "day": "2026-09-27",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/09/FairfordMajorIncident_1.jpg"
    }
   ],
   "others": []
