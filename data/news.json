@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T23:29+00:00",
+ "generated": "2026-10-04T03:51+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,14 @@
   ],
   "airports": [
    {
+    "headline": "Why United Airlines' New Guam Boeing 737 MAX 8s Include A Row That Collapses Into A Medevac Stretcher",
+    "summary": "United's Guam 737 MAX 8 fleet brings lower fuel burn, longer-range flexibility and a unique medevac stretcher capability to the Island Hopper.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-united-airlines-new-guam-boeing-737-max-8s-row-collapse-medevac-stretcher/",
+    "day": "2026-10-04",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/guam-boeing-737-max-8.png"
+   },
+   {
     "headline": "American Airlines To Allow Passengers To Purchase Flights With A Mix Of Cash & AAdvantage Miles",
     "summary": "An interactive checkout slider will let logged in flyers split payment between cash and miles for contiguous US flights.",
     "source": "Simple Flying",
@@ -1915,17 +1923,25 @@
     "url": "https://airport-world.com/newcastle-airports-new-international-terminal-making-a-difference/?utm_source=rss&utm_medium=rss&utm_campaign=newcastle-airports-new-international-terminal-making-a-difference",
     "day": "2026-09-25",
     "img": null
-   },
-   {
-    "headline": "Uber to run exclusive pickup zone at Western Sydney International",
-    "summary": "Western Sydney International (Nancy-Bird Walton) Airport (WSI) and Uber have announced a partnership that will give passengers another way to travel to and from Sydney’s new airport, starting October 25. Uber will…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/operations-news/uber-to-run-exclusive-pickup-zone-at-western-sydney-international.html",
-    "day": "2026-09-25",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/09/External_Terminal_People_HIGHRES_9-Large-e1790329584367.jpeg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Missing Floor Panel: The Secret Way Airbus A380 Crew Can Escape From Their Rest Areas",
+    "summary": "Why does Qantas leave one seat missing on its Airbus A380? The strange gap hides an escape hatch created by a little-known EASA safety requirement.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/secret-way-airbus-a380-crew-escape-rest-areas/",
+    "day": "2026-10-04",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/missing-floor-panel.png"
+   },
+   {
+    "headline": "Where Manufacturers Actually Fly Test Flights & How To Track Them",
+    "summary": "Head over to the Simple Flying tracker to see if you can find any test flights in action.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/where-manufacturers-fly-test-flights-how-to-track/",
+    "day": "2026-10-04",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/manufacturers.png"
+   },
    {
     "headline": "Why Delta Air Lines' 282-Seat Airbus A330 Cannot Make The Math Work On Boston To Honolulu",
     "summary": "Delta cut 81% of its Boston-Honolulu schedule before the route even started. It is the third retreat from the market in three years.",
@@ -2869,22 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/united-airlines-pratt-whitneys-first-gtf-advantage-powered-aircraft",
     "day": "2026-09-24",
     "img": "https://www.aerotime.aero/images/2026/09/Airbus-A321xlr-United-Airlines.jpg"
-   },
-   {
-    "headline": "ATR appoints Leonardo executive Vittorio Lorenzo Della Bella as new CEO",
-    "summary": "Turboprop maker ATR announced on September 24, 2026, that its board of directors has appointed Vittorio Lorenzo Della… The post ATR appoints Leonardo executive Vittorio Lorenzo Della Bella as new CEO appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/atr-appoints-leonardo-executive-vittorio-lorenzo-della-bella-as-new-ceo",
-    "day": "2026-09-24",
-    "img": "https://www.aerotime.aero/images/2026/09/VLDB.jpg"
-   },
-   {
-    "headline": "How do Doubled Jet Fuel Prices hit Airlines?",
-    "summary": "By Bjorn Fehrm • Aerospace Analyst September 24, 2026 Subscription Required Jet fuel prices have doubled since January, and analysts forecast we might not have seen the peak yet (Figure 1). The initial peak in April was…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/09/24/how-do-doubled-jet-fuel-prices-hit-airlines/",
-    "day": "2026-09-24",
-    "img": null
    }
   ],
   "finance": [
