@@ -1,7 +1,47 @@
 {
- "generated": "2026-10-06T19:57+00:00",
+ "generated": "2026-10-07T00:19+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Southwest Becomes 1st US Airline To Bring Flight Booking Directly Into ChatGPT",
+    "summary": "Plugin allows customers to research flights in a new way.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/southwest-1st-us-airline-flight-booking-chatgpt/",
+    "day": "2026-10-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/southwest-airlines-737-touches-down-at-san-diego-international.jpg"
+   },
+   {
+    "headline": "Inside United’s Massive Starlink Blitz To Retrofit 20+ Mainline Aircraft Per Week, 1,000 By 2027",
+    "summary": "United is racing to install Starlink on 1,000+ mainline aircraft by May 2027, retrofitting more than 20 jets weekly in a major Wi-Fi battle.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-massive-starlink-blitz-retrofit-20-aircraft-1000-2027/",
+    "day": "2026-10-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_2558371707_cropped.jpg"
+   },
+   {
+    "headline": "American Airlines Passengers Can Guarantee Their Meal Choice Again As Preorders Return Next Week",
+    "summary": "DFW to LAX travelers get a reserved buy on board trial with wraps, snack boxes and fruit plates landing in October.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-passengers-guarantee-meal-choice-preorders-return/",
+    "day": "2026-10-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/084-2-american-airlines-boeing-737-max-8-wirestock-creators-_-shutterstock.jpg"
+   },
+   {
+    "headline": "Jeppesen ForeFlight introduces AI tools to help airlines manage flight disruptions",
+    "summary": "Jeppesen ForeFlight has unveiled artificial intelligence tools designed to help airlines recover more quickly from flight disruptions, build… The post Jeppesen ForeFlight introduces AI tools to help airlines manage…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/jeppesen-foreflight-airflow-ai-airline-operations",
+    "day": "2026-10-06",
+    "img": "https://www.aerotime.aero/images/2026/10/Recently-Saved-1-of-1-34.jpeg"
+   },
+   {
+    "headline": "WestJet Expands KLM Codeshare in NS27",
+    "summary": "Published at 1300PDT / 2000GMT 06OCT26 WestJet in 2027 plans to expand codeshare partnership with KLM, covering additional European routes. Following codeshare routes to commence on 30APR27. WestJet operated by KLM…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261006-wsklcodeshare",
+    "day": "2026-10-06",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "How Much Do British Airways Pilots Make Compared To Emirates Pilots?",
     "summary": "Both airlines pay their pilots differently, but salary is only one part of the compensation conversation.",
@@ -921,49 +961,25 @@
     "url": "https://simpleflying.com/widebody-cabin-math-premium-economy-highest-margin-seat-2026/",
     "day": "2026-10-01",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/widebody-cabin.png"
-   },
-   {
-    "headline": "WestJet Removes 3 European Routes in NS27",
-    "summary": "Published at 1600PDT / 2300GMT 01OCT26 WestJet in last week’s schedule update filed initial changes to its European operation for Northern summer 2027 season, featuring 3 routes being removed. Following routes are no…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261001-wsns27eu",
-    "day": "2026-10-01",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Ethiopian NW26 Milan / Zurich Routing Changes",
-    "summary": "Published at 1500PDT / 2200GMT 01OCT26 Ethiopian Airlines during Northern winter 2026/27 season is adjusting service to Milan and Zurich. From 26OCT26, 3 of 7 weekly Addis Ababa – Milan Malpensa – Zurich will become…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261001-etnw26mxpzrh",
-    "day": "2026-10-01",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "BeOnd NW26 Network Changes – 01OCT26",
-    "summary": "Published at 1400PDT / 2100GMT 01OCT26 Maldives’ boutique carrier BeOnd in September 2026 filed additional changes to its planned Northern winter 2026/27 operations, including the launch date revision on selected new…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261001-b4nw26",
-    "day": "2026-10-01",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Here's How Emirates Actually Makes Money On Its Airbus A380: 15% Of Seats Generate Half The Revenue",
-    "summary": "Despite representing only around 15% of total seats, first and business classes are estimated to generate roughly 45% to 50% of passenger revenue.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-emirates-acually-makes-money-on-airbus-a380-15-percent-seats-generate-half-of-revenue/",
-    "day": "2026-10-01",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/revenue-emirates.jpg"
-   },
-   {
-    "headline": "Air Canada Cancels 5 Major Long-Haul Routes: See Full List Now",
-    "summary": "Four routes have already ended and one is ending in 2027.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/air-canada-cancels-5-major-long-haul-routes-see-full-list-now/",
-    "day": "2026-10-01",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_2676944715-2-_cropped.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "40,000 Square-Feet: American Airlines Is Bringing Its Largest-Ever Admirals Club To Charlotte In 2028",
+    "summary": "American Airlines is planning a record-sized Charlotte Admirals Club as CLT's connecting hub and premium facilities continue expanding.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-largest-ever-admirals-club-charlotte-2028/",
+    "day": "2026-10-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/clt_lounge_1920x1080.jpg"
+   },
+   {
+    "headline": "WestJet Cancels All Flights To 13 International Destinations: See Full List Now",
+    "summary": "Three are long-haul, while the rest are within the Caribbean, Mexico and the US. Find them all here!",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/westjet-cancels-flights-to-13-international-destinations-see-full-list-now/",
+    "day": "2026-10-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/647-westjet-boeing-737-800-robin-guess-_-shutterstock.jpg"
+   },
    {
     "headline": "United Airlines Launches 10 Major New Nonstop Routes This Month: See List Now",
     "summary": "They are from seven hubs across the US. Find all of them here!",
@@ -1907,22 +1923,6 @@
     "url": "https://airport-world.com/call-for-policymakers-to-treat-capacity-as-a-national-economic-priority/?utm_source=rss&utm_medium=rss&utm_campaign=call-for-policymakers-to-treat-capacity-as-a-national-economic-priority",
     "day": "2026-09-29",
     "img": null
-   },
-   {
-    "headline": "Jet Fuel Runs Out At Boston Airport For 2+ Days, Forcing Airlines To “Tanker” Fuel Amid Rare Nor’easter",
-    "summary": "Wild nor’easter sidelines barge deliveries and prompts tanker strategies, reshaping flight plans and causing delays.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/jet-fuel-out-boston-airport-2-days-tanker-fuel/",
-    "day": "2026-09-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/delta-air-lines-aircraft-with-boston-cityline-billlinphotos.jpg"
-   },
-   {
-    "headline": "100+ New Dishes: Singapore Airlines Unveils Major Inflight Dining Upgrade",
-    "summary": "All classes of travel will benefit from these enhancements.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/singapore-airlines-enhanced-inflight-dining-experience/",
-    "day": "2026-09-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/242-singapore-airlines-boeing-787-10-maverrick-_-shutterstock.jpg"
    }
   ],
   "fleet": [
@@ -3715,6 +3715,14 @@
   ],
   "bizav": [
    {
+    "headline": "The 8-Aircraft Airline Pricing Domestic Seats At Light-Jet Charter Parity In 2027",
+    "summary": "What Magnifica Air is promising to deliver once operations start next year.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/8-aircraft-airline-pricing-domestic-seats-light-jet-charter-parity-2027/",
+    "day": "2026-10-06",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/8-aircraft-airline.png"
+   },
+   {
     "headline": "VistaJet receives luxury and business awards",
     "summary": "VistaJet was commended by a luxury magazine, while also receiving an award for brand image and service at a Chinese finance summit. The post VistaJet receives luxury and business awards appeared first on Private Jet…",
     "source": "Private Jet Card Comparisons",
@@ -4663,14 +4671,6 @@
     "summary": "Charter broker JetSet Group is offering a waiver for peak travel surcharges on some jet cards, and is also expanding their offices and staff. The post JetSet offers September deal, waiver for peak travel surchages…",
     "source": "Private Jet Card Comparisons",
     "url": "https://privatejetcardcomparisons.com/2026/09/09/jetset-september-deal-waiver-peak-travel-surchages/",
-    "day": "2026-09-10",
-    "img": null
-   },
-   {
-    "headline": "OneFlight ‘actively addressing…financial and operations issues’",
-    "summary": "An email from OneFlight’s vp-human resources points a finger to the former CFO who has been in ICE detention since last week The post OneFlight ‘actively addressing…financial and operations issues’ appeared first on…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/09/09/oneflight-actively-addressingfinancial-and-operations-issues/",
     "day": "2026-09-10",
     "img": null
    }
@@ -5639,6 +5639,78 @@
   ],
   "defense": [
    {
+    "headline": "The US Air Force Just Hit Its 1,500-Pilot Goal, But The Real Shortage Will Take 20 Years To Fix",
+    "summary": "Why the USAF's training victory is just the first hurdle.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/usaf-hit-1500-pilot-goal-real-shortage-20-years-fix/",
+    "day": "2026-10-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/us-air-force-1.png"
+   },
+   {
+    "headline": "Boeing wins $14.7 billion contract to triple Patriot missile seeker production",
+    "summary": "Boeing has received a contract worth approximately $14.7 billion from Lockheed Martin to expand production of the seekers… The post Boeing wins $14.7 billion contract to triple Patriot missile seeker production appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/boeing-patriot-missile-seeker-contract-production",
+    "day": "2026-10-06",
+    "img": "https://www.aerotime.aero/images/2026/10/Recently-Saved-1-of-1-36.jpeg"
+   },
+   {
+    "headline": "Congressional report lists 81 US aircraft lost or damaged in Iran war",
+    "summary": "The Congressional Research Service has listed 81 US aircraft reportedly lost or damaged during operations against Iran, including… The post Congressional report lists 81 US aircraft lost or damaged in Iran war appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/us-aircraft-losses-iran-operations-congressional-report",
+    "day": "2026-10-06",
+    "img": "https://www.aerotime.aero/images/2026/10/Recently-Saved-1-of-1-35.jpeg"
+   },
+   {
+    "headline": "Two Dover Airmen Sentenced in Multimillion-Dollar Cyber Fraud Scheme",
+    "summary": "A federal judge recently sentenced one Airman and a former Airman to a combined 15 years in prison and ordered them to pay $1.36 million in restitution for a two-year cyber fraud scheme they perpetrated while serving on…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/two-dover-airmen-multimillion-dollar-cyber-fraud-scheme/",
+    "day": "2026-10-06",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/USAF-gavel-900x600.jpeg"
+   },
+   {
+    "headline": "OA-1K Goes Off Runway at Oklahoma Airport; Crew Safe",
+    "summary": "An OA-1K Skyraider II belonging to Air Force Special Operations Command went off the runway while landing at a small Oklahoma City airport Oct. 5 and is waiting to be moved, according to officials and flight tracking…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/oa-1k-incident-runway-oklahoma-airport/",
+    "day": "2026-10-06",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/05/9656807-900x600.jpg"
+   },
+   {
+    "headline": "Air Force’s Hypersonic Attack Cruise Missile Has First Flight Test",
+    "summary": "The U.S. Air Force has conducted the first flight test release of its developing hypersonic cruise missile, with that test taking place in Australia. The post Air Force’s Hypersonic Attack Cruise Missile Has First…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/air-force-first-flight-test-hypersonic-attac-cruise-missile/",
+    "day": "2026-10-06",
+    "img": "https://www.airandspaceforces.com/app/uploads/2022/09/HACM1-828x600.jpeg"
+   },
+   {
+    "headline": "L-39 Skyfox Advances C-UAS Role with Thales 70 mm Laser-Guided Rocket",
+    "summary": "Aero Vodochody has announced an MoU with Thales to continue testing a 70 mm rocket capability for the L-39 Skyfox Drone Hunter configuration. The Czech Republic’s L-39 Skyfox advanced jet trainer and light combat…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/10/06/l-39-skyfox-c-uas-70-mm-laser-guided-rocket/",
+    "day": "2026-10-06",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/10/L-39-Skyfox-C-UAS-1.jpg"
+   },
+   {
+    "headline": "Where Are The Aircraft Carriers?: October 6, 2026",
+    "summary": "USS George H.W. Bush pulls into Phuket for first liberty call after 188 days at sea, leaving USS George Washington as the sole carrier supporting operations against Iran. The post Where Are The Aircraft Carriers?…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/sea/where-are-the-aircraft-carriers-october-6-2026",
+    "day": "2026-10-06",
+    "img": "https://www.twz.com/wp-content/uploads/2026/10/TWZ-Carrier-Fleet-Tracker-As-Of-October-6-2026-Top.png?quality=85"
+   },
+   {
+    "headline": "Glaring Holes In UK Air Defense Take Center Stage In New “Britannia Shield” Proposal",
+    "summary": "The opposition Conservatives want a new network to defend Britain’s critical infrastructure and military bases. The post Glaring Holes In UK Air Defense Take Center Stage In New “Britannia Shield” Proposal appeared…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/land/glaring-holes-in-uk-air-defense-take-center-stage-in-new-britannia-shield-proposal",
+    "day": "2026-10-06",
+    "img": "https://www.twz.com/wp-content/uploads/2026/10/BOFORS-AIR-DEFENSE.jpg?quality=85"
+   },
+   {
     "headline": "Lockheed confirms Morocco’s first F 16 Block 72 completed maiden test flight",
     "summary": "Lockheed Martin has confirmed that the Royal Moroccan Air Force’s (RMAF) first F 16 Block 72 aircraft had… The post Lockheed confirms Morocco’s first F 16 Block 72 completed maiden test flight appeared first on AeroTime…",
     "source": "AeroTime",
@@ -6525,78 +6597,6 @@
     "url": "https://www.twz.com/air/what-boeings-new-render-of-its-winning-f-a-xx-fighter-tells-us",
     "day": "2026-09-30",
     "img": "https://www.twz.com/wp-content/uploads/2026/09/FAXX.jpg?quality=85"
-   },
-   {
-    "headline": "Hegseth to Slash 20 Percent of Generals and Flag Officers, Deepening Cuts to Top Ranks",
-    "summary": "Secretary of Defense Pete Hegseth plans to announce Sept. 30 that the Pentagon will slash the number of general and flag officers by 20 percent The post Hegseth to Slash 20 Percent of Generals and Flag Officers…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/hegseth-to-slash-20-percent-of-generals-and-flag-officers-deepening-cuts-to-senior-officers/",
-    "day": "2026-09-29",
-    "img": "https://www.airandspaceforces.com/app/uploads/2025/09/TrumpHegseth93025-10-900x600.jpg"
-   },
-   {
-    "headline": "F-47 Maker Boeing Tapped for Navy’s F/A-XX Sixth-Gen Fighter",
-    "summary": "The Navy has awarded Boeing a contract worth more than $20 billion to build its new carrier-based sixth-generation fighter, the F/A-XX. Boeing is also building the Air Force’s sixth-gen F-47. The post F-47 Maker Boeing…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/boeing-wins-navy-f-a-xx-sixth-gen-fighter-f-47/",
-    "day": "2026-09-29",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/Boeing_FA-XX-860x484-1.jpg"
-   },
-   {
-    "headline": "Pentagon Hands Out $20.7B Contract for AMRAAM Missiles to RTX",
-    "summary": "The Pentagon on Sept. 28 announced a contract potentially worth $20.7 billion for RTX to build Advanced Medium-Range Air-to-Air Missiles used by Navy and Air Force aircraft and for ground-based interceptors. The post…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/pentagon-20-7b-contract-amraam-missiles-rtx/",
-    "day": "2026-09-29",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/f35-shot-900x600.jpg"
-   },
-   {
-    "headline": "Boeing Awarded Contract to Build U.S. Navy’s F/A-XX Fighter",
-    "summary": "Boeingn has won the U.S. Navy’s F/A-XX competition for the sixth-generation carrier-based fighter, with a contract valued at more than $20B for the full-scale development phase. After months of wait, the U.S. Navy has…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/30/boeing-wins-us-navy-f-a-xx-fighter/",
-    "day": "2026-09-29",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/09/20260903catapult-8K-scaled.jpg"
-   },
-   {
-    "headline": "Navy Orders 30 Drone Ships To Finally Advance Its ‘Medium’ Uncrewed Vessel Ambitions",
-    "summary": "The Navy has taken an important step toward fielding larger USV fleets, an area where it has persistently struggled in the past. The post Navy Orders 30 Drone Ships To Finally Advance Its ‘Medium’ Uncrewed Vessel…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/sea/navy-orders-30-drone-ships-to-finally-advance-its-medium-uncrewed-vessel-ambitions",
-    "day": "2026-09-29",
-    "img": "https://www.twz.com/wp-content/uploads/2026/09/usn-musv-drone-boat-contracts.jpg?quality=85"
-   },
-   {
-    "headline": "Two Guardians Just Became the First Space Force Grads of Army Jungle School",
-    "summary": "Space Force Maj. Alyson Gleason and Capt. Stephen Richard just gave their highly technical service a tougher image by becoming the first Guardians to endure 18 punishing days of training to graduate from the Jungle…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/two-guardians-space-force-grads-army-jungle-school/",
-    "day": "2026-09-29",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/GUARDIAN-GLEASON-JUNGLEc-SCHOOL-900x600.jpg"
-   },
-   {
-    "headline": "Phantom Flogger: How An Unarmed and Unmanned MiG-23 Crossed Into NATO Airspace",
-    "summary": "In the waning days of the Cold War, a Soviet MiG-23M flew pilotless across Warsaw Pact and NATO airspace, eventually crashing into a house in Belgium and killing one person. On July 4, 1989, a MiG-23 departed a Polish…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/29/phantom-flogger-mig-23-crossed-into-nato-airspace/",
-    "day": "2026-09-29",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/09/Mig-23-DNST8908431_JPG.jpg"
-   },
-   {
-    "headline": "U.S. Navy Advances New W93 Nuclear Warhead for Trident Submarine-Launched Ballistic Missiles",
-    "summary": "The W93 warhead and Mk7 reentry body assembly are part of the Trident II D5 Life Extension (D5LE2) which will modernize the sea-based leg of the nuclear triad. The U.S. Navy’s W93 warhead and Mk7 reentry body assembly…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/09/29/us-navy-w93-nuclear-warhead-emd/",
-    "day": "2026-09-29",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/09/US-Navy-W93-Warhead-1.jpg"
-   },
-   {
-    "headline": "Boeing wins Navy next-gen fighter F/A-XX competition",
-    "summary": "Boeing’s win gives it a monopoly on American sixth-gen fighters, following its 2025 selection to build the F-47.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/09/boeing-navy-ngad-faxx-next-gen-fighter-competition-northrop/",
-    "day": "2026-09-29",
-    "img": null
    }
   ],
   "others": []
