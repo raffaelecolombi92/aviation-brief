@@ -1,7 +1,15 @@
 {
- "generated": "2026-10-10T16:48+00:00",
+ "generated": "2026-10-10T21:01+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "9 People Hospitalized After Avianca Flight Hits Severe Turbulence, Diverts To Miami",
+    "summary": "Passengers and crew treated after sudden midflight turbulence forced diversion to Miami and urgent hospital care.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/9-hospitalized-avianca-flight-severe-turbulence-divert-miami/",
+    "day": "2026-10-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/an-avianca-a320-landing-1.jpg"
+   },
    {
     "headline": "Qatar Airways Officially Ends Its Airbus A330 Era, Sends Pilots To RwandAir",
     "summary": "Qatar Airways has retired its final Airbus A330 passenger aircraft, ending the airline's era with the type after it remained in its fleet longer than originally expected. The carrier is also offering a voluntary…",
@@ -953,17 +961,25 @@
     "url": "https://www.aeroroutes.com/eng/261007-fjns27nrt",
     "day": "2026-10-07",
     "img": null
-   },
-   {
-    "headline": "China Airlines / Virgin Atlantic Plans 4Q26 Codeshare Partnership",
-    "summary": "Published at 0400PDT / 1100GMT 07OCT26 China Airlines and Virgin Atlantic in the fourth quarter of 2026 launches codeshare partnership, with effective date listed from 07OCT26 at the earliest. At time this post goes to…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261007-civscodeshare",
-    "day": "2026-10-07",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "Beyond Seattle: These Are Alaska Airlines' 6 Other Hubs",
+    "summary": "From its new second global hub in Hawaii to steady growth across California and Alaska, the airline has clearly expanded beyond Seattle.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/alaska-airlines-6-other-hubs/",
+    "day": "2026-10-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/beyond-seattle-these-are-alaska-airlines-5-other-hubs-1.jpg"
+   },
+   {
+    "headline": "Why American Airlines Can No Longer Afford To Be Strong At Every Hub",
+    "summary": "A closer look at the rationale behind American Airlines' network changes.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-no-longer-afford-strong-every-hub/",
+    "day": "2026-10-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/why-american-airlines-can-no-longer-afford-to-be-strong-at-every-hub.jpg"
+   },
    {
     "headline": "Delta’s Riyadh Launch In Fresh Doubt As Passenger Terminal Blast Leaves Many Injured",
     "summary": "Delta’s CEO has claimed that safety will decide whether its Riyadh launch goes ahead.",
@@ -1907,25 +1923,33 @@
     "url": "https://simpleflying.com/newark-liberty-refurbish-runway-involved-united-airlines-truck-collision/",
     "day": "2026-10-01",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_2282071451-1.jpg"
-   },
-   {
-    "headline": "San Diego Crowned As World's No.1 Fastest-Growing Major Airport In 2026: See Top 10 Now",
-    "summary": "The sunny shores of San Diego see a record year in air travel.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/san-diego-crowned-words-no1-fastest-growing-major-airport-2026/",
-    "day": "2026-10-01",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/246-southwest-airlines-boeing-737-800-robin-guess-_-shutterstock.jpg"
-   },
-   {
-    "headline": "The $14 Billion Airport Being Built In The Middle Of Nowhere & Why Every Major Airline Wants In",
-    "summary": "Australia’s new $14 billion Western Sydney Airport is transforming global airline strategy with 24/7 operations and massive long-term expansion plans.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/14-billion-airport-middle-nowhere-every-major-airline-wants-in/",
-    "day": "2026-10-01",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/14-million.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "The Retired Widebody Airliner Now Cheaper Than Building A New Hypersonic Carrier Aircraft",
+    "summary": "Stratolaunch's latest addition to its fleet.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/retired-widebody-airliner-cheaper-building-new-hypersonic-carrier-aircraft/",
+    "day": "2026-10-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/the-retired-widebody-airliner-now-cheaper-than-building-a-new-hypersonic-carrier-aircraft.jpg"
+   },
+   {
+    "headline": "Qatar Airways' Qsuite Next Gen Is So Advanced It Forced The Airline To Invent A New First Class",
+    "summary": "Qsuite took so many elements from first class that Qatar Airways has had to introduce Qsuite Next Gen.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/qatar-airways-qsuite-next-gen-advanced-forced-to-invent-new-first-class/",
+    "day": "2026-10-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/qatar-airways-qsuite.jpg"
+   },
+   {
+    "headline": "Etihad Airways' Airbus A380 Comeback Is Complete – Here's Where To Find The Fleet Today",
+    "summary": "The A380 is well and truly back at Etihad, and you can see it in action using the live flight tracker feature.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/etihad-a380-fleet-reactivation-complete-tracker/",
+    "day": "2026-10-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/etihad-s-a380.png"
+   },
    {
     "headline": "Where To Actually Spot The World's Last Passenger Boeing 747s",
     "summary": "Frankfurt, Seoul, Beijing, and Moscow host the dwindling fleet on high-capacity routes and also on unexpected diversions.",
@@ -2861,30 +2885,6 @@
     "url": "https://simpleflying.com/how-much-range-boeing-777x-compared-to-777-300er/",
     "day": "2026-09-29",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/12/7773-vs-7779-range-feature-wikimedia-commons-shutterstock-simple-flying.jpg"
-   },
-   {
-    "headline": "Airbus A350F Completes Successful First Flight",
-    "summary": "Airbus successfully completed the first flight of the A350F freighter earlier today. The flight from Toulouse spent 4 hours and 10 minutes in the air, reaching an altitude of 25,000 feet during the flight. The flight…",
-    "source": "AirInsight",
-    "url": "https://airinsight.com/airbus-a350f-completes-successful-first-flight/",
-    "day": "2026-09-29",
-    "img": "https://airinsight.com/wp-content/uploads/2026/09/A350F1.jpg"
-   },
-   {
-    "headline": "Deutsche Aircraft gears up for D328eco production as Leipzig facility opens",
-    "summary": "German manufacturer Deutsche Aircraft has taken a huge leap towards serial production of its D328eco next‑generation regional turboprop… The post Deutsche Aircraft gears up for D328eco production as Leipzig facility…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/deutsche-aircraft-d328eco-production-leipzig-facility",
-    "day": "2026-09-29",
-    "img": "https://www.aerotime.aero/images/2026/09/Deutsche-Aircraft-Leipzig.jpg"
-   },
-   {
-    "headline": "Avolon sells 33-aircraft portfolio including MAX 8, A330 and A350 jets",
-    "summary": "Irish lessor Avolon has sold 33 commercial aircraft, including Boeing 737 MAXs, Airbus A330s and A350s to Qatar-based… The post Avolon sells 33-aircraft portfolio including MAX 8, A330 and A350 jets appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/avolon-sells-33-aircraft-portfolio-including-max-8-a330-and-a350-jets",
-    "day": "2026-09-29",
-    "img": "https://www.aerotime.aero/images/2026/09/Airbus-A350-900.jpg"
    }
   ],
   "finance": [
@@ -5655,6 +5655,22 @@
   ],
   "defense": [
    {
+    "headline": "The Proposed Cockpit Upgrade That Could Keep 376 Boeing KC-135s Relevant Into The 2050s",
+    "summary": "The veteran tanker being pressed into service that may last a century.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/proposed-cockpit-upgrade-keep-boeing-kc-135-relevant-2050s/",
+    "day": "2026-10-10",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/the-proposed-cockpit-upgrade-that-could-keep-376-boeing-kc-135s-relevant-into-the-2050s.jpg"
+   },
+   {
+    "headline": "X-BAT Accelerating Toward First Flight with New Funding",
+    "summary": "New U.S. Navy funding and company investment bring the announced X-BAT investment to $400 million as Shield AI prepares the VTOL aircraft for flight testing later this year. Shield AI’s X-BAT Vertical Take-Off and…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/10/10/x-bat-accelerating-toward-first-flight-with-new-funding/",
+    "day": "2026-10-10",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/10/X-BAT-Funding-Flight-1.jpg"
+   },
+   {
     "headline": "Edgewing Opens New Engineering Hub in Italy",
     "summary": "The new facility in Turin will bring together engineers from Italy, Japan and the UK, contributing to the development of the new GCAP combat aircraft. Edgewing has opened a new engineering facility in Turin, in northern…",
     "source": "The Aviationist",
@@ -6597,22 +6613,6 @@
     "url": "https://simpleflying.com/inside-usaf-program-grand-forks-defend-own-bases/",
     "day": "2026-10-04",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/1-4-billion-program.png"
-   },
-   {
-    "headline": "Northrop Grumman’s autonomous cost-cutter Talon Blue takes first flight",
-    "summary": "Northrop Grumman’s YFQ-48A Talon Blue has completed its first fully autonomous flight in Mojave, California, including taxi, takeoff,… The post Northrop Grumman’s autonomous cost-cutter Talon Blue takes first flight…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/northrop-grummans-autonomous-cost-cutter-talon-blue-takes-first-flight",
-    "day": "2026-10-04",
-    "img": "https://www.aerotime.aero/images/2026/10/Northrop-Grumman-Talon-Blue.jpg"
-   },
-   {
-    "headline": "Germany ‘Exploring’ GCAP Entry with UK, Reports Say",
-    "summary": "While discussions between London and Berlin are in the early stages, internal German government assessments reportedly favor a collaboration with Sweden and Spain over joining GCAP. Germany has begun exploratory talks…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/10/04/germany-exploring-gcap-entry/",
-    "day": "2026-10-04",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/10/Germany-Explores-GCAP-1.jpg"
    }
   ],
   "others": []
