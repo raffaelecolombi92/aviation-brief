@@ -1,7 +1,103 @@
 {
- "generated": "2026-10-12T14:10+00:00",
+ "generated": "2026-10-12T22:21+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "The Airlines With The World’s Longest Legroom In Economy In 2026",
+    "summary": "Who has the most room to stretch in coach?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airlines-with-worlds-longest-legroom-economy-seats-in-2026/",
+    "day": "2026-10-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/01/longest-legroom.jpg"
+   },
+   {
+    "headline": "Frontier & Southwest Airlines Allow 24-Inch Carry-Ons, But TSA's New CT Scanners Leave Half An Inch To Spare",
+    "summary": "New TSA screeners will fit the largest carry-ons on paper, but challenges may arise in practice.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/frontier-southwest-airlines-allow-24-inch-carry-ons-tsa-new-ct-scanners-hald-inch-spare/",
+    "day": "2026-10-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/southwest-airlines-allow-24.png"
+   },
+   {
+    "headline": "Delta postpones Saudi Arabia launch after deadly airport attacks",
+    "summary": "Delta Air Lines has postponed the launch of its Atlanta–Riyadh flights until March 2027 following deadly attacks on… The post Delta postpones Saudi Arabia launch after deadly airport attacks appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/delta-postpones-saudi-arabia-riyadh-flights",
+    "day": "2026-10-12",
+    "img": "https://www.aerotime.aero/images/2025/03/DL350-432.jpg"
+   },
+   {
+    "headline": "Is the new Airbus A350F freighter in Kalitta Air’s future?",
+    "summary": "US-based cargo carrier Kalitta Air is reportedly the undisclosed mystery customer behind an order for eight Airbus A350F freighters. The order was placed earlier in 2026 but the buyer was not been identified in Airbus’s…",
+    "source": "World Airline News",
+    "url": "https://worldairlinenews.com/2026/10/12/is-the-new-airbus-a350f-freighter-in-kalitta-airs-future/",
+    "day": "2026-10-12",
+    "img": "https://worldairlinenews.com/wp-content/uploads/2026/10/702494731_1715228470010522_1912896164880003134_n.jpg"
+   },
+   {
+    "headline": "AirAsia X Nov/Dec 2026 Almaty Service Changes",
+    "summary": "Published at 1500PDT / 2200GMT 12OCT26 AirAsia X in November and December 2026 schedules selected service reductions on Kuala Lumpur – Almaty route, as the carrier schedules 4 weekly flights for the period of 08NOV26 –…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261012-d7nov26ala",
+    "day": "2026-10-12",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Arkia Revises Leased A340-300 NW26 Operations – 11OCT26",
+    "summary": "Published at 1400PDT / 2100GMT 12OCT26 Arkia – Israeli Airlines recently filed additional changes to planned leased Airbus A340-300 operation, operated by USC. Planned A340-300 operation as follows, as of 11OCT26. Tel…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261012-iznw26343",
+    "day": "2026-10-12",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "KLM NW27 Preliminary Long-Haul Aircraft Changes – 11OCT26",
+    "summary": "Published at 1300PDT / 2000GMT 12OCT26 KLM Royal Dutch Airlines in recent schedule update gradually extended schedule filing into Northern winter 2027/28 season, on/after 31OCT27. Significant changes despite default…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261012-klnw26inc",
+    "day": "2026-10-12",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Saudia Further Expands Manchester Service in NW26",
+    "summary": "Published at 1200PDT / 1900GMT 12OCT26 Saudia in recent schedule update filed additional frequency expansion on Jeddah – Manchester route, which was not highlighted in previous AeroRoutes ’ update. The Skyteam member…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261012-svnw26man",
+    "day": "2026-10-12",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Saudia Tentatively Files A321XLR Mauritius Service in 2H27",
+    "summary": "Published at 1100PDT / 1800GMT 12OCT26 Saudia in preliminary schedule listing for Northern summer 2027 season lists Airbus A321XLR operation on Jeddah – Mauritius route. Initially scheduled from 15JUN26, the A321XLR is…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261012-svns27mru",
+    "day": "2026-10-12",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "flynas Adds Riyadh – Red Sea From Nov 2026",
+    "summary": "Published at 1000PDT / 1700GMT 12OCT26 flynas from November 2026 schedules new domestic route, where the airline schedules Riyadh – Red Sea route. The airline plans to serve this route 3 times weekly with Airbus…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261012-xynov26rsi",
+    "day": "2026-10-12",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Air Arabia Adds Sharjah – Amman City From Nov 2026",
+    "summary": "Published at 0900PDT / 1600GMT 12OCT26 Air Arabia from mid-November 2026 plans to launch new route to Jordan, where it schedules Sharjah – Amman City nonstop flight. The airline will serve this route 4 times weekly from…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261012-g9nov26adj",
+    "day": "2026-10-12",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Air Astana Adds Sharm el Sheikh Service in NW26",
+    "summary": "Published at 0800PDT / 1500GMT 12OCT26 Air Astana at the launch of Northern winter 2026/27 season plans to add Almaty – Sharm el Sheikh service, on board Airbus A321LR aircraft. The airline initially schedules 1 weekly…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261012-kcnw26ssh",
+    "day": "2026-10-12",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "KLM’s Very 1st Airbus A350 Delivered To Airline",
     "summary": "When it comes to completely predictable and unsurprising news, the recent delivery of an Airbus A350-900 to KLM definitely makes the list. We’ve been tracking the progress of this first airframe for a few months and so…",
@@ -865,105 +961,57 @@
     "url": "https://www.aeroroutes.com/eng/261008-tgns27eu",
     "day": "2026-10-08",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "TUI Airways Adds New London Gatwick – Spain Routes in NS27",
-    "summary": "Published at 0400PDT / 1100GMT 08OCT26 TUI Airways in Northern summer 2027 season plans to launch a trio of new routes between London Gatwick and Spain. Planned network additions as follows. London Gatwick – Santiago de…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261008-tomns27es",
-    "day": "2026-10-08",
-    "img": null
-   },
-   {
-    "headline": "Discover Airlines Adds Frankfurt – Jerez in NS27",
-    "summary": "Published at 0300PDT / 1000GMT 08OCT26 Discover Airlines during Northern summer 2027 season plans to launch Frankfurt – Jerez de la Frontera route, assuming Lufthansa mainline service that was operated until October…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261008-4yns27xry",
-    "day": "2026-10-08",
-    "img": null
-   },
-   {
-    "headline": "LHT names new leaders in Puerto Rico and Budapest",
-    "summary": "Lufthansa Technik (LHT) has made two leadership changes across its global base maintenance network, appointing Blanca Burgos as Managing Director of Lufthansa Technik Puerto Rico and Johannes Rotter as Managing Director…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/10/08/lht-names-new-leaders-in-puerto-rico-and-budapest/",
-    "day": "2026-10-08",
-    "img": null
-   },
-   {
-    "headline": "How Southwest Airlines' 'Trip For Pay' Model Pushes Senior Boeing 737 Captains Past $450,000 In 2026",
-    "summary": "Southwest Airlines' unique Trip For Pay system quietly generates pay that helps narrowbody pilots earn levels often associated with widebody flying.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-southwest-airlines-trip-pay-model-pushes-senior-boeing-737-captains-past-450000-2026/",
-    "day": "2026-10-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/southwest-airlines.jpg"
-   },
-   {
-    "headline": "Emirates May Convert Its Entire 35-Aircraft Boeing 787 Order Into More 777X Jets",
-    "summary": "The airline is expected to make the decision in the next two months.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/emirates-convert-35-boeing-787-order-more-777x-jets/",
-    "day": "2026-10-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/entire-35-aircraft.png"
-   },
-   {
-    "headline": "How Porter Airlines Is Building Montreal's 2nd Airport Without Repeating A $30 Billion Disaster",
-    "summary": "Montreal's new $450 million airport, YHU, aims to avoid Mirabel's pitfalls by focusing on domestic convenience rather than international prestige.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-porter-airlines-is-building-montreals-2nd-airport-without-repeating-a-30-billion-disaster/",
-    "day": "2026-10-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/porter-airlines.jpg"
-   },
-   {
-    "headline": "TAAG Guangzhou Aircraft Changes From late-Sep 2026",
-    "summary": "Published at 0200PDT / 0900GMT 08OCT26 TAAG Angola Airlines since late-September 2026 adjusted operational aircraft on Luanda – Guangzhou route. Previously operated by the 787-9, the airline has been operating 777-300ER…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261008-dtnw26can",
-    "day": "2026-10-08",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Ethiopian Expands Dubai Flights From late-Oct 2026",
-    "summary": "Published at 0100PDT / 0800GMT 08OCT26 Ethiopian Airlines during Northern winter 2026/27 season plans to increase Addis Ababa – Dubai service, as the carrier introduces additional 3 weekly flights. Overall service from…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261008-etnw26dxb",
-    "day": "2026-10-08",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "China Eastern Moves Shanghai – Riyadh Resumption to Jan 2027",
-    "summary": "Published at 0000PDT / 0700GMT 08OCT26 China Eastern this week further revised planned service resumption on Shanghai Pu Dong – Riyadh route. The Skyteam member now intends to resume this from 16JAN27 at the earliest…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261008-mujan27ruh",
-    "day": "2026-10-08",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "LOT Polish Airlines NW26 Bucharest Long-Haul Charters",
-    "summary": "Published at 2330PDT 07OCT26 / 0630GMT 08OCT26 LOT Polish Airlines in Northern winter 2026/27 season plans to launch long-haul charter flights at Bucharest , in partnership with local tour operators. Bucharest – Bangkok…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261007-lonw26otp",
-    "day": "2026-10-08",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "LOT Adds Katowice – Puerto Vallarta Charter in NW26",
-    "summary": "Published at 2300PDT 07OCT26 / 0600GMT 08OCT26 LOT Polish Airlines during Northern winter 2026/27 season plans to launch Katowice – Puerto Vallarta nonstop charter service, in partnership with local tour operator. From…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261007-lonw26pvr",
-    "day": "2026-10-08",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Aegean Airlines Schedules Damascus Dec 2026 Launch",
-    "summary": "Published at 2230PDT 07OCT26 / 0530GMT 08OCT26 Aegean Airlines this week announced service launch to Syria, with 3 weekly Athens – Damascus service scheduled from 02DEC26. Airbus A320 aircraft to serve this route. A3944…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261007-a3dec26dam",
-    "day": "2026-10-08",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "Delta Air Lines’ Seattle Rivalry With Alaska Isn’t Necessarily A “Battle,” CEO Suggests",
+    "summary": "Alaska and Delta pour resources into international networks and airport lounges in Seattle to capture premium travelers.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/delta-air-lines-seattle-rivalry-isnt-battle-ceo/",
+    "day": "2026-10-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/delta-air-lines-aircraft-at-seattle.jpg"
+   },
+   {
+    "headline": "Southwest Airlines Now Planning To Build Lounge At Orlando International Airport",
+    "summary": "Airport expansion documents hint at an expansive space for Southwest's new lounge network.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/southwest-airlines-planning-build-lounge-orlando-international-airport/",
+    "day": "2026-10-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/the-real-reason-why-southwest-airlines-is-trying-to-get-rid-of-its-boeing-737ngs-as-quickly-as-possible.jpg"
+   },
+   {
+    "headline": "Alaska Airlines Cancels 11 International Routes: See Full List Now",
+    "summary": "They're from seven airports across the US. Find out more now!",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/alaska-airlines-cancels-11-international-nonstop-routes/",
+    "day": "2026-10-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/066-alaska-airlines-boeing-737-900-ian-dewar-photography_-shutterstock.jpg"
+   },
+   {
+    "headline": "Breeze Airways Launches 7 New International Nonstop Routes: See List Now",
+    "summary": "Launching from October onward, they include the carrier's new longest international service from Florida. See them all here!",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/breeze-airways-launches-7-new-international-nonstop-routes/",
+    "day": "2026-10-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/copy-of-35-breeze-airways-airbus-a220-robin-guess-_-shutterstock.jpg"
+   },
+   {
+    "headline": "Why American Airlines' 2nd-Largest Hub Is Betting The Next Decade On A Runway That Behaves Like A Connected Device",
+    "summary": "A closer look at the next innovation in runway design.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-2nd-largest-hub-betting-next-decade-runway-behaves-connected-device/",
+    "day": "2026-10-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/whyame_1.JPG"
+   },
+   {
+    "headline": "United Airlines' 11 Longest Nonstop Boeing 737 MAX Routes In 2026",
+    "summary": "United's longest Boeing 737 MAX routes stretch beyond 3,300 miles, but two new European services face disappointing demand.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-airlines-longest-737-max-flights-2026/",
+    "day": "2026-10-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/united_737_centered_1920x1080.jpg"
+   },
    {
     "headline": "The Factors That Led To Southwest Airlines' Unsurvivability At Chicago & Houston's Largest Airports",
     "summary": "Southwest held 1.9% of O'Hare and already owned Midway. The same pattern played out in Houston, and both operations are now gone.",
@@ -1875,57 +1923,33 @@
     "url": "https://simpleflying.com/american-airlines-allow-passengers-purchase-flights-mix-cash-aadvantage-miles/",
     "day": "2026-10-03",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/boeing-737-operated-by-american-taxis-on-october-17-2020-at-denver-international-airport-colorado-american-airlines-is-a-major-airline-headquartered-in-fort-worth-texas.jpg"
-   },
-   {
-    "headline": "United Airlines Passenger Dies After Medical Emergency On Long-Haul Flight",
-    "summary": "UA142 diverted to Seattle after a passenger suffered a medical emergency eight hours into the Tokyo to Denver trans-Pacific flight.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/united-airlines-passenger-dies-medical-emergency-long-haul-flight/",
-    "day": "2026-10-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/united-airlines-boeing-787-dreamliner-on-approach-to-heathrow-airport.jpg"
-   },
-   {
-    "headline": "1st US Market: Emirates Schedules Airbus A350-900 Flights Between Dubai & Orlando",
-    "summary": "Passengers will find bespoke premium economy seats, generous legroom and 13.3 inch screens with wood details.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/emirates-airbus-a350-900-flights-dubai-orlando/",
-    "day": "2026-10-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/emirates-airbus-a350-900-frankfurt.jpg"
-   },
-   {
-    "headline": "The Boutique Airline Flying Newark To A Caribbean Island Legacy Carriers Won't Touch",
-    "summary": "BermudAir's South Caicos experiment pairs luxury resorts with right-sized jets—and an A220 fleet that could dramatically expand the model.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/boutique-airline-newark-caribbean-island-legacy-carriers-wont-touch/",
-    "day": "2026-10-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/caribbean-island.png"
-   },
-   {
-    "headline": "Southwest Unveils 3 New International Routes From This Major City: See Map Now",
-    "summary": "All three routes were previously part of American Airlines' schedule.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/southwest-unveils-3-new-international-routes-from-major-city/",
-    "day": "2026-10-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/385-southwest-airlines-boeing-737-800-robin-guess-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Evolvending and Canteen land major automated food service contract at Minneapolis-St. Paul Airport",
-    "summary": "Nearly 30 locations across the Minnesota gateway will feature branded automated dining concepts, with the phased rollout beginning in January 2027.",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/evolvending-and-canteen-land-major-automated-food-service-contract-at-minneapolis-st-paul-airport/?utm_source=rss&utm_medium=rss&utm_campaign=evolvending-and-canteen-land-major-automated-food-service-contract-at-minneapolis-st-paul-airport",
-    "day": "2026-10-03",
-    "img": null
-   },
-   {
-    "headline": "British Airways Only Has 1 Nonstop Flight From Heathrow To This Major US City: See Route Now",
-    "summary": "A closer look at a special flight for a special cause.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/british-airways-only-has-1-nonstop-flight-from-heathrow/",
-    "day": "2026-10-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/104-british-airways-airbus-a350-andres-fl-_-shutterstock.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "FAA Orders Airbus A380 Engine Replacements After Uncontained Failure Forces Aborted Takeoff",
+    "summary": "FAA mandates removal of 15 high pressure turbine interstage seals with tight deadlines and six-figure per-engine costs.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/faa-order-airbus-a380-engine-replacements-uncontained-failure-forces-aborted-takeoff/",
+    "day": "2026-10-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/lufthansa-airbus-a380.jpg"
+   },
+   {
+    "headline": "Airbus A350 Vs. Boeing 787 Dreamliner: Which Has The Quieter Cabin?",
+    "summary": "Which of the flagship widebody aircraft offers the quietest ride?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-a350-900-vs-boeing-787-9-quieter-cabin/",
+    "day": "2026-10-12",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/boeing-787-9-miles-20261006-132517.jpg"
+   },
+   {
+    "headline": "The Wind Check That Didn’t Happen Before the Miami 767 Overrun",
+    "summary": "By Vincent E. Bianco III • Contributing Writer October 12, 2026 The basic facts have been established for weeks: On September 6, a Boeing 767 Freighter operated by 21 Air on behalf of Amazon landed long and fast... Read…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/10/12/the-wind-check-that-didnt-happen-before-the-miami-767-overrun/",
+    "day": "2026-10-12",
+    "img": null
+   },
    {
     "headline": "5 Airliners That Defined Delta Air Lines' Century-Long History",
     "summary": "A closer look at the five aircraft types that were most unique, prominent, or impactful to Delta Air Lines in the past, present, and future.",
@@ -2861,30 +2885,6 @@
     "url": "https://leehamnews.com/2026/10/01/deutsche-aircraft-opens-fal-for-d328eco-regional-airliner/",
     "day": "2026-10-01",
     "img": null
-   },
-   {
-    "headline": "How Do Doubled Jet Fuel Prices Hit Airlines? Part 2: Widebodies",
-    "summary": "By Bjorn Fehrm • Aerospace Analyst October 1, 2026 Subscription Required We analyzed how the doubling of jet fuel prices since January (Figure 1) has hit the profitability of short-to-medium-range flights operated by…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/10/01/how-do-doubled-jet-fuel-prices-hit-airlines-part-2/",
-    "day": "2026-10-01",
-    "img": null
-   },
-   {
-    "headline": "Trump Praises Boeing After 737 MAX Survives 14,000ft Plunge During flydubai Cockpit Attack",
-    "summary": "A large section of the 737 MAX's rudder was ripped away during the extreme descent.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/trump-boeing-flydubai-737-max-plunge-cockpit-attack/",
-    "day": "2026-10-01",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/752-flydubai-boeing-737-max-9-markus-mainka-_-shutterstock-1.jpg"
-   },
-   {
-    "headline": "Why GE Aerospace Just Spent $11.75 Billion To Fix Engine Bottlenecks",
-    "summary": "GE Aerospace is purchasing CPP to get ahead of material casting bottlenecks.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/ge-aerospace-spent-11-billion-fix-90-week-bottleneck-leap-engine/",
-    "day": "2026-10-01",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/spent-11-75-billion-to-fix-a-90-week.png"
    }
   ],
   "finance": [
@@ -3738,6 +3738,22 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "NetJets to build three new US terminals and transition to larger space at DJT",
+    "summary": "Business aviation firm NetJets plans to build three new private terminals in the United States (US) and transition… The post NetJets to build three new US terminals and transition to larger space at DJT appeared first…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/netjets-new-us-private-terminals-dallas-washington-palm-beach",
+    "day": "2026-10-12",
+    "img": "https://www.aerotime.aero/images/2026/10/NetJets-Rendering-Dallas-Love-Field-1200x675.jpg"
+   },
+   {
+    "headline": "FlyUSA opens new facility at Tampa International Airport",
+    "summary": "Florida-based FlyUSA is opening a hangar and private lounge at TPA to expand aircraft capacity and client service The post FlyUSA opens new facility at Tampa International Airport appeared first on Private Jet Card…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/10/12/flyusa-opens-new-facility-at-tampa-international-airport/",
+    "day": "2026-10-12",
+    "img": null
+   },
    {
     "headline": "Protected: Corporate Jet Investor Dubai 2026 – Presentations",
     "summary": "There is no excerpt because this is a protected post. The post Protected: Corporate Jet Investor Dubai 2026 – Presentations appeared first on Corporate Jet Investor .",
@@ -4681,25 +4697,17 @@
     "url": "https://privatejetcardcomparisons.com/2026/09/14/business-jet-market-forecast-steady-growth-through-2030/",
     "day": "2026-09-14",
     "img": null
-   },
-   {
-    "headline": "Surf Air subsidiary re-awarded DOT contract for Hawaii flights",
-    "summary": "Mokulele Airlines, a Surf Air subsidiary, was awarded a $19.4 million contract by the Department of Transportation for regional service. The post Surf Air subsidiary re-awarded DOT contract for Hawaii flights appeared…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/09/14/surf-air-dot-contract-re-awarded-hawaii/",
-    "day": "2026-09-14",
-    "img": null
-   },
-   {
-    "headline": "Silver Air relaunches Flight Club membership with dynamic pricing",
-    "summary": "California-based Silver Air has relaunched its membership program with dynamic pricing and a list of benefits for clients The post Silver Air relaunches Flight Club membership with dynamic pricing appeared first on…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/09/14/silver-air-relaunches-flight-club-membership/",
-    "day": "2026-09-14",
-    "img": null
    }
   ],
   "policy": [
+   {
+    "headline": "Joby seeks to overturn $117 million trade secrets verdict",
+    "summary": "Joby Aviation has asked a federal court to overturn a nearly $117 million jury award to Aerosonic, saying… The post Joby seeks to overturn $117 million trade secrets verdict appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/joby-aerosonic-trade-secrets-verdict",
+    "day": "2026-10-12",
+    "img": "https://www.aerotime.aero/images/2026/08/A-Joby-Aviation-electric-vertical-takeoff-and-landing-aircraft-following-a-ground-test-at-Edwards-Air-Force-Base-California.jpg"
+   },
    {
     "headline": "Missile attack on Riyadh’s international airport kills twelve, injures hundred",
     "summary": "A missile strike killed 12 people and injured another 309 at Riyadh King Khalid International Airport (RUH) on… The post Missile attack on Riyadh’s international airport kills twelve, injures hundred appeared first on…",
@@ -5651,17 +5659,57 @@
     "url": "https://runwaygirlnetwork.com/2026/08/how-media-carrier-personalizes-paxex-even-on-connected-jets/",
     "day": "2026-08-23",
     "img": "https://runwaygirlnetwork.com/wp-content/uploads/2025/03/ITA-Airways-CR-Media-Carrier-Solutions.jpg"
-   },
-   {
-    "headline": "Press Release: U.S. FAA looks to supercharge space port construction",
-    "summary": "U.S. Transportation Secretary Sean P. Duffy announced that the Federal Aviation Administration (FAA) is launching two new initiatives to ensure continued American dominance in the global commercial space transportation…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/08/transportation-secretary-new-initiatives-to-supercharge-space-port-construction/",
-    "day": "2026-08-21",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2024/05/iStock-2101393152.jpg"
    }
   ],
   "defense": [
+   {
+    "headline": "Sikorsky unveils four-drone deployment kit in a shipping container",
+    "summary": "Sikorsky has introduced a kit that packs four autonomous aircraft and the equipment needed to operate them into… The post Sikorsky unveils four-drone deployment kit in a shipping container appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/sikorsky-nomad-100-fast-pack-drone-container",
+    "day": "2026-10-12",
+    "img": "https://www.aerotime.aero/images/2026/10/Recently-Saved-1-of-1-6-1200x675.jpeg"
+   },
+   {
+    "headline": "US firm demonstrates coordinated flight of jet-powered attack drones",
+    "summary": "Cummings Aerospace has demonstrated the simultaneous operation of two jet-powered Hellhound S3 attack drones using a single handheld… The post US firm demonstrates coordinated flight of jet-powered attack drones…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/hellhound-jet-powered-attack-drones-coordinated-flight",
+    "day": "2026-10-12",
+    "img": "https://www.aerotime.aero/images/2026/10/A-Cummings-Aerospace-Hellhound-S3-jet-powered-drone-launches-from-a-vehicle-mounted-multipack-launcher-1200x675.jpg"
+   },
+   {
+    "headline": "From drones to ground vehicles: Check out day 1 of AUSA",
+    "summary": "Sights on the ground at the Walter E. Washington Convention Center.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/10/from-drones-to-ground-vehicles-check-out-day-1-of-ausa/",
+    "day": "2026-10-12",
+    "img": null
+   },
+   {
+    "headline": "Mojave STOL and Gray Eagle® 25M: Complementary capabilities for the modern battlefield",
+    "summary": "[Sponsored] Both aircraft are designed to evolve as threats and mission requirements change.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/10/mojave-stol-and-gray-eagle-25m-complementary-capabilities-for-the-modern-battlefield/",
+    "day": "2026-10-12",
+    "img": null
+   },
+   {
+    "headline": "European U740 Variant Of The XQ-58A Valkyrie Has Flown",
+    "summary": "A team-up of Airbus and Kratos has put the U740 into the sky as Germany races to field advanced air combat drones by 2029. The post European U740 Variant Of The XQ-58A Valkyrie Has Flown appeared first on TWZ .",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/air/european-u740-variant-of-the-xq-58a-valkyrie-has-flown",
+    "day": "2026-10-12",
+    "img": "https://www.twz.com/wp-content/uploads/2026/10/Airbus-U740-Valkyrie-First-Flight.jpg?quality=85"
+   },
+   {
+    "headline": "New Coyote Anti-Drone Interceptor Swaps Jet Engine For Rocket Power",
+    "summary": "The Coyote Block 2 is already combat proven, but more capable kamikaze drones have driven a need to fly faster and farther. The post New Coyote Anti-Drone Interceptor Swaps Jet Engine For Rocket Power appeared first on…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/land/new-coyote-anti-drone-interceptor-swaps-jet-engine-for-rocket-power",
+    "day": "2026-10-12",
+    "img": "https://www.twz.com/wp-content/uploads/2026/10/rocket-powered-coyote-counter-drone-interceptor.jpg?quality=85"
+   },
    {
     "headline": "The Hourly Cost Of Operating An F-35 Compared To An F-22 In 2026",
     "summary": "The F-22 is likely the most expensive fighter in service today, while the F-35 is much cheaper, but still more expensive than most fourth gen fighters",
@@ -6573,54 +6621,6 @@
     "url": "https://www.aerotime.aero/articles/aero-thales-l39-skyfox-counter-drone-guided-rockets",
     "day": "2026-10-05",
     "img": "https://www.aerotime.aero/images/2026/10/Czech-Air-Force-Aero-L-39NG-Skyfox.jpg"
-   },
-   {
-    "headline": "Vandenberg Eyes New Launch Support Facilities, Possible On-Site Manufacturing",
-    "summary": "The Space Force is looking for industry feedback on its plans to create a new “Mission Development Zone” at Vandenberg Space Force Base, Calif., to support launch providers with space for additional payload processing…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/vandenberg-zone-new-launch-support-facilities-on-site-manufacturing/",
-    "day": "2026-10-05",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/0926_Albon_Vandenberg_Commercial-900x600.jpg"
-   },
-   {
-    "headline": "Northrop’s Talon Blue Collaborative Combat Aircraft Makes First Flight",
-    "summary": "Northrop Grumman’s Talon Blue YFQ-48A Collaborative Combat Aircraft took its first flight Oct. 3, heightening the competition for the Air Force’s future combat fleet. The post Northrop’s Talon Blue Collaborative Combat…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/northrops-talon-blue-cca-first-flight/",
-    "day": "2026-10-05",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/Talon-Blue-First-Flight-Test_resized-900x600.jpg"
-   },
-   {
-    "headline": "As Air Force Goes Big on Autonomy, Are Cargo Drones Next?",
-    "summary": "The Air Force’s plans to field 1,000 semi-autonomous fighter and intelligence, surveillance, and reconnaissance drones in the coming years made headlines at AFA’s Air, Space & Cyber conference last month. But beyond the…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/air-force-goes-big-autonomy-cargo-drones-next/",
-    "day": "2026-10-05",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/7cb05931bead6f86690b87277c4211cceb84f8a5-6000x4000-1-900x600.webp"
-   },
-   {
-    "headline": "Marine F-35C Also Sports Three Submarine Kill Markings After Operation Epic Fury",
-    "summary": "An exclusive image obtained by The Aviationist reveals an extraordinary array of target markings on a VMFA-314 F-35C, apparently representing an oil tanker, three submarines, a surface combatant, a Shahed-type drone, an…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/10/05/vmfa-314-kill-markings-epic-fury/",
-    "day": "2026-10-05",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/10/Target-markings.jpg"
-   },
-   {
-    "headline": "Northrop Grumman and SandboxAQ Explain How Lumberjack Is Preparing for GPS-Denied Operations",
-    "summary": "The Lumberjack UAS flew with SandboxAQ’s AQNav magnetic navigation system during a GPS-denied flight test this summer, demonstrating alternative resilient PNT navigation for autonomous operations. Northrop Grumman and…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/10/05/northrop-grumman-and-sandboxaq-lumberjack-aqnav/",
-    "day": "2026-10-05",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/10/Lumberjack-Image-9-9.jpg"
-   },
-   {
-    "headline": "Northrop logs first flight for self-funded drone wingman",
-    "summary": "The YFQ-48A performed fully autonomous “taxi, takeoff, in-flight maneuvers and landing” over the Mojave Desert in California, according to Northrop Grumman.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/10/northrop-logs-first-flight-for-self-funded-drone-wingman/",
-    "day": "2026-10-05",
-    "img": null
    }
   ],
   "others": []
