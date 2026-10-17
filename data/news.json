@@ -1,7 +1,23 @@
 {
- "generated": "2026-10-17T19:58+00:00",
+ "generated": "2026-10-17T22:49+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Why Flight Attendants Say This Seat Is The Best To Sit In On An Airplane",
+    "summary": "Finding the best seat in the house can be tricky.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/flight-attendants-seat-best-to-sit-on-airplane/",
+    "day": "2026-10-17",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/01/bestseat.jpg"
+   },
+   {
+    "headline": "Flight Attendant Dispute Forces Delta Connection Captain To Request Ground Intervention",
+    "summary": "Crew discord midflight prompted mediation plans and separation measures before passengers disembarked in Detroit.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/flight-attendant-dispute-delta-connection-captain-ground-intervention/",
+    "day": "2026-10-17",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/delta-air-lines-crj900-over-detroit.jpg"
+   },
    {
     "headline": "American Airlines’ New Airbus A321XLR Breaks Out From Normal Routes To Sub Hub Flights Instead",
     "summary": "A321XLR deployment brought 20 Flagship Suites and 12 premium economy seats to a Charlotte flight normally served by the A321neo.",
@@ -943,22 +959,6 @@
     "summary": "Published at 0400PDT / 1100GMT 14OCT26 TUI Netherlands during Northern summer 2027 season plans to add service to Kilimanjaro, as the carrier schedules 2 weekly Amsterdam – Zanzibar – Kilimanjaro – Amsterdam routing.…",
     "source": "AeroRoutes",
     "url": "https://www.aeroroutes.com/eng/261014-orns27jro",
-    "day": "2026-10-14",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "TUI Airways NS27 London Gatwick Network Additions",
-    "summary": "Published at 0300PDT / 1000GMT 14OCT26 TUI Airways in Northern summer 2027 season schedules new routes to Europe. AeroRoutes ’ report last week on 08OCT26 only focused on Spain, while the other new routes are listed…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261014-tomns27lgw",
-    "day": "2026-10-14",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "TUIfly NS27 Short-Haul Network Additions – 11OCT26",
-    "summary": "Published at 0200PDT / 0900GMT 14OCT26 TUIfly during Northern summer 2027 season plans to add 6 short-haul routes from Dusseldorf and Hannover. Planned network addition overview as follows. Dusseldorf – Ljubljana eff…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261014-x3ns27",
     "day": "2026-10-14",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
@@ -1927,6 +1927,38 @@
   ],
   "fleet": [
    {
+    "headline": "Airbus A220 Vs. Boeing 737 MAX: Which Jet Gives Passengers The Better Ride?",
+    "summary": "Larger windows and a more passenger-friendly seating layout help to give the 220 the edge.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-a220-boeing-737-max-passengers-better-ride/",
+    "day": "2026-10-17",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/airbus-a220-vs-boeing-737-max.png"
+   },
+   {
+    "headline": "Nose To Tail: American Airlines To Reportedly Replace Windows On Older Boeing 787 Dreamliners",
+    "summary": "Passengers pressing buttons ignore that it can take a minute for the electrochromic panes to go from bright to dark.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-reportedly-replace-windows-older-boeing-787s/",
+    "day": "2026-10-17",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/cbwqze9umaaqxn5-1.jpg"
+   },
+   {
+    "headline": "Nearly 140 Airbus A330neos Now Face Inspections For Tools Left Inside Their Tails",
+    "summary": "An update on the inspection is expected in November.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-a330neo-tool-tail-inspections/",
+    "day": "2026-10-17",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/condor-airlines-airbus-a330-900-minh-k-tran.jpg"
+   },
+   {
+    "headline": "The 6 Rarest Twin-Engine Aircraft Variants Flown By US Carriers In 2026",
+    "summary": "Six Rare Aircraft Variants Still Flying With US Airlines In 2026: Some Are Becoming Harder To Find, But Which Ones Are Left?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/6-rarest-twin-engine-aircraft-variants-us-carriers-2026/",
+    "day": "2026-10-17",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/rare.png"
+   },
+   {
     "headline": "Why Lufthansa's Retired Boeing 747-400s Could Land At This Dutch Airport But Not Take Off",
     "summary": "The airport's permission didn't allow the airline to take off.",
     "source": "Simple Flying",
@@ -2853,38 +2885,6 @@
     "url": "https://simpleflying.com/boeing-747-pioneer-quadjet-travel-jet-did/",
     "day": "2026-10-06",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/the-boeing-747-actually-didn-t-pioneer-quadjet-travel-here-s-the-jet-that-did.jpg"
-   },
-   {
-    "headline": "Certification of KLM A350 WBC set to start but seats presently blocked",
-    "summary": "KLM Royal Dutch Airlines is seeing light at the end of the certification tunnel for its new World Business Class seats on the Airbus A350-900, after the European Union Aviation Safety Agency (EASA) approved test results…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/10/certification-of-klm-a350-wbc-set-to-start-but-seats-presently-blocked/",
-    "day": "2026-10-06",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/10/unnamed-81.jpg"
-   },
-   {
-    "headline": "Boeing’s Path to Max 10 Certification Looks Clear Again",
-    "summary": "By Howard Hardee • Editor October 6 Certification of the 737 Max 10 appears back on track despite a software glitch potentially affecting some Boeing narrowbodies—an issue the FAA has since deemed not safety critical…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/10/06/max-10-certification-unlikely-to-be-significantly-delayed/",
-    "day": "2026-10-06",
-    "img": null
-   },
-   {
-    "headline": "Is A Lockheed C-5 Galaxy Bigger Than An Airbus A380?",
-    "summary": "Apart from aircraft length, the Airbus A380 is comprehensively larger than the Air Force's C-5M Super Galaxy.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/lockheed-c-5-bigger-airbus-a380/",
-    "day": "2026-10-06",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/10/c5galaxy.jpg"
-   },
-   {
-    "headline": "SR Technics cuts processing time with Bridgestone technology",
-    "summary": "SR Technics has completed the rollout of Bridgestone Corporation’s (Bridgestone) easytrack solution, becoming the first MRO provider to adopt the technology, the company announced. The implementation follows a two-year…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/10/06/sr-technics-cuts-processing-time-with-bridgestone-technology/",
-    "day": "2026-10-06",
-    "img": null
    }
   ],
   "finance": [
@@ -3754,6 +3754,14 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "How Much Does It Cost To Get A Private Pilot License In 2026?",
+    "summary": "Breaking down the price to fly.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-much-cost-private-pilot-license-2026/",
+    "day": "2026-10-17",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/private-pilot-license.png"
+   },
    {
     "headline": "Five more OneFlight lawsuits detail millions in likely losses",
     "summary": "The latest lawsuits allege high-pressure sales tactics, repeated sales to clients with already large balances, and widespread deep discounts The post Five more OneFlight lawsuits detail millions in likely losses…",
@@ -4705,14 +4713,6 @@
     "url": "https://simpleflying.com/delta-air-lines-1st-vip-charter-airbus-a321neo-enters-service/",
     "day": "2026-09-19",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/delta-air-lines-boeing-757-200-robin-guess-1.jpg"
-   },
-   {
-    "headline": "Press Release: Praetor 600E delivered to Flexjet with 42″ OLED monitor",
-    "summary": "Embraer today announced the delivery of the first Praetor 600E to Flexjet, making the company the fleet launch customer for Embraer’s next-generation super-midsize jet. Flexjet’s inaugural Praetor 600E aircraft is…",
-    "source": "Runway Girl Network",
-    "url": "https://runwaygirlnetwork.com/2026/09/inaugural-praetor-600e-delivered-to-flexjet/",
-    "day": "2026-09-18",
-    "img": "https://runwaygirlnetwork.com/wp-content/uploads/2026/09/Flexjet-Praetor-600E-8.jpg"
    }
   ],
   "policy": [
