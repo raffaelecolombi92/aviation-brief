@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T22:49+00:00",
+ "generated": "2026-10-18T02:39+00:00",
  "sections": {
   "network": [
    {
@@ -1927,6 +1927,30 @@
   ],
   "fleet": [
    {
+    "headline": "Why Pilots Deliberately Pull Back Thrust Seconds After Lifting Off The Runway",
+    "summary": "How does this affect the aircraft as it takes off?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-do-pilots-pull-back-thrust-seconds-after-lifting-off-runway/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/runaway-pilot.jpg"
+   },
+   {
+    "headline": "Boeing Quietly Raised The 777-9's Range From 7,285 To 8,000 Nautical Miles Without Announcing It",
+    "summary": "The new figures are impressive, but the aircraft still awaits certification.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/boeing-quietly-raised-777-9-range-7285-8000-nautical-miles-without-announcing/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/boeing-quietly-raised.png"
+   },
+   {
+    "headline": "How Many Hours Can The Airbus A380 Fly Without Refueling?",
+    "summary": "The Airbus A380 can fly up to 16 hours nonstop. Here’s how its massive fuel capacity and range make ultra-long-haul flights possible.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-many-hours-can-the-airbus-a380-fly-without-refueling/",
+    "day": "2026-10-17",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/01/refuelinghours.jpg"
+   },
+   {
     "headline": "Airbus A220 Vs. Boeing 737 MAX: Which Jet Gives Passengers The Better Ride?",
     "summary": "Larger windows and a more passenger-friendly seating layout help to give the 220 the edge.",
     "source": "Simple Flying",
@@ -2861,30 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/canada-eu-50-de-havilland-water-bombers-joint-purchase",
     "day": "2026-10-07",
     "img": "https://www.aerotime.aero/images/De-Havilland-DHC-515-Firefighter.jpg"
-   },
-   {
-    "headline": "AERA arranges US$300 million aircraft portfolio acquisitions",
-    "summary": "Aera Aviation Capital (AERA) has arranged the acquisition of two portfolios comprising eight commercial passenger aircraft with a combined value of more than US$300 million, marking its first transaction since the…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/10/07/aera-arranges-us300-million-aircraft-portfolio-acquisitions/",
-    "day": "2026-10-07",
-    "img": null
-   },
-   {
-    "headline": "First Class Air broadens MRO services with Vertical Aerospace investment",
-    "summary": "First Class Air has invested in and partnered with Vertical Aerospace, an aviation MRO provider based in Bristow, Oklahoma, expanding its capabilities in complex aircraft structural repair, engineering and…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/10/07/first-class-air-broadens-mro-services-with-vertical-aerospace-investment/",
-    "day": "2026-10-07",
-    "img": null
-   },
-   {
-    "headline": "The Boeing 747 Actually Didn’t Pioneer Quadjet Travel: Here’s The Jet That Did",
-    "summary": "Was the 747 the aircraft that began the quad jet era? Or was it another airliner that broke records well before the jumbo took to the skies?",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/boeing-747-pioneer-quadjet-travel-jet-did/",
-    "day": "2026-10-06",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/the-boeing-747-actually-didn-t-pioneer-quadjet-travel-here-s-the-jet-that-did.jpg"
    }
   ],
   "finance": [
@@ -5679,6 +5679,14 @@
   ],
   "defense": [
    {
+    "headline": "How US Legacy Carriers Fly For The Pentagon: The Civil Reserve Air Fleet Explained",
+    "summary": "US carriers like United, Delta, American, and others offer a massive surge capacity boost in the event of emergencies.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/us-legacy-carriers-fly-pentagon-civil-reserve-air-fleet/",
+    "day": "2026-10-17",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/the-civil-reserve-air-fleet-explained.jpg"
+   },
+   {
     "headline": "Starfighters Space Will Test Starlaunch 1 Suborbital Development Vehicle on an F-104 in December",
     "summary": "Starfighters Space is preparing to conduct in December a captive-carry test flight of its new Starlaunch 1 suborbital development vehicle on one of the company’s F-104 Starfighter aircraft. Starfighters Space is…",
     "source": "The Aviationist",
@@ -6629,14 +6637,6 @@
     "url": "https://www.airandspaceforces.com/procedure-maintainers-inspect-f-16-engine-blind-spot-crashes/",
     "day": "2026-10-09",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/10/7788829-900x600.jpg"
-   },
-   {
-    "headline": "U.S. Exploring Transfer of Surplus KC-10 Tankers to Undisclosed North African Partner",
-    "summary": "A contract notice, first reported on by Aviation Week, was released seeking industry interest for the reactivation and in-service support of up to four KC-10 Extender aircraft for a foreign military sales (FMS) transfer…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/10/09/kc10-north-africa/",
-    "day": "2026-10-09",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/10/KC10sNorthAfrica_1.jpg"
    }
   ],
   "others": []
