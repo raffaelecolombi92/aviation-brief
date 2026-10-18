@@ -1,7 +1,15 @@
 {
- "generated": "2026-10-18T12:56+00:00",
+ "generated": "2026-10-18T17:43+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "The Striking Differences Flight Attendants Notice Working On A Mainline Aircraft Vs. A Regional Jet",
+    "summary": "The same job but very different circumstances.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/striking-differences-flight-attendants-notice-mainline-aircraft-regional-jet/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/striking-differences-flight-attendants.png"
+   },
    {
     "headline": "777 Partners founder pleads guilty to $500 million fraud scheme",
     "summary": "Joshua Wander, co-founder and former chief executive of 777 Partners, has pleaded guilty to wire fraud and securities… The post 777 Partners founder pleads guilty to $500 million fraud scheme appeared first on AeroTime .",
@@ -953,17 +961,25 @@
     "url": "https://www.aerotime.aero/articles/horizon-air-pilots-pick-seattle-teamsters",
     "day": "2026-10-14",
     "img": "https://www.aerotime.aero/images/2026/10/Horizon-Air-Alaska-Airlines-1200x675.jpg"
-   },
-   {
-    "headline": "JAL orders up to 26 Embraer E190-E2 jets to replace J-AIR’s E170 and E190 fleets",
-    "summary": "Japan Airlines (JAL) announced on October 14, 2026, that it has ordered up to 26 Embraer E190-E2 aircraft… The post JAL orders up to 26 Embraer E190-E2 jets to replace J-AIR’s E170 and E190 fleets appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/jal-orders-up-to-26-embraer-e190-e2-jets-to-replace-j-airs-e170-and-e190-fleets",
-    "day": "2026-10-14",
-    "img": "https://www.aerotime.aero/images/2026/10/Untitled-design-2026-10-14T172537.926-1200x675.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "5 Longest Flights From The US To Asia In 2026",
+    "summary": "From 120 feet to nonstop mega-routes, this roundup traces five US to Asia flights reshaping global long-haul travel.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/5-longest-flights-us-asia-2026/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/5-longest-flights.png"
+   },
+   {
+    "headline": "Virgin Atlantic Launches New 14-Hour Nonstop Heathrow Route Today: See Map Now",
+    "summary": "The seasonal route will run until late March.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/virgin-launches-new-14-hour-route-today/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/643-virgin-atlantic-boeing-787-9-photosounds-_-shutterstock.jpg"
+   },
    {
     "headline": "American Airlines Passengers Evacuate Onto Runway After Cabin Haze Forces Emergency Landing",
     "summary": "Some passengers jumped from the wing after oxygen masks deployed shortly after takeoff.",
@@ -1907,25 +1923,25 @@
     "url": "https://simpleflying.com/westjet-launches-new-14-hour-nonstop-route-1-month/",
     "day": "2026-10-08",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/241011-boeing-787-9-dreamliner-f.jpg"
-   },
-   {
-    "headline": "Air Canada Reveals New 8-Hour Nonstop A321XLR Route: But There's A Twist",
-    "summary": "The A321XLR opens new links from Montreal and Halifax to Europe while offering 14 lie-flat suites and free WiFi.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/air-canada-reveals-new-8-hour-a321xlr-route/",
-    "day": "2026-10-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/simpleflying-airbus-a321xlr-air-canada-1791311851661-1.jpg"
-   },
-   {
-    "headline": "Air France Unexpectedly Reveals 2 New US Nonstop Routes: See Schedules Now",
-    "summary": "Air France's arrival means the two US cities will now have record numbers of European carriers. Find out more here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/air-france-unexpectedly-reveals-2-new-us-nonstop-routes/",
-    "day": "2026-10-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/367-air-france-airbus-a350-ronen-fefer-_-shutterstock.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Why Some Pilots Quietly Hate Sleeping On The Airbus A350 That Passengers Love",
+    "summary": "The A350's reputation as a 'passenger favorite' masks a more complex truth for flight crews, whose rest experiences can vary widely.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-some-pilots-quietly-hate-sleeping-on-airbus-a350-passengers-love/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/pilots-passenger.jpg"
+   },
+   {
+    "headline": "The Embraer E175: How One Regional Jet Connects Small-Town America",
+    "summary": "How Brazil's most popular puddle jumper keeps Americans in the air.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/embraer-e175-one-regional-jet-connects-small-town-america/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/embraer-e175.png"
+   },
    {
     "headline": "Rolls-Royce UltraFan Explained: The Engine Built For The Next Generation Of Widebodies",
     "summary": "The second UltraFan 80 demonstrator is soon expected to run as Rolls-Royce develops a new generation of engines for widebody and narrowbody airliners.",
@@ -2869,22 +2885,6 @@
     "url": "https://simpleflying.com/frontier-airlines-due-delivery-1st-ex-spirit-airbus-a321neo/",
     "day": "2026-10-07",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/frontier_airlines_centered_1920x1080.jpg"
-   },
-   {
-    "headline": "Delta Air Lines Is Quietly Cutting Domestic Routes To Fund Its Premium International Push",
-    "summary": "Delta filed seven domestic route cuts in September 2026. Each one has a specific reason, and none of them is a retreat from the airport.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-air-lines-is-quietly-cutting-domestic-routes-to-fund-its-premium-international-push/",
-    "day": "2026-10-07",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/delta-air-lines.png"
-   },
-   {
-    "headline": "CEO Anders Forslund Explains Heart’s Hybrid-Electric Airliner Redesign",
-    "summary": "By Hanneke Weitering • AIN Science & Technology Editor October 7 For two years, Heart Aerospace promoted one hybrid-electric airliner concept while working toward another. The ES-30, with two turboprop engines and two…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/10/07/ceo-anders-forslund-explains-hearts-hybrid-electric-airliner-redesign/",
-    "day": "2026-10-07",
-    "img": null
    }
   ],
   "finance": [
@@ -3754,6 +3754,14 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "Jet card buying tips (again)",
+    "summary": "While more may sometimes be better, when it comes to jet cards, these tips will help guide you from making decisions you may come to regret The post Jet card buying tips (again) appeared first on Private Jet Card…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/10/18/jet-card-buying-tips-again/",
+    "day": "2026-10-18",
+    "img": null
+   },
    {
     "headline": "How Much Does It Cost To Get A Private Pilot License In 2026?",
     "summary": "Breaking down the price to fly.",
@@ -4705,14 +4713,6 @@
     "url": "https://www.businessairportinternational.com/news/flight-pro-international-adds-trip-planning-and-notification-features-to-management-platform.html",
     "day": "2026-09-21",
     "img": null
-   },
-   {
-    "headline": "Goodbye Boeing 757s: Delta Air Lines’ 1st VIP Charter Airbus A321neo Enters Service",
-    "summary": "The cabin lowers altitude and adds humidifiers plus customizable lighting to help athletes rest between late night hops.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-air-lines-1st-vip-charter-airbus-a321neo-enters-service/",
-    "day": "2026-09-19",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/delta-air-lines-boeing-757-200-robin-guess-1.jpg"
    }
   ],
   "policy": [
@@ -5679,6 +5679,22 @@
   ],
   "defense": [
    {
+    "headline": "Navy Pilot To Airline Captain: How Military Aviators Move To Delta, United & American Airlines",
+    "summary": "Trading the flight deck for the jet bridge after a career of service.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-military-aviators-move-delta-united-american-airlines/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/navy-pilot-to-airline-captain.png"
+   },
+   {
+    "headline": "A Tu-144 ‘Russian Concorde’ is Being Restored for Display Ahead of Expected MAKS Return",
+    "summary": "Videos posted by a Russian volunteer show the ongoing repair work on one of the two Tu-144s at Zhukovsky airport in Moscow, and which was often used as a static display during the MAKS airshow. A retired Tupolev…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/10/18/tu-144-being-restored-ahead-of-expected-maks-return/",
+    "day": "2026-10-18",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/10/Russia-Tu-144-Display-1.png"
+   },
+   {
     "headline": "How US Legacy Carriers Fly For The Pentagon: The Civil Reserve Air Fleet Explained",
     "summary": "US carriers like United, Delta, American, and others offer a massive surge capacity boost in the event of emergencies.",
     "source": "Simple Flying",
@@ -6621,22 +6637,6 @@
     "url": "https://avitrader.com/2026/10/09/northrop-grumman-completes-first-autonomous-talon-blue-flight/",
     "day": "2026-10-09",
     "img": null
-   },
-   {
-    "headline": "Watchdog Urges Better Alignment Across Pentagon’s Planned GPS Backups",
-    "summary": "All of the U.S. military services are pursuing capabilities to complement GPS amid concerns that the constellation is increasingly vulnerable to interference, but a new government watchdog report calls for better…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/military-watchdog-urges-alignment-alternate-pnt-gps-backups/",
-    "day": "2026-10-09",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/06/Space-Systems_Positioning-Navigation-and-Timing.jpg"
-   },
-   {
-    "headline": "New Procedure Lets Maintainers See ‘Blind Spot’ in F-16 Engine That Caused Crashes",
-    "summary": "The Air Force has figured out a way for maintainers to inspect what had been a “blind spot” in F-16 engines, after problems in that area led to the catastrophic crashes of two jets in recent years. The post New…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/procedure-maintainers-inspect-f-16-engine-blind-spot-crashes/",
-    "day": "2026-10-09",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/7788829-900x600.jpg"
    }
   ],
   "others": []
