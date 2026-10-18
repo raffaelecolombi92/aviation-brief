@@ -1,7 +1,31 @@
 {
- "generated": "2026-10-18T07:42+00:00",
+ "generated": "2026-10-18T12:56+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "777 Partners founder pleads guilty to $500 million fraud scheme",
+    "summary": "Joshua Wander, co-founder and former chief executive of 777 Partners, has pleaded guilty to wire fraud and securities… The post 777 Partners founder pleads guilty to $500 million fraud scheme appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/777-partners-founder-pleads-guilty-to-500-million-fraud-scheme",
+    "day": "2026-10-18",
+    "img": "https://www.aerotime.aero/images/2026/10/boeing_737_max_8-200.jpg"
+   },
+   {
+    "headline": "Pakistan extends airspace ban on Indian airlines",
+    "summary": "Pakistan has extended its airspace ban on Indian aircraft for another month, keeping restrictions in place until November… The post Pakistan extends airspace ban on Indian airlines appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/pakistan-extends-airspace-ban-on-indian-airlines",
+    "day": "2026-10-18",
+    "img": "https://www.aerotime.aero/images/2026/07/airline-air-india-1200x675.jpg"
+   },
+   {
+    "headline": "Lufthansa prepares for final A340-600 flight as 17-year-old aircraft exits fleet",
+    "summary": "Lufthansa is scheduled to operate its final Airbus A340-600 passenger service on October 18, ending the aircraft type’s… The post Lufthansa prepares for final A340-600 flight as 17-year-old aircraft exits fleet appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/lufthansa-prepares-for-final-a340-600-flight-as-17-year-old-aircraft-exits-fleet",
+    "day": "2026-10-18",
+    "img": "https://www.aerotime.aero/images/lufthansa_a340-600.jpg"
+   },
    {
     "headline": "These Are The Airlines With The World's Superior Economy Class In 2026",
     "summary": "Singapore Airlines rises two places to be named Skytrax's best economy class airline for 2026.",
@@ -937,33 +961,41 @@
     "url": "https://www.aerotime.aero/articles/jal-orders-up-to-26-embraer-e190-e2-jets-to-replace-j-airs-e170-and-e190-fleets",
     "day": "2026-10-14",
     "img": "https://www.aerotime.aero/images/2026/10/Untitled-design-2026-10-14T172537.926-1200x675.jpg"
-   },
-   {
-    "headline": "avianca Resumes Guayaquil – Cuenca From Nov 2026",
-    "summary": "Published at 0700PDT / 1400GMT 14OCT26 avianca from November 2026 plans to resume a domestic route in Ecuador, as the carrier schedules Guayaquil – Cuenca route from 01NOV26. Airbus A319 aircraft to serve this route on…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261014-avnov26gyecue",
-    "day": "2026-10-14",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Air Canada NW26 Sun Destinations Additions Update – 11OCT26",
-    "summary": "Published at 0600PDT / 1300GMT 14OCT26 Air Canada in the last few months filed additional changes to its planned network expansion to Sun destinations for Northern winter 2026/27 season. Latest update as of 11OCT26…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261014-acnw26sun",
-    "day": "2026-10-14",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Lufthansa City Outlines A220 Operations in 1Q27",
-    "summary": "Published at 0500PDT / 1200GMT 14OCT26 Lufthansa City in the first quarter of 2027 plans to launch Airbus A220-300 operations, reflected in recent schedule filing. Initial Airbus A220-300 network as of 11OCT26 include…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261014-vl1q27223",
-    "day": "2026-10-14",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "American Airlines Passengers Evacuate Onto Runway After Cabin Haze Forces Emergency Landing",
+    "summary": "Some passengers jumped from the wing after oxygen masks deployed shortly after takeoff.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-passengers-evacuate-st-louis-runway-odor-emergency-landing/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/american-eagle-bombardier-crj900-operated-by-psa-airlines.jpg"
+   },
+   {
+    "headline": "TSA Launches Military 'Honor Lanes' - Will They Cause Longer Lines For Regular Flyers?",
+    "summary": "The US Transportation Security Administration (TSA) has rolled out a new perk for American military veterans and current service members, as well as their families, at more than 30 airports across the US. This comes in…",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/video/tsa-launches-military-honor-lanes-will-they-cause-longer-lines-for-regular-flyers/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/tsa-honorlanes.jpg"
+   },
+   {
+    "headline": "Why Qantas Quietly Killed Its Nonstop Perth-London Flight In 2026",
+    "summary": "A closer look at why Qantas made adjustment to one of the world's longest non-stop flights",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-did-qantas-quietly-kill-its-nonstop-perth-london-flight-in-2026/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/nonstop-flight.jpg"
+   },
+   {
+    "headline": "Zhuhai Duty Free unveils new-look Hong Kong-Zhuhai-Macao Bridge arrivals duty-free store",
+    "summary": "The revamped and expanded store benefits from heavy footfall. In 2025 passenger traffic through the Zhuhai Highway Port of the bridge exceeded 31.34 million, up +14.3% year-on-year and a record high.",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/zhuhai-duty-free-unveils-new-look-hong-kong-zhuhai-macao-bridge-arrivals-duty-free-store/?utm_source=rss&utm_medium=rss&utm_campaign=zhuhai-duty-free-unveils-new-look-hong-kong-zhuhai-macao-bridge-arrivals-duty-free-store",
+    "day": "2026-10-18",
+    "img": null
+   },
    {
     "headline": "Woman Trapped In United 737 MAX Lavatory At 35,000 Feet Forces Emergency Descent",
     "summary": "Flight attendants were eventually able to free the 69-year-old passenger and call off the diversion.",
@@ -1891,41 +1923,33 @@
     "url": "https://simpleflying.com/air-france-unexpectedly-reveals-2-new-us-nonstop-routes/",
     "day": "2026-10-08",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/367-air-france-airbus-a350-ronen-fefer-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Delta passenger arrested after stealing and crashing a tug at John Wayne Airport",
-    "summary": "A Delta Air Lines passenger was arrested after allegedly stealing an airport tug and crashing it on the… The post Delta passenger arrested after stealing and crashing a tug at John Wayne Airport appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/delta-passenger-arrested-after-stealing-and-crashing-a-tug-at-john-wayne-airport",
-    "day": "2026-10-08",
-    "img": "https://www.aerotime.aero/images/2026/10/Untitled-design-99-1200x675.jpg"
-   },
-   {
-    "headline": "Hong Kong tenders, Moodie Davitt leadership transition and French industry study headline latest newsletter",
-    "summary": "Our latest digital newsletter delivers a sweeping round-up of the latest global travel retail industry news.",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/hong-kong-tenders-moodie-davitt-leadership-transition-and-french-industry-study-headline-latest-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=hong-kong-tenders-moodie-davitt-leadership-transition-and-french-industry-study-headline-latest-newsletter",
-    "day": "2026-10-08",
-    "img": null
-   },
-   {
-    "headline": "Airport Authority Hong Kong calls tenders for liquor & tobacco and perfume & cosmetics concessions",
-    "summary": "In major tender news, Airport Authority Hong Kong has issued a Request for Proposals for its liquor & tobacco and perfume and cosmetics concessions – two of Asia’s and the world’s most prestigious airport retail…",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/airport-authority-hong-kong-calls-tenders-for-liquor-tobacco-and-perfume-cosmetics-concessions/?utm_source=rss&utm_medium=rss&utm_campaign=airport-authority-hong-kong-calls-tenders-for-liquor-tobacco-and-perfume-cosmetics-concessions",
-    "day": "2026-10-08",
-    "img": null
-   },
-   {
-    "headline": "Birmingham Airport unveils ambitious new Master Plan",
-    "summary": "Birmingham Airport (BHX) in the UK has unveiled a £2 billion draft Master Plan that could allow the airport to handle 30 million passengers per annum. If it does, the airport notes that this would generate an additional…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/birmingham-airport-unveils-ambitious-new-master-plan/?utm_source=rss&utm_medium=rss&utm_campaign=birmingham-airport-unveils-ambitious-new-master-plan",
-    "day": "2026-10-08",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "Rolls-Royce UltraFan Explained: The Engine Built For The Next Generation Of Widebodies",
+    "summary": "The second UltraFan 80 demonstrator is soon expected to run as Rolls-Royce develops a new generation of engines for widebody and narrowbody airliners.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/rolls-royce-ultrafan-engine-built-next-generation-widebodies/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/rolls-royce-ultrafan-explained.png"
+   },
+   {
+    "headline": "Delta Air Lines Vs. Southwest: Which US Carrier Wins On Passenger Satisfaction In 2026",
+    "summary": "ACSI puts Delta first. J.D. Power puts Southwest first by three points.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/delta-air-lines-southwest-wins-passenger-satisfaction-2026/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/delta-air-lines-vs-southwest-which-us-carrier-wins-on-passenger-satisfaction-in-2026.jpg"
+   },
+   {
+    "headline": "LATAM Boeing 767 Drops 23,000 Feet As Oxygen Masks Deploy In Midair Emergency",
+    "summary": "The crew declared a transponder 7700 emergency and executed an immediate descent before returning the jet to Lima.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/latam-boeing-767-oxygen-masks-midair-emergency/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/simpleflying-767-300-latam-1792306198584-1.jpg"
+   },
    {
     "headline": "The Trent XWB-97 Has 4.5 Million Flight Hours Before The GE9X Carries Its First Pound Of Freight",
     "summary": "The XWB-97's maturity is becoming an advantage over the rival new GE9X turbofan, helping the program to progress and be perceived as less risky.",
@@ -2861,30 +2885,6 @@
     "url": "https://leehamnews.com/2026/10/07/ceo-anders-forslund-explains-hearts-hybrid-electric-airliner-redesign/",
     "day": "2026-10-07",
     "img": null
-   },
-   {
-    "headline": "Why The Boeing 737 MAX 10 Will Likely Never Cross The Atlantic Like The Airbus A321XLR",
-    "summary": "Design limitations influence what the MAX 10 will accomplish, but that was the intention.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-boeing-737-max-10-likely-never-cross-atlantic-airbus-a321xlr/",
-    "day": "2026-10-07",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/boeing-737-max-10.png"
-   },
-   {
-    "headline": "Over 50 Years In Production: How The Boeing 747 Outlasted Every Rival Jumbo",
-    "summary": "The 747 was virtually untouchable until the last 20 years.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/how-boeing-747-outlasted-every-rival-jumbo/",
-    "day": "2026-10-07",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/50-years-in-production.png"
-   },
-   {
-    "headline": "Wing Production Lag Plagues Boeing’s Hopes To Boost 737 MAX Output To As Many As 63 Monthly Jets",
-    "summary": "Boeing is facing a delay in its effort to increase 737 MAX production, with wing manufacturing at its Renton, Washington, facility emerging as the main constraint. CEO Kelly Ortberg said earlier in September that the…",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/video/wing-production-lag-plagues-boeing-s-hopes-to-boost-737-max-output-to-as-many-as-63-monthly-jets/",
-    "day": "2026-10-07",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/wing-bottleneck.jpg"
    }
   ],
   "finance": [
