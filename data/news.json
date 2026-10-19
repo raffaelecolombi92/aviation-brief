@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T22:42+00:00",
+ "generated": "2026-10-19T02:52+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,22 @@
   ],
   "airports": [
    {
+    "headline": "United Airlines Unveils 5 New Nonstop Routes: See Full List Now",
+    "summary": "United is teaming up with Air Canada to give flyers more choices.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-airlnes-5-new-nonstop-routes/",
+    "day": "2026-10-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/united-airlines-737-taxis-under-the-bridge-at-denver-international.jpg"
+   },
+   {
+    "headline": "“Fight, Not Flight”: Exotic Bird Attacks Passengers Inside Chicago O’Hare Terminal",
+    "summary": "Workers chased the feisty intruder across the check-in area until one employee captured it in her shirt and sought veterinary care.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/exotic-bird-attacks-passengers-chicago-ohare-terminal/",
+    "day": "2026-10-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/o-hare-21-project-o-hare-21-simple-flying-20260921-151800.jpg"
+   },
+   {
     "headline": "Flight Cuts: Delta Air Lines Set To Pause Premium Transcon Route While American Stays Daily",
     "summary": "The carrier will suspend flights between the Big Apple and Orange County after just bringing them back five months ago.",
     "source": "Simple Flying",
@@ -1907,25 +1923,17 @@
     "url": "https://simpleflying.com/airlines-suspend-flights-riyadh-attack-destroys-saudia-airbus-a320/",
     "day": "2026-10-08",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_2356238963-1.jpg"
-   },
-   {
-    "headline": "Air Canada Cancels All Flights To 6 International Destinations: See Full List Now",
-    "summary": "In 2026, the airline has stopped flying to one long-haul city and five short-haul places. Find them all here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/air-canada-cancels-all-flights-to-7-international-destinations/",
-    "day": "2026-10-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_1571697040_cropped.jpg"
-   },
-   {
-    "headline": "American Airlines Boeing 737 Returns To Boston After Emergency Declared & Suspected Fuel Leak",
-    "summary": "This jet reached 30,000 feet before the crew had to rapidly return it to Boston.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-boeing-737-returns-to-boston-after-emergency-declared/",
-    "day": "2026-10-08",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/814-american-airlines-boeing-737-800-ceri-breeze-_-shutterstock.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Why The Boom Overture Will Be The 1st Supersonic Jet With Affordable Flights",
+    "summary": "With a booming passenger market, increasing premium demand, and access to modern technology and designs, the Overture will be more affordable to fly.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/boom-overture-supersonic-affordable-flights-why/",
+    "day": "2026-10-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/01/why-the-boom-overture-will-be-the-1st-supersonic-jet-with-affordable-flights-boom-supersonic-simple-flying.jpg"
+   },
    {
     "headline": "Why Concorde's Drooping Nose Will Be Nearly Impossible To Replicate On A Modern Jet",
     "summary": "The nose of the Concorde may be the most recognizable feature of the classic jet. Today, such a design is near enough impossible to recreate, but why?",
@@ -2877,14 +2885,6 @@
     "url": "https://avitrader.com/2026/10/08/gmf-to-establish-muscat-airport-mro-facility/",
     "day": "2026-10-08",
     "img": null
-   },
-   {
-    "headline": "AerSale leases Boeing 757 freighter to Mister Air",
-    "summary": "AerSale Corporation (AerSale) has leased a Boeing 757-200PCF freighter to Romanian cargo carrier Mister Air. The airline will operate the aircraft on behalf of AerCommerce, one of its major shareholders. The freighter…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/10/08/aersale-leases-boeing-757-freighter-to-mister-air/",
-    "day": "2026-10-08",
-    "img": null
    }
   ],
   "finance": [
@@ -3754,6 +3754,30 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "EAA AirVenture Oshkosh: How The World’s Largest Fly-In Runs The Busiest Tower On Earth",
+    "summary": "Discover how America's aviation heritage, from the Wright brothers to WWII, helped shape the enduring passion celebrated at EAA AirVenture Oshkosh.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/eaa-airventure-oshkosh-worlds-largest-fly-in-busiest-tower-earth/",
+    "day": "2026-10-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/new-article-cover-pic.jpg"
+   },
+   {
+    "headline": "Bonus Depreciation Is Back: How A US Tax Change Is Fueling Private Jet Sales",
+    "summary": "Honeywell forecasts 8,500 new business jet deliveries worldwide between 2025 and 2034.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-us-tax-change-fueling-private-jet-sales/",
+    "day": "2026-10-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/bonus-depreciation-is-back-how-a-us-tax-change-is-fueling-private-jet-sales.jpg"
+   },
+   {
+    "headline": "Beechcraft Bonanza: How One Airplane Stayed In Production Since 1947",
+    "summary": "The loyal support base allowed the Bonanza to remain in production for longer than it should have.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/beechcraft-bonanza-one-airplane-stayed-production-since-1947/",
+    "day": "2026-10-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/beechcraft-bonanza.png"
+   },
    {
     "headline": "How Much Does It Cost To Fly Private In The US In 2026?",
     "summary": "Exploring the continuously rising demand for private aviation in 2026.",
@@ -4689,30 +4713,6 @@
     "url": "https://www.aerotime.aero/articles/nbaa-bace-2026-worlds-most-powerful-business-aviation-event",
     "day": "2026-09-22",
     "img": "https://www.aerotime.aero/images/2026/09/Aircraft-exhibited-at-NBAA-BACE.jpg"
-   },
-   {
-    "headline": "Jettly launches category jet card",
-    "summary": "Charter broker and platform Jettly is adding category fixed rates to its jet card program, in addition to specific aircraft pricing The post Jettly launches category jet card appeared first on Private Jet Card…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/09/21/jettly-launches-category-jet-card/",
-    "day": "2026-09-21",
-    "img": null
-   },
-   {
-    "headline": "Hera Flight expands fleet with 4 Citation X jets, before peak season",
-    "summary": "The new jets join Hera's 10 Citation X jets, bringing the Florida-based operator's fleet to 26 ahead of the peak season. The post Hera Flight expands fleet with 4 Citation X jets, before peak season appeared first on…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/09/21/hera-flight-expands-fleet-4-citation-x-jets/",
-    "day": "2026-09-21",
-    "img": null
-   },
-   {
-    "headline": "Hera offers 5 free hours to new members coming from OneFlight",
-    "summary": "Hera Flight offers members coming from OneFlight 5 free flight hours for its 25-hour jet card, after the broker grounded its flights. The post Hera offers 5 free hours to new members coming from OneFlight appeared first…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/09/21/hera-offers-5-free-hours-to-members-coming-from-oneflight/",
-    "day": "2026-09-21",
-    "img": null
    }
   ],
   "policy": [
@@ -5679,6 +5679,14 @@
   ],
   "defense": [
    {
+    "headline": "What It Took to Deliver a Legendary F-117A Stealth Aircraft to the Smithsonian",
+    "summary": "More than 40 years after the original YF-117 operational prototype flew test runs from a Lockheed Martin Skunk Works facility, an F-117 returned for a $1 million refurbishment to look its best when it assumes its place…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/what-it-took-to-deliver-f-117-stealth-aircraft-to-smithsonian/",
+    "day": "2026-10-19",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/10000403-900x600.jpg"
+   },
+   {
     "headline": "Why The A-10 Warthog's Rescue Of A Downed F-15E Pilot Forced The US Air Force To Reverse Its Retirement",
     "summary": "The US Air Force both wants to keep the Warthog in service for four more years and slash its A-10 fleet in half in Fiscal 2027.",
     "source": "Simple Flying",
@@ -6629,14 +6637,6 @@
     "url": "https://simpleflying.com/mcdonnell-douglas-military-airframes-pentagon-flying-deep-2040s-beyond/",
     "day": "2026-10-09",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/the-mcdonnell-douglas-sover-photo.png"
-   },
-   {
-    "headline": "France sets 2027 prototype phase, 2029 development start for new fighter",
-    "summary": "France plans to launch a second demonstration phase for its New Generation Fighter (NGF) in 2027, followed by… The post France sets 2027 prototype phase, 2029 development start for new fighter appeared first on AeroTime…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/france-new-fighter-prototype-2027-development-2029",
-    "day": "2026-10-09",
-    "img": "https://www.aerotime.aero/images/The-NGF-mockup-at-Paris-Air-Show-2023.jpg"
    }
   ],
   "others": []
