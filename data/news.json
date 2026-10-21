@@ -1,7 +1,23 @@
 {
- "generated": "2026-10-21T19:04+00:00",
+ "generated": "2026-10-21T23:52+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "PIA NW26 Islamabad – Beijing Aircraft Changes",
+    "summary": "Published at 1615PDT / 2315GMT 21OCT26 Pakistan International Airlines (PIA) in recent schedule update filed aircraft changes for Islamabad – Beijing Capital route, scheduled to resume on 30OCT26 after brief hiatus. The…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261021-pknw26pek",
+    "day": "2026-10-21",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "PIA Resumes Birmingham in Dec 2026; UK NW26 Service Changes",
+    "summary": "Published at 1530PDT / 2230GMT 21OCT26 Pakistan International Airlines (PIA) today opened reservations for service to Birmingham, previously served until 2022. The airline will offer 3 weekly Islamabad – Birmingham…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261021-pknw26uk",
+    "day": "2026-10-21",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "The Most Superior Business Class Seats On US-To-Europe Flights In 2026",
     "summary": "How to have the best experience in business class when crossing the Atlantic.",
@@ -945,25 +961,17 @@
     "url": "https://www.aeroroutes.com/eng/261016-klns27msp",
     "day": "2026-10-17",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Why American Airlines' Longest-Ever Flight Needs Just 51 Business Class Suites To Pencil Out",
-    "summary": "A closer look at some of the intricacies behind airline route economics.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-american-airlines-longest-ever-flight-needs-51-business-class-suites-to-pencil-out/",
-    "day": "2026-10-17",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/business-clas.jpg"
-   },
-   {
-    "headline": "KLM July 2027 Curacao Service Increases",
-    "summary": "Published at 1930PDT 16OCT26 / 0230GMT 17OCT26 KLM during Northern summer 2027 season schedules service increase on Amsterdam – Curacao route, where additional flights to be added from 07JUL27 to 01AUG27. During this…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261016-kljul27cur",
-    "day": "2026-10-17",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "United Airlines Unveils 54,000 Square-Foot Lounge As Part Of Houston’s Terminal B Overhaul",
+    "summary": "United Airlines has unveiled the largest airline lounge in the Americas alongside a $2.6 billion Houston terminal transformation.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-airlines-unveils-54000-square-foot-lounge-houston/",
+    "day": "2026-10-21",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/iah-terminal-b-north.jpg"
+   },
    {
     "headline": "American Airlines Cancels 11 Long-Haul Routes From Major Hub: See Full List Now",
     "summary": "All of these places have stopped seeing the carrier from Philadelphia, including one in 2026.",
@@ -1915,14 +1923,6 @@
     "url": "https://simpleflying.com/airport-pouring-17-inches-concrete-runway-built-b-47-bombers/",
     "day": "2026-10-14",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/lincoln-cover-pic.jpg"
-   },
-   {
-    "headline": "The New Mega-Hub Airport Being Purpose-Built Around Just 15 Jets",
-    "summary": "Qantas has been involved since before ground was first broken at Western Sydney International Airport.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/new-mega-hub-airport-being-purpose-built-around-just-15-jets/",
-    "day": "2026-10-14",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/mega-hub-airport.jpg"
    }
   ],
   "fleet": [
@@ -3763,6 +3763,22 @@
   ],
   "bizav": [
    {
+    "headline": "Forbes Travel Guide names JSX Best Small Airline",
+    "summary": "JSX wins another award. The Verified Travel Awards draw on 'nearly 9,000 of the most well-traveled' industry executives and consumers The post Forbes Travel Guide names JSX Best Small Airline appeared first on Private…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/10/21/forbes-travel-guide-names-jsx-best-small-airline/",
+    "day": "2026-10-21",
+    "img": null
+   },
+   {
+    "headline": "Fly Alliance signs with FlyExclusive for flight management system",
+    "summary": "The artificial intelligence-powered FMS will replace Fly Alliance's existing flight management system across its entire operation The post Fly Alliance signs with FlyExclusive for flight management system appeared first…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/10/21/fly-alliance-signs-with-flyexclusive-for-flight-management-system/",
+    "day": "2026-10-21",
+    "img": null
+   },
+   {
     "headline": "Flexjet doubles down on luxury approach to private aviation",
     "summary": "Beyond its bespoke private jet cabin interiors, Global CEO Andrew Collins says terminals and training are separating Flexjet from competitors The post Flexjet doubles down on luxury approach to private aviation appeared…",
     "source": "Private Jet Card Comparisons",
@@ -4703,22 +4719,6 @@
     "summary": "The world's largest private jet operator is apparently building a new private terminal in Austin following its expansion in Dallas The post NetJets may build new terminal at Austin airport, per Texas filing appeared…",
     "source": "Private Jet Card Comparisons",
     "url": "https://privatejetcardcomparisons.com/2026/09/28/netjets-may-build-new-terminal-at-austin-airport/",
-    "day": "2026-09-28",
-    "img": null
-   },
-   {
-    "headline": "FlightStratix launches charter operations management platform",
-    "summary": "London-based aviation technology company FlightStratix has launched CharterOps (FX-Ops), a flight operations management system designed to replace the spreadsheets, shared inboxes and group chats commonly used to manage…",
-    "source": "Business Airport International",
-    "url": "https://www.businessairportinternational.com/news/flightstratix-launches-charter-operations-management-platform.html",
-    "day": "2026-09-28",
-    "img": null
-   },
-   {
-    "headline": "KlasJet receives FAA approval for US ACMI and charter operations",
-    "summary": "Lithuanian ACMI and charter operator KlasJet has received FAA Part 129 operations specifications approval, clearing the way for it to operate charter and ACMI services to, from and through the [...] The post KlasJet…",
-    "source": "Business Airport International",
-    "url": "https://www.businessairportinternational.com/news/aircraft/klasjet-receives-faa-approval-for-us-acmi-and-charter-operations.html",
     "day": "2026-09-28",
     "img": null
    }
@@ -5687,6 +5687,54 @@
   ],
   "defense": [
    {
+    "headline": "Hegseth Directs Air Force to Establish New Guard Special Tactics Squadron",
+    "summary": "Secretary of Defense Pete Hegseth has directed the Air Force to establish a new Special Tactics Squadron under the Florida Air National Guard, growing a small but elite group of special operators. The post Hegseth…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/hegseth-air-force-establish-special-tactics-squadron/",
+    "day": "2026-10-21",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/8037005-900x600.jpg"
+   },
+   {
+    "headline": "Some KC-135s Damaged by Iran Still in Depot: AFMC Boss",
+    "summary": "At least two KC-135 Stratotankers that were seriously damaged during Operation Epic Fury are still undergoing extensive maintenance depot repairs, the head of Air Force Materiel Command said Oct. 21. The post Some…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/kc-135s-damaged-by-iran-in-depot-afmc-head/",
+    "day": "2026-10-21",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/KC-135-Mildenhall-900x600.jpeg"
+   },
+   {
+    "headline": "Bigger Than a Cessna, Smaller Than a C-130: Air Force Funds Blended-Wing Body Concept",
+    "summary": "As the Air Force wrestles to solve the logistics of dispersed operations in the vast Indo-Pacific, it’s investing $3.5 million to help develop a new kind of aircraft: a blended-wing body freighter that’s smaller than a…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/bigger-than-a-cessna-smaller-than-a-c-130-air-force-funds-blended-wing-body-concept/",
+    "day": "2026-10-21",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/Natilus-x-USAF-13-900x600.jpg"
+   },
+   {
+    "headline": "Space Force Needs Third Launch Range by 2030, Acquisition Leader Says",
+    "summary": "The head of the Space Force’s largest acquisition organization said the service needs a third spaceport to support medium and heavy launch by 2030—a goal he called “aspirational” even as he stressed the importance of…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/space-force-third-launch-range-by-2030-garrant/",
+    "day": "2026-10-21",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/0926_TOC-900x600.jpg"
+   },
+   {
+    "headline": "First M-346 For Frecce Tricolori Breaks Cover",
+    "summary": "The first M-346 trainer jet destined to the Frecce Tricolori aerobatic team was spotted at Leonardo’s facilities in Venegono after receiving its livery. The first M-346 trainer jet destined to the Italian Air Force’s…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/10/21/first-m-346-for-frecce-tricolori-breaks-cover/",
+    "day": "2026-10-21",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/10/Frecce_M-346_1.jpg"
+   },
+   {
+    "headline": "Air Force needs 1,509 combat-ready jets by 2035, service tells Congress",
+    "summary": "Lt. Gen. David Tabor also confirmed reporting that the Air Force is considering a new build F-16, but said that decision wasn’t “urgent.”",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress/",
+    "day": "2026-10-21",
+    "img": null
+   },
+   {
     "headline": "L3Harris Receives $876 Million Award to Advance NGJ-LB Pod to the Next EMD Phase",
     "summary": "L3Harris received an $876 million contract modification to advance the U.S. Navy’s Next-Generation Jammer – Low Band system to the next Engineering and Manufacturing Development phase. L3Harris Technologies has received…",
     "source": "The Aviationist",
@@ -6597,54 +6645,6 @@
     "url": "https://breakingdefense.com/2026/10/we-need-to-make-industry-crash-100000-drones-next-year/",
     "day": "2026-10-14",
     "img": null
-   },
-   {
-    "headline": "What dismounted soldiers need to survive a battlefield with drones and sensors",
-    "summary": "[Sponsored] How to give soldiers awareness and targeting without adding complexity.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/10/what-dismounted-soldiers-need-to-survive-a-battlefield-with-drones-and-sensors/",
-    "day": "2026-10-14",
-    "img": null
-   },
-   {
-    "headline": "Sikorsky Aiming For Black Hawk ‘Nose Jobs’ To Be Available Within The Next Year",
-    "summary": "A larger swappable nose creates opportunities to rapidly inject new capabilities and flexibility into old and new H-60 helicopters. The post Sikorsky Aiming For Black Hawk ‘Nose Jobs’ To Be Available Within The Next…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/sikorsky-aiming-for-black-hawk-nose-jobs-to-be-available-within-the-next-year",
-    "day": "2026-10-14",
-    "img": "https://www.twz.com/wp-content/uploads/2026/10/UH60-nose.jpg?quality=85"
-   },
-   {
-    "headline": "50 DAF Battle Network Programs Rolled into Single, $4.5B ‘Megatron’ Contract Vehicle",
-    "summary": "The Department of the Air Force is consolidating more than 50 programs supporting its efforts to create a vast battle network into a single $4.5 billion contract vehicle to streamline software and technology…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/50-daf-battle-network-programs-rolled-into-single-4-5b-megatron-contract-vehicle/",
-    "day": "2026-10-14",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/toc-l-deployed-900x600.jpg"
-   },
-   {
-    "headline": "Space Force Activates Component Under Special Operations Command",
-    "summary": "The Space Force has officially established its component to U.S. Special Operations Command, creating a ninth component charged with presenting space expertise to commanders in the field. The post Space Force Activates…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/space-force-activates-special-forces-command-component/",
-    "day": "2026-10-14",
-    "img": "https://www.airandspaceforces.com/app/uploads/2025/12/9323189-900x600.jpg"
-   },
-   {
-    "headline": "Air Force Tests New Sentinel Reentry Vehicle",
-    "summary": "The Air Force Nuclear Weapons Center tested its new intercontinental ballistic missile reentry vehicle Oct. 9, launching the in-development vehicle atop a Minotaur I rocket from Vandenberg Space Force Base, Calif. The…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/air-force-test-launches-new-sentinel-icbm-nuclear-reentry-vehicle/",
-    "day": "2026-10-13",
-    "img": "https://www.airandspaceforces.com/app/uploads/2024/07/007_Hadley_Sentinel_ICBM_CMYK-900x600.jpg"
-   },
-   {
-    "headline": "B-2 Stealth Bomber Returns to Base After Depot Maintenance",
-    "summary": "One of the Air Force’s critical B-2 Spirit stealth bombers has returned to Whiteman Air Force Base, Mo., after an extensive course of maintenance to restore its stealth coating and preserve its structural integrity. The…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/b-2-stealth-bomber-returns-to-base-after-depot-maintenance/",
-    "day": "2026-10-13",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/B-2-Spirit-of-Kitty-Hawk-lands-at-Whiteman-900x600.jpeg"
    }
   ],
   "others": []
