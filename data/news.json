@@ -1,7 +1,87 @@
 {
- "generated": "2026-10-23T02:59+00:00",
+ "generated": "2026-10-23T08:22+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "United Airlines Adds 4 New Routes From 2 Hubs For Spring 2027",
+    "summary": "Coast to coast expansion links San Francisco with Charleston, Hartford and Oklahoma City as transcontinental options grow.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-airlines-adds-4-new-routes-2-hubs-spring-2027/",
+    "day": "2026-10-23",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/united-airlines-boeing-737-max-8-1-1.jpg"
+   },
+   {
+    "headline": "Allegiant Air’s Longest Nonstop Routes With The Boeing 737 MAX In 2027",
+    "summary": "Allegiant Air's five longest Boeing 737 MAX 8 routes in January 2027 span up to 1,525 miles, linking Florida with distant US markets nonstop.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/allegiant-air-longest-737-max-flights/",
+    "day": "2026-10-23",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/allegiant-air-s-longest-nonstop.png"
+   },
+   {
+    "headline": "Air Astana’s new leader on US routes, Dreamliner order and future growth",
+    "summary": "Ibrahim Canliel took over the reins at Air Astana on April 1, 2026, succeeding, as CEO, Peter Foster,… The post Air Astana’s new leader on US routes, Dreamliner order and future growth appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/air-astanas-new-leader-on-us-routes-dreamliner-order-and-future-growth",
+    "day": "2026-10-23",
+    "img": "https://www.aerotime.aero/images/2026/10/Executive-Spotlight-1920x1200-Ibrahim-Canliel-1200x675.jpg"
+   },
+   {
+    "headline": "Royal Jordanian Removes Planned Tashkent Service Increase in NW26",
+    "summary": "Published at 0045PDT / 0745GMT 23OCT26 Royal Jordanian in recent schedule update revised Amman – Tashkent service for Northern winter 2026/27 season. Initially filed 3rd weekly flight from 30OCT26 is no longer in…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261023-rjnw26tas",
+    "day": "2026-10-23",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Royal Jordanian Plans Beijing late-Jan 2027 Launch",
+    "summary": "Published at 0000PDT / 0700GMT 23OCT26 Royal Jordanian in late-January 2027 plans to launch new route to China, as the carrier schedules 2 weekly Amman – Beijing Capital flights from 26JAN27. Boeing 787-8 to operate…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261023-rj1q27pek",
+    "day": "2026-10-23",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "TAAG Adds Dakar / Praia From Dec 2026",
+    "summary": "Published at 2315PDT 22OCT26 / 0615GMT 23OCT26 TAAG Angola Airlines from December 2026 plans to launch regular scheduled service to Senegal and Cape Verde, where the airline schedules Luanda – Dakar – Praia flights.…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261022-dtdec26dssrai",
+    "day": "2026-10-23",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "IndiGo Jan 2027 Amsterdam Service Increases",
+    "summary": "Published at 2230PDT 22OCT26 / 0530GMT 23OCT26 Indian low-cost carrier IndiGo this week continues to revise planned Mumbai – Amsterdam route for Northern winter 2026/27 season. AeroRoutes on 14OCT26 reported the carrier…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261022-6ejan27ams",
+    "day": "2026-10-23",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Greater Bay Airlines Increases Hohhet Flights in Nov 2026",
+    "summary": "Published at 2145PDT 22OCT26 / 0445GMT 23OCT26 Hong Kong’s Greater Bay Airlines in November 2026 schedules service increase on Hong Kong – Hohhet route, as the carrier schedules 2nd weekly flight from 28OCT26 to…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261022-hbnov26het",
+    "day": "2026-10-23",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Iberia Express Moves Manchester Service to Mainline From late-Oct 2026",
+    "summary": "Published at 2100PDT 22OCT26 / 0400GMT 23OCT26 Iberia at the launch of Northern winter 2026/27 season is adjusting service on Madrid – Manchester route, with mainline service replacing current Iberia Express operation.…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261022-ibnw26man",
+    "day": "2026-10-23",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Iberia Extends Privilege Style A330 Service to early-Jan 2027",
+    "summary": "Published at 2015PDT 22OCT26 / 0315GMT 23OCT26 Iberia during Northern winter 2026/27 season continues to schedule leased Airbus A330-200 aircraft from Privilege Style, primarily serving The Americas. The leased aircraft…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261022-ibnw26pvg",
+    "day": "2026-10-23",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "The Striking Differences Between American Airlines’ New Flagship Cabin & United’s Polaris Business Class",
     "summary": "American and United chose the same seat for their flagship business cabins. What they built around it could not be more different.",
@@ -881,86 +961,6 @@
     "url": "https://simpleflying.com/united-airlines-expands-meal-preordering-service/",
     "day": "2026-10-19",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/007-united-airlines-airbus-737max-angel-dibilio-_-shutterstock.jpg"
-   },
-   {
-    "headline": "\"He'll Lose His Job\": Elon Musk Hits Back Over Claims Delta CEO Snubbed Starlink To Avoid Him",
-    "summary": "Elon Musk has hit back at Delta Air Lines CEO Ed Bastian after the airline chief reportedly cited Musk's reputation as a reason for rejecting Starlink. Bastian reportedly told staff during a company event that the…",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/video/he-ll-lose-his-job-elon-musk-hits-back-over-claims-delta-ceo-snubbed-starlink-to-avoid-him/",
-    "day": "2026-10-19",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/bastianmusk.jpg"
-   },
-   {
-    "headline": "Is Central Asia running into an air cargo capacity gap?",
-    "summary": "Central Asia is becoming a larger industrial and logistics market. The region faces an estimated $33 billion in… The post Is Central Asia running into an air cargo capacity gap? appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/is-central-asia-running-into-an-air-cargo-capacity-gap",
-    "day": "2026-10-19",
-    "img": "https://www.aerotime.aero/images/2026/10/Central-Asia-Air-Cargo-Summit-1200x675.jpg"
-   },
-   {
-    "headline": "Icelandair completes deal for 49% stake in former rival PLAY’s Maltese operation",
-    "summary": "Icelandair now owns 49% of Fly Play Europe Holdco, the Maltese company that once belonged to its former… The post Icelandair completes deal for 49% stake in former rival PLAY’s Maltese operation appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/icelandair-completes-deal-for-49-stake-in-former-rival-plays-maltese-operation",
-    "day": "2026-10-19",
-    "img": "https://www.aerotime.aero/images/2026/10/Untitled-design-2026-10-19T215308.508-1200x675.jpg"
-   },
-   {
-    "headline": "Archer completes demonstration flights over San Francisco Bay area",
-    "summary": "On October 19, 2026, advanced air mobility developer Archer Aviation announced that it had completed a series of… The post Archer completes demonstration flights over San Francisco Bay area appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/archer-completes-demonstration-flights-over-san-francisco-bay-area",
-    "day": "2026-10-19",
-    "img": "https://www.aerotime.aero/images/2026/10/Archer_Bay_Area_No_Roads-Tour_Still_02-1200x675.jpg"
-   },
-   {
-    "headline": "ANA introduces the Chiikawa Jet",
-    "summary": "ANA made this announcement: We unveiled the Chiikawa JET for the first time at ANA’s hangar at Haneda Airport! Chiikawa, Hachiware, and Usagi also joined us for the special occasion! The Boeing 767-381 ER (JA609A)…",
-    "source": "World Airline News",
-    "url": "https://worldairlinenews.com/2026/10/19/ana-introduces-the-chiikawa-jet/",
-    "day": "2026-10-19",
-    "img": "https://worldairlinenews.com/wp-content/uploads/2026/10/HU5yXA7acAAkknv.jpeg"
-   },
-   {
-    "headline": "Emirates explores a range of new innovations for customers with accessible travel requirements at AccessAbilities Expo, Dubai 2026",
-    "summary": "Emirates has officially unveiled its interactive stand at the 8thedition of AccessAbilities Expo – the region’s leading event for accessibility & inclusive innovation, taking place at Dubai World Trade Centre from the…",
-    "source": "World Airline News",
-    "url": "https://worldairlinenews.com/2026/10/19/emirates-explores-a-range-of-new-innovations-for-customers-with-accessible-travel-requirements-at-accessabilities-expo-dubai-2026/",
-    "day": "2026-10-19",
-    "img": "https://worldairlinenews.com/wp-content/uploads/2026/10/1920_dscf7247.jpg"
-   },
-   {
-    "headline": "Sun PhuQuoc Airways Plans Ahmedabad Dec 2026 Launch",
-    "summary": "Published at 0900PDT / 1600GMT 19OCT26 Sun PhuQuoc Airways in December 2026 plans to launch regular scheduled service to India, with Phu Quoc – Ahmedabad service scheduled from 02DEC26. Airbus A321neo initially to serve…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261019-9gdec26amd",
-    "day": "2026-10-19",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Cambodia Airways Adds Siem Reap – Guangzhou From Nov 2026",
-    "summary": "Published at 0800PDT / 1500GMT 19OCT26 Cambodia Airways from November 2026 schedules new service to China, where the airline plans 3 weekly Siem Reap – Guangzhou flights. Airbus A319 aircraft to serve this route from…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261019-krnov26can",
-    "day": "2026-10-19",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Drukair Adds Nov/Dec 2026 Singapore – Perth Charters",
-    "summary": "Published at 0700PDT / 1400GMT 19OCT26 Drukair Royal Bhutan Airlines has filed additional charter flights to Australia, operating Singapore – Perth sector. In addition to previously reported charter on 22-23OCT26 with…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261019-kbnw26per",
-    "day": "2026-10-19",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Asiana Airlines 4Q26 A380 Regional Service Revisions – 18OCT26",
-    "summary": "Published at 0600PDT / 1300GMT 19OCT26 Korean Air and Asiana Airlines last week filed service changes to its planned Airbus A380 operations on regional routes in the fourth quarter of 2026. Seoul Incheon – Bangkok…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261019-oz4q26388",
-    "day": "2026-10-19",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "How Airbus' Influence Prompted Rolls-Royce's Shift From Developing Shared Engines To Exclusive Powerplants",
+    "summary": "The history behind the partnership forged by two of Europe's aerospace titans.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-influence-rolls-royce-shift-developing-shared-engines-exclusive-powerplants/",
+    "day": "2026-10-23",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/how-airbus-influence-prompted-rolls-royce-s-shift-from-developing-shared-engines-to-exclusive-powerplants.jpg"
+   },
+   {
     "headline": "10 Marathon Routes That Are The Boeing 777-300ER's Longest In 2026",
     "summary": "The 777 remains extremely popular with airlines for long-haul flights.",
     "source": "Simple Flying",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/aircraft-delta-air-lines-didnt-know-needed-inheriting/",
     "day": "2026-10-13",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/aircraft-delta-air-lines.png"
-   },
-   {
-    "headline": "Report: Airlines will face shortage of new airplanes until at least 2030",
-    "summary": "Airlines waiting for new airplanes face several more years of delivery shortages, with engine availability, supplier bottlenecks and… The post Report: Airlines will face shortage of new airplanes until at least 2030…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/airlines-new-airplane-shortage-2030",
-    "day": "2026-10-13",
-    "img": "https://www.aerotime.aero/images/2026/10/Boeing_South_Carolina_assembly_line_26135377557-1200x675.jpg"
    }
   ],
   "finance": [
@@ -3770,6 +3770,14 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "Partners In Aviation reaches 10th anniversary of operations",
+    "summary": "After 10 years of work, PIA continues to match jet buyers together for co-ownership opportunities nationwide. The post Partners In Aviation reaches 10th anniversary of operations appeared first on Private Jet Card…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/10/22/partners-in-aviation-reaches-10th-anniversary-of-operations/",
+    "day": "2026-10-23",
+    "img": null
+   },
    {
     "headline": "McKinsey: Leisure flying is powering business aviation",
     "summary": "Challenges involve aircraft availability, airport infrastructure, maintenance capacity, and rising operating costs The post McKinsey: Leisure flying is powering business aviation appeared first on Private Jet Card…",
@@ -4719,14 +4727,6 @@
     "summary": "Electra has completed a series of flights at commercial airports in Virginia using helicopter-style instrument procedures and novel takeoff and landing areas, demonstrating that its fixed-wing Ultra Short aircraft can…",
     "source": "Business Airport International",
     "url": "https://www.businessairportinternational.com/news/electra-completes-instrument-flight-tests-using-helicopter-style-procedures.html",
-    "day": "2026-10-06",
-    "img": null
-   },
-   {
-    "headline": "Clay Lacy Aviation wins 10th Friendly Flyer award",
-    "summary": "Clay Lacy Aviation has been recognized by Los Angeles World Airports (LAWA) with two awards at Van Nuys Airport (VNY): its 10th Friendly Flyer Award for noise abatement compliance, and [...] The post Clay Lacy Aviation…",
-    "source": "Business Airport International",
-    "url": "https://www.businessairportinternational.com/news/clay-lacy-aviation-wins-10th-friendly-flyer-award.html",
     "day": "2026-10-06",
     "img": null
    }
@@ -5695,6 +5695,22 @@
   ],
   "defense": [
    {
+    "headline": "Saab’s Q3 orders triple on Ukraine Gripen E and GlobalEye deals",
+    "summary": "Saab’s order intake more than tripled during the third quarter of 2026, driven by a SEK 24.6 billion… The post Saab’s Q3 orders triple on Ukraine Gripen E and GlobalEye deals appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/saab-q3-2026-orders-ukraine-gripen-e-globaleye",
+    "day": "2026-10-23",
+    "img": "https://www.aerotime.aero/images/2025/12/Saab-Gripen-and-GlobalEye.jpg"
+   },
+   {
+    "headline": "Pentagon Bets Big on Drone-Killing APKWS Laser-Guided Rockets",
+    "summary": "The Pentagon has concluded a new agreement to buy laser-guidance kits that turn rockets into drone-killing weapons. BAE Systems and the Defense Department announced a framework deal of up to seven years for 25,000…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/pentagon-bets-big-drone-killing-apkws-laser-guided-rockets/",
+    "day": "2026-10-23",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/9999363-900x600.jpg"
+   },
+   {
     "headline": "NORTHCOM Wraps Radar Test to Boost Arctic Early Warning",
     "summary": "U.S. Northern Command and multiple research organizations just wrapped up a joint, three-year experiment to test new radar technology that could enable the Northern Warning System to detect incoming threats at longer…",
     "source": "Air & Space Forces Mag",
@@ -6637,22 +6653,6 @@
     "url": "https://www.aerotime.aero/articles/france-two-rafales-2027-air-force-fighter-shortage",
     "day": "2026-10-15",
     "img": "https://www.aerotime.aero/images/french_air_force_dassault_rafale_pilots.jpg"
-   },
-   {
-    "headline": "France tests how Rafale fighters can keep flying from civilian airports",
-    "summary": "The French Air and Space Force operated three Rafale fighters and two CASA CN235 transport aircraft from two… The post France tests how Rafale fighters can keep flying from civilian airports appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/french-rafale-jets-civilian-airports-dispersal-exercise",
-    "day": "2026-10-15",
-    "img": "https://www.aerotime.aero/images/2026/10/A-Rafale-taxiing-during-Exercise-TOPAZE-at-Bordeaux-Merignac-1200x675.jpg"
-   },
-   {
-    "headline": "Saab secures SEK 1.3 billion order for Gripen flight control computer",
-    "summary": "Saab has received a SEK 1.3 billion order from Sweden’s Defence Materiel Administration (FMV) to develop a new-generation flight control computer for the Gripen fighter aircraft, with deliveries planned for 2030. The…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/10/15/saab-wins-sek-1-3-billion-order-for-gripen-flight-control-computer/",
-    "day": "2026-10-15",
-    "img": null
    }
   ],
   "others": []
