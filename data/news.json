@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T20:04+00:00",
+ "generated": "2026-10-24T22:49+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,14 @@
   ],
   "airports": [
    {
+    "headline": "Reports: United Airlines Planning To Open New Crew Bases In Dallas/Fort Worth & Sacramento",
+    "summary": "United says the new bases will recuce hotel costs and the need for layovers.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-airlines-planning-open-new-crew-bases-dallas-fort-worth-sacramento/",
+    "day": "2026-10-24",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/united-at-dfw.jpg"
+   },
+   {
     "headline": "FAA’s Chicago Flight Restrictions Against United & American Airlines Could Last Until 2034",
     "summary": "Major new concourses and phased taxiway closures will reshape Chicago operations while travelers face fewer nonstop options.",
     "source": "Simple Flying",
@@ -1915,17 +1923,25 @@
     "url": "https://simpleflying.com/american-airlines-dfw-upgrades/",
     "day": "2026-10-16",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/074-american-airlines-airbus-a319-robin-guess-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Unruly Passenger Forces Transpacific Turnaround On Singapore Airlines Airbus A350",
-    "summary": "The aircraft eventually reached Singapore almost 12 hours late.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/singapore-airlines-disruptive-passenger-flight-to-nowhere/",
-    "day": "2026-10-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_2761833933_cropped.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Boeing 737 MAX Cockpit: What Pilots See & Do On Every Flight",
+    "summary": "Legacy is no more apparent than within the cockpit of the Boeing 737 MAX, taking an original, time-tested design and bringing it into the future",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/boeing-737-max-cockpit-pilots-see-do-every-flight/",
+    "day": "2026-10-24",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/boeing-737-max-cockpit-what-pilots-see-do-on-every-flight.jpg"
+   },
+   {
+    "headline": "Why The Embraer E175's Thrust Sounds Loud For A Regional Jet",
+    "summary": "The E175's engines have a small bypass ratio by today's standards",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/embraer-e175-thrust-loud-regional-jet/",
+    "day": "2026-10-24",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/thrust.png"
+   },
    {
     "headline": "Operation Guillotine: How The Boeing 707 Paved The Way For The Design Of Today's Fuselages",
     "summary": "The Boeing 707 was a groundbreaking aircraft for its time.",
@@ -2869,22 +2885,6 @@
     "url": "https://simpleflying.com/boeing-777x-cabin-design-choices-that-will-redefine-widebody-interior/",
     "day": "2026-10-15",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/boeing777xlarge-5-1.jpg"
-   },
-   {
-    "headline": "P&W Expects Subtle Changes to Deliver GTF Advantage’s Durability Gains",
-    "summary": "By Howard Hardee • Editor October 15, 2026 Subscription Required The first GTF Advantage engines entered service last week on an Airbus A321XLR operated by United Airlines. For RTX subsidiary Pratt & Whitney, which…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/10/15/subtle-changes-designed-to-deliver-gtf-advantages-expected-durability-gains/",
-    "day": "2026-10-15",
-    "img": null
-   },
-   {
-    "headline": "Too Heavy For Its Own Wings: Why The Boeing 737-900ER's Takeoff Roll Is So Long",
-    "summary": "The phenomenon is a consequence of the aircraft's design.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/heavy-wings-why-boeing-737-900er-takeoff-roll-is-so-long/",
-    "day": "2026-10-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/05/too-heavy.jpg"
    }
   ],
   "finance": [
@@ -5695,6 +5695,22 @@
   ],
   "defense": [
    {
+    "headline": "Here's Why Australia Canceled Its Order For F-35 Fighter Jets",
+    "summary": "Australia has extended the life of its Super Hornets, allowing it to cancel its final order of F-35s with the option to buy them another day.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-australia-canceled-its-order-for-f-35-fighter-jets/",
+    "day": "2026-10-24",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/03/f35-fighter-jets.jpg"
+   },
+   {
+    "headline": "USAF Needs ‘1,509 Combat-Ready Jets’ by 2035, According to Service Report to Congress",
+    "summary": "A service report sent to Congress proposes a combat capable force of 1,509 fighters by 2035, which is more than the USAF has available today, posing serious questions about funding and aircraft delivery. The report…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/10/24/usaf-needs-1509-combat-ready-jets-by-2035/",
+    "day": "2026-10-24",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/10/Image-1-Elephant-Walk-52-F-35.jpeg"
+   },
+   {
     "headline": "Loyal Wingman Drones: How The F-22 Becomes The Air Force’s 1st CCA Quarterback",
     "summary": "The Raptor claims another first in the annals of aviation history.",
     "source": "Simple Flying",
@@ -6637,22 +6653,6 @@
     "url": "https://breakingdefense.com/2026/10/zone-5-found-a-spot-in-drone-interceptor-market-with-new-eclipse-ceo/",
     "day": "2026-10-16",
     "img": null
-   },
-   {
-    "headline": "Germany changes course on plans to buy MQ-28 drone wingman: Boeing official",
-    "summary": "Germany has set a target of 2029 to field a CCA, which would make it the first European country to reach such a milestone, but that timeline now looks to be in doubt.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/10/germany-changes-course-on-plans-to-buy-mq-28-drone-wingman-boeing-official/",
-    "day": "2026-10-16",
-    "img": null
-   },
-   {
-    "headline": "Leonardo DRS Explains How Army Counter-UAS Mission Is Evolving",
-    "summary": "Branded Content: Reconfigurable, platform-agnostic, palletized solutions are taking priority for Army's mobile counter-unmanned aerial systems mission. The post Leonardo DRS Explains How Army Counter-UAS Mission Is…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/sponsored-content/leonardo-drs-explains-how-army-counter-uas-mission-is-evolving",
-    "day": "2026-10-16",
-    "img": "https://www.twz.com/wp-content/uploads/2026/10/Leonardo-drs.jpg?quality=85"
    }
   ],
   "others": []
