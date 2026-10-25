@@ -1,7 +1,15 @@
 {
- "generated": "2026-10-25T02:49+00:00",
+ "generated": "2026-10-25T08:01+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "How Airlines Got Away With Only Paying Flight Attendants Once The Boarding Door Closed",
+    "summary": "A major bone of contention for flight attendants in the US.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airlines-got-away-only-paying-flight-attendants-once-boarding-door-closed/",
+    "day": "2026-10-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/how-airlines-got-away-with-only-paying-flight-attendants-once-the-boarding-door-closed.jpg"
+   },
    {
     "headline": "Alaska Airlines Launches 10 New Nonstop Routes: See Full List Now",
     "summary": "An interesting mix of domestic and long-haul services.",
@@ -953,17 +961,25 @@
     "url": "https://www.aeroroutes.com/eng/261026-dlns27boskef",
     "day": "2026-10-20",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Transavia NS27 Network Additions – 18OCT26",
-    "summary": "Published at 0700PDT / 1400GMT 20OCT26 Transavia during Northern summer 2027 season plans to a total of 7 routes, based on schedule filing as of 18OCT26, including those previously not covered on AeroRoutes . Planned…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261020-hvns27",
-    "day": "2026-10-20",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "SAS Flight From JFK Turns Back Over Atlantic, Passengers Left To Find Hotels After Midnight",
+    "summary": "Passengers faced a long night of missing luggage, booking problems and hotel hunting.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/sas-flight-jfk-turns-back-atlantic-passengers-find-hotels-midnight/",
+    "day": "2026-10-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/simpleflying-airbus-a330-300-scandinavian-airlines-sas-1792908774280.jpg"
+   },
+   {
+    "headline": "Sydney’s New $14 Billion Airport Officially Opens As First Jetstar Flight Takes Off",
+    "summary": "Western Sydney unveils a curfew free $14 billion hub with sold out inaugural Jetstar flight and freight services.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/western-sydney-international-airport-opens-first-jetstar-flight/",
+    "day": "2026-10-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/western-sydney-international-airport-plane-arrival-1.jpg"
+   },
    {
     "headline": "How Qatar Airways Is Rebalancing Its US East Coast Flying After American Airlines Quit Doha",
     "summary": "The reasoning behind Qatar Airways' recent network adjustments in the US, and why American Airlines pulled out of Doha.",
@@ -1907,22 +1923,6 @@
     "url": "https://simpleflying.com/air-canada-launches-nonstop-flights-to-new-us-city/",
     "day": "2026-10-16",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/air-canada-aircraft-line-up2.jpg"
-   },
-   {
-    "headline": "Chicago O'Hare Just Retook The Americas Connectivity Crown Despite Losing 300 Daily Flights",
-    "summary": "How two airlines are making Chicago one of the most-connected hubs in the world and why.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/chicago-ohare-retook-americas-connectivity-crown-despite-loosing-300-daily-flights/",
-    "day": "2026-10-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/chicago-o-hare.png"
-   },
-   {
-    "headline": "TSA Suddenly Halts Major Airport Access Expansion Across The US",
-    "summary": "TSA has abruptly halted its Gateside expansion at 301 additional airports, leaving travelers with fewer gate-access options.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/tsa-halts-major-airport-access-expansion-us/",
-    "day": "2026-10-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2411073891_cropped.jpg"
    }
   ],
   "fleet": [
@@ -3771,6 +3771,14 @@
   ],
   "bizav": [
    {
+    "headline": "This Is How Fast A Cessna Grand Caravan Can Fly",
+    "summary": "The Cessna Grand Caravan was never built for speed, but it flys fast enough to make it incredibly useful for a variety of scenarios",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/cessna-grand-caravan-top-speed/",
+    "day": "2026-10-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/this-is-how-fast-a-cessna-grand-caravan-can-fly.jpg"
+   },
+   {
     "headline": "The 5 Busiest General Aviation Airports In The US In 2026",
     "summary": "These five fields record hundreds of thousands of takeoffs and landings every year.",
     "source": "Simple Flying",
@@ -4719,14 +4727,6 @@
     "summary": "VistaJet was commended by a luxury magazine, while also receiving an award for brand image and service at a Chinese finance summit. The post VistaJet receives luxury and business awards appeared first on Private Jet…",
     "source": "Private Jet Card Comparisons",
     "url": "https://privatejetcardcomparisons.com/2026/10/06/vistajet-receives-luxury-and-business-awards/",
-    "day": "2026-10-06",
-    "img": null
-   },
-   {
-    "headline": "AB Jets passes biennial ARGUS audit and expands fleet",
-    "summary": "Two additional Challenger 3500s will join AB Jets following delivery of its first three super-midsize private jets The post AB Jets passes biennial ARGUS audit and expands fleet appeared first on Private Jet Card…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/10/06/ab-jets-passes-biennial-argus-audit-and-expands-fleet/",
     "day": "2026-10-06",
     "img": null
    }
