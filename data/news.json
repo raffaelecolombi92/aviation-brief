@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T22:49+00:00",
+ "generated": "2026-10-25T02:49+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,14 @@
   ],
   "airports": [
    {
+    "headline": "How Qatar Airways Is Rebalancing Its US East Coast Flying After American Airlines Quit Doha",
+    "summary": "The reasoning behind Qatar Airways' recent network adjustments in the US, and why American Airlines pulled out of Doha.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-qatar-airways-rebalancing-us-east-coast-flying-american-airlines-quit-doha/",
+    "day": "2026-10-24",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/how-qatar-airways-is-rebalancing-its-us-east-coast-flying-after-american-airlines-quit-doha.jpg"
+   },
+   {
     "headline": "Reports: United Airlines Planning To Open New Crew Bases In Dallas/Fort Worth & Sacramento",
     "summary": "United says the new bases will recuce hotel costs and the need for layovers.",
     "source": "Simple Flying",
@@ -1915,17 +1923,17 @@
     "url": "https://simpleflying.com/tsa-halts-major-airport-access-expansion-us/",
     "day": "2026-10-16",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_2411073891_cropped.jpg"
-   },
-   {
-    "headline": "American Airlines Teases New Lounges & Tech Upgrades Coming To DFW Airport",
-    "summary": "The carrier's Chief Customer Officer recently shared the latest details on the project as part of an ongoing podcast series.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-airlines-dfw-upgrades/",
-    "day": "2026-10-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/074-american-airlines-airbus-a319-robin-guess-_-shutterstock.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Why The A350-1000 Is Gaining The Popularity Airbus Wished It Would A Decade Ago",
+    "summary": "The aircraft is gaining ground as Boeing's 777X slips further behind schedule, reshaping the battle for long-haul dominance.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-a350-1000-popularity-airbus-wished-decade-ago/",
+    "day": "2026-10-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/a350-1000-1.png"
+   },
    {
     "headline": "Boeing 737 MAX Cockpit: What Pilots See & Do On Every Flight",
     "summary": "Legacy is no more apparent than within the cockpit of the Boeing 737 MAX, taking an original, time-tested design and bringing it into the future",
@@ -2877,14 +2885,6 @@
     "url": "https://simpleflying.com/boeing-757-miles-per-gallon/",
     "day": "2026-10-15",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/miles-per-gallon.png"
-   },
-   {
-    "headline": "Boeing 777X Cabin Design Choices That Will Redefine Widebody Interior",
-    "summary": "The 777X brings unique cabin architecture, larger windows, and more.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/boeing-777x-cabin-design-choices-that-will-redefine-widebody-interior/",
-    "day": "2026-10-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/boeing777xlarge-5-1.jpg"
    }
   ],
   "finance": [
