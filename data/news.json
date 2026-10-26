@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T22:59+00:00",
+ "generated": "2026-10-26T02:47+00:00",
  "sections": {
   "network": [
    {
@@ -1927,6 +1927,14 @@
   ],
   "fleet": [
    {
+    "headline": "The Hidden Math Behind The Boeing 787's Legendary Long-Haul Passenger Experience",
+    "summary": "What makes the passenger experience on the Boeing 787 so special? The Dreamliner set the bar incredibly high and continues to shape aircraft design",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/hidden-math-boeing-787-legendary-passenger-experience/",
+    "day": "2026-10-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/the-hidden-math-behind-the-boeing-787-s-legendary-long-haul-passenger-experience.jpg"
+   },
+   {
     "headline": "We Tracked Lufthansa's Retro Boeing 747-8 For 72 Hours: Here's Where It Went",
     "summary": "Where does Lufthansa's retro 747-8 fly to on a daily basis? We spent 72 hours tracking its every move across the globe",
     "source": "Simple Flying",
@@ -2877,14 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/airbus-order-75-airbus-a320neo-aviation-capital-group",
     "day": "2026-10-16",
     "img": "https://www.aerotime.aero/images/2026/10/Aviation-Capital-Group-Grows-Portfolio-with-Order-for-75-Airbus-A320neo-Family-Aircraft-3-1200x675.jpg"
-   },
-   {
-    "headline": "Bjorn’s Corner: Aircraft Structures Part 23. Wrapup.",
-    "summary": "By Bjorn Fehrm: Aerospace Analyst October 16 2026 After 22 parts and five months, it’s time to summarize what we have covered in our aircraft structures series. We started with aircraft structures that were…",
-    "source": "Leeham News",
-    "url": "https://leehamnews.com/2026/10/16/bjorns-corner-aircraft-structures-part-23-wrapup/",
-    "day": "2026-10-16",
-    "img": null
    }
   ],
   "finance": [
@@ -5695,6 +5695,14 @@
   ],
   "defense": [
    {
+    "headline": "5 Missions That Define The C-17 Globemaster's Impressive Airlifting Career",
+    "summary": "The most extreme missions the mighty jet has ever pulled off.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/5-missions-define-c-17-globemaster-airlifting-career/",
+    "day": "2026-10-26",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/define-the-c-17-globemaster.png"
+   },
+   {
     "headline": "France’s Archange SIGINT Aircraft Arrives at Évreux Air Base Ahead of Operational Evaluation",
     "summary": "The first Archange arrived at Évreux in early October, where France’s Military Air Expertise Center is participating in trials ahead of the aircraft’s planned entry into service. France’s Archange (Archangel) Signals…",
     "source": "The Aviationist",
@@ -6645,14 +6653,6 @@
     "url": "https://www.twz.com/air/canadas-snowbirds-say-farewell-to-the-ct-114-tutor-jet",
     "day": "2026-10-16",
     "img": "https://www.twz.com/wp-content/uploads/2026/10/SNOWBIRDS.jpg?quality=85"
-   },
-   {
-    "headline": "The World's Largest Air Forces By Number Of Known Combat Drones",
-    "summary": "Analyzing the global fleet from Loyal Wingmen to pocket-size drones.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/largest-air-forces-known-combat-drone-fleets/",
-    "day": "2026-10-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/drone-cover-image-20261005-193003.jpg"
    }
   ],
   "others": []
