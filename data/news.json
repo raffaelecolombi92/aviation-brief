@@ -1,7 +1,79 @@
 {
- "generated": "2026-10-29T17:54+00:00",
+ "generated": "2026-10-29T22:20+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Delta Air Lines' Airbus A220 Sits About 50 Seats Below A Boeing 737-800 & 30 Above A Regional Jet",
+    "summary": "A closer look at how and why the Airbus A220 works for Delta, and why its competitors have stayed away from the jet.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/delta-air-lines-airbus-a220-sits-50-seats-below-boeing-737-800-30-above-regional-jet/",
+    "day": "2026-10-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/delta-air-lines-airbus-a220-sits-about-50-seats-below-a-boeing-737-800-30-above-a-regional-jet.jpg"
+   },
+   {
+    "headline": "United Airlines Cancels 5 Routes To Canada: See Full List Now",
+    "summary": "Seasonal and sole operator links vanish from major gateways leaving travelers to rework itineraries and connections.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-airlines-cancels-5-routes-to-canada/",
+    "day": "2026-10-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/united-airlines-boeing-737-800-touchdown.jpg"
+   },
+   {
+    "headline": "The Aging Narrowbody US Airlines Don't Want A Direct Replacement For In 2026",
+    "summary": "The A320-200 is going away, and the A320neo is not selling well in the US.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/aging-narrowbody-us-airlines-dont-want-direct-replacement-for-2026/",
+    "day": "2026-10-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/aging-narrowbody.png"
+   },
+   {
+    "headline": "Alaska Airlines' New 8+ Hour Boeing 737 MAX Route Isn't From Seattle: See Map Now",
+    "summary": "The airline's international expansion continues.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/alaska-airlines-4-new-8-hour-737-max-routes/",
+    "day": "2026-10-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/799-alaska-airlines-boeing-737-max-8-the-global-guy-_-shutterstock-1.jpg"
+   },
+   {
+    "headline": "Flysafair Adds Johannesburg – Lusaka in mid-1Q27",
+    "summary": "Published at 1500PDT / 2200GMT 29OCT26 South African carrier Flysafair from February 2027 plans to launch service to Zambia, with the offering of Johannesburg – Lusaka route. Boeing 737-800 aircraft to serve this route…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261029-fa1q27lun",
+    "day": "2026-10-29",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Nile Air Adds Hurghada – Graz Charter in NS27",
+    "summary": "Published at 1400PDT / 2100GMT 29OCT26 Egyptian carrier Nile Air in Spring 2027 plans to add Hurghada – Graz route, operating as scheduled charter service. The airline will serve this route once a week from 19MAR27, on…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261029-npns27hrggrz",
+    "day": "2026-10-29",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Royal Air Maroc Resumes Casablanca – Essaouira Route in NW26",
+    "summary": "Published at 1300PDT / 2000GMT 29OCT26 Royal Air Maroc this week resumes Casablanca – Essaouira route, last served until September 2020. The carrier relaunched this route yesterday (28OCT26), with ATR72 aircraft…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261029-atnw26esu",
+    "day": "2026-10-29",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Pyramids Airlines NW26 Charter Network Additions",
+    "summary": "Published at 1200PDT / 1900GMT 29OCT26 Egyptian carrier Pyramids Airlines during Northern winter 2026/27 season plans to add various new scheduled charter routes to Russia and The Caucasus region, operating on scheduled…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261029-5pnw26",
+    "day": "2026-10-29",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Federal Airlines Adds Johannesburg – Sabie Service From Oct 2026",
+    "summary": "Published at 1100PDT / 1800GMT 29OCT26 South Africa’s Federal Airlines earlier this month added Johannesburg – Sabie route, on board Cessna aircraft. The airline operates this route twice daily (no operations on…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261029-7voct26jnbgss",
+    "day": "2026-10-29",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "How American Airlines' New Flagship Suite Stacks Up Against Delta One In 2026",
     "summary": "Which is better: American Airlines' Flagship Suite or Delta Air Lines' Delta One product? Here is how they both compare in 2026.",
@@ -889,81 +961,41 @@
     "url": "https://www.aeroroutes.com/eng/261026-hhnw26bsz",
     "day": "2026-10-26",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Royal Jordanian Adds Amman City – Makhachkala From Nov 2026",
-    "summary": "Published at 0945PDT / 1645GMT 26OCT26 Royal Jordanian from November 2026 plans to add new route to Russia, where the carrier lists Amman City – Makhachkala route. The weekly service is scheduled from 04NOV26, on board…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261026-rjnov26mcx",
-    "day": "2026-10-26",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Etihad NW26 Bucharest Aircraft Changes",
-    "summary": "Published at 0900PDT / 1600GMT 26OCT26 Etihad Airways in recent schedule update for planned Abu Dhabi – Bucharest service, scheduled to commence on 16DEC26. Planned 4 weekly 196-seater A321ceo service remains unchanged…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261026-eynw26otp",
-    "day": "2026-10-26",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "5 Airlines Where Premium Economy Is The Smarter Buy Than Business Class",
-    "summary": "Many airlines offer excellent premium economy fares that make it not worth the cost of upgrading to business class on some routes.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/airlines-premium-economy-smarter-buy-business-class/",
-    "day": "2026-10-26",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/premium-economy-seating-in-cabin.jpeg"
-   },
-   {
-    "headline": "What A Single Boeing 787 Would Force Southwest Airlines To Rebuild After 55 Years Of Flying Only Boeing 737s",
-    "summary": "What will it cost the world's largest B737 flyer to finally branch out?",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/single-boeing-787-force-southwest-airlines-rebuild-55-years-flying-only-boeing-737s/",
-    "day": "2026-10-26",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/rebuildf.png"
-   },
-   {
-    "headline": "Why Delta Has To Wait Until 2031 For Its Boeing 787s",
-    "summary": "In this video, we'll examine Delta's surprising Boeing 787-10 order, why its delivery timeline complicates the airline's fleet plans, and how the Dreamliner could reshape its long-haul network in the 2030s.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/video/why-delta-has-to-wait-until-2031-for-its-boeing-787s/",
-    "day": "2026-10-26",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/87_lh_delta-air-lines-ordered-30-boeing-787-10s-wont-receive-single-one-2031_h_site-copy.jpg"
-   },
-   {
-    "headline": "Finnair launches daily A350 service on Helsinki–Melbourne route via Bangkok",
-    "summary": "Finnair has launched daily flights between Helsinki Airport (HEL) and Melbourne Airport (MEL) via Bangkok’s Suvarnabhumi Airport (BKK),… The post Finnair launches daily A350 service on Helsinki–Melbourne route via…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/finnair-launches-daily-a350-service-on-helsinki-melbourne-route-via-bangkok",
-    "day": "2026-10-26",
-    "img": "https://www.aerotime.aero/images/2026/10/Untitled-Design-2026-10-26T203101.799-1200x675.jpg"
-   },
-   {
-    "headline": "JAL expands driverless towing tractors to Fukuoka after Haneda and Narita",
-    "summary": "Japan Airlines (JAL) announced it has started Level 4 autonomous towing tractor operations at Fukuoka Airport (FUK), making… The post JAL expands driverless towing tractors to Fukuoka after Haneda and Narita appeared…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/jal-expands-driverless-towing-tractors-to-fukuoka-after-haneda-and-narita",
-    "day": "2026-10-26",
-    "img": "https://www.aerotime.aero/images/2026/10/Untitled-Design-2026-10-26T192600.076-1200x675.jpg"
-   },
-   {
-    "headline": "easyJet proceeds with Starlink Wi-Fi despite previous cost concerns",
-    "summary": "easyJet will introduce Starlink Wi-Fi across its Airbus fleet despite stating earlier this year, following talks with SpaceX,… The post easyJet proceeds with Starlink Wi-Fi despite previous cost concerns appeared first…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/easyjet-starlink-wifi-spacex-airbus-elon-musk",
-    "day": "2026-10-26",
-    "img": "https://www.aerotime.aero/images/2026/07/easyjet-Airbus-A320new-G-UZHR.jpg"
-   },
-   {
-    "headline": "Milan Bergamo Airport expands winter network with 109 destinations across 40 countries",
-    "summary": "Milan Bergamo Airport has launched its 2026/27 winter season with an expanded network of 109 destinations across 40 countries, served by 20 airlines. The new schedule, which runs from 25 October 2026 to 27 March 2027…",
-    "source": "World Airline News",
-    "url": "https://worldairlinenews.com/2026/10/26/milan-bergamo-airport-expands-winter-network-with-109-destinations-across-40-countries/",
-    "day": "2026-10-26",
-    "img": null
    }
   ],
   "airports": [
+   {
+    "headline": "WestJet Cancels All Flights To 2 US Destinations: See List Now",
+    "summary": "One of the cut is to one of the Hawaiian Islands and the other one will be finalized in the next schedule update.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/westjet-cancels-all-flights-to-2-us-destinations/",
+    "day": "2026-10-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/copy-of-25-westjet-boeing-737-max-robin-guess-_-shutterstock.jpg"
+   },
+   {
+    "headline": "Hot Off The Assembly Line: Alaska Airlines Takes Delivery Of 6th Boeing 787-9 Dreamliner",
+    "summary": "Alaska Airlines welcomes its sixth Boeing 787-9 as further Dreamliner deliveries promise new routes and upgraded premium cabins.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/alaska-airlines-delivery-6th-boeing-787-9-dreamliner/",
+    "day": "2026-10-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/alaska_airlines_-_n780ha_-_as100_-sea-lhr-_cropped.jpg"
+   },
+   {
+    "headline": "Avelo Airlines Cancels 9 Routes From This City: See Full List Now",
+    "summary": "Seasonal and year round frequencies are trimmed, forcing travelers to reroute through neighboring airports for connections.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/avelo-cancels-9-routes-from-this-city/",
+    "day": "2026-10-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/avelo-airlines-boeing-737-parked.jpg"
+   },
+   {
+    "headline": "American Airlines Cancels 8 Long-Haul Nonstop Boeing 787 Routes: See Map Now",
+    "summary": "All these routes saw the Dreamliner earlier this year, but the type has now been removed. Find them here!",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-cancels-8-long-haul-nonstop-boeing-787-routes/",
+    "day": "2026-10-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/simpleflying-boeing-787-8-american-airlines-1786835373359.jpg"
+   },
    {
     "headline": "Air Transat Launches New 11-Hour Nonstop Route Today: See Map Now",
     "summary": "Air Transat launches Montreal–Istanbul flights, strengthens its Turkish Airlines partnership, and announces five new European routes for 2027.",
@@ -1891,41 +1923,17 @@
     "url": "https://airport-world.com/sneak-preview-of-uniteds-new-terminal-b-north-concourse-at-iah/?utm_source=rss&utm_medium=rss&utm_campaign=sneak-preview-of-uniteds-new-terminal-b-north-concourse-at-iah",
     "day": "2026-10-21",
     "img": null
-   },
-   {
-    "headline": "London Gatwick to take advertising estate in-house",
-    "summary": "London Gatwick has announced plans to bring the management of its airport-wide advertising estate in-house from April 1, 2027. The airport said the move will enable it to work more closely with advertisers and agency…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/operations-news/london-gatwick-to-take-advertising-estate-in-house.html",
-    "day": "2026-10-21",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/10/gatwick-1-e1792573544886.jpg"
-   },
-   {
-    "headline": "Air India Launches New 20-Hour Ultra-Long North America Route In 4 Days: See Map Now",
-    "summary": "The route was initially scheduled to operate nonstop flights both ways but it will now include one stop on the westbound journey.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/air-india-launches-new-20-hour-north-america-route-in-4-days/",
-    "day": "2026-10-21",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/478-air-india-boeing-777-300-markus-mainka-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Typhoon Champi Threatens Asian Hubs With Flight Cuts: Military Aviation Also Hit",
-    "summary": "Japan Airlines has already axed flights at nine airports over the coming days.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/typhoon-champi-aviation-impact/",
-    "day": "2026-10-21",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_1308111463_cropped.jpg"
-   },
-   {
-    "headline": "Qatar Airways Reveals Major New 15-Hour Nonstop Long-Haul Route: See Map Now",
-    "summary": "The carrier will now serve seven Australian airports, two more than Emirates. Find out more here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/qatar-airways-reveals-major-new-15-hour-nonstop-long-haul-route/",
-    "day": "2026-10-21",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/qatar-airways-777-300er-approach-joao-fachetti-1.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Why The Boeing 757 Will Remain As A Narrowbody Icon Once It's Retired",
+    "summary": "Even when its best days are long gone, the Boeing 757 will still be one of the most uniquely capable aircraft to ever exist.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-boeing-757-remain-narrowbody-icon-retired/",
+    "day": "2026-10-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/boeing-757.png"
+   },
    {
     "headline": "Parts shortages limit Honeywell Aerospace growth in first quarter after split",
     "summary": "Honeywell Aerospace reported higher sales and profit in its first full quarter as an independent company, but shortages… The post Parts shortages limit Honeywell Aerospace growth in first quarter after split appeared…",
@@ -2877,14 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/boeing-737-max-10-faa-certification",
     "day": "2026-10-21",
     "img": "https://www.aerotime.aero/images/2026/10/Recently-Saved-1-of-1-14-1200x675.jpeg"
-   },
-   {
-    "headline": "Breaking: Boeing 737 MAX 10 Wins FAA Type Certification",
-    "summary": "After 6+ years of delays, the largest 737 MAX variant is finally cleared for takeoff.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/boeing-737-max-10-faa-type-certification/",
-    "day": "2026-10-20",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/12/737max10.jpg"
    }
   ],
   "finance": [
@@ -3810,6 +3810,22 @@
    }
   ],
   "bizav": [
+   {
+    "headline": "Flexjet’s Kenn Ricci on M&A, private equity, and the bottom line",
+    "summary": "After building the Flexjet empire in part through M&A and having spurred private equity into the industry, Kenn Ricci has doubts The post Flexjet’s Kenn Ricci on M&A, private equity, and the bottom line appeared first…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/10/29/flexjets-kenn-ricci-on-ma-private-equity-and-the-bottom-line/",
+    "day": "2026-10-29",
+    "img": null
+   },
+   {
+    "headline": "Private Jet Flight Activity Analysis – 2026 – Week 43",
+    "summary": "Global private jet flight activity returned to a positive year-over-year trend over the past week, recording over 81,000 total departures. The post Private Jet Flight Activity Analysis – 2026 – Week 43 appeared first on…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/10/29/private-jet-flight-activity-analysis-2026-week-43/",
+    "day": "2026-10-29",
+    "img": null
+   },
    {
     "headline": "Signature moves to simplify FBO fees after years of pilot complaints",
     "summary": "Signature Aviation is simplifying charges for aircraft visiting its FBOs and limiting special-event surcharges, nearly a decade after… The post Signature moves to simplify FBO fees after years of pilot complaints…",
@@ -4753,25 +4769,17 @@
     "url": "https://www.businessairportinternational.com/news/family-offices-driving-business-aviation-demand-as-operations-go-global-acj-study-finds.html",
     "day": "2026-10-13",
     "img": null
-   },
-   {
-    "headline": "Nigerian Business Aviation Conference to return in 2027 after 10-year hiatus",
-    "summary": "The Nigerian Business Aviation Conference (NBAC) will return in May 2027 after a decade-long absence, as Africa’s business aviation market continues to accelerate. NBAC 2027, organized by EAN Aviation under [...] The…",
-    "source": "Business Airport International",
-    "url": "https://www.businessairportinternational.com/news/nigerian-business-aviation-conference-to-return-in-2027-after-10-year-hiatus.html",
-    "day": "2026-10-13",
-    "img": null
-   },
-   {
-    "headline": "Turkish aviation tech startup BeSky launches private jet booking platform",
-    "summary": "Turkey-based BeSky has launched a digital private aviation platform offering private jet charter bookings and empty leg opportunities, with plans to expand into integrated ground transportation, hospitality and…",
-    "source": "Business Airport International",
-    "url": "https://www.businessairportinternational.com/news/turkish-aviation-tech-startup-besky-launches-private-jet-booking-platform.html",
-    "day": "2026-10-13",
-    "img": null
    }
   ],
   "policy": [
+   {
+    "headline": "FAA proposes safety rules for Embraer’s automatic takeoff system",
+    "summary": "The FAA has proposed new safety requirements for an Embraer system that would automatically raise a jet’s nose… The post FAA proposes safety rules for Embraer’s automatic takeoff system appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/faa-embraer-e195-e2-automatic-takeoff-system",
+    "day": "2026-10-29",
+    "img": "https://www.aerotime.aero/images/2026/10/Recently-Saved-1-of-1-15-1-1200x675.jpeg"
+   },
    {
     "headline": "Azimuth Sukhoi Superjet 100 Squawks 7700, Returns To Yerevan After Technical Malfunction",
     "summary": "The Russian jet was flying over Armenia for just 20 minutes before it returned to Yerevan.",
@@ -5723,17 +5731,89 @@
     "url": "https://www.aerotime.aero/articles/latam-airbus-a320-runs-off-runway-in-heavy-rain-in-brazil",
     "day": "2026-08-31",
     "img": "https://www.aerotime.aero/images/2026/08/Screenshot-2026-08-31-at-3.41.06-PM-1.jpg"
-   },
-   {
-    "headline": "EASA eases Jordan warning on day military intercepts eight missiles",
-    "summary": "The European Union Aviation Safety Agency (EASA) eased its airspace warnings for Jordan and Lebanon on August 31,… The post EASA eases Jordan warning on day military intercepts eight missiles appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/easa-jordan-airspace-warning-eight-missiles-intercepted",
-    "day": "2026-08-31",
-    "img": "https://www.aerotime.aero/images/2026/08/A-Royal-Jordanian-Airbus-A320neo.jpg"
    }
   ],
   "defense": [
+   {
+    "headline": "Why The US Navy Is Awarding Boeing Up To $80 Million To Improve A Drone That Isn't Even Operational Yet",
+    "summary": "America's Navy goes all-in on uncrewed aircraft for the future carrier air wing.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-us-navy-awarding-boeing-80-million-improve-drone-isnt-operational-yet/",
+    "day": "2026-10-29",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/80-million-to-improve-a-drone.png"
+   },
+   {
+    "headline": "AFRL Plans to Award $30M for Cislunar Project Starting Next Spring",
+    "summary": "The Air Force Research Laboratory plans to launch its latest technology challenge next month—a project meant to speed up development of systems that can operate beyond geosynchronous orbit. SpaceWERX is leading the…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/afrl-30m-cislunar-operations-project-next-spring/",
+    "day": "2026-10-29",
+    "img": "https://www.airandspaceforces.com/app/uploads/2024/03/003_AFRL_Cislunar_patrol-900x600.jpg"
+   },
+   {
+    "headline": "Gulf War Air Campaign Map Featured in New Smithsonian Exhibit",
+    "summary": "A map pinned to the wall in a basement 36 years ago will go on display in November at the Smithsonian’s National Air and Space Museum. The map, used to identify strategic targets across Iraq in the fall of 1990, was…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/gulf-war-air-campaign-map-featured-in-new-smithsonian-exhibit/",
+    "day": "2026-10-29",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/Deptula-Map-2026-900x600.jpg"
+   },
+   {
+    "headline": "When Will US Transfer Operational Control to South Korea? Debate Rages",
+    "summary": "For years, U.S. and South Korean officials have said they want to reach an arrangement where, should war break out on the peninsula, Seoul’s military commanders would have operational control of American forces there.…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/wartime-operational-control-transfer-us-south-korea-debate/",
+    "day": "2026-10-29",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/flightline-FS-900x600.jpg"
+   },
+   {
+    "headline": "First M-346 For Frecce Tricolori Takes Flight",
+    "summary": "Days after its rollout, the first M-346 trainer jet destined to the Frecce Tricolori aerobatic team took off for its maiden flight. The first M-346 trainer jet destined to the Italian Air Force’s Frecce Tricolori…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/10/29/first-m-346-for-frecce-tricolori-takes-flight/",
+    "day": "2026-10-29",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/10/M-346PAN_1.jpeg"
+   },
+   {
+    "headline": "Developing: Italian CH-47F Chinook Crashes in Bosnia",
+    "summary": "An Italian Army CH-47F Chinook assigned to the EUFOR Althea mission crashed near Brčko, Bosnia and Herzegovina, leaving four people dead and 11 injured. A CH-47F Chinook helicopter of the Italian Army has crashed in…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/10/29/developing-italian-ch-47f-chinook-crashes-in-bosnia/",
+    "day": "2026-10-29",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/10/ICH-47F.jpg"
+   },
+   {
+    "headline": "Army’s MV-75 production award could slip due to CR, raising program costs: Textron",
+    "summary": "Bell Textron executives warned that a delay in the helicopter’s first low-rate production contract could increase the program’s expected financial hit to as much as $150 million.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/10/armys-mv-75-production-award-could-slip-due-to-cr-raising-program-costs-textron/",
+    "day": "2026-10-29",
+    "img": null
+   },
+   {
+    "headline": "Beyond autopilot: Understanding the five levels of battlefield drone autonomy",
+    "summary": "[Sponsored] By going beyond simple automation, drones can carry out tasks with minimal input from operators.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/10/beyond-autopilot-understanding-the-five-levels-of-battlefield-drone-autonomy/",
+    "day": "2026-10-29",
+    "img": null
+   },
+   {
+    "headline": "Polish MiG-29s, F-16 Cannon Ammo Reportedly Headed To Ukraine As Bitter Warsaw-Kyiv Rift Heals",
+    "summary": "Relations between Ukraine and Poland soured in the Spring, leading to Warsaw calling off the MiG-29 deal in June. The post Polish MiG-29s, F-16 Cannon Ammo Reportedly Headed To Ukraine As Bitter Warsaw-Kyiv Rift Heals…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/news-features/polish-mig-29s-f-16-cannon-ammo-reportedly-headed-to-ukraine-as-bitter-warsaw-kyiv-rift-heals",
+    "day": "2026-10-29",
+    "img": "https://www.twz.com/wp-content/uploads/2026/10/Polish-MiG-29s-may-be-transfered-to-Ukraine.jpg?quality=85"
+   },
+   {
+    "headline": "Let’s Talk About The U.S. Target Drone Iran Claims To Have Recovered Intact",
+    "summary": "The target drone could be of particular use in stimulating Iran's air defenses to help collect intelligence on them, among other possible tasks. The post Let’s Talk About The U.S. Target Drone Iran Claims To Have…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/news-features/lets-talk-about-the-u-s-target-drone-iran-claims-to-have-recovered-intact",
+    "day": "2026-10-29",
+    "img": "https://www.twz.com/wp-content/uploads/2026/10/iran-claim-mqm-170-drone-recovered.jpg?quality=85"
+   },
    {
     "headline": "52 Years Later: Why The US Marines Is Reactivating Its Oldest Flying F-35 Squadron",
     "summary": "The service's oldest flying unit ushers in the next era of air warfare.",
@@ -6613,86 +6693,6 @@
     "url": "https://www.aerotime.aero/articles/king-fahd-airport-death-toll-rises-to-two-following-latest-attack",
     "day": "2026-10-22",
     "img": "https://www.aerotime.aero/images/2026/10/King-Fahd-International-Airport-1200x675.jpg"
-   },
-   {
-    "headline": "U.S. Air Force Tests Cargo Pod for Future Rocket-Based Logistics",
-    "summary": "The test evaluated cargo equipment aboard SpaceX’s Starfall capsule as the U.S. Air Force continues researching commercial rocket-based logistics to enable rapid deliveries anywhere on the globe. The U.S. Air Force…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/10/22/us-air-force-tests-rocket-cargo-pod/",
-    "day": "2026-10-22",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/10/Rocket-Cargo-Delivery-cover.jpg"
-   },
-   {
-    "headline": "Army unit experimenting with small drones for ‘tailored cyber effects’",
-    "summary": "The Army is testing drone-mounted cyber and electronic warfare capabilities as it works to determine the standard-issue equipment for its 11th Cyber Battalion and a forthcoming second battalion.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/10/army-unit-experimenting-with-small-drones-for-tailored-cyber-effects/",
-    "day": "2026-10-22",
-    "img": null
-   },
-   {
-    "headline": "Pentagon, Lockheed agree to decade-long F-35 framework deal for hundreds of jets",
-    "summary": "The tentative agreement, which still needs lawmakers’ blessing, covers production and sustainment over the next 10 years.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/10/pentagon-lockheed-agree-to-decade-long-f-35-framework-deal-for-hundreds-of-jets/",
-    "day": "2026-10-22",
-    "img": null
-   },
-   {
-    "headline": "Armenia’s first L-39 Skyfox jet appears in Armenian Air Force markings",
-    "summary": "Armenia is preparing to receive Czech-built Aero L-39 Skyfox trainer jets, with Defense Minister Suren Papikyan declaring that… The post Armenia’s first L-39 Skyfox jet appears in Armenian Air Force markings appeared…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/armenia-l39-skyfox-jets-czech-aero-vodochody",
-    "day": "2026-10-22",
-    "img": "https://www.aerotime.aero/images/2026/10/Armenian-Defense-Minister-Suren-Papikyan-poses-beside-an-Aero-L-39-Skyfox-jet-bearing-Armenian-Air-Force-markings-during-a-visit-to-Aero-Vodochodys-factory-e1792655658919-1200x675.jpg"
-   },
-   {
-    "headline": "Stealthy F-117 Nighthawk Goes on Display at Smithsonian",
-    "summary": "A historic Lockheed F-117 Nighthawk is now on permanent display at the National Air and Space Museum’s Stephen F. Udvar-Hazy Center. The exhibit debuted Oct. 21, showcasing the first operational stealth aircraft at one…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/stealthy-f-117-nighthawk-goes-on-display-at-smithsonian/",
-    "day": "2026-10-22",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/DSC00712-900x600.jpg"
-   },
-   {
-    "headline": "What a Russian Satellite Stalking a Commercial Spacecraft Means for the Space Force",
-    "summary": "Over a two-week period beginning in late September and culminating in mid-October, a Russian satellite maneuvered dangerously close to a commercial Finnish satellite currently providing intelligence to the Ukrainian…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/russian-satellite-shadowing-means-space-force/",
-    "day": "2026-10-22",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/ICEYE_SAR_satellite_4K-900x600.jpg"
-   },
-   {
-    "headline": "Hegseth Directs Air Force to Establish New Guard Special Tactics Squadron",
-    "summary": "Secretary of Defense Pete Hegseth has directed the Air Force to establish a new Special Tactics Squadron under the Florida Air National Guard, growing a small but elite group of special operators. The post Hegseth…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/hegseth-air-force-establish-special-tactics-squadron/",
-    "day": "2026-10-21",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/8037005-900x600.jpg"
-   },
-   {
-    "headline": "Some KC-135s Damaged by Iran Still in Depot: AFMC Boss",
-    "summary": "At least two KC-135 Stratotankers that were seriously damaged during Operation Epic Fury are still undergoing extensive maintenance depot repairs, the head of Air Force Materiel Command said Oct. 21. The post Some…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/kc-135s-damaged-by-iran-in-depot-afmc-head/",
-    "day": "2026-10-21",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/KC-135-Mildenhall-900x600.jpeg"
-   },
-   {
-    "headline": "Bigger Than a Cessna, Smaller Than a C-130: Air Force Funds Blended-Wing Body Concept",
-    "summary": "As the Air Force wrestles to solve the logistics of dispersed operations in the vast Indo-Pacific, it’s investing $3.5 million to help develop a new kind of aircraft: a blended-wing body freighter that’s smaller than a…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/bigger-than-a-cessna-smaller-than-a-c-130-air-force-funds-blended-wing-body-concept/",
-    "day": "2026-10-21",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/Natilus-x-USAF-13-900x600.jpg"
-   },
-   {
-    "headline": "Space Force Needs Third Launch Range by 2030, Acquisition Leader Says",
-    "summary": "The head of the Space Force’s largest acquisition organization said the service needs a third spaceport to support medium and heavy launch by 2030—a goal he called “aspirational” even as he stressed the importance of…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/space-force-third-launch-range-by-2030-garrant/",
-    "day": "2026-10-21",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/08/0926_TOC-900x600.jpg"
    }
   ],
   "others": []
