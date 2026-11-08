@@ -1,7 +1,23 @@
 {
- "generated": "2026-11-07T21:20+00:00",
+ "generated": "2026-11-08T03:55+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "The Airline That Introduced Premium Economy To The World",
+    "summary": "EVA Air debuted Premium Economy back in the 1990s.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/the-airline-introduced-premium-economy-to-world/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/the-airline-that-introduced-premium-economy-to-the-world.jpg"
+   },
+   {
+    "headline": "Why Air Canada Is Replacing Some Boeing 787 Flights With Airbus A321XLRs",
+    "summary": "The airline is optimizing its network and growing all-around, with both types becoming integral to its plans.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/air-canada-replacing-some-boeing-787-flights-airbus-a321xlrs/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/replacing-some-boeing-787-flights.png"
+   },
    {
     "headline": "Southwest Airlines Flight Attendant Allegedly Quit Job After Passenger-Facing Crew Dispute",
     "summary": "A tense cabin confrontation unfolded at Dallas Love Field as crew clashed before pushback, delaying the flight for hours.",
@@ -945,25 +961,17 @@
     "url": "https://www.aeroroutes.com/eng/261103-tknw26359",
     "day": "2026-11-03",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "SunExpress NS27 Kazakhstan Network Additions",
-    "summary": "Published at 1100PCT / 1800GMT 03NOV26 SunExpress during Northern summer 2027 season plans to launch new routes to Kazakhstan, with the addition of 2 routes. Planned network additions as follows. Antalya – Almaty eff…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261103-xqns27kz",
-    "day": "2026-11-03",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "SunExpress Plans Damascus Nov 2026 Launch",
-    "summary": "Published at 1000PCT / 1700GMT 03NOV26 SunExpress this month plans to expand service to Syria, with the launch of Damascus service. The airline previously planned to launch Damascus service in March 2026. Antalya –…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261103-xqnov26dam",
-    "day": "2026-11-03",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "American Airlines Officially Welcomes Passengers Back To Flagship Dining At LAX After 6 Years",
+    "summary": "A refined sit-down Flagship Dining experience returns to LAX with multi-course menus and expanded business class access.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-officially-welcomes-passengers-back-lax-flagship-dining-6-years/",
+    "day": "2026-11-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/lax_aaadmiralclub_007-3.jpg"
+   },
    {
     "headline": "United Airlines Pilots Defy ATC Orders To Fly Through “The Worst Part” Of A Severe Thunderstorm",
     "summary": "Pilots consult dispatch and push for an alternate path as ATC initially points the flight directly into severe weather.",
@@ -1915,17 +1923,33 @@
     "url": "https://airport-world.com/travel-retail-norway-wins-new-tender-for-four-avinor-airports/?utm_source=rss&utm_medium=rss&utm_campaign=travel-retail-norway-wins-new-tender-for-four-avinor-airports",
     "day": "2026-10-29",
     "img": null
-   },
-   {
-    "headline": "Spotlight on drone and bird detection technology",
-    "summary": "As airports expand and surrounding airspace grows more complex, monitoring low-altitude activity has become increasingly important to aviation safety. Birds entering flight paths and unauthorised commercial drones…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/spotlight-on-drone-and-bird-detection-technology/?utm_source=rss&utm_medium=rss&utm_campaign=spotlight-on-drone-and-bird-detection-technology",
-    "day": "2026-10-29",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "Where To Spot The Airbus A380 In 2026: The 10 Airports With The Most Superjumbo Flights",
+    "summary": "The Superjumbo is still a regular feature at several airports across the world.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/where-to-spot-airbus-a380-airports-most-flights/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/airbus-a380-in-2026.png"
+   },
+   {
+    "headline": "5 Airbus A321neo Routes With Lie-Flat Business Class Seats",
+    "summary": "Five A321neo routes carry fully lie-flat business class, from JetBlue's transcon Mint to an all-business-class airline with 76 flat beds.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/5-airbus-a321neo-routes-lie-flat-business-class-seats/",
+    "day": "2026-11-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/5-airbus-a321neo-routes-with-lie-flat-business-class-seats.jpg"
+   },
+   {
+    "headline": "We Tracked The First Boeing 717 Ever Built For 24 Hours: Here's How Many Flights It Squeezed In",
+    "summary": "What does a 717 get up to over in Hawai'i? We tracked the oldest 717 for 24 hours using the Simple Flying Flight Tracker.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/first-boeing-717-ever-built-tracked-24-hours/",
+    "day": "2026-11-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/first-boeing-717-ever-built-for-24-hours.png"
+   },
    {
     "headline": "Why The Boeing 777-9 Is Not A Straight Replacement For Every Airbus A380",
     "summary": "Operational math favors fewer engines and nimble schedules, even as certain hubs still prize the A380's unrivaled passenger throughput.",
@@ -2861,30 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/comac-ce-25a-online-photos-new-electric-aircraft",
     "day": "2026-10-28",
     "img": "https://www.aerotime.aero/images/2026/10/COMAC-C919-1200x675.jpg"
-   },
-   {
-    "headline": "Why Delta Air Lines Broke A Decade Of Airbus Widebody Loyalty To Give Boeing 1 Order",
-    "summary": "Delta has finally returned to Boeing after years of Airbus reliance on the widebody side.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-air-lines-broke-decade-airbus-widebody-loyalty-to-give-boeing-1-order/",
-    "day": "2026-10-28",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/delta-air-lines-broke-a-decade-of-airbus-widebody-loyalty-to-give-boeing-1-order.jpg"
-   },
-   {
-    "headline": "Three Atlas Air Boeing 747s Sport Giant Mustaches On Their Noses For Movember",
-    "summary": "The carrier is aiming to raise thousands of dollars this Movember.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/atlas-air-boeing-747-mustache-nose-movember/",
-    "day": "2026-10-28",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_1670432422_cropped.jpg"
-   },
-   {
-    "headline": "Boeing Admits It Will Miss 500-Jet 737 MAX Delivery Target As It Can’t Build Enough Wings",
-    "summary": "Boeing’s wing production problems also threaten its next planned production increase.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/boeing-miss-737-max-delivery-target-wing-production/",
-    "day": "2026-10-28",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/a-boeing-737-max-in-production-at-renton-factory.jpg"
    }
   ],
   "finance": [
@@ -5775,6 +5775,14 @@
   ],
   "defense": [
    {
+    "headline": "The 4 Largest Air Force Bases By Bomber Fleet Presence",
+    "summary": "A closer look at the homes of the USAF's heaviest-hitters.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/largest-air-force-bases-by-bomber-fleet-presence/",
+    "day": "2026-11-07",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/b-52-nose.jpeg"
+   },
+   {
     "headline": "Inside The B-2 Spirit Bomber’s Secret Crew Rest Areas",
     "summary": "A closer look at why the B-2's rest areas are functional, not comfortable and the tales of a 'mini-fridge' are overblown.",
     "source": "Simple Flying",
@@ -6725,14 +6733,6 @@
     "url": "https://theaircurrent.com/defense/anduril-and-general-atomics-face-boom-or-bust-with-u-s-air-forces-uncrewed-fighters/",
     "day": "2026-10-29",
     "img": "https://theaircurrent.com/wp-content/uploads/2026/10/anduril-yfq44a-f-35-usaf-dvids-july-2026.jpg"
-   },
-   {
-    "headline": "Why The US Navy Is Awarding Boeing Up To $80 Million To Improve A Drone That Isn't Even Operational Yet",
-    "summary": "America's Navy goes all-in on uncrewed aircraft for the future carrier air wing.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-us-navy-awarding-boeing-80-million-improve-drone-isnt-operational-yet/",
-    "day": "2026-10-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/80-million-to-improve-a-drone.png"
    }
   ],
   "others": []
