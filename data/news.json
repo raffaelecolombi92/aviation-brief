@@ -1,7 +1,23 @@
 {
- "generated": "2026-11-08T03:55+00:00",
+ "generated": "2026-11-08T12:38+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Airline Legroom Ranked: The US Carriers With The Most Economy Seat Pitch",
+    "summary": "Which airline has the best economy class seat pitch in the US, and why do cabins feel more cramped than ever?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/us-carriers-most-economy-seat-pitch/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/jetblue_coreexperience_passengers-touchscreen.jpg"
+   },
+   {
+    "headline": "A Flight Attendant's Hidden Secrets To Braving Long-Haul Flights",
+    "summary": "Staying hydrated is the major factor on any long flight.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/flight-attenant-hidden-secrets-braving-long-haul-flights/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/flight-attendant.png"
+   },
    {
     "headline": "The Airline That Introduced Premium Economy To The World",
     "summary": "EVA Air debuted Premium Economy back in the 1990s.",
@@ -945,25 +961,25 @@
     "url": "https://www.aerotime.aero/articles/american-airlines-resumes-haiti-flights-2026",
     "day": "2026-11-03",
     "img": "https://www.aerotime.aero/images/American-Airlines-Boeing-737-MAX-8.jpg"
-   },
-   {
-    "headline": "Turkish Airlines NS27 340-seater A350-900 Network – 01NOV26",
-    "summary": "Published at 1300PCT / 2000GMT 03NOV26 Turkish Airlines in recent schedule update filed 340-seater Airbus A350-900 aircraft operation during Northern summer 2027 season, although further changes remain highly possible.…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261103-tkns27359",
-    "day": "2026-11-03",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Turkish Airlines NW26 340-seater A350-900 Network Overview",
-    "summary": "Published at 1200PCT / 1900GMT 03NOV26 Turkish Airlines earlier this year launched 340-seater Airbus A350-900 aircraft operation, with the configuration of J32Y308. The 3rd configuration of the carrier’s A350 aircraft…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261103-tknw26359",
-    "day": "2026-11-03",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "United 737 Jet Blast Reportedly Flips Cessna At John Wayne Airport, But Officials Blame Wind",
+    "summary": "A crane was needed to right the Cessna 172, which flipped onto its roof with two people aboard.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-737-jet-blast-flips-cessna-john-wayne-airport-wind/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/united-airlines-boeing-737-max-8-taxiing.jpg"
+   },
+   {
+    "headline": "Air France A350 Nearly Collides Midair With American A321 After Wrong Turn At LAX",
+    "summary": "A midnight LAX departure turned tense when an A350's unauthorized left turn intersected an A321's climb path.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/air-france-a350-american-airlines-a321-near-midair-collision-lax/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/air-france-airbus-a350-900-on-the-runway.jpg"
+   },
    {
     "headline": "American Airlines Officially Welcomes Passengers Back To Flagship Dining At LAX After 6 Years",
     "summary": "A refined sit-down Flagship Dining experience returns to LAX with multi-course menus and expanded business class access.",
@@ -1907,25 +1923,33 @@
     "url": "https://moodiedavittreport.com/gebr-heinemann-led-travel-retail-norway-wins-norway-duty-free-tender-and-strikes-contract-to-2036/?utm_source=rss&utm_medium=rss&utm_campaign=gebr-heinemann-led-travel-retail-norway-wins-norway-duty-free-tender-and-strikes-contract-to-2036",
     "day": "2026-10-29",
     "img": null
-   },
-   {
-    "headline": "Air4casts ranks airport terminal opportunities amid rise in Chinese Gen Z female beauty shoppers",
-    "summary": "The analysis identifies key Asian airport terminals and duty-free retailers that could benefit from rising demand for beauty products among young Chinese travellers.",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/incheon-leads-growth-in-chinese-gen-z-airport-beauty-shoppers-air4casts-research-shows/?utm_source=rss&utm_medium=rss&utm_campaign=incheon-leads-growth-in-chinese-gen-z-airport-beauty-shoppers-air4casts-research-shows",
-    "day": "2026-10-29",
-    "img": null
-   },
-   {
-    "headline": "Travel Retail Norway wins new tender for four Avinor airports",
-    "summary": "Travel Retail Norway (TRN) will continue to operate the duty-free and single price shops at Oslo, Bergen, Stavanger and Trondheim airports after winning the new tender. The new contract for TRN, the joint venture…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/travel-retail-norway-wins-new-tender-for-four-avinor-airports/?utm_source=rss&utm_medium=rss&utm_campaign=travel-retail-norway-wins-new-tender-for-four-avinor-airports",
-    "day": "2026-10-29",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "5 Airbus A321XLR Routes Replacing Widebody Aircraft",
+    "summary": "Airlines are persuaded by favorable economics and point-to-point travel trends.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/5-airbus-a321xlr-routes-replacing-widebody-aircraft/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/5-airbus-a321xlr.png"
+   },
+   {
+    "headline": "The 5.5-Degree Rule That Now Governs Every 737 MAX Takeoff After Boeing's MCAS Rewrite",
+    "summary": "The rule has become a major safeguard for the 737 MAX.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/5-degree-rule-that-now-governs-every-737-max-takeoff-boeing-mcas-rewrite/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/5-5-degree-rule.jpg"
+   },
+   {
+    "headline": "The Evolution Of Airplane Window Design",
+    "summary": "Why are airplane windows oval, and why do airlines want to replace them with screens? A cabin designer explores the secret engineering of your view",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/evolution-airplane-window-design/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/this-is-why-plane-windows-are-round.jpg"
+   },
    {
     "headline": "Where To Spot The Airbus A380 In 2026: The 10 Airports With The Most Superjumbo Flights",
     "summary": "The Superjumbo is still a regular feature at several airports across the world.",
@@ -2861,30 +2885,6 @@
     "url": "https://simpleflying.com/how-much-boeing-737-costs-airlines-per-seat-compared-to-airbus-a320/",
     "day": "2026-10-28",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/how-much-a-boeing-737-costs-airlines-per-seat-compared-to-an-airbus-a320.jpg"
-   },
-   {
-    "headline": "Boeing sees demand for nearly 3,000 freighters as cargo traffic doubles by 2045",
-    "summary": "Air cargo traffic is expected to double by 2045, creating demand for nearly 3,000 new and converted freighters… The post Boeing sees demand for nearly 3,000 freighters as cargo traffic doubles by 2045 appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/boeing-air-cargo-forecast-2045-freighter-demand",
-    "day": "2026-10-28",
-    "img": "https://www.aerotime.aero/images/2025/03/FD1-1.jpg"
-   },
-   {
-    "headline": "Discover Airlines retires last Airbus A330-200 – the first aircraft it ever flew",
-    "summary": "Lufthansa’s Discover Airlines has officially retired its last Airbus A330-200, closing a chapter on the very aircraft that… The post Discover Airlines retires last Airbus A330-200 – the first aircraft it ever flew…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/discover-airlines-retires-last-airbus-a330-200",
-    "day": "2026-10-28",
-    "img": "https://www.aerotime.aero/images/2026/10/Discover-Airlines-Airbus-A330-200-1200x675.jpg"
-   },
-   {
-    "headline": "COMAC CE-25A? Online photos spark intrigue over new electric aircraft",
-    "summary": "Photos have emerged on social media purporting to show a COMAC CE-25A electric aircraft demonstrator standing an airfield… The post COMAC CE-25A? Online photos spark intrigue over new electric aircraft appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/comac-ce-25a-online-photos-new-electric-aircraft",
-    "day": "2026-10-28",
-    "img": "https://www.aerotime.aero/images/2026/10/COMAC-C919-1200x675.jpg"
    }
   ],
   "finance": [
