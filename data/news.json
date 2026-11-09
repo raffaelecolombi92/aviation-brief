@@ -1,7 +1,39 @@
 {
- "generated": "2026-11-08T19:17+00:00",
+ "generated": "2026-11-09T00:25+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "We Tracked The World's Longest Airbus A321XLR Flight: Here's The Detour It Takes Every Day",
+    "summary": "This is the detour the world's longest Airbus A321XLR flight takes every day.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/indigo-worlds-longest-airbus-a321xlr-flight-tracked/",
+    "day": "2026-11-09",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/a321xlr-flight.png"
+   },
+   {
+    "headline": "American Airlines Backs Out Of $650 Promise To Bumped Passenger, Citing Smaller Plane",
+    "summary": "The even comes weeks after American officially ends involuntarily bumping passengers off flights.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-backs-out-650-bumped-passenger-smaller-plane/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/american-airlines-boeing-737-800-on-the-runway.jpg"
+   },
+   {
+    "headline": "Strong Jet Stream Leads To Transatlantic Flights Reporting Overspeed Incidents",
+    "summary": "Strong jet streams triggered transatlantic overspeed alerts, highlighting how powerful winds can affect aircraft speed, flight times and safety.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/strong-jet-stream-leads-transatlantic-flights-reporting-overspeed-incidents/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/shutterstock_4216388735_cropped.jpg"
+   },
+   {
+    "headline": "The Airlines That Offer Amenity Kits To Economy Class Passengers In 2026",
+    "summary": "Amenity kits are becoming ever rarer in economy class.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airlines-offer-amenity-kits-in-economy-class-in-2026/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/amenity-kits.jpg"
+   },
    {
     "headline": "Delta Launches 7 New International Routes This Winter: See Full List Now",
     "summary": "The carrier is growing in both the short and long-haul markets.",
@@ -929,41 +961,25 @@
     "url": "https://www.aeroroutes.com/eng/261103-osjan27zag",
     "day": "2026-11-03",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "SWISS Plans A350 Mumbai Service From mid-Dec 2026",
-    "summary": "Published at 1500PCT / 2200GMT 03NOV26 Swiss International Air Lines (SWISS) from December 2026 plans to launch Airbus A350-900 aircraft service on Zurich – Mumbai route, replacing Airbus A340-300 aircraft. The A350…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261103-lxdec26bom",
-    "day": "2026-11-03",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Syrian Airlines Resumes Munich in Nov 2026",
-    "summary": "Published at 1400PCT / 2100GMT 03NOV26 Syrian Airlines next week plans to resume Damascus – Munich route, as the airline opened bookings on its website, for 12NOV26 launch. Airbus A320 aircraft to serve this route twice…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261103-rbnov26muc",
-    "day": "2026-11-03",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Air Canada Cancels All Flights To This Long-Haul Destination: See Map Now",
-    "summary": "A major route reshuffle has seen the carriers rearrange its Toronto to Mumbai links as fleets and stopovers shift and schedules realign.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/air-canada-cancels-all-flights-to-this-long-haul-destinations/",
-    "day": "2026-11-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/air-canada-boeing-787-9-frankfurt.jpg"
-   },
-   {
-    "headline": "Breeze Airways Launches Nonstop Flights To 6 New Destinations: See Map Now",
-    "summary": "The carrier reclaims routes abandoned by Spirit while adding Caribbean nonstop links that boost Tampa's sunbound roster.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/breeze-launches-flights-to-6-new-destinations/",
-    "day": "2026-11-03",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/breeze-airways-airbus-a220-300-takeoff.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "British Airways Boeing 787 Stranded In Pittsburgh For 2 Months Due To Complicated Repairs",
+    "summary": "A hole punctured into the 787's fuselage by a service vehicle has kept this British Airways 787 grounded for 70+ days in Pittsburgh.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/british-airways-boeing-787-stranded-pittsburgh-2-months-complicated-repairs/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/shutterstock_1297831786.jpg"
+   },
+   {
+    "headline": "Why Singapore Airlines Uses Boeing 787-10s On Short Regional Routes",
+    "summary": "Singapore Airlines configures its 787-10s for high density and short routes.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-singapore-airlines-boeing-787-10s-short-regional-routes/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/boeing-787-10s-1.png"
+   },
    {
     "headline": "5 Airports Built On Artificial Islands",
     "summary": "Exploring the stories of five of the world's most unique airfields.",
@@ -1907,25 +1923,17 @@
     "url": "https://simpleflying.com/air-transat-launches-new-11-hour-route-today/",
     "day": "2026-10-29",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/797-air-transat-airbus-a330-ross-howey-photo-_-shutterstock.jpg"
-   },
-   {
-    "headline": "Lufthansa Launches Historic 1st Airbus A350-1000 Flight In 5 Weeks: See Map Now",
-    "summary": "Lufthansa's first Airbus A350-1000 route launches in December, bringing new Allegris cabins and premium capacity to three Asian destinations.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/lufthansa-launches-historic-1st-a350-1000-flight-5-weeks/",
-    "day": "2026-10-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/lufthansa_a350_approach_centered_1920x1080.jpg"
-   },
-   {
-    "headline": "TAP Air Portugal Launches Major New 9-Hour Nonstop US Route Today: See Map Now",
-    "summary": "With the latest addition, the airline now flies to nine US cities.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/tap-air-portugal-launches-major-new-9-hour-nonstop-us-route-today/",
-    "day": "2026-10-29",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/shutterstock_2572805051_cropped.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Analysis: Airbus A350 Passengers Often Don't Feel As Tired After Flying Long-Haul Compared To A Boeing 777",
+    "summary": "Over many hours of flying, a lower cabin altitude can help passengers feel more rested upon arrival.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-a350-passengers-often-dont-feel-as-tired-flying-long-haul-compared-boeing-777/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/airbus-a350.png"
+   },
    {
     "headline": "The Airbus A350's Cockpit Actually Shares Its DNA With The World's Largest Passenger Jet",
     "summary": "The Airbus A350 cockpit looks familiar for a reason. Its connection to the A380 reveals how Airbus reshaped its flight decks.",
@@ -2875,14 +2883,6 @@
     "summary": "Engine Alliance, a 50-50 joint venture between GE Aerospace and RTX’s Pratt & Whitney, has extended its maintenance agreement with CTS Engines (CTS) by two years to continue supporting the GP7200 engine. Since the…",
     "source": "AviTrader",
     "url": "https://avitrader.com/2026/10/29/engine-alliance-prolongs-gp7200-engine-support-deal-with-cts/",
-    "day": "2026-10-29",
-    "img": null
-   },
-   {
-    "headline": "Airbus, Air France launch A350 component venture",
-    "summary": "Airbus and Air France have established Alpha Component Solutions, a 50-50 joint venture dedicated to component support for the A350-aircraft family. The venture, jointly operated by Airbus and Air France-KLM, will…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/10/29/airbus-air-france-launch-a350-component-venture/",
     "day": "2026-10-29",
     "img": null
    }
@@ -4813,6 +4813,14 @@
   ],
   "policy": [
    {
+    "headline": "Why Airports Remove Rubber Deposits From Runways To Keep Jets Braking Safely",
+    "summary": "The move is key to keeping operations safe.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airports-remove-rubber-deposits-runways-keep-jets-braking-safely/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/rubber-deposits.png"
+   },
+   {
     "headline": "Air France A350 departure deviation brings it close to American A321 at LAX",
     "summary": "An Air France Airbus A350-900 and an American Airlines Airbus A321-200 were involved in a near-mid-air collision shortly… The post Air France A350 departure deviation brings it close to American A321 at LAX appeared…",
     "source": "AeroTime",
@@ -5763,17 +5771,25 @@
     "url": "https://www.aerotime.aero/articles/miami-767-overrun-112-knots-ntsb-investigation",
     "day": "2026-09-07",
     "img": "https://www.aerotime.aero/images/2026/09/An-Amazon-Prime-Air-Boeing-767-300-freighter-registration-N359AZ-at-Seattle-Tacoma-International-Airport.jpg"
-   },
-   {
-    "headline": "The 21.5-Inch Business Class Seat That Threatens Collins, Safran & RECARO's Grip On Mid-Size Airlines",
-    "summary": "Unum is providing a staggered alternative to the mainstream reverse herringbone configuration in premium cabins.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/21-5-inch-business-class-seat-threatens-collins-safran-recaro-grip-mid-size-airlines/",
-    "day": "2026-09-06",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/08/the-21-5-inch-business-class-seat-that-threatens-collins-safran-recaro-s-grip-on-mid-size-airlines.jpg"
    }
   ],
   "defense": [
+   {
+    "headline": "The Aircraft Replacing The Chinook",
+    "summary": "What will be the next Army heavy lifter?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/aircraft-replacing-the-chinook/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/08/helicopter.jpg"
+   },
+   {
+    "headline": "How Many Crew Members Does It Take To Fly A C-17 Globemaster?",
+    "summary": "Almost 300 C-17 Globemasters have been built since production began in 1991.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-many-crew-members-fly-c-17-globemaster/",
+    "day": "2026-11-08",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/shutterstock_2681394977-1.jpg"
+   },
    {
     "headline": "The 6 Military Aircraft Manufacturers Still Building New Combat Aircraft For The US Armed Forces In 2026",
     "summary": "A closer look at the companies providing a diverse range of combat aircraft for the US military.",
@@ -6717,22 +6733,6 @@
     "url": "https://www.airandspaceforces.com/two-non-hostile-deaths-raise-iran-war-toll-to-23/",
     "day": "2026-10-30",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/10/9944772-900x600.jpg"
-   },
-   {
-    "headline": "Qatar’s domestic weapons, Turkey’s drone arsenal and the Mecca pact’s next test",
-    "summary": "Middle East Bureau Chief Agnes Helou breaks down efforts by Turkey and Gulf nations to bolster their defense capabilities amid ongoing regional instability.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/10/qatars-domestic-weapons-turkeys-drone-arsenal-and-the-mecca-pacts-next-test/",
-    "day": "2026-10-30",
-    "img": null
-   },
-   {
-    "headline": "USAF F-16s Back On Alert Duty In Aleutian Islands For First Time In Decades",
-    "summary": "NORAD’s return to fighter alert ops on remote Shemya Island is yet another reminder of the eroding security environment in the Pacific and the Arctic. The post USAF F-16s Back On Alert Duty In Aleutian Islands For First…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/usaf-f-16s-back-on-alert-duty-in-aleutian-islands-for-first-time-in-decades",
-    "day": "2026-10-30",
-    "img": "https://www.twz.com/wp-content/uploads/2026/10/F16C-ALEUTIANS-ALERT.jpg?quality=85&w=2048"
    }
   ],
   "others": []
