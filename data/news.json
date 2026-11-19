@@ -1,7 +1,23 @@
 {
- "generated": "2026-11-18T19:51+00:00",
+ "generated": "2026-11-19T02:11+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "American Airlines’ Airbus A321neo Fleet Grows To 90, Expects 2 More & 1 A321XLR By Year’s End",
+    "summary": "American Airlines' A321neo fleet reaches 90 aircraft, with three more A321-family deliveries expected before the end of 2026.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-airbus-a321neo-fleet-grows-90-2-more-1-a321xlr-years-end/",
+    "day": "2026-11-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/american_a321neo_golden_hour_1920x1080.jpg"
+   },
+   {
+    "headline": "Here's How Much Larger The Boeing 737 MAX 7 Is Over The Jet It Directly Replaces",
+    "summary": "The upgauging Southwest bought with its new short-body 737 MAX.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-much-larger-boeing-737-max-7-jet-directly-replaces/",
+    "day": "2026-11-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/the-boeing-737-max-7.png"
+   },
    {
     "headline": "NTSB: Missed Inspections Let Storm-Damaged Southwest 737 MAX Fly 44 Times Before Dutch Roll Accident",
     "summary": "A Southwest Airlines Boeing 737 MAX flew 44 times with undetected storm damage to its tail after missing a post-storm inspection, then later passing a flawed maintenance test.",
@@ -945,25 +961,17 @@
     "url": "https://theaircurrent.com/feed/dispatches/u-s-halts-flight-departures-nationwide-on-air-traffic-communications-outage/",
     "day": "2026-11-13",
     "img": "https://theaircurrent.com/wp-content/uploads/2026/11/dfw-overhead-2026.jpg"
-   },
-   {
-    "headline": "US airlines brace for busiest travel day since pandemic amid Thanksgiving rush",
-    "summary": "US airlines expect to carry nearly 29 million passengers over the 2026 Thanksgiving travel weekend, with the biggest… The post US airlines brace for busiest travel day since pandemic amid Thanksgiving rush appeared…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/us-airlines-thanksgiving-air-travel-2026",
-    "day": "2026-11-13",
-    "img": "https://www.aerotime.aero/images/2026/11/Recently-Saved-1-of-1-10.jpeg"
-   },
-   {
-    "headline": "FAA lifts the ground stop, airlines will be slowly returning to normal",
-    "summary": "On Friday afternoon, November 13, 2026, the Federal Aviation Administration (FAA) issued a rare nationwide ground stop halting all departing commercial and civilian flights at airports across the United States. In its…",
-    "source": "World Airline News",
-    "url": "https://worldairlinenews.com/2026/11/13/breaking-news-complete-ground-stop-in-the-united-states/",
-    "day": "2026-11-13",
-    "img": "https://worldairlinenews.com/wp-content/uploads/2015/07/faa-logo-1-color.jpg"
    }
   ],
   "airports": [
+   {
+    "headline": "Delta Air Lines' Basic Business Fare Keeps The Lie-Flat Seat, But Lounge Access Ends In 2027",
+    "summary": "The SkyTeam carrier introduced its Basic Business product in July 2026.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/delta-air-lines-basic-business-fare-lie-flat-seat-one-lounge-access-ends-2027/",
+    "day": "2026-11-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/delta-air-lines-basic-business.png"
+   },
    {
     "headline": "Alaska Airlines Eyes New Long-Haul Boeing 787 Route: But There's A Major Twist",
     "summary": "The carrier wants to fly to this European airport, but slots are a major problem. Find out more here!",
@@ -1915,17 +1923,25 @@
     "url": "https://moodiedavittreport.com/travel-hub-enhances-manila-international-airport-retail-offer-with-one-stop-shopping-concept/?utm_source=rss&utm_medium=rss&utm_campaign=travel-hub-enhances-manila-international-airport-retail-offer-with-one-stop-shopping-concept",
     "day": "2026-11-10",
     "img": "https://moodiedavittreport.com/wp-content/uploads/2026/11/Travel-Hub-Manila-International-Airport-Regent-Travel-Retail-Group-6.11.26_6.jpg"
-   },
-   {
-    "headline": "JetBlue Launches Major New 6-Hour Nonstop Route In 1 Week: See Map Now",
-    "summary": "JetBlue fortifies Fort Lauderdale hub with another coast to coast daily rotation and heavy winter seat deployment.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/jetblue-launches-new-6-hour-route-next-week/",
-    "day": "2026-11-09",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/382-jetblue-airbus-a321neo-leonard-zhukovsky-_-shutterstock.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Why The World's Debut Boeing 747 Was Built In Half The Time Of Other Aircraft Of Its Size In 1968",
+    "summary": "Just 29 months separated the Boeing 747 project’s official launch and the rollout of the first model.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/worlds-debut-boeing-747-built-half-time-other-aircraft-size-1968/",
+    "day": "2026-11-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/debut-boeing-747.png"
+   },
+   {
+    "headline": "12 Times The Speed Of Sound? A Look At The World’s 1st Hypersonic Jet Powered By Hydrogen Fuel",
+    "summary": "Hydrogen-fuelled jets at Mach 12? Australia’s Hypersonix is pioneering hypersonic flight with clean propulsion, changing aviation’s speed frontier.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/worlds-1st-hypersonic-jet-hydrogen-fuel-1/",
+    "day": "2026-11-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/11/speedofsound.jpg"
+   },
    {
     "headline": "Why Does A Plane Seem To Drop If There Are No 'Air Pockets' In The Sky?",
     "summary": "Air pockets are a myth that explained turbulence in aviation's early days. Yet, it persists.",
@@ -2869,22 +2885,6 @@
     "url": "https://simpleflying.com/airlines-with-worlds-most-innovative-business-class-seats-in-2026/",
     "day": "2026-11-10",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/businessclass-seatsd.jpg"
-   },
-   {
-    "headline": "NTSB Recovers Cockpit Voice Recorder From Miami Crash As On-Scene Investigation Ends",
-    "summary": "Fragments found miles from the impact crater include tail sections, supporting evidence of in flight structural failure.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/ntsb-recovers-cockpit-voice-recorder-miami-crash-on-scene-investigation/",
-    "day": "2026-11-10",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/learjet_n722bd_landing_1920x1080.jpg"
-   },
-   {
-    "headline": "Boeing To Cut 2,500 Commercial Airplane Jobs As Production Ramp-Up Slows",
-    "summary": "Slower wing delivery and factory stability issues reshape output plans while a long backlog cushions near term impact.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/boeing-cuts-5pc-commercial-airplanes-workforce-production-slows/",
-    "day": "2026-11-09",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/klm-boeing-787-10.jpg"
    }
   ],
   "finance": [
@@ -3851,6 +3851,14 @@
   ],
   "bizav": [
    {
+    "headline": "Proving their worth; challenges for corporate flight departments",
+    "summary": "Analyzing the challenges corporate flight departments face in the current market, how survivors face cuts and closures, and how some thrive The post Proving their worth; challenges for corporate flight departments…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/11/18/proving-their-worth-challenges-for-corporate-flight-departments/",
+    "day": "2026-11-18",
+    "img": null
+   },
+   {
     "headline": "Protected: Corporate Jet Investor Miami 2026 – Presentations",
     "summary": "There is no excerpt because this is a protected post. The post Protected: Corporate Jet Investor Miami 2026 – Presentations appeared first on Corporate Jet Investor .",
     "source": "Corporate Jet Investor",
@@ -4801,17 +4809,33 @@
     "url": "https://privatejetcardcomparisons.com/2026/10/22/mckinsey-leisure-flying-is-powering-business-aviation/",
     "day": "2026-10-22",
     "img": null
-   },
-   {
-    "headline": "With 17 CJ4 light jets, Jet Out plots next phase of fleet, base growth",
-    "summary": "Jet Out executives say the company will stay with its current days-based formula as it looks to write its next chapter The post With 17 CJ4 light jets, Jet Out plots next phase of fleet, base growth appeared first on…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/10/22/with-17-cj4-light-jets-jet-out-plots-next-phase-of-fleet-base-growth/",
-    "day": "2026-10-22",
-    "img": null
    }
   ],
   "policy": [
+   {
+    "headline": "Fire retardant caused corrosion in firefighting aircraft, NTSB finds",
+    "summary": "A fire retardant approved for use in US firefighting aircraft caused extensive corrosion during a single fire season,… The post Fire retardant caused corrosion in firefighting aircraft, NTSB finds appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/fire-retardant-aircraft-corrosion-ntsb",
+    "day": "2026-11-19",
+    "img": "https://www.aerotime.aero/images/2026/11/Recently-Saved-1-of-1-17-1200x675.jpeg"
+   },
+   {
+    "headline": "Safety gaps persist after fatal Washington midair collision, report warns",
+    "summary": "Some safety weaknesses exposed by the collision between an American Airlines regional jet and a US Army helicopter… The post Safety gaps persist after fatal Washington midair collision, report warns appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/washington-midair-collision-safety-gaps-report",
+    "day": "2026-11-18",
+    "img": "https://www.aerotime.aero/images/2026/05/dca_crash_potomac_3x2.jpg"
+   },
+   {
+    "headline": "Russia opens investigation after An-12 military crash kills 19 in Siberia",
+    "summary": "Russian military investigators say they have opened a criminal investigation after an Antonov An-12 transport aircraft crashed near… The post Russia opens investigation after An-12 military crash kills 19 in Siberia…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/russian-an-12-crash-siberia-19-killed",
+    "day": "2026-11-18",
+    "img": "https://www.aerotime.aero/images/2026/11/Recently-Saved-1-of-1-16-1200x675.jpeg"
+   },
    {
     "headline": "American Airlines 737 Carrying US Senator Suffers Engine Failure, Diverts To Orlando",
     "summary": "An American Airlines Boeing 737 carrying Senator Ashley Moody diverted to Orlando after pilots shut down an engine.",
@@ -5747,33 +5771,57 @@
     "url": "https://www.greenairnews.com/?p=9541&utm_source=rss&utm_medium=rss&utm_campaign=united-and-fedex-sign-agreements-to-extend-saf-supplies-and-scale-up-use",
     "day": "2026-09-17",
     "img": null
-   },
-   {
-    "headline": "TSA Screeners Stunned: Passenger Admits Concealing Knife To Avoid $100 Bag Fee",
-    "summary": "The flyer ended up surrendering the knife, with TSA agents surprised at her honesty.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/passenger-conceals-knife-from-tsa-to-avoid-baggage-fee/",
-    "day": "2026-09-16",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/shutterstock_615732437_cropped.jpg"
-   },
-   {
-    "headline": "Three killed as NBC helicopter crashes in LA while covering fatal bus collision",
-    "summary": "Three people were killed after an NBC local news helicopter crashed in Los Angeles while reporting from the… The post Three killed as NBC helicopter crashes in LA while covering fatal bus collision appeared first on…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/three-killed-nbc-helicopter-crash-los-angeles-bus-collision",
-    "day": "2026-09-16",
-    "img": "https://www.aerotime.aero/images/2026/09/NBC-LA-helicopter-crash.jpg"
-   },
-   {
-    "headline": "Transport NGOs call EU ETS aviation extension proposals a missed opportunity",
-    "summary": "Analysis by Brussels-based NGO Transport & Environment (T&E) shows the recently released proposal from the...",
-    "source": "GreenAir News",
-    "url": "https://www.greenairnews.com/?p=9527&utm_source=rss&utm_medium=rss&utm_campaign=transport-ngos-call-eu-ets-aviation-extension-proposals-a-missed-opportunity",
-    "day": "2026-09-16",
-    "img": null
    }
   ],
   "defense": [
+   {
+    "headline": "The New Changes That Could Make The US Air Force's C-17 Globemasters Become Fighters Instead Of Transport Aircraft",
+    "summary": "The US Air Force is turning its C-130s and C-17s into missile-launching platforms, giving its cargo aircraft a devastating new strike capabilities",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/usaf-c-17-globemasters-fighters-instead-transport-aircraft/",
+    "day": "2026-11-18",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/c-17-cover-pic.png"
+   },
+   {
+    "headline": "‘Holy S—, That’s Tehran!’: B-2 Pilots Tell the Story of Operation Midnight Hammer",
+    "summary": "For the first time ever, the B-2 pilots who flew Operation Midnight Hammer, the mission that leveled Iran’s nuclear program spoke about the months of preparation beforehand and the 37-hour flight that unfolded in utmost…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/inside-operation-midnight-hammer-b-2-pilots/",
+    "day": "2026-11-18",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/11/9127323-900x600.jpg"
+   },
+   {
+    "headline": "Hegseth Makes Surprise Visit to Venezuela to Strengthen Military Ties",
+    "summary": "Secretary of Defense Pete Hegseth made a surprise trip to Venezuela to sign a agreement that reestablish military ties between the two countries. The post Hegseth Makes Surprise Visit to Venezuela to Strengthen Military…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/hegseth-makes-surprise-visit-venezuela-to-strengthen-military-ties/",
+    "day": "2026-11-18",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/09/HegsethStateoftheForce-3-of-8-900x600.jpg"
+   },
+   {
+    "headline": "Air Force Fires Minuteman III ICBM in Test Launch",
+    "summary": "Air Force Global Strike Command launched an unarmed Minuteman III intercontinental ballistic missile from Vandenberg Space Force Base, Calif., late Nov. 17, its first such test in six months. The post Air Force Fires…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/air-force-global-strike-test-launch-minuteman-icbm/",
+    "day": "2026-11-18",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/11/9702218-900x600.jpg"
+   },
+   {
+    "headline": "Feds: Irish National Vandalized C-130 So Thoroughly It Was ‘Effectively Destroyed’",
+    "summary": "Federal prosecutors have charged an Irish man with methodically vandalizing a U.S. Air Force C-130H so extensively that the $60 million transport aircraft is effectively totaled. The post Feds: Irish National Vandalized…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/feds-irish-national-vandalized-c-130-so-thoroughly-it-was-effectively-destroyed/",
+    "day": "2026-11-18",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/11/C-130H-Ireland-vandalism-1.jpg"
+   },
+   {
+    "headline": "A $1.1 trillion Pentagon budget plan sets up a fight on Capitol Hill",
+    "summary": "Senate appropriators are prioritizing Golden Dome, drones and munitions, but other military programs could pay the price.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/11/a-1-1-trillion-pentagon-budget-sets-up-a-fight-on-capitol-hill/",
+    "day": "2026-11-18",
+    "img": null
+   },
    {
     "headline": "Russian drone reportedly explodes near Antonov An-124 at Hostomel",
     "summary": "A pro-Russian Telegram channel has published unverified footage that appears to show a Russian drone exploding close to… The post Russian drone reportedly explodes near Antonov An-124 at Hostomel appeared first on…",
@@ -6685,54 +6733,6 @@
     "url": "https://www.aerotime.aero/articles/france-airbus-thales-iris-military-satellites",
     "day": "2026-11-10",
     "img": "https://www.aerotime.aero/images/cso_satellite_asterx_france.jpg"
-   },
-   {
-    "headline": "Spanish NH90 Helicopters Conduct First Alpha Scramble in Romania Against Drone Threat",
-    "summary": "Two NH90 helicopters were launched after unidentified drones were detected near Romania’s Black Sea coast, marking the first Alpha Scramble of a Spanish helicopter deployed on a NATO mission. Two Spanish NH90…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/11/10/spanish-nh90-helicopters-alpha-scramble/",
-    "day": "2026-11-10",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/11/Spain_NH90_Alpha_Scramble.jpg"
-   },
-   {
-    "headline": "Space Force Taps Viasat for $450M Ops Center to Harmonize Data Network",
-    "summary": "Space Systems Command recently awarded Viasat a contract with a $450 million ceiling to design and field a mission operations center for the command’s burgeoning Space Data Network. The post Space Force Taps Viasat for…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/space-force-viasat-450m-ops-center-data-network/",
-    "day": "2026-11-10",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/11/Viasat-rendering-900x600.png"
-   },
-   {
-    "headline": "MQ-58 Valkyrie Drones Now Cost $6M-$8M Each",
-    "summary": "Kratos still sees Valkyrie's relative affordability as key to staying ahead of a growing field of competing Collaborative Combat Aircraft (CCA) drone designs. The post MQ-58 Valkyrie Drones Now Cost $6M-$8M Each…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/mq-58-valkyrie-drones-now-cost-6m-8m-each",
-    "day": "2026-11-10",
-    "img": "https://www.twz.com/wp-content/uploads/2026/11/kratos-valkyrie-drone-new-cost-data.jpg?quality=85"
-   },
-   {
-    "headline": "In First, Two CCAs Fly Air Combat Maneuvers Using Autonomy Software",
-    "summary": "Two of the Air Force’s semi-autonomous drones flew air combat maneuvers coordinated by an “AI pilot,” or mission autonomy software, in a test Oct. 26, a first for the Air Force’s Collaborative Combat Aircraft program.…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/cca-drones-fly-air-combat-maneuvers-autonomy-software/",
-    "day": "2026-11-09",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/04/YFQ-44A-test-flight-1-900x600.jpeg"
-   },
-   {
-    "headline": "After Midterms, Congress Returns to Reckon with Defense Funding, NDAA",
-    "summary": "Following a historic win for Democrats in the midterm elections, Congress returned to Washington, D.C., Nov. 9. Between now and Jan. 3, 2027, when the midterm winners are sworn in, lawmakers are staring down major…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/after-midterms-congress-reckon-defense-funding-ndaa/",
-    "day": "2026-11-09",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/02/2560px-United_States_Capitol_-_west_front_EL-900x600.jpg"
-   },
-   {
-    "headline": "Our Best Look Yet at China’s GJ-11 UCAV",
-    "summary": "New official footage released ahead of the PLA Air Force’s 77th anniversary reveals additional details of the GJ-11’s design and configuration. China released new official footage of the GJ-11 ‘Sharp Sword’ unmanned…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/11/09/our-best-look-yet-at-chinas-gj-11-ucav/",
-    "day": "2026-11-09",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/11/GJ-11videoframe_22354.png"
    }
   ],
   "others": []
