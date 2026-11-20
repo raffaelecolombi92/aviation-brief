@@ -1,7 +1,55 @@
 {
- "generated": "2026-11-20T10:50+00:00",
+ "generated": "2026-11-20T19:31+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "American Airlines Officially Discontinues Boeing 777-300ER Flagship First Sales",
+    "summary": "The aircraft will be retrofitted with the airline's Flagship Suites.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-officially-discontinues-boeing-777-300er-flaghship-first-sales/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/american-airlines-777.jpg"
+   },
+   {
+    "headline": "Why Delta Air Lines' Brand-New Airbus A321neos Sat In The Desert While Flying 44 Recliners Instead",
+    "summary": "The SkyTeam carrier has experienced certification delays for its new business class seat.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-delta-air-lines-brand-new-airbus-a321neos-sat-desert-flying-44-recliners-instead/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/06/delta-a321neos.jpg"
+   },
+   {
+    "headline": "Malaysia Airlines NS27 Busan Preliminary Frequency Changes",
+    "summary": "Published at 1100PCT / 1800GMT 20NOV26 Malaysia Airlines during Northern summer 2027 season tentatively files frequency changes on Kuala Lumpur – Busan route. From 31MAR27 to 30OCT27, the airline lists 3 weekly flights…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261120-mhns27pus",
+    "day": "2026-11-20",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Aero K Adds Cheongju – Matsuyama in 1Q27",
+    "summary": "Published at 1000PCT / 1700GMT 20NOV26 Korean carrier Aero K in the first quarter of 2027 plans to add Cheongju – Matsuyama route, with A320 aircraft operating 3 weekly flights. First flight is scheduled on 02JAN27.…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/2611120-rf1q27myj",
+    "day": "2026-11-20",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Nauru Airlines Reopens Tarawa – Kiritimati Bookings From late-Nov 2026",
+    "summary": "Published at 0900PCT / 1600GMT 20NOV26 Nauru Airlines in the last 24 hours re-opened reservations for Tarawa – Kiritimati (Christmas Island) sector on its website, as the carrier continues to operate 1 weekly flight…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261120-onnw26trwcxi",
+    "day": "2026-11-20",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Rolls-Royce wins eight-engine order from Royal Brunei",
+    "summary": "Rolls-Royce has confirmed that Royal Brunei Airlines has ordered eight Trent 1000 XE engines to power four Boeing 787 Dreamliners. The aircraft were ordered in 2024 as part of the airline’s widebody fleet renewal…",
+    "source": "AviTrader",
+    "url": "https://avitrader.com/2026/11/20/rolls-royce-wins-eight-engine-order-from-royal-brunei/",
+    "day": "2026-11-20",
+    "img": null
+   },
    {
     "headline": "Why United Airlines Doesn't Want Its Airbus A320s Anymore",
     "summary": "United is retiring its aging Airbus A320s in favor of fuel-efficient A321neos, boosting capacity, cutting costs, and modernizing passenger experience.",
@@ -913,57 +961,49 @@
     "url": "https://www.aeroroutes.com/eng/261116-gxnw26hph",
     "day": "2026-11-16",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Air China Adds Chengdu – Hanoi in 1Q27",
-    "summary": "Published at 1000PCT / 1700GMT 16NOV26 Star Alliance member Air China in the first quarter of 2027 plans new service to Vietnam, as the carrier lists 1 daily Chengdu Tianfu – Hanoi flight, effective 13JAN27. Airbus…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261116-ca1q27han",
-    "day": "2026-11-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Air China Removes 747-8I Frankfurt Service in NW26",
-    "summary": "Published at 0900PCT / 1600GMT 16NOV26 Star Alliance member Air China at the launch of Northern winter 2026/27 season removed Boeing 747-8I service on Beijing Capital – Frankfurt route. The 747-8I last operated this…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261116-canw26fra",
-    "day": "2026-11-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Air Serbia Cancels Guangzhou Service in late-Nov 2026",
-    "summary": "Published at 0800PCT / 1500GMT 16NOV26 Air Serbia in the last few days filed service changes for Belgrade – Guangzhou route, which now sees the carrier operating last flight on 27NOV26. The airline currently operates…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261116-junw26can",
-    "day": "2026-11-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "EGYPTAIR NW27 Washington Preliminary Aircraft Changes",
-    "summary": "Published at 0700PCT / 1400GMT 16NOV26 EGYPTAIR in its Northern winter 2027/28 season preliminary schedule filing tentatively filed aircraft changes for Cairo – Washington Dulles route, which now lists Airbus A350-900…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261116-msnw27iad",
-    "day": "2026-11-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "EGYPTAIR Adds A350 Newark Service in NW26",
-    "summary": "Published at 0600PCT / 1300GMT 16NOV26 EGYPTAIR last week launched Airbus A350-900 operation on Cairo – Newark route, gradually replacing 787-9. The first A350 flight operated on 11NOV26, followed by service on 18NOV26.…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261116-msnw26ewr",
-    "day": "2026-11-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Lufthansa Lists 509-seater A380 Service until mid-Dec 2026",
-    "summary": "Published at 0500PCT / 1200GMT 16NOV26 Lufthansa during the first half of Northern winter 2026/27 season plans to conclude 509-seater Airbus A380 operation, as the carrier continues to reconfigure the cabin to…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261116-lhnw26388",
-    "day": "2026-11-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "American Airlines Cancels & Launches 6 Routes: See All Changes Now",
+    "summary": "They're all from one hub, which is fast-growing but not among the carrier's main hubs. Find out more here!",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-cancels-launches-6-routes/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/813-american-airlines-boeing-737-800-robin-guess-_-shutterstock.jpg"
+   },
+   {
+    "headline": "United Airlines Becomes World’s Largest Carrier For 1 Day Only: Here's Why",
+    "summary": "The US will have 44% fewer flights next Thursday, leading to lots of temporary changes. Find out more inside!",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-airlines-becomes-worlds-largest-carrier-for-1-day-only/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/united-airlines-boeing-767-300er-on-short-final-o-hare.jpg"
+   },
+   {
+    "headline": "Alaska Airlines Launches 5 New Long-Haul Boeing 787 Routes: See Full List Now",
+    "summary": "From Rome to Tokyo the carrier reshapes long haul travel with a gateway strategy powered by 787 service.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/alaska-airlines-5-long-haul-787-routes/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/alaska-airlines-boeing-787-9.jpg"
+   },
+   {
+    "headline": "SFO’s credit rating upgraded to highest ever level by Fitch Ratings",
+    "summary": "Fitch Ratings has upgraded San Francisco International Airport’s credit rating from “A+” to “AA-“, the highest level ever achieved by the US gateway. The upgrade means that San Francisco International Airport (SFO) now…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/sfos-credit-rating-upgraded-to-highest-ever-level-by-fitch-ratings/?utm_source=rss&utm_medium=rss&utm_campaign=sfos-credit-rating-upgraded-to-highest-ever-level-by-fitch-ratings",
+    "day": "2026-11-20",
+    "img": null
+   },
+   {
+    "headline": "OTG adds Serafina, Mozz Lab and Starbucks to JFK Terminal 5",
+    "summary": "OTG has opened Mozz Lab, Serafina and Starbucks at JetBlue’s John F Kennedy International Airport Terminal 5, the hospitality group announced this month. Mozz Lab is a Brooklyn-based Italian cheese and specialty shop.…",
+    "source": "Passenger Terminal Today",
+    "url": "https://www.passengerterminaltoday.com/news/food-beverage/otg-adds-serafina-mozz-lab-and-starbucks-to-jfk-terminal-5.html",
+    "day": "2026-11-20",
+    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/11/AO-IMAGES-Fraport-JFK-T5-Grand-Opening-Niov-2026-ll-15-e1795176131274.jpeg"
+   },
    {
     "headline": "How Chicago O’Hare's 8 Active Runways Handle More Than 2,000 Movements A Day",
     "summary": "This is the busiest airport in the world by aircraft movements.",
@@ -1883,49 +1923,33 @@
     "url": "https://simpleflying.com/breeze-airways-launches-15-new-routes-from-this-airport/",
     "day": "2026-11-11",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/copy-of-34-breeze-airways-airbus-a220-wileydoc-_-shutterstock-1.jpg"
-   },
-   {
-    "headline": "American Airlines Cancels 8 International Routes: See Full List Now",
-    "summary": "American Airlines has removed eight international routes, with data revealing contrasting demand trends and a network increasingly unlike its rivals.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/american-cancels-8-international-routes/",
-    "day": "2026-11-11",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/american_airlines_1920x1080-1.jpg"
-   },
-   {
-    "headline": "Etihad Airways Scraps All Airbus A380 Flights To North America: See Map Now",
-    "summary": "Another route will also stop seeing the type. Find out more here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/etihad-airways-scraps-all-airbus-a380-flights-to-north-america/",
-    "day": "2026-11-11",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/etihad-airbus-a380-20260901-170358-1-1.jpg"
-   },
-   {
-    "headline": "Travelex expands Sharjah Airport presence with three foreign exchange store openings",
-    "summary": "The expansion strengthens the foreign exchange specialist’s presence at the UAE gateway amid rising tourism demand, with enhanced currency services and accessibility for international travellers.",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/travelex-expands-sharjah-airport-presence-with-three-foreign-exchange-store-openings/?utm_source=rss&utm_medium=rss&utm_campaign=travelex-expands-sharjah-airport-presence-with-three-foreign-exchange-store-openings",
-    "day": "2026-11-11",
-    "img": null
-   },
-   {
-    "headline": "British Airways Unveils 7 New International Routes: See Full List Now",
-    "summary": "Taking off in 2027, five were just announced while two were revealed recently. Find them all here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/british-airways-unveils-7-new-international-routes-see-full-list-now/",
-    "day": "2026-11-11",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/british-airways-boeing-787-9-on-a-runway-at-heathrow.jpg"
-   },
-   {
-    "headline": "The Runway Grooves That Help Commercial Jets Stop During Heavy Rain",
-    "summary": "NASA and the FAA have determined grooves help in retaining traction and improving water drainage, although they remain far from universal.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/runway-grooves-help-commercial-jets-stop-heavy-rain/",
-    "day": "2026-11-11",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/the-runway-grooves.jpg"
    }
   ],
   "fleet": [
+   {
+    "headline": "How Much A Boeing 747 Charter Actually Costs Per Hour In 2026",
+    "summary": "The Boeing 747 charter: A grandiose solution for unusually large groups or cargo, but is it worth the cost?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-much-a-boeing-747-charter-actually-costs-per-hour-in-2026/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/how-much-a-boeing-747-charter-actually-costs-per-hour-in-2026.jpg"
+   },
+   {
+    "headline": "Iraqi Airways Is Selling Saddam Hussein’s 2 Boeing 747s After 35 Years In The Desert",
+    "summary": "The airline is asking for $900,000 for the jets, although it refuses to say if they are airworthy.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/iraqi-airways-is-selling-saddam-husseins-2-boeing-747s-after-35-years-in-the-desert/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/iraqi_airways_boeing_747-200_and_boeing_747sp_at_tozeur_airport.jpg"
+   },
+   {
+    "headline": "Dutch startup Elysian Aircraft raises €12M, enters military research program",
+    "summary": "On November 19, 2026, Dutch electric aircraft developer Elysian Aircraft announced that it has closed a €12 million… The post Dutch startup Elysian Aircraft raises €12M, enters military research program appeared first…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/dutch-startup-elysian-aircraft-raises-e12m-enters-military-research-program",
+    "day": "2026-11-20",
+    "img": "https://www.aerotime.aero/images/2026/11/ELYSIAN-E9X-1200x675.jpg"
+   },
    {
     "headline": "The C-130J Flies With 3 Crew Until Aeromedical Missions Typically Add 2 Flight Nurses & 3 Medical Technicians",
     "summary": "The C-130J combines a reduced flight crew, modern automation, and expanded medical capacity to help evacuate wounded personnel and save lives.",
@@ -2861,30 +2885,6 @@
     "url": "https://avitrader.com/2026/11/12/cdb-aviation-leases-two-a321s-to-freebird-airlines/",
     "day": "2026-11-12",
     "img": null
-   },
-   {
-    "headline": "The Last Lockheed L‑1011 TriStar Still Airworthy",
-    "summary": "A closer look at the story behind the world's last Tristar, and what the future holds for this unique aircraft.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/the-last-lockheed-tristar-still-airworthy/",
-    "day": "2026-11-12",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/08/the-last-lockheed-l-1011-tristar-still-airworthy.jpg"
-   },
-   {
-    "headline": "Cathay Orders 14 More Airbus Jets As Its A330-900 Commitment Grows To 41",
-    "summary": "Cathay adds A330-900s and A321neos to modernize its fleet, retiring older A330-300s and spreading capacity across Asia.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/cathay-orders-14-more-airbus-a330-900-a321neo/",
-    "day": "2026-11-11",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/generated-image-november-11-2026-1_09pm.jpg"
-   },
-   {
-    "headline": "The Aircraft That Beat The A350 As Airbus' Best Value & Most Operationally Practical Incremental Upgrade",
-    "summary": "The A330-900 has turned out to be a valuable upgrade, complementing the A350 and overcoming the failure of the A330-800.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/aircraft-beat-a350-airbus-best-value-most-operationally-practical-incremental-upgrade/",
-    "day": "2026-11-11",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/a330neo-virgin-atlantic.png"
    }
   ],
   "finance": [
@@ -3851,6 +3851,22 @@
   ],
   "bizav": [
    {
+    "headline": "In the life of a flight attendant; their work, pay, and routine",
+    "summary": "How much do flight attendants make? What is their daily routine? What are the differences between airline and private jet cabin attendants? The post In the life of a flight attendant; their work, pay, and routine…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/11/20/flight-attendants-life-pay/",
+    "day": "2026-11-20",
+    "img": null
+   },
+   {
+    "headline": "Private Jet Card Comparisons adds VIP Airport Services directory",
+    "summary": "The VIP Airport Services guide details meet-and-greet airport services to expedite customs, immigration, and security at airports worldwide. The post Private Jet Card Comparisons adds VIP Airport Services directory…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/11/20/private-jet-card-comparisons-adds-vip-airport-services-directory/",
+    "day": "2026-11-20",
+    "img": null
+   },
+   {
     "headline": "Vista America maintains top safety certifications",
     "summary": "Vista Global's Vista America operator has kept its Wyvern Wingman Pro, Argus Platinum, and IS-BAO Stage 3 ratings The post Vista America maintains top safety certifications appeared first on Private Jet Card Comparisons…",
     "source": "Private Jet Card Comparisons",
@@ -4793,25 +4809,17 @@
     "url": "https://simpleflying.com/4-engine-cessna-business-airliner-met-design-goals-canceled-14-months-1st-flight/",
     "day": "2026-10-23",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/the-4-engine-cessna-business-airliner-that-met-its-design-goals-then-was-canceled-14-months-after-1st-flight.jpg"
-   },
-   {
-    "headline": "Viasat boosts satellite capacity fivefold for business jet Wi-Fi in US",
-    "summary": "Viasat has increased the satellite network capacity available to its JetXP business aviation customers across the United States… The post Viasat boosts satellite capacity fivefold for business jet Wi-Fi in US appeared…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/viasat-jetxp-business-jet-wifi-us-capacity",
-    "day": "2026-10-23",
-    "img": "https://www.aerotime.aero/images/2026/10/Recently-Saved-1-of-1-4-1-1200x675.jpeg"
-   },
-   {
-    "headline": "TLC Jet partners with luxury Caribbean villa rental company",
-    "summary": "The Florida-based broker is partnering with WIMCO St. Barth Properties, based in the Caribbean, to offer seamless travel to the island. The post TLC Jet partners with luxury Caribbean villa rental company appeared first…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/10/23/tlc-jet-partners-with-luxury-caribbean-villa-rental-company/",
-    "day": "2026-10-23",
-    "img": null
    }
   ],
   "policy": [
+   {
+    "headline": "1 Simple Callout: The New Fix For The Error That Put An American 777 In A Delta 737’s Path",
+    "summary": "A new FAA runway-crossing callout addresses the overlooked cockpit check behind a narrowly avoided American–Delta collision at JFK.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/runway-crossing-callout-american-777-delta-737-jfk-incursion/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/american_airlines_1920x1080-4.jpg"
+   },
    {
     "headline": "FAA orders Boeing 737NG checks over loss-of-control risk",
     "summary": "The US Federal Aviation Administration (FAA) has ordered repeated checks on certain Boeing 737 Next Generation aircraft after… The post FAA orders Boeing 737NG checks over loss-of-control risk appeared first on AeroTime…",
@@ -5763,17 +5771,65 @@
     "url": "https://www.aerotime.aero/articles/texas-air-national-guard-f16-crash-michigan",
     "day": "2026-09-17",
     "img": "https://www.aerotime.aero/images/2026/09/Recently-Saved-1-of-1-10.jpeg"
-   },
-   {
-    "headline": "China imposes sweeping flight restrictions around Beijing after skyscraper crash",
-    "summary": "China will impose sweeping restrictions on flying around Beijing starting on September 20, 2026, nearly three months after… The post China imposes sweeping flight restrictions around Beijing after skyscraper crash…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/china-beijing-flight-restrictions-skyscraper-crash",
-    "day": "2026-09-17",
-    "img": "https://www.aerotime.aero/images/2026/09/Recently-Saved-1-of-1-7-1.jpeg"
    }
   ],
   "defense": [
+   {
+    "headline": "Why America’s Most Controversial Overseas Military Base Sits In Legal Limbo",
+    "summary": "America's Diego Garcia base is vital to long-range airpower, yet its future is tied to a decades-old sovereignty dispute and an uncertain new deal.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/america-most-controverial-overseas-military-base/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/1795112769757.png"
+   },
+   {
+    "headline": "Why Does The 21,000-Pound Force On A Boeing 737 Door Keep Blended-Wing Jets Out Of Airline Service?",
+    "summary": "The pressure point that is keeping down the dream of blended-wing jetliner.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-21000-pound-force-boeing-737-door-blended-wing-jets-out-airline-service/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/21-000-pound-force.png"
+   },
+   {
+    "headline": "Three Russian objects crash in Poland as Swedish Gripens attempt interception",
+    "summary": "Poland’s Defense Minister Władysław Kosiniak-Kamysz confirmed on November 20, 2026, that a Russian Kh-101 cruise missile had crashed… The post Three Russian objects crash in Poland as Swedish Gripens attempt…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/russian-kh-101-poland-swedish-gripens-interception",
+    "day": "2026-11-20",
+    "img": "https://www.aerotime.aero/images/2026/10/Swedish-Air-Force-JAS-39-Gripen-fighter-during-its-2026-deployment-to-Poland-1200x675.jpg"
+   },
+   {
+    "headline": "F-35A Demo Team Moves Back To Luke AFB",
+    "summary": "After moving to Hill AFB in 2019, the U.S. Air Force’s F-35A Lightning II Demo Team is now returning to Luke AFB, where it was originally created in 2016. The U.S. Air Force’s F-35A Lightning II Demonstration Team…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/11/20/f-35a-demo-team-moves-back-to-luke-afb/",
+    "day": "2026-11-20",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/11/F-35A_Demo_Team.jpg"
+   },
+   {
+    "headline": "Autonomy firm Auterion to launch joint venture with Ukrainian drone maker Skyfall",
+    "summary": "The new venture, called Skyfall X Auterion, will produce Skyfall drones with Auterion software in Germany, “outside the range of air strikes,” Auterion said.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall/",
+    "day": "2026-11-20",
+    "img": null
+   },
+   {
+    "headline": "Sweden’s Nordic Air Defence launches K200 drone interceptor, pushes toward Ukraine tests",
+    "summary": "The Swedish firm said that the counter-drone solution, a successor to the Kreuger 100XR, is designed to intercept jet-powered types, including the Russian Geran-3a.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/11/swedens-nordic-air-defence-launches-k200-drone-interceptor-pushes-toward-ukraine-tests/",
+    "day": "2026-11-20",
+    "img": null
+   },
+   {
+    "headline": "Mysterious MQ-25 Stingray-Like Chinese Drone Emerges At Little-Known Flight Test Center",
+    "summary": "Satellite imagery of the unidentified drone at an obscure Chinese flight test facility raises interesting questions. The post Mysterious MQ-25 Stingray-Like Chinese Drone Emerges At Little-Known Flight Test Center…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/air/mysterious-mq-25-stingray-like-chinese-drone-emerges-at-little-known-flight-test-center",
+    "day": "2026-11-20",
+    "img": "https://www.twz.com/wp-content/uploads/2026/11/Chinese-mq25.jpg?quality=85"
+   },
    {
     "headline": "Why The GCAP Is The Only 6th-Generation Fighter Jet The Rest Of The World Can Actually Buy",
     "summary": "The GCAP/Tempest is shaping up to be the most prominent sixth-gen fighter jet set to take over the future export market for that class of aircraft.",
@@ -6677,62 +6733,6 @@
     "url": "https://breakingdefense.com/2026/11/cry-drone-and-let-slip-the-fruit-flies-of-war/",
     "day": "2026-11-12",
     "img": null
-   },
-   {
-    "headline": "L-39NG Skyfox Jets Could Give Ukraine A Critical New Russian Drone Hunting Capability",
-    "summary": "The aircraft would offer a far cheaper alternative to using frontline fighters against Moscow’s expanding arsenal of one-way attack drones. The post L-39NG Skyfox Jets Could Give Ukraine A Critical New Russian Drone…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/l-39ng-skyfox-jets-could-give-ukraine-a-critical-new-russian-drone-hunting-capability",
-    "day": "2026-11-12",
-    "img": "https://www.twz.com/wp-content/uploads/2026/11/L39NG.jpg?quality=85"
-   },
-   {
-    "headline": "Czechia eyes supplying Ukraine with 16 L-39 Skyfox light combat jets",
-    "summary": "Czechia could supply Ukraine with up to 16 Aero Vodochody L-39 Skyfox jets, First Deputy Prime Minister and… The post Czechia eyes supplying Ukraine with 16 L-39 Skyfox light combat jets appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/czechia-ukraine-16-l39-skyfox-jets",
-    "day": "2026-11-12",
-    "img": "https://www.aerotime.aero/images/2026/11/An-Aero-L-39-Skyfox-light-combat-and-trainer-jet-in-flight-1200x675.png"
-   },
-   {
-    "headline": "US military to test autonomous Cessna Caravan for casualty evacuation in Morocco",
-    "summary": "Boston-based Merlin has received a $500,000 contract from US Africa Command (AFRICOM) to demonstrate an autonomous casualty evacuation… The post US military to test autonomous Cessna Caravan for casualty evacuation in…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/us-military-autonomous-cessna-caravan-casevac-morocco",
-    "day": "2026-11-12",
-    "img": "https://www.aerotime.aero/images/2026/11/Merlins-experimental-Cessna-208B-Grand-Caravan-equipped-with-the-companys-Merlin-Pilot-autonomous-flight-system-1200x675.jpg"
-   },
-   {
-    "headline": "Zelenskyy says Starshield speed cap returns, hindering Russian drone interceptions",
-    "summary": "Starshield, the military-grade version of SpaceX’s Starlink satellite service, is once again losing connectivity on equipment moving faster… The post Zelenskyy says Starshield speed cap returns, hindering Russian drone…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/zelenskyy-says-starshield-speed-cap-returns-hindering-russian-drone-interceptions",
-    "day": "2026-11-12",
-    "img": "https://www.aerotime.aero/images/2026/10/A-Ukrainian-serviceman-installs-a-Starlink-satellite-communications-terminal-1200x675.jpg"
-   },
-   {
-    "headline": "Wolfe Pledges More Manpower for Maintenance amid Career Field Overhaul",
-    "summary": "Chief Master Sergeant of the Air Force David R. Wolfe recently pledged “a plus-up in manpower” for the maintainer ranks, as the service prepares to launch a major overhaul of its maintenance career field next year. The…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/wolfe-air-force-maintenance-manpower-career-field-overhaul/",
-    "day": "2026-11-12",
-    "img": "https://www.airandspaceforces.com/app/uploads/2025/03/f-35-900x600.jpeg"
-   },
-   {
-    "headline": "F-16V vs F-16C Block 70/72: Understanding The Differences Between The Latest Viper Variants",
-    "summary": "Although often used interchangeably, the F-16V and the F-16C Block 70/72 designations describe two sides of the Viper’s evolution, with important differences between upgraded and newly built aircraft. The F-16 Fighting…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/11/11/f-16v-vs-f-16c-block-70-72/",
-    "day": "2026-11-11",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/11/F-16_Block70_6725-taking-off.jpg"
-   },
-   {
-    "headline": "Leonardo DRS to Produce DAIRCM Defensive System for USMC UH-1Y and AH-1Z",
-    "summary": "The NAVAIR contract will support low-rate initial production of the AN/AAQ-45 system, which will equip the UH-1Y and AH-1Z with missile warning, laser warning, hostile-fire indication and DIRCM. Leonardo DRS, the…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/11/11/daircm-for-usmc-uh-1y-and-ah-1z/",
-    "day": "2026-11-11",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/11/UH-1Y-Venom-and-AH-1Z-Viper-DAIRCM-1-scaled.jpg"
    }
   ],
   "others": []
