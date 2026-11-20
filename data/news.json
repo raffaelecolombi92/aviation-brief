@@ -1,7 +1,79 @@
 {
- "generated": "2026-11-19T19:51+00:00",
+ "generated": "2026-11-20T01:59+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Air Algerie Tentatively Plans Delhi late-March 2027 Launch",
+    "summary": "Published at 1800PCT 19NOV26 / 0100GMT 20NOV26 Air Algerie in recent schedule update tentatively revised planned service launch on Algiers – Delhi route, now scheduled to commence on 28MAR27 at the earliest, currently…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261119-ahns27del",
+    "day": "2026-11-20",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Kuwait Airways Removed Planned Maldives Service in NW26",
+    "summary": "Published at 1701PCT 19NOV26 / 0001GMT 20NOV26 Kuwait Airways in recent schedule update removed planned service resumption to The Maldives. The airline previously planned 2 weekly Kuwait City – Male flights with Airbus…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261119-kunw26mv",
+    "day": "2026-11-20",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Would Alaska-Hawaiian 12-Year Widebody Captains Really Earn $493.41 An Hour Under The Tentative Pilot Contract?",
+    "summary": "Breaking down the pay bump coming for long-haul air crew in Honolulu.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/alaska-hawaiian-12-year-widebody-captains-earn-493-hour-under-tentative-pilot-contract/",
+    "day": "2026-11-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/alaska-hawaiian-12-year-widebody.png"
+   },
+   {
+    "headline": "Why United Airlines Is Betting On Premium To Bring Revive Popularity Of 50-Seater Jets",
+    "summary": "United Airlines is transforming the unpopular CRJ200 into the 41-seat CRJ-450, adding First Class, Starlink WiFi and premium regional travel.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-airlines-betting-premium-revive-popularity-50-seater-jets/",
+    "day": "2026-11-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/united-airlines-betting.png"
+   },
+   {
+    "headline": "Air New Zealand faces criminal charges over passenger compensation",
+    "summary": "Air New Zealand faces criminal charges after the country’s consumer regulator accused it of misleading passengers about compensation… The post Air New Zealand faces criminal charges over passenger compensation appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/air-new-zealand-criminal-charges-passenger-compensation",
+    "day": "2026-11-19",
+    "img": "https://www.aerotime.aero/images/2026/08/Air-New-Zealand-Boeing-787-Dreamliner.jpg"
+   },
+   {
+    "headline": "SIA NS27 Melbourne Aircraft Changes – 19NOV26",
+    "summary": "Published at 1600PCT / 2300GMT 19NOV26 Singapore Airlines (SIA) in recent weeks filed aircraft changes for Singapore – Melbourne route during Northern summer 2027 season. The A380 service on SQ237/228 will be maintained…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261119-sqns27mel",
+    "day": "2026-11-19",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Etihad Cancels Salalah Nov 2026 – Jun 2027",
+    "summary": "Published at 1500PCT / 2200GMT 19NOV26 Etihad Airways starting today cancels Abu Dhabi – Salalah route, as this route being converted to summer seasonal service. The airline is cancelling this route during the period of…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261119-eynw26sll",
+    "day": "2026-11-19",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Lufthansa Increases Chennai Flights From Jan 2027",
+    "summary": "Published at 1400PCT / 2100GMT 19NOV26 Lufthansa in recent weeks filed service changes on Frankfurt – Chennai route during Northern winter 2026/27 season. The Star Alliance member now plans to increase service from 5 to…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261119-lh1q27maa",
+    "day": "2026-11-19",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "Nauru Airlines Cancels Tarawa – Kiritimati Sector From mid-Nov 2026",
+    "summary": "Published at 1300PCT / 2000GMT 19NOV26 Nauru Airlines this week cancelled service on Tarawa – Kiritimati (Christmas Island) route, as of 19NOV26, reservations on this route are no longer available on the airline’s…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261119-onnov26trwcxi",
+    "day": "2026-11-19",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/6aff3bdc0721752730935edc/6aff3bdd8ea36c68954a9ee7/1795111905327/20261119_180546.png?format=1500w"
+   },
    {
     "headline": "American Airlines Launches 9 New International Routes: See Full List Now",
     "summary": "New nonstop services connect JFK and PHL to European hotspots using long range A321XLRs for daily year round flights.",
@@ -889,81 +961,25 @@
     "url": "https://www.aeroroutes.com/eng/261116-ci1q27rmqoka",
     "day": "2026-11-16",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Air Chang’An Adds Guiyang – Seoul From Dec 2026",
-    "summary": "Published at 0100PCT / 0800GMT 16NOV26 Air Chang’An from December 2026 plans to launch regular scheduled service to Korea, with Guiyang – Seoul Incheon nonstop flight. Boeing 737-800 aircraft to serve this route from…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261116-9hdec26icn",
-    "day": "2026-11-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Riyadh Air Resumes Southeast Asia Service in late-Nov 2026",
-    "summary": "Published at 0000PCT / 0700GMT 16NOV26 Riyadh Air in late-November 2026 plans to resume service to Southeast Asia from Riyadh , as the airline opened reservations for following routes. Riyadh – Jakarta eff 23NOV26 3…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261116-rxnov26",
-    "day": "2026-11-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Croatia Airlines Extends A319 Schedule to early-Jan 2027",
-    "summary": "Published at 1800PCT 15NOV26 / 0100GMT 16NOV26 Croatia Airlines in recent schedule update extended Airbus A319 aircraft operation to early-January 2027, tentatively until 03JAN27. Published schedule as of 15NOV26 shows…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261115-ounw26319",
-    "day": "2026-11-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Magnifica Air orders 10 Airbus ACJ220-300s",
-    "summary": "Magnifica Air is one of the most ambitious luxury airline startups to emerge in the United States in recent years, and Airbus’ confirmation that it is the previously unnamed customer behind an order for ten ACJ220-300s…",
-    "source": "World Airline News",
-    "url": "https://worldairlinenews.com/2026/11/15/magnifica-air-orders-10-airbus-acj220-300s/",
-    "day": "2026-11-16",
-    "img": "https://worldairlinenews.com/wp-content/uploads/2026/11/Magnifica-Air-A220-300-26FltAirbusLR.jpeg"
-   },
-   {
-    "headline": "Lie-Flat Business Class On Narrowbodies: Malaysia Airlines Reveals Its Boeing 737 MAX 10 Strategy",
-    "summary": "Malaysia Airlines will introduce lie-flat business class on 12 Boeing 737 MAX 10s, transforming regional travel and its fleet strategy by 2030.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/malaysia-airlines-boeing-737-max-10-lie-flat-business-class/",
-    "day": "2026-11-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/k66688-02-malaysia-airlines-737-max-10-1.jpg"
-   },
-   {
-    "headline": "Delta Air Lines Launches New 9-Hour Nonstop Route: See Map Now",
-    "summary": "The carrier now serves two Hawaiian destinations from Minneapolis.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/delta-launches-new-9-hour-route/",
-    "day": "2026-11-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/840-delta-air-lines-airbus-a330-300-delta.jpg"
-   },
-   {
-    "headline": "Comfort, Capacity & Lower Costs: Why This Airline Is Expanding Its Airbus A330 Fleet",
-    "summary": "RwandAir is looking to grow its Airbus A330 fleet, with the aim of taking on the giants of the airline industry to grow its international network.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/airline-expanding-airbus-a330-fleet-comfort-capacity-costs/",
-    "day": "2026-11-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/comfort-capacity-lower-costs.png"
-   },
-   {
-    "headline": "United Airlines Launches 6 New Nonstop Routes In Only 9 Days: See Full List Now",
-    "summary": "Most are short-haul international services, but there is one long-haul exception.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/united-launches-6-new-routes-in-9-days/",
-    "day": "2026-11-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/shutterstock_4209097369_cropped.jpg"
-   },
-   {
-    "headline": "Why FedEx Retiring Its Boeing 757s Isn't Opening The Door For The Airbus A321 Freighter",
-    "summary": "Dozens of stored A321 freighters, long engine shop visits and shifting operator contracts expose fragile demand amid retirements.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-fedex-retiring-boeing-757-isnt-opening-door-airbus-a321-freighter/",
-    "day": "2026-11-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/fedex-retiring.png"
    }
   ],
   "airports": [
+   {
+    "headline": "JetBlue Doubles Down In Fort Lauderdale With New Flights To Grand Cayman & Honduras In 2027",
+    "summary": "JetBlue expands its Fort Lauderdale international network as passenger growth outpaces capacity increases following Spirit Airlines' collapse.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/jetblue-doubles-down-fort-lauderdale-new-flights-grand-cayman-honduras-2027/",
+    "day": "2026-11-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/jetblue_blueprint_1920x1080.jpg"
+   },
+   {
+    "headline": "AIRPORT WORLD 2026, ISSUE 05",
+    "summary": "VIEW THE ISSUE HERE Airport Profile: Delhi Noida (DXN) Innovation: Artificial Intelligence; Customer Service Excellence; JFK’s New Terminal One; eVTOLs; Passenger Services & Accessibility Plus: Compliance…",
+    "source": "Airport World",
+    "url": "https://airport-world.com/airport-world-2026-issue-05/?utm_source=rss&utm_medium=rss&utm_campaign=airport-world-2026-issue-05",
+    "day": "2026-11-19",
+    "img": null
+   },
    {
     "headline": "Allegiant Air Drops 34 Airports In 10 Years: See Full List Now",
     "summary": "The carrier has also stopped flying to multple states. Find out more here!",
@@ -1907,25 +1923,57 @@
     "url": "https://www.passengerterminaltoday.com/news/lounge/aspire-opens-300-seat-lounge-at-manchester-airport-terminal-2.html",
     "day": "2026-11-11",
     "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/11/Manchester_Lifestyle_Bar.jpeg"
-   },
-   {
-    "headline": "NEW WEBINAR: The connected airport – turning real-time intelligence into better passenger journeys",
-    "summary": "PT World will host an exclusive webinar, in association with Solace, titled, ‘The connected airport – turning real-time intelligence into better passenger journeys’ on Wednesday, December 2, 2026, at 06:30BST / 07:30CET…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/webinars/new-webinar-the-connected-airport-turning-real-time-intelligence-into-better-passenger-journeys.html",
-    "day": "2026-11-11",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/11/webinar-session-image-1920x1080-1-e1794399315776.jpg"
-   },
-   {
-    "headline": "Philadelphia deploys CBP’s new Global Entry process",
-    "summary": "US Customs and Border Protection (CBP) has deployed its updated Global Entry arrival processing experience at Philadelphia International Airport, the first airport to implement the new process. The process uses cameras…",
-    "source": "Passenger Terminal Today",
-    "url": "https://www.passengerterminaltoday.com/news/biometrics/philadelphia-deploys-cbps-new-global-entry-process.html",
-    "day": "2026-11-11",
-    "img": "https://www.passengerterminaltoday.com/wp-content/uploads/2026/11/Philadelphia-deploys-CBPs-new-Global-Entry-process.jpg-e1794388901675.jpeg"
    }
   ],
   "fleet": [
+   {
+    "headline": "Why The World's Largest Commercial Jet Engine Is A Threat To Other Powerplants",
+    "summary": "The GE9X is the only engine with the thrust a stretched A350 would need, but GE has shown little interest in ending Rolls-Royce’s exclusivity.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/why-worlds-largest-commercia-jet-engine-threat-other-powerplants/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/why-the-world-s-largest-commercial-jet-engine-is-a-threat-to-other-powerplants.jpg"
+   },
+   {
+    "headline": "How Much Does It Cost To Earn United Premier 1K Status In 2026?",
+    "summary": "The program's most recent change took place earlier this year, fine-tuning the mile-earning schedule for today's economy.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-premier-1k-status-cost-2026/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/the-problem-united-airlines-ran-into-when-developing-its-new-polaris-2-0-suites-20261109-173751.jpg"
+   },
+   {
+    "headline": "Rescue Missions: The Untold History Of The Boeing 747's Unique 5th Engine Mounting",
+    "summary": "Could the Boeing 747 really fly with 5 engines mounted under the wings?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/untold-history-boeing-747-unique-5th-engine-mounting/",
+    "day": "2026-11-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/rescue-missions.png"
+   },
+   {
+    "headline": "JetBlue Cancels All Flights To 6 Destinations: See Full List Now",
+    "summary": "Two are domestic and four are international. Find them all here!",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/jetblue-cancels-all-flights-to-6-destinations/",
+    "day": "2026-11-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/jetblue-airbus-a320-1-enhanced_cropped-1.jpg"
+   },
+   {
+    "headline": "US lawmakers target Airbus contracts over China ties",
+    "summary": "As US President Donald Trump wrapped up summit talks with Chinese President Xi Jinping, US lawmakers urged the… The post US lawmakers target Airbus contracts over China ties appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/us-lawmakers-airbus-contracts-china-ties",
+    "day": "2026-11-19",
+    "img": "https://www.aerotime.aero/images/2025/10/Tianjin-Final-Assembly-Line.jpg"
+   },
+   {
+    "headline": "The Hardware Worked: FAA Account Points to Cutover Gone Wrong, Not Failure of Old Equipment",
+    "summary": "By Vincent E. Bianco III • Contributing Writer November 19, 2026 The phone rang at about 04:00 on a Saturday, my regular day off. I was a front-line manager at Reno TRACON, and the controller said radar and... Read More…",
+    "source": "Leeham News",
+    "url": "https://leehamnews.com/2026/11/19/the-hardware-worked-faa-account-points-to-cutover-gone-wrong-not-failure-of-old-equipment/",
+    "day": "2026-11-19",
+    "img": null
+   },
    {
     "headline": "Why The Boeing 737 MAX Is Often Heavier Than Its MTOW At The Gate",
     "summary": "The little fuel boost that helps jetliners get from the gate to the runway with a full tank.",
@@ -2837,54 +2885,6 @@
     "url": "https://avitrader.com/2026/11/11/lesha-bank-sells-six-a380s-to-emirates/",
     "day": "2026-11-11",
     "img": null
-   },
-   {
-    "headline": "Cathay orders 14 more Airbus aircraft",
-    "summary": "Hong Kong’s Cathay Group (Cathay) has placed a firm order for 14 additional Airbus aircraft, comprising 11 A330-900s and three A321neos, as it continues to modernise and expand its fleet. The latest order brings…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/11/11/cathay-orders-14-more-airbus-aircraft/",
-    "day": "2026-11-11",
-    "img": null
-   },
-   {
-    "headline": "Werner Aero acquires Boeing 737-700",
-    "summary": "Werner Aero, a wholly owned subsidiary of Sumitomo Corporation Group, has acquired a Boeing 737-700 aircraft, MSN 32413, located at eCube’s facility in Castellón, Spain. The acquisition adds to Werner Aero’s growing…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/11/11/werner-aero-acquires-boeing-737-700/",
-    "day": "2026-11-11",
-    "img": null
-   },
-   {
-    "headline": "Alpi Aviation’s Rotax-powered Pioneer 800 Twin makes first flight",
-    "summary": "Alpi Aviation’s Pioneer 800 Twin made its first flight on November 5, 2026. The four-seat aircraft is powered… The post Alpi Aviation’s Rotax-powered Pioneer 800 Twin makes first flight appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/alpi-aviation-pioneer-800-twin-first-flight",
-    "day": "2026-11-10",
-    "img": "https://www.aerotime.aero/images/2026/11/Recently-Saved-1-of-1-5-1200x675.jpeg"
-   },
-   {
-    "headline": "Only 73 Miles: Southwest Airlines Drops Very Short Route As Flights 50% Empty",
-    "summary": "Only half of the seats were filled. Find out more here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/only-73-miles-southwest-airlines-drops-very-short-route-as-flights-50pc-empty/",
-    "day": "2026-11-10",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/southwest-airlines-boeing-737-max-8-1.jpg"
-   },
-   {
-    "headline": "New Long-Haul Era: Lufthansa Receives 1st A350-1000 & 700th Airbus Jet Overall",
-    "summary": "It's the start of a new widebody era at the German flag carrier.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/lufthansa-first-a350-1000-delivery-700th-airbus-overall/",
-    "day": "2026-11-10",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/a350-1000-take-off-october2026_cropped.jpg"
-   },
-   {
-    "headline": "Spot The Papaya: Etihad’s McLaren F1-Liveried Boeing 787 Hits The Skies",
-    "summary": "Madrid will be the jet's first destination.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/etihad-airways-mclaren-f1-livery/",
-    "day": "2026-11-10",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/etihad-airways-and-mclaren-racing-take-to-the-skies-with-first-racing-team-livery-on-a-boeing-787-dreamliner_cropped-1.jpg"
    }
   ],
   "finance": [
@@ -3851,6 +3851,22 @@
   ],
   "bizav": [
    {
+    "headline": "Vista America maintains top safety certifications",
+    "summary": "Vista Global's Vista America operator has kept its Wyvern Wingman Pro, Argus Platinum, and IS-BAO Stage 3 ratings The post Vista America maintains top safety certifications appeared first on Private Jet Card Comparisons…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/11/19/vista-america-maintains-top-safety-certifications/",
+    "day": "2026-11-19",
+    "img": null
+   },
+   {
+    "headline": "Private Jet Flight Activity Analysis – 2026 – Week 46",
+    "summary": "Global private jet flight activity records yet another YoY drop, this time for the third consecutive week. The post Private Jet Flight Activity Analysis – 2026 – Week 46 appeared first on Private Jet Card Comparisons .",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/11/19/private-jet-flight-activity-analysis-2026-week-46/",
+    "day": "2026-11-19",
+    "img": null
+   },
+   {
     "headline": "Vista Global sues start-up fractional Bond, founder Bill Papariella",
     "summary": "After selling Jet Edge to Vista in 2022, the lawsuit alleges that Bond's launch and executives violated numerous restrictions The post Vista Global sues start-up fractional Bond, founder Bill Papariella appeared first…",
     "source": "Private Jet Card Comparisons",
@@ -4793,25 +4809,17 @@
     "url": "https://privatejetcardcomparisons.com/2026/10/23/tlc-jet-partners-with-luxury-caribbean-villa-rental-company/",
     "day": "2026-10-23",
     "img": null
-   },
-   {
-    "headline": "President Trump announces that Bombardier plans $270 million US investment",
-    "summary": "US President Donald Trump has announced on social media that Canadian manufacturer Bombardier is to invest $270 million… The post President Trump announces that Bombardier plans $270 million US investment appeared first…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/president-trump-announces-that-bombardier-plans-270-million-us-investment",
-    "day": "2026-10-23",
-    "img": "https://www.aerotime.aero/images/2026/09/Bombardier-Global-8000.jpg"
-   },
-   {
-    "headline": "Partners In Aviation reaches 10th anniversary of operations",
-    "summary": "After 10 years of work, PIA continues to match jet buyers together for co-ownership opportunities nationwide. The post Partners In Aviation reaches 10th anniversary of operations appeared first on Private Jet Card…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/10/22/partners-in-aviation-reaches-10th-anniversary-of-operations/",
-    "day": "2026-10-23",
-    "img": null
    }
   ],
   "policy": [
+   {
+    "headline": "FAA orders Boeing 737NG checks over loss-of-control risk",
+    "summary": "The US Federal Aviation Administration (FAA) has ordered repeated checks on certain Boeing 737 Next Generation aircraft after… The post FAA orders Boeing 737NG checks over loss-of-control risk appeared first on AeroTime…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/faa-boeing-737ng-autothrottle-loss-of-control-checks",
+    "day": "2026-11-19",
+    "img": "https://www.aerotime.aero/images/empty_airport_lounge_with_a_boeing_737ng_in_the_background.jpg"
+   },
    {
     "headline": "Fire retardant caused corrosion in firefighting aircraft, NTSB finds",
     "summary": "A fire retardant approved for use in US firefighting aircraft caused extensive corrosion during a single fire season,… The post Fire retardant caused corrosion in firefighting aircraft, NTSB finds appeared first on…",
@@ -5763,17 +5771,65 @@
     "url": "https://www.aerotime.aero/articles/china-beijing-flight-restrictions-skyscraper-crash",
     "day": "2026-09-17",
     "img": "https://www.aerotime.aero/images/2026/09/Recently-Saved-1-of-1-7-1.jpeg"
-   },
-   {
-    "headline": "United and FedEx sign agreements to extend SAF supplies and scale up use",
-    "summary": "US carriers United Airlines and FedEx have signed agreements to increase access to supplies of...",
-    "source": "GreenAir News",
-    "url": "https://www.greenairnews.com/?p=9541&utm_source=rss&utm_medium=rss&utm_campaign=united-and-fedex-sign-agreements-to-extend-saf-supplies-and-scale-up-use",
-    "day": "2026-09-17",
-    "img": null
    }
   ],
   "defense": [
+   {
+    "headline": "The Jet That Always Shadows Air Force One When The President Travels Abroad",
+    "summary": "The E-4B Nightwatch, a heavily modified 747, is the Pentagon's survivable airborne command post, and having one nearby is standard for POTUS visits overseas. The post The Jet That Always Shadows Air Force One When The…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/news-features/why-the-e-4b-doomsday-plane-always-shadows-air-force-one-when-the-president-travels-abroad",
+    "day": "2026-11-20",
+    "img": "https://www.twz.com/wp-content/uploads/2026/11/e-4b-shadow-air-force-one.jpg?quality=85"
+   },
+   {
+    "headline": "What Air Force One Pilots Do Before Flights That Most Other Pilots Never Do",
+    "summary": "How the US president travels by air.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/air-force-one-pilots-do-before-flights-most-other-pilots-never-do/",
+    "day": "2026-11-19",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/air-force-one-pilots.png"
+   },
+   {
+    "headline": "ULA’s Latest Launch Failure Spells Trouble for Space Force",
+    "summary": "When a United Launch Alliance rocket failed Nov. 15, the explosion did more than destroy one rocket and the 40 Amazon LEO satellites it was carrying: It tightened the bottleneck already constraining Space Force launch…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/ula-launch-failure-trouble-space-force/",
+    "day": "2026-11-19",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/11/55650660917_c9e186c9db_o-900x600.jpg"
+   },
+   {
+    "headline": "Department of the Air Force Fails Audit, Won’t Publish Its Own Financial Report",
+    "summary": "The Department of the Air Force failed its latest financial audit in fiscal 2026 along with the overall Pentagon, though officials claim they’re making progress ahead of a 2028 deadline to pass one. This is also the…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/department-of-air-force-fails-audit-wont-publish-financial-report/",
+    "day": "2026-11-19",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/02/The_Pentagon_US_Department_of_Defense_building_EL-900x600.jpg"
+   },
+   {
+    "headline": "Taiwan and Japan Intercept Russian Tu-95 Bombers Flying Back from Vietnam",
+    "summary": "Two Tu-95s, along with two Il-76MDs, appeared in Vietnam at Da Nang International Airport on Nov. 17, and were detected by Japan and Taiwan as they flew from Russia and back. The two Russian Tu-95 Bear bombers that…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/",
+    "day": "2026-11-19",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/11/Russia-Tu-95-Vietnam-1.jpg"
+   },
+   {
+    "headline": "Regent Squire Wing-In-Ground Effect Drone To Patrol Middle East Waters",
+    "summary": "Squire is being sent to the CENTCOM area of responsibility as the Pentagon continues to surge uncrewed systems into the region. The post Regent Squire Wing-In-Ground Effect Drone To Patrol Middle East Waters appeared…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/news-features/regent-squire-wing-in-ground-effect-drone-to-patrol-middle-east-waters",
+    "day": "2026-11-19",
+    "img": "https://www.twz.com/wp-content/uploads/2026/04/Squire5.scaled.jpg?quality=85"
+   },
+   {
+    "headline": "US missile shortages create a range problem, report shows",
+    "summary": "A new CSIS report warns that the Iran war has strained US missile stockpiles, raising concerns about America's readiness for a potential conflict with China.",
+    "source": "Defense News",
+    "url": "https://www.defensenews.com/air/2026/11/19/us-missile-shortages-create-a-range-problem-report-shows/",
+    "day": "2026-11-19",
+    "img": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2265017141.jpg.jpg"
+   },
    {
     "headline": "Inside Thales’ plan to keep Asia-Pacific’s fast-growing airline fleets airborne",
     "summary": "With Asia-Pacific expected to remain one of the world’s fastest-growing aviation regions through 2050, Thales is betting that… The post Inside Thales’ plan to keep Asia-Pacific’s fast-growing airline fleets airborne…",
@@ -6677,62 +6733,6 @@
     "url": "https://www.airandspaceforces.com/air-force-secret-new-force-design-technological-change/",
     "day": "2026-11-11",
     "img": "https://www.airandspaceforces.com/app/uploads/2026/11/F-16s-Kunsan-900x600.jpeg"
-   },
-   {
-    "headline": "With $1.5 Trillion Defense Bill Unlikely, Congress Weighs Options",
-    "summary": "As Congress gets back to business after the midterm elections, uncertainty swirls over the state of government funding that runs out Dec. 11, especially for the Pentagon. New reports from leading defense think tank…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/congress-pentagons-defense-budget-drills-think-tanks/",
-    "day": "2026-11-10",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/04/2634895-900x600.jpg"
-   },
-   {
-    "headline": "Royal Navy to Fly Northrop Grumman’s YFQ-48A from Aircraft Carrier in 2027",
-    "summary": "The Royal Navy plans to demonstrate Northrop Grumman’s YFQ-48A Talon Blue CCA from a Queen Elizabeth-class aircraft carrier in 2027, as part of efforts to develop a future Hybrid Air Wing combining crewed and uncrewed…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/11/10/royal-navy-yfq-48a-aircraft-carrier-2027/",
-    "day": "2026-11-10",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/10/833261806_1135289099184016_7146436393159998940_n-e1794349963857.jpg"
-   },
-   {
-    "headline": "Army Wants New Palletized Short-Range Air Defenses In Service By The End Of 2029",
-    "summary": "Army sees new short-range air defense 'sleds' providing critical new flexibility and capacity, especially against drone swarms. The post Army Wants New Palletized Short-Range Air Defenses In Service By The End Of 2029…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/land/army-wants-new-palletized-short-range-air-defenses-in-service-by-the-end-of-2029",
-    "day": "2026-11-10",
-    "img": "https://www.twz.com/wp-content/uploads/2026/11/army-increment-4-shorad-plans-air-defense.jpg?quality=85"
-   },
-   {
-    "headline": "Spanish NH90 helicopters fly first live NATO scramble in Romania",
-    "summary": "Two NH90 helicopters from the Spanish Air and Space Force’s Paznic tactical air detachment have carried out their… The post Spanish NH90 helicopters fly first live NATO scramble in Romania appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/spanish-nh90-helicopters-first-nato-scramble-romania",
-    "day": "2026-11-10",
-    "img": "https://www.aerotime.aero/images/2026/11/A-Spanish-Air-and-Space-Force-NH90-helicopter-flies-over-Romania-as-part-of-NATOs-enhanced-Air-Policing-mission-1200x675.jpg"
-   },
-   {
-    "headline": "GAO finds minimal Pentagon progress accounting for $31 billion in F-35 parts",
-    "summary": "The US Department of Defense (DoD) has made “minimal progress” in accounting for F-35 parts worth approximately $31… The post GAO finds minimal Pentagon progress accounting for $31 billion in F-35 parts appeared first…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/pentagon-f35-parts-accountability-gao-report",
-    "day": "2026-11-10",
-    "img": "https://www.aerotime.aero/images/Lockheed-Martin-F-35-assembly-plant.jpg"
-   },
-   {
-    "headline": "Pentagon Warns Troops to Be Careful on Prediction Markets—but Enforcement Is Tricky",
-    "summary": "A recent Pentagon memo barring troops from placing bets on prediction markets using classified or sensitive information is a necessary step toward clamping down on such activity in the ranks, but experts tell Air &…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/hegseth-pentagon-prediction-markets-ban-enforcement/",
-    "day": "2026-11-10",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/10/USAF-gavel-900x600.jpeg"
-   },
-   {
-    "headline": "Pentagon Still Cannot Account for Billions of Dollars in F-35 Spare Parts, GAO Finds",
-    "summary": "A new GAO report highlights persistent failures to reconcile government and contractor inventories, with more than 17,000 parts worth at least $1.3 billion missing from official records. The U.S. Department of Defense…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/11/10/pentagon-cannot-account-f-35-spare-parts/",
-    "day": "2026-11-10",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/11/f-35_9947500.jpg"
    }
   ],
   "others": []
