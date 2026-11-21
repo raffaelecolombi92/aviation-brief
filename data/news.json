@@ -1,7 +1,39 @@
 {
- "generated": "2026-11-20T19:31+00:00",
+ "generated": "2026-11-21T01:56+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "Flexibility: How Flight Attendants Can Be Displaced From Their Schedule With Little Notice",
+    "summary": "Rarely does a schedule go to plan.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/flight-attendants-displaced-schedule-little-notice/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/1920_653588.jpg"
+   },
+   {
+    "headline": "Avelo Airlines Makes Tiny US Airport Its New No. 2: Here's Why",
+    "summary": "From Florida to Las Vegas Avelo rolls out multiple daily and weekly services that reshape North Texas travel options.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/avelo-makes-tiny-us-airport-no2/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/avelo-airlines-boeing-737-mckinney-national.jpg"
+   },
+   {
+    "headline": "Why Long-Haul Flights Carry 3 Or 4 Pilots & How Airbus Wants To Cut Some To 2",
+    "summary": "The current reality of augmented cress on long-haul flights and how expensive they can be.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/long-haul-flights-pilots-cut/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/how-much-money-do-airbus-a350-pilots-earn-in-2026-20261106-123039.jpg"
+   },
+   {
+    "headline": "Archer teams with Disney on aviation research, unveils Avengers-themed air taxi",
+    "summary": "Archer Aviation has teamed with Walt Disney Imagineering’s research and development arm to explore future transportation concepts, marking… The post Archer teams with Disney on aviation research, unveils Avengers-themed…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/archer-disney-partnership-avengers-midnight-air-taxi",
+    "day": "2026-11-20",
+    "img": "https://www.aerotime.aero/images/2026/11/Recently-Saved-1-of-1-19-1200x675.jpeg"
+   },
    {
     "headline": "American Airlines Officially Discontinues Boeing 777-300ER Flagship First Sales",
     "summary": "The aircraft will be retrofitted with the airline's Flagship Suites.",
@@ -929,38 +961,6 @@
     "url": "https://worldairlinenews.com/2026/11/16/philippine-airlines-firms-up-its-order-for-new-boeing-787-10-dreamliners/",
     "day": "2026-11-16",
     "img": "https://worldairlinenews.com/wp-content/uploads/2026/11/PAL-Boeing-787-10-Dreamliner-1024x576.png"
-   },
-   {
-    "headline": "Thai VietJet Air Adds Bangkok – Kunming Charters From Dec 2026",
-    "summary": "Published at 1400PCT / 2100GMT 16NOV26 Thai VietJet Air from December 2026 plans to add new route to China, as the carrier schedules Bangkok Suvarnabhumi – Kunming nonstop flight. The scheduled charter flight will be…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261116-vznw26kmg",
-    "day": "2026-11-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "Shandong Airlines Adds Xiamen – Kuala Lumpur in 1Q27",
-    "summary": "Published at 1300PCT / 2000GMT 16NOV26 Shandong Airlines in the first quarter of 2027 plans to launch new route to Malaysia, as the carrier opened bookings for Xiamen – Kuala Lumpur route. Boeing 737-800 aircraft to…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261116-mf1q27kul",
-    "day": "2026-11-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "S7 Airlines Resumes Novosibirsk – Urumqi in NS27",
-    "summary": "Published at 1200PCT / 1900GMT 16NOV26 Russian carrier S7 Airlines during Northern summer 2027 season plans to resume Novosibirsk – Urumqi route, last served regularly until February 2020. Upon service resumption on…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261116-s7ns27urc",
-    "day": "2026-11-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "GX Airlines Adds Nanning – Hai Phong From Nov 2026",
-    "summary": "Published at 1100PCT / 1800GMT 16NOV26 GX Airlines (Guangxi Beibu Gulf Airlines) last week launched new service to Vietnam, as the airline inaugurated Nanning – Hai Phong route on 10NOV26. Embraer E190 aircraft serves…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261116-gxnw26hph",
-    "day": "2026-11-16",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
@@ -1927,6 +1927,46 @@
   ],
   "fleet": [
    {
+    "headline": "Why Are All Pratt & Whitney's GTF Engines Green On The Inside?",
+    "summary": "Two engineered components and one practical inspection benefit explain the teal ring inside Pratt & Whitney’s Geared Turbofan.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/pratt-whitney-gtf-green-inside/",
+    "day": "2026-11-21",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/pratt-whitney-s-gtf-engines.png"
+   },
+   {
+    "headline": "Is It True That The Boeing 747-8 & 787 Dreamliner Are Powered By The Same Engine?",
+    "summary": "Comparing and contrasting two leading American widebodies.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/true-boeing-747-8-787-dreamliner-powered-by-the-same-engine/",
+    "day": "2026-11-21",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2025/12/engine.jpg"
+   },
+   {
+    "headline": "Here's How Much The 787 Dreamliner Heavily Influenced Boeing's 747-8 Development",
+    "summary": "The 787 and 747-8 represent a distinct moment in Boeing manufacturing history.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/how-much-787-dreamliner-heavily-influenced-boeing-developent-747-8/",
+    "day": "2026-11-21",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/787-dreamliner.png"
+   },
+   {
+    "headline": "Aviation Gems: The Airbus A380 Is The Largest, But The Boeing 747-8 Actually Holds 2 Worldwide Titles",
+    "summary": "A closer look at the edge that Boeing's iconic 747 still holds over the gargantuan Airbus A380 to this day.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-a380-largest-boeing-747-8-2-worldwide-titles/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/aviation-gems.png"
+   },
+   {
+    "headline": "Iraq selling two Boeing 747s stranded in Africa for 35 years for $1.8 million",
+    "summary": "Iraq is offering two Boeing 747s for sale for a combined $1.8 million after the aircraft spent 35… The post Iraq selling two Boeing 747s stranded in Africa for 35 years for $1.8 million appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/iraq-boeing-747-sale-tunisia-35-years",
+    "day": "2026-11-20",
+    "img": "https://www.aerotime.aero/images/2026/11/Recently-Saved-1-of-1-20-1200x675.jpeg"
+   },
+   {
     "headline": "How Much A Boeing 747 Charter Actually Costs Per Hour In 2026",
     "summary": "The Boeing 747 charter: A grandiose solution for unusually large groups or cargo, but is it worth the cost?",
     "source": "Simple Flying",
@@ -2845,46 +2885,6 @@
     "url": "https://www.aerotime.aero/articles/vertical-quality-certification-matches-airbus-boeing-standards",
     "day": "2026-11-12",
     "img": "https://www.aerotime.aero/images/2026/04/Vertical-Aerospace-eVTOL-Transition-Landing-e1786370551723.jpg"
-   },
-   {
-    "headline": "Boeing slide in 737 MAX deliveries hampers recent progress",
-    "summary": "Boeing saw a slide in its 737 MAX deliveries in October 2026, hampering recent progress made by the… The post Boeing slide in 737 MAX deliveries hampers recent progress appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/boeing-aircraft-deliveries-october-2026",
-    "day": "2026-11-12",
-    "img": "https://www.aerotime.aero/images/2026/11/Boeing-rolls-out-first-737-MAX-built-in-Everett-1200x675.jpg"
-   },
-   {
-    "headline": "Emirates strikes deal to take ownership of six Airbus A380 aircraft",
-    "summary": "Emirates will take ownership of six Airbus A380-800 aircraft currently operated as part of its fleet under a… The post Emirates strikes deal to take ownership of six Airbus A380 aircraft appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/emirates-airbus-a380-aircraft-lesha-bank",
-    "day": "2026-11-12",
-    "img": "https://www.aerotime.aero/images/2026/11/A6-EOB-Emirates-Airbus-A380-1200x675.jpg"
-   },
-   {
-    "headline": "Embraer raises guidance after record US$2.3bn quarter",
-    "summary": "Brazilian aircraft manufacturer Embraer reported record third-quarter revenue of US$2.3 billion, up 17% year on year, with all business units delivering higher contributions. Adjusted earnings before interest and tax…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/11/12/embraer-raises-guidance-after-record-us2-3bn-quarter/",
-    "day": "2026-11-12",
-    "img": null
-   },
-   {
-    "headline": "General Atomics breaks ground on Nordholz MRO facility",
-    "summary": "General Atomics AeroTec Systems has begun construction of a new maintenance, repair and overhaul (MRO) facility at Nordholz in Germany, marking the first phase of an investment to expand its aviation capabilities. The…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/11/12/general-atomics-breaks-ground-on-nordholz-mro-facility/",
-    "day": "2026-11-12",
-    "img": null
-   },
-   {
-    "headline": "CDB Aviation leases two A321s to Freebird Airlines",
-    "summary": "CDB Aviation, the Irish subsidiary of China Development Bank Financial Leasing (CDB Leasing), has signed lease agreements with Turkish leisure and charter airline Freebird Airlines for two Airbus A321ceo aircraft. The…",
-    "source": "AviTrader",
-    "url": "https://avitrader.com/2026/11/12/cdb-aviation-leases-two-a321s-to-freebird-airlines/",
-    "day": "2026-11-12",
-    "img": null
    }
   ],
   "finance": [
@@ -4813,6 +4813,22 @@
   ],
   "policy": [
    {
+    "headline": "Private Pilot Disputes Trump’s Claim That He Used Non-US ATC To Fly In US Airspace Before Office",
+    "summary": "A private pilot challenges Trump's renewed claims about foreign air traffic control as the FAA faces renewed scrutiny.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/private-pilot-dispute-trump-claim-non-us-atc-fly-us-airspace/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/trump_aircraft_1920x1080.jpg"
+   },
+   {
+    "headline": "2 Virgin Australia Pilots Admit They’re Too Tired To Continue Flying, Immediately Offloaded",
+    "summary": "Two Australian pilots reported fatigue aboard a Boeing 737 flight to Adelaide and were immediately stood down, highlighting aviation safety protocols",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/2-virgin-australia-pilots-admit-too-tired-continue-flying-immediately-offloaded/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/virgin_australia_-vh-yvc-_boeing_737-8fe-wl-_at_canberra_airport_cropped.jpg"
+   },
+   {
     "headline": "1 Simple Callout: The New Fix For The Error That Put An American 777 In A Delta 737’s Path",
     "summary": "A new FAA runway-crossing callout addresses the overlooked cockpit check behind a narrowly avoided American–Delta collision at JFK.",
     "source": "Simple Flying",
@@ -5755,25 +5771,81 @@
     "url": "https://www.aerotime.aero/articles/easa-releases-annual-aviation-safety-figures-116-deaths-in-2025",
     "day": "2026-09-20",
     "img": "https://www.aerotime.aero/images/2024/12/IMG_5911-1-e1733754556287.jpg"
-   },
-   {
-    "headline": "Pilots arrested after Libya Citation crash allegedly flew while intoxicated",
-    "summary": "Libyan prosecutors say two pilots flew a Cessna Citation Latitude while intoxicated before it crashed at Misrata International… The post Pilots arrested after Libya Citation crash allegedly flew while intoxicated…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/libya-citation-crash-pilots-arrested-intoxication",
-    "day": "2026-09-18",
-    "img": "https://www.aerotime.aero/images/2026/09/misrata-citation-1200x800-1.jpg"
-   },
-   {
-    "headline": "Pilot ejects safely as Texas Air National Guard F-16 crashes in Michigan",
-    "summary": "A Texas Air National Guard F-16 crashed during a training flight in northern Michigan on September 17, 2026,… The post Pilot ejects safely as Texas Air National Guard F-16 crashes in Michigan appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/texas-air-national-guard-f16-crash-michigan",
-    "day": "2026-09-17",
-    "img": "https://www.aerotime.aero/images/2026/09/Recently-Saved-1-of-1-10.jpeg"
    }
   ],
   "defense": [
+   {
+    "headline": "B-2 Wings Receive US Military’s Highest Unit-Level Award for Midnight Hammer",
+    "summary": "The B-2 bomb wings that planned and flew Operation Midnight Hammer, the punishing June 2025 attacks that struck two of Iran's deeply buried nuclear facilities, received the U.S. military’s highest unit-level award, the…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/b-2-presidential-unit-citation-operation-midnight-hammer/",
+    "day": "2026-11-21",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/11/261120-F-XP318-1112-900x600.jpg"
+   },
+   {
+    "headline": "Army 3-Star to Lead NORAD; Air Force Picks New Head at Nuclear Weapons Center",
+    "summary": "The White House is nominating Army Lt. Gen. Patrick D. Frank to become commander of U.S. Northern Command and North American Aerospace Defense Command, a role traditionally held by Air Force officers. The post Army…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/army-3-star-norad-air-force-nuclear-weapons-center-boss/",
+    "day": "2026-11-21",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/11/7932504-900x600.jpg"
+   },
+   {
+    "headline": "Why The Flying Wing Never Became A Commercial Airliner",
+    "summary": "A 172-foot tailless prototype chased efficiency as early pilots wrestled with yaw instability and control limits.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/flying-wing-never-became-passenger-airliner/",
+    "day": "2026-11-20",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/1795113054524.png"
+   },
+   {
+    "headline": "GAO: Oversight, Better Tracking Needed to Fix Munitions Shortage",
+    "summary": "Driven by the war in Ukraine and the conflict with Iran, Pentagon officials have made a plethora of moves in recent years to bolster U.S. military munitions stockpiles and ramp up industry’s production. But Congress’…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/gao-oversight-better-tracking-needed-to-fix-munitions-shortage/",
+    "day": "2026-11-20",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/11/9301782-900x600.jpg"
+   },
+   {
+    "headline": "Air Force issues massive $16B contract for engine work to dozens of companies",
+    "summary": "A Pentagon notice said 58 companies were selected to participate in a broad contract for “advanced propulsion enterprise work” through 2041.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/11/air-force-issues-massive-16b-contract-for-engine-work-to-dozens-of-companies/",
+    "day": "2026-11-20",
+    "img": null
+   },
+   {
+    "headline": "This counter-UAS system senses deep inside neighboring borders to detect and defeat drones",
+    "summary": "[Sponsored] Long-range detection capabilities extend decision time for counter-UAS actions.",
+    "source": "Breaking Defense",
+    "url": "https://breakingdefense.com/2026/11/this-counter-uas-system-senses-deep-inside-neighboring-borders-to-detect-and-defeat-drones/",
+    "day": "2026-11-20",
+    "img": null
+   },
+   {
+    "headline": "There Is More To Air Force One’s Long Flight From China Than Just Breaking Records",
+    "summary": "The VC-25B Bridge jet raised the bar for how long Air Force One has stayed aloft on an airlift mission, but Boeing's new VC-25B jets may not be able to do the same. The post There Is More To Air Force One’s Long Flight…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/air/there-is-more-to-air-force-ones-long-flight-from-china-than-just-breaking-records",
+    "day": "2026-11-20",
+    "img": "https://www.twz.com/wp-content/uploads/2026/11/VC-25B-Bridge-Air-Force-One-copy.jpg?quality=85"
+   },
+   {
+    "headline": "Oddball CFL-120 Karpat Medium Tank With A Big Gun Faces A Battlefield Increasingly Hostile To Armor",
+    "summary": "Pairing a 120mm gun with a 35-ton tracked chassis, the vehicle arrives as drones increasingly complicate the case for armored vehicles of any weight. The post Oddball CFL-120 Karpat Medium Tank With A Big Gun Faces A…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/land/oddball-cfl-120-karpat-medium-tank-with-a-big-120mm-gun-faces-a-battlefield-increasingly-hostile-to-armor",
+    "day": "2026-11-20",
+    "img": "https://www.twz.com/wp-content/uploads/2026/11/CFL-120-Karpat.jpg?quality=85"
+   },
+   {
+    "headline": "Navy CCA Plans Will Not Wait For F/A-XX Next Generation Fighter",
+    "summary": "The Navy's Collaborative Combat Aircraft vision is solidifying and F-35s could act as the first airborne ‘quarterbacks’ for those drones. The post Navy CCA Plans Will Not Wait For F/A-XX Next Generation Fighter appeared…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/air/navy-cca-plans-will-not-wait-for-f-a-xx-next-generation-fighter",
+    "day": "2026-11-20",
+    "img": "https://www.twz.com/wp-content/uploads/2026/11/navy-cca-fa-xx-plans-coming-into-focus.jpg?quality=85"
+   },
    {
     "headline": "Why America’s Most Controversial Overseas Military Base Sits In Legal Limbo",
     "summary": "America's Diego Garcia base is vital to long-range airpower, yet its future is tied to a decades-old sovereignty dispute and an uncertain new deal.",
@@ -6661,78 +6733,6 @@
     "url": "https://www.airandspaceforces.com/pentagon-150m-loan-rocket-lab-new-launch-vehicle-cadence/",
     "day": "2026-11-12",
     "img": "https://www.airandspaceforces.com/app/uploads/2025/05/neutron-deploy-900x600.jpg"
-   },
-   {
-    "headline": "Air Force Launches New AI Strategy Across 15 Mission Areas",
-    "summary": "The Department of the Air Force is launching an artificial intelligence strategy across 15 mission areas, including intelligence, human resources, and nuclear operations, using a blueprint recently announced by the…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/air-force-new-ai-strategy-15-mission-areas/",
-    "day": "2026-11-12",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/06/9679563-900x600.jpg"
-   },
-   {
-    "headline": "Ukraine Eyes Up to 16 L-39NG Skyfox Trainers as First Gripens Near Arrival in 2027",
-    "summary": "Ukraine could get up to 16 L-39NG Skyfox aircraft, potentially adapted for counter-drone missions, while the first JAS 39 Gripen C/D fighters are expected to arrive in January or February 2027. Ukraine could acquire up…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/11/12/ukraine-eyes-up-to-16-l-39ng-skyfox-trainers/",
-    "day": "2026-11-12",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/11/L-39NG.jpg"
-   },
-   {
-    "headline": "High-Speed Aircraft Startup Hermeus Joins Forces With Northrop Grumman",
-    "summary": "The partners say they are charting a new course to bring operational very-high-speed drones to the U.S. military. The post High-Speed Aircraft Startup Hermeus Joins Forces With Northrop Grumman appeared first on TWZ .",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/high-speed-aircraft-startup-hermeus-joins-forces-with-northrop-grumman",
-    "day": "2026-11-12",
-    "img": "https://www.twz.com/wp-content/uploads/2026/11/High-Speed-Drone.jpg?quality=85"
-   },
-   {
-    "headline": "BAE Systems raises cash flow outlook as GCAP, missile orders grow",
-    "summary": "BAE Systems has raised its free cash flow forecast for 2026 to about £3 billion ($4 billion), up… The post BAE Systems raises cash flow outlook as GCAP, missile orders grow appeared first on AeroTime .",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/bae-systems-cash-flow-outlook-gcap-missile-orders",
-    "day": "2026-11-12",
-    "img": "https://www.aerotime.aero/images/2026/11/The-GCAP-fighter-model-at-DSEI-UK-2025-1200x675.jpg"
-   },
-   {
-    "headline": "AFRICOM to Test Autonomous Cessna for Casualty Evacuation in December",
-    "summary": "U.S. Africa Command will soon see if a small, autonomous aircraft can evacuate casualties from austere locations during a demonstration planned for December in Morocco. Merlin, an autonomous aviation firm, announced…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/africom-autonomous-cessna-casualty-evacuation-test/",
-    "day": "2026-11-12",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/11/banner-900x600.webp"
-   },
-   {
-    "headline": "Desert Storm Memorial Misses Its Target",
-    "summary": "The time has come to honor the men and women who fought in Operation Desert Storm with a memorial in Washington, D.C. the approved design is an ode to the final stage of that conflict, the last 100 hours of a 1,000-hour…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/commentary-desert-storm-memorial-misses-target/",
-    "day": "2026-11-12",
-    "img": "https://www.airandspaceforces.com/app/uploads/2021/01/336TFS-F-15E-Gulf-War-Desert-Storm-900x600.jpeg"
-   },
-   {
-    "headline": "Air Force unveils T-19A, a new aerobatic plane to train future pilots",
-    "summary": "Built by Game Aerospace Composites, the GB1 Gamebird — designated the T-19A by the Air Force — was funded through corporate and civilian donations and will form the foundation of a new aerobatic flying team.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/11/air-force-debuts-new-t-19a-aerobatic-plane/",
-    "day": "2026-11-12",
-    "img": null
-   },
-   {
-    "headline": "Instead of stockpiling small attack drones, Army looking to simply buy new ones",
-    "summary": "“It’s literally fly it as close as you can between those two fence posts because you might have to hit a high value target that way. And, if you crash 10 of them until you can get [number] 11 through, do it,” Army…",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/11/instead-of-stockpiling-small-attack-drones-army-looking-to-simply-buy-new-ones/",
-    "day": "2026-11-12",
-    "img": null
-   },
-   {
-    "headline": "Cry ‘drone,’ and let slip the fruit flies of war",
-    "summary": "The US military should focus on building drones that evolve so quickly an adversary’s defenses become obsolete before they can be deployed, two Air Force officers argue.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/11/cry-drone-and-let-slip-the-fruit-flies-of-war/",
-    "day": "2026-11-12",
-    "img": null
    }
   ],
   "others": []
