@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T00:51+00:00",
+ "generated": "2026-11-22T10:37+00:00",
  "sections": {
   "network": [
    {
@@ -965,6 +965,30 @@
   ],
   "airports": [
    {
+    "headline": "Alaska Airlines Crew Reportedly Too Shaken To Fly After ICE Arrests On Seattle Jet Bridge",
+    "summary": "A pilot reportedly walked off and two flight attendants asked to be replaced after the arrests.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/alaska-airlines-crew-shaken-ice-arrests-seattle-jet-bridge/",
+    "day": "2026-11-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/alaska-airlines-boeing-737-max-8-in-seattle.jpg"
+   },
+   {
+    "headline": "Why United & American Airlines Are Fighting Over The Future Of Chicago O’Hare",
+    "summary": "Chicago O'Hare has become a tense battleground for supremacy, but who will win?",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/united-airlines-american-airlines/chicago-o-hare/",
+    "day": "2026-11-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/02/vs.jpg"
+   },
+   {
+    "headline": "Belgian strike to disrupt flights at Brussels and Charleroi airports",
+    "summary": "Brussels Airport (BRU) expects major flight disruption on November 23, after some air traffic controllers at Belgian air… The post Belgian strike to disrupt flights at Brussels and Charleroi airports appeared first on…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/belgian-strike-to-disrupt-flights-at-brussels-and-charleroi-airports",
+    "day": "2026-11-22",
+    "img": "https://www.aerotime.aero/images/2025/02/Brussels-Airport-cancellations-strikes.jpg"
+   },
+   {
     "headline": "Delta Air Lines Abruptly Cancels 1-Hour Airbus A350 Route: See Map Now",
     "summary": "The airline had scheduled the type on the route on just three occasions only.",
     "source": "Simple Flying",
@@ -1899,33 +1923,33 @@
     "url": "https://simpleflying.com/british-airways-unveils-8-new-boeing-787-heathrow-routes/",
     "day": "2026-11-12",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/british-airways-boeing-787-10-custom-thumbnail.jpg"
-   },
-   {
-    "headline": "ACI Europe releases updated Tender Code as a blueprint for tenders, transparency and partnership",
-    "summary": "We feature details as an updated and modernised ACI Europe Tender Code, intended to support stronger partnerships across the travel retail eco-system, is released.",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/aci-europe-releases-updated-tender-code-as-a-blueprint-for-tenders-transparency-and-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=aci-europe-releases-updated-tender-code-as-a-blueprint-for-tenders-transparency-and-partnership",
-    "day": "2026-11-12",
-    "img": null
-   },
-   {
-    "headline": "Airport Authority Hong Kong opens tender for T1 lifestyle accessories concession",
-    "summary": "The tender covers two units – an 18sq m space in the Level 7 Departures Check-in Hall and a 23.9sq m unit in the Level 6 Departures West Hall.",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/airport-authority-hong-kong-opens-tender-for-t1-lifestyle-accessories-concession/?utm_source=rss&utm_medium=rss&utm_campaign=airport-authority-hong-kong-opens-tender-for-t1-lifestyle-accessories-concession",
-    "day": "2026-11-12",
-    "img": null
-   },
-   {
-    "headline": "Smart solution",
-    "summary": "A new 5G mission-critical communication system has enhanced safety and operational efficiency at China’s Xi’an Xianyang International Airport, writes Hytera’s Leo He. Xi’an Xianyang International Airport’s new 5G MCX…",
-    "source": "Airport World",
-    "url": "https://airport-world.com/smart-solution-2/?utm_source=rss&utm_medium=rss&utm_campaign=smart-solution-2",
-    "day": "2026-11-12",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "The Rise & Fall Of The World’s First Commercial Jetliner",
+    "summary": "A string of accidents led the first commercial jet aircraft into an ignominious decline.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/rise-fall-first-commercial-jetliner/",
+    "day": "2026-11-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/1795112550623.png"
+   },
+   {
+    "headline": "Why Airlines Accept The Airbus A321XLR's Heavier 101.5-Tonne Maximum Takeoff Weight On Flights Shorter Than An Hour",
+    "summary": "Airlines have ultimately deemed the weight penalty a necessary trade-off for the Airbus A321XLR.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airlines-accept-airbus-a321xlr-heavier-101-tonne-maximum-takeoff-weight-flights-shorter-hour/",
+    "day": "2026-11-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/101-5-tonne-maximum-takeoff.png"
+   },
+   {
+    "headline": "The True Cost Airbus Charges For An A330neo Compared With Boeing's 787-9 Dreamliner",
+    "summary": "The cost of widebody airliners depends on the specific airline environment in which they operate, where even small marginal differences can matter.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/true-cost-airbus-charges-a330neo-compared-boeing-787-9-dreamliner/",
+    "day": "2026-11-22",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/1795178269710.jpg"
+   },
    {
     "headline": "Boeing Weighs More Layoffs As 737 MAX Output Boost Slows",
     "summary": "The company is struggling to lift output to its target monthly number.",
@@ -2861,30 +2885,6 @@
     "url": "https://simpleflying.com/why-boeing-787-9-airlines-face-different-maintenance-costs-rolls-royce-ge-engines/",
     "day": "2026-11-12",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/why-boeing-787-9-airlines-face-different-maintenance-costs-with-rolls-royce-ge-engines.jpg"
-   },
-   {
-    "headline": "The Boeing 737 NG Still Has Years Of Flying Left, But Its Largest Operator Doesn't Want It Anymore",
-    "summary": "The 737 NG is still highly in favor by many carriers around the world, but the prospect of the MAX effect is too big to ignore for Southwest",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/boeing-737-ng-years-flying-left-largest-operator-doesnt-want-anymore/",
-    "day": "2026-11-12",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/boeing-737-ng.png"
-   },
-   {
-    "headline": "CFM Built A Jet Engine So Large That It Forced A Redesign Of The Jet It Powers",
-    "summary": "The engineering compromises that brought a 1960s jet into the 21st Century.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/cfm-built-jet-engine-so-large-forced-redesign-jet-powers/",
-    "day": "2026-11-12",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/cfm-built-a-jet-engine-so-large-that-it-forced-a-redesign-of-the-jet-it-powers.jpg"
-   },
-   {
-    "headline": "Coffin Corner: How Little Speed Margins Can Lead To Uncontrollable Stalls & Nose-Dives At Such High Altitudes",
-    "summary": "How high-altitude flying demands extreme piloting precision to avert disaster.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/coffin-corner-little-speed-margins-uncontrollable-stalls-nose-dives-high-altitudes/",
-    "day": "2026-11-12",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/uncontrollable-stalls.png"
    }
   ],
   "finance": [
@@ -4813,6 +4813,14 @@
   ],
   "policy": [
    {
+    "headline": "Air Niugini B767 diverts to Davao after engine fire warning",
+    "summary": "An Air Niugini Boeing 767-300ER diverted to the Philippines after the crew received an engine fire indication while… The post Air Niugini B767 diverts to Davao after engine fire warning appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/air-niugini-b767-diverts-to-davao-after-engine-fire-warning",
+    "day": "2026-11-22",
+    "img": "https://www.aerotime.aero/images/2026/11/Air-Niugini-Boeing-767-1200x675.jpg"
+   },
+   {
     "headline": "Private Pilot Disputes Trump’s Claim That He Used Non-US ATC To Fly In US Airspace Before Office",
     "summary": "A private pilot challenges Trump's renewed claims about foreign air traffic control as the FAA faces renewed scrutiny.",
     "source": "Simple Flying",
@@ -5763,17 +5771,25 @@
     "url": "https://simpleflying.com/ge-aerospace-spending-1-billion-fix-engine-shop-visit-cruch-airlines-escape/",
     "day": "2026-09-20",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/1-billion-to-fix-the-engine.png"
-   },
-   {
-    "headline": "EASA releases annual aviation safety figures: 116 deaths in 2025",
-    "summary": "The European Aviation Safety Agency (EASA) and Eurostat, the European Union’s statistical agency, have published the 2025 Annual… The post EASA releases annual aviation safety figures: 116 deaths in 2025 appeared first…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/easa-releases-annual-aviation-safety-figures-116-deaths-in-2025",
-    "day": "2026-09-20",
-    "img": "https://www.aerotime.aero/images/2024/12/IMG_5911-1-e1733754556287.jpg"
    }
   ],
   "defense": [
+   {
+    "headline": "Drones strike Russian military-linked cargo ship in Gulf of Finland",
+    "summary": "A Russian cargo ship linked to the country’s military logistics network caught fire after a drone attack in… The post Drones strike Russian military-linked cargo ship in Gulf of Finland appeared first on AeroTime .",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/drones-strike-russian-military-linked-cargo-ship-in-gulf-of-finland",
+    "day": "2026-11-22",
+    "img": "https://www.aerotime.aero/images/2026/11/Drones-strike-Russian-military-linked-cargo-ship-in-Gulf-of-Finland-1200x675.jpg"
+   },
+   {
+    "headline": "Belgian F-16s Are Defending the Baltic With Counter-Drone Guided Rockets",
+    "summary": "Belgian Air Force F-16s, deployed to Šiauliai Air Base in Lithuania since late October, were seen carrying FZ275 laser guided rockets during a flypast over Riga, Latvia on Nov. 18, 2026. The presumably live loadout of…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/11/22/belgian-f16s-baltic-rockets/",
+    "day": "2026-11-22",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/11/BelgianF16sRockets_1.jpg"
+   },
    {
     "headline": "Lockheed’s CL-1201 Was A Nuclear-Powered Flying Aircraft Carrier That Never Left The Drawing Board",
     "summary": "The outlandish atomic flying colossus designed to be the ultimate Cold War lightning carrier.",
@@ -6717,22 +6733,6 @@
     "url": "https://www.twz.com/land/berettas-new-counter-drone-system-packs-eight-benelli-m4-shotguns-onto-a-remote-turret",
     "day": "2026-11-13",
     "img": "https://www.twz.com/wp-content/uploads/2026/11/LIVET-C-UAS-SHOTGUN.jpg?quality=85"
-   },
-   {
-    "headline": "B-21 Raider Has Released Its First Weapon",
-    "summary": "Beginning weapons testing is the latest milestone for the B-21, but its schedule is tight with the Air Force still aiming to declare the Raider operational next year. The post B-21 Raider Has Released Its First Weapon…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/b-21-raider-has-released-its-first-weapon",
-    "day": "2026-11-13",
-    "img": "https://www.twz.com/wp-content/uploads/2026/11/b-21-raider-weapons-testing-annoucned.jpg?quality=85"
-   },
-   {
-    "headline": "US Air Force adopts new Force Design focusing on sensors and autonomy",
-    "summary": "The Air Force's new Force Design 2026 outlines a shift toward artificial intelligence, autonomy and integrated sensors to counter emerging threats.",
-    "source": "Defense News",
-    "url": "https://www.defensenews.com/air/2026/11/13/us-air-force-adopts-new-force-design-focusing-on-sensors-and-autonomy/",
-    "day": "2026-11-13",
-    "img": "https://one.sightlinemg.com/wp-content/uploads/2026/08/F-15-refueling-KC-135-2.jpg.jpg"
    }
   ],
   "others": []
