@@ -1,7 +1,23 @@
 {
- "generated": "2026-11-24T19:52+00:00",
+ "generated": "2026-11-25T03:55+00:00",
  "sections": {
   "network": [
+   {
+    "headline": "EGYPTAIR Adds Conakry Service in NS27",
+    "summary": "Published at 1400PCT / 2100GMT 24NOV26 EGYPTAIR at the launch of Northern summer 2027 season plans to add Cairo – Conakry route, on board Boeing 787-9 aircraft. The Star Alliance member plans to serve this route 3 times…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261124-msns27cky",
+    "day": "2026-11-24",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
+   {
+    "headline": "EGYPTAIR NS27 Europe Service Increases",
+    "summary": "Published at 1300PCT / 2000GMT 24NOV26 EGYPTAIR from June 2027 plans to expand service on a number of European routes, reflected in last week’s schedule update. Planned frequency increases include the following. Cairo –…",
+    "source": "AeroRoutes",
+    "url": "https://www.aeroroutes.com/eng/261124-msns27eu",
+    "day": "2026-11-24",
+    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
+   },
    {
     "headline": "WestJet Quietly Cancels 3 International Routes: See Full List Now",
     "summary": "Tulum’s airport faces another thinning of connections as carriers consolidate service to Cancun and prioritize demand.",
@@ -945,25 +961,57 @@
     "url": "https://www.aeroroutes.com/eng/261119-tsns27at",
     "day": "2026-11-19",
     "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "WestJet Discontinues Tulum in early-Jan 2027",
-    "summary": "Published at 0100PCT / 0800GMT 19NOV26 WestJet in the first quarter of 2027 is discontinuing service to Tulum in Mexico, where it currently operates 3 routes. Affected routes as follows. Calgary – Tulum 2 weekly…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261119-wsjan27tqo",
-    "day": "2026-11-19",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
-   },
-   {
-    "headline": "WestJet Resumes 5 Domestic Routes in NS27",
-    "summary": "Published at 0000PCT / 0700GMT 19NOV26 WestJet during Northern summer 2027 season plans to resume 5 domestic routes, after one year hiatus in 2026. These services will be operated by a mix of 737-700/-800 and MAX 8。…",
-    "source": "AeroRoutes",
-    "url": "https://www.aeroroutes.com/eng/261119-wsns27ca",
-    "day": "2026-11-19",
-    "img": "http://static1.squarespace.com/static/62e5c2f24ed7087d92a4f749/t/64ffb5a3f184e60ffafd9fe7/1694479779881/AeroRoutes+Icon+V2.png?format=1500w"
    }
   ],
   "airports": [
+   {
+    "headline": "US Army Moves To Restart Washington DC Helicopter Training Flights 2 Years After Deadly Crash",
+    "summary": "The airspace over Washington DC is some of the most scrutinized airspace in the world.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/us-army-restart-washington-dc-helicopter-training-flights-2-years-crash/",
+    "day": "2026-11-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2024/08/artboard-16_9-51.jpg"
+   },
+   {
+    "headline": "Radar outage prompts second ground stop in two days at Chicago O’Hare",
+    "summary": "The Federal Aviation Administration (FAA) lifted a ground stop at Chicago O’Hare International Airport (ORD) shortly after 16:00… The post Radar outage prompts second ground stop in two days at Chicago O’Hare appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/chicago-ohare-radar-outage-ground-stop-thanksgiving",
+    "day": "2026-11-25",
+    "img": "https://www.aerotime.aero/images/2024/10/American-Airlines-787-9-Chicago.jpg"
+   },
+   {
+    "headline": "American Airlines Drops Chicago Gate Lawsuit, But Doubles Down On Turf War With United",
+    "summary": "American Airlines is abandoning its legal challenge over Chicago's gate redistribution, but its battle with United is far from over.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/american-airlines-chicago-lawsuit-turf-war-united/",
+    "day": "2026-11-24",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/american_chicago_skyline_1920x1080.jpg"
+   },
+   {
+    "headline": "Air Canada Axes 8 International Routes: See Full List Now",
+    "summary": "Two are long-haul and six are to the US. Find out more here!",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/air-canada-axes-8-international-routes/",
+    "day": "2026-11-24",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/111.jpg"
+   },
+   {
+    "headline": "Allegiant Air Ditches 26 Nonstop Routes: See Full List Now",
+    "summary": "All were served in the first three months of 2026, but won't have flights in this period in 2027. Find them here!",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/allegiant-air-ditches-26-nonstop-routes/",
+    "day": "2026-11-24",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/allegiant-air-a319-mock-up.jpg"
+   },
+   {
+    "headline": "The Moodie Davitt Spotlight Series – A 25-year tale of transformation at New York JFK Airport Terminal 4",
+    "summary": "Welcome to the latest edition in The Moodie Davitt Spotlight Series, in which we mark the 25th anniversary of New York JFK International Airport Terminal 4, and the transformative investment by terminal operator JFKIAT…",
+    "source": "Moodie Davitt Report",
+    "url": "https://moodiedavittreport.com/the-moodie-davitt-spotlight-series-a-25-year-tale-of-transformation-at-new-york-jfk-airport-terminal-4/?utm_source=rss&utm_medium=rss&utm_campaign=the-moodie-davitt-spotlight-series-a-25-year-tale-of-transformation-at-new-york-jfk-airport-terminal-4",
+    "day": "2026-11-24",
+    "img": null
+   },
    {
     "headline": "FAA Bans Line Up And Wait Operations “Forever,” With Even More Delays Expected",
     "summary": "The FAA introduces stricter Line Up and Wait rules nationwide from November 24, potentially increasing US airport delays amid controller shortages.",
@@ -1875,57 +1923,33 @@
     "url": "https://simpleflying.com/what-pilot-actually-do-hour-by-hour-on-18-hour-new-york-jfk-flight/",
     "day": "2026-11-14",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/new-york-jfk-flight.jpg"
-   },
-   {
-    "headline": "White House Urges Congress To Approve $30 Billion In Upgrades To US Aviation Infrastructure",
-    "summary": "The White House wants Congress to approve $30.1 billion for aviation upgrades as nationwide flight disruptions renew safety concerns.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/white-house-urge-congress-approve-30-billion-upgrades-us-aviation-infrastructure/",
-    "day": "2026-11-14",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/airport_atc_tower_1920x1080.jpg"
-   },
-   {
-    "headline": "FAA Lifts Multi-Hour Nationwide Ground Stop Linked To \"Instability\" Of Radar & ATC Communications",
-    "summary": "The agency cited communication problems for the halt.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/breaking-faa-issues-nationwide-ground-stop/",
-    "day": "2026-11-13",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/img_5581-2-1.jpg"
-   },
-   {
-    "headline": "Alaska Airlines Launches 4 New Routes From This Major City: See Full List Now",
-    "summary": "New Seattle nonstops include the carrier's longest domestic hop to Jacksonville at 2,439 miles and 5.5 hours.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/alaska-airlines-launches-4-new-nonstop-routes/",
-    "day": "2026-11-13",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/susan-lu4esm-full-moon-7471483-1-enhanced-1794537739593.jpg"
-   },
-   {
-    "headline": "Allegiant Air Cancels 13 Routes To Major Vacation Destination: See Full List Now",
-    "summary": "All these markets are no longer served by the carrier. Find out more here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/allegiant-air-cancels-13-routes-to-major-vacation-destination/",
-    "day": "2026-11-13",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/allegiant-air-airbus-a320neo-custom-thumbnail.jpg"
-   },
-   {
-    "headline": "JetBlue Cancels All Flights On 35 Routes: See Full List Now",
-    "summary": "They're from multiple cities. Find them all here!",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/jetblue-cancels-all-flights-on-35-routes/",
-    "day": "2026-11-13",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/jetblue_a321neo_1920x1080.jpg"
-   },
-   {
-    "headline": "Malaysia Airports targets higher commercial conversion levels and salutes concessionaire partners",
-    "summary": "Data, AI and closer concessionaire collaboration take centre stage as Malaysia Airports recognises outstanding retail, dining and services partners across its network at its annual commercial conference.",
-    "source": "Moodie Davitt Report",
-    "url": "https://moodiedavittreport.com/malaysia-airports-targets-higher-commercial-conversion-levels-and-salutes-concessionaire-partners/?utm_source=rss&utm_medium=rss&utm_campaign=malaysia-airports-targets-higher-commercial-conversion-levels-and-salutes-concessionaire-partners",
-    "day": "2026-11-13",
-    "img": null
    }
   ],
   "fleet": [
+   {
+    "headline": "Embraer’s Raul Villaron on why Asia Pacific will need 2,500+ small jets by 2045",
+    "summary": "Asia Pacific has long been the next frontier for Embraer’s regional jets. Now the Brazilian manufacturer sees it… The post Embraer’s Raul Villaron on why Asia Pacific will need 2,500+ small jets by 2045 appeared first…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/embraers-raul-villaron-on-why-asia-pacific-will-need-2500-small-jets-by-2045",
+    "day": "2026-11-25",
+    "img": "https://www.aerotime.aero/images/2026/11/Interview-2000x1333-Raul-Villaron67.jpg-1200x675.jpeg"
+   },
+   {
+    "headline": "Where To Spot The Air France Airbus A318 Before It Finally Retires",
+    "summary": "This is where Air France is flying its final Airbus A318s before retirement.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/where-to-spot-air-france-airbus-a318/",
+    "day": "2026-11-24",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/spot-the-air-france-airbus-1.png"
+   },
+   {
+    "headline": "How The Airbus A350 Survives Environmental Stress During The Longest Flights In The World",
+    "summary": "A350's intensive certification campaign included specialized environmental testing and set an industry record for time to completion.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/airbus-a350-survives-environmental-stress-longest-flights-world/",
+    "day": "2026-11-24",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/10/121-delta-air-lines-airbus-a350-angel-dibilio-_-shutterstock.jpg"
+   },
    {
     "headline": "Why Southwest Airlines Isn’t Rejecting Early Boeing 737 MAX 7s Like 777X Airlines Did",
     "summary": "Southwest is accepting Boeing's stored MAX 7s despite certification delays that prompted Emirates and Lufthansa to reject early 777Xs.",
@@ -2861,30 +2885,6 @@
     "url": "https://simpleflying.com/longest-single-aisle-twinjet-ever-built-aircraft-hard-airlines-get-rid-of/",
     "day": "2026-11-16",
     "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/757-1.jpg"
-   },
-   {
-    "headline": "Why Emirates' Airbus A380 Premium Economy Has Quietly Become The Sweet Spot On Europe-Dubai Routes",
-    "summary": "Premium economy offers just enough of an elevated experience that passengers will pay big money.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/why-emirates-airbus-a380-premium-economy-has-quietly-become-sweet-spot-europe-dubai-routes/",
-    "day": "2026-11-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/07/emirates-airbus-a380-premium.jpg"
-   },
-   {
-    "headline": "China Completes First Piloted Flight Of 19-Seat Electric Plane Built To Fly Between Cities",
-    "summary": "First flight is complete but certification is still a major hurdle.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/comac-ce-25a-electric-plane-first-piloted-flight/",
-    "day": "2026-11-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2024/11/comac-aircrafts-at-zhuhai-airshow.jpg"
-   },
-   {
-    "headline": "How Much Does It Cost To Charter A Pilatus PC-12 Per Hour In 2026?",
-    "summary": "A PC-12 charters for roughly $2,000 to $3,000 per hour, though positioning flights and fees can move the final figure considerably.",
-    "source": "Simple Flying",
-    "url": "https://simpleflying.com/pilatus-pc-12-hourly-charter-cost-2026/",
-    "day": "2026-11-15",
-    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/cost-to-charter-a-pilatus.png"
    }
   ],
   "finance": [
@@ -3851,6 +3851,22 @@
   ],
   "bizav": [
    {
+    "headline": "Is your private flying a business expense?",
+    "summary": "How Internal Revenue Code 162 works for charter, jet card, fractional and full private aircraft owners and what you need to know The post Is your private flying a business expense? appeared first on Private Jet Card…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/11/24/is-your-private-flying-a-business-expense/",
+    "day": "2026-11-25",
+    "img": null
+   },
+   {
+    "headline": "Fly Alliance CEO details financial struggles, disputes media report",
+    "summary": "By early 2026, Fly Alliance was 'facing approximately $26 million in aircraft operating losses for the year,' according to CEO Chris Tasca The post Fly Alliance CEO details financial struggles, disputes media report…",
+    "source": "Private Jet Card Comparisons",
+    "url": "https://privatejetcardcomparisons.com/2026/11/24/fly-alliance-ceo-details-financial-struggles-disputes-media-report/",
+    "day": "2026-11-24",
+    "img": null
+   },
+   {
     "headline": "Jet Aviation breaks ground on new Singapore private jet facilities",
     "summary": "The expansion in Singapore by the unit of General Dynamics adds two hangars, an office building, and a refurbishment and modification shop. The post Jet Aviation breaks ground on new Singapore private jet facilities…",
     "source": "Private Jet Card Comparisons",
@@ -4792,22 +4808,6 @@
     "source": "Private Jet Card Comparisons",
     "url": "https://privatejetcardcomparisons.com/2026/10/27/after-pushback-signature-fbos-will-curtail-special-event-fees/",
     "day": "2026-10-28",
-    "img": null
-   },
-   {
-    "headline": "Concord announces chance to lock in jet card rates before increase",
-    "summary": "Charter broker Concord Private Jet announced it would raise jet card rates on December 1. Jet cards bought before then lock in current rates. The post Concord announces chance to lock in jet card rates before increase…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/10/27/concord-announces-chance-to-lock-in-jet-card-rates-before-increase/",
-    "day": "2026-10-27",
-    "img": null
-   },
-   {
-    "headline": "Boca Raton-based JetBetter is growing by focusing on jet cards",
-    "summary": "Founder Bob Nelson, a jet card veteran, says clients like to think in hours instead of dollars, and for brokers, jet cards build loyalty The post Boca Raton-based JetBetter is growing by focusing on jet cards appeared…",
-    "source": "Private Jet Card Comparisons",
-    "url": "https://privatejetcardcomparisons.com/2026/10/27/boca-raton-based-jetbetter-is-growing-by-focusing-on-jet-cards/",
-    "day": "2026-10-27",
     "img": null
    }
   ],
@@ -5775,6 +5775,78 @@
   ],
   "defense": [
    {
+    "headline": "Why The US Military Is Expanding A Remote Pacific Airport To Reduce Its Reliance On Guam",
+    "summary": "Yap is returning from geostrategic obscurity to prominence in US and Chinese rivalry in the Pacific, with its airport set to be transformed.",
+    "source": "Simple Flying",
+    "url": "https://simpleflying.com/us-military-pacific-airport-expansion-guam/",
+    "day": "2026-11-25",
+    "img": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/11/040422-f-0000s-002-1.jpeg"
+   },
+   {
+    "headline": "Pentagon seeks to enlist US automakers in military drone production push",
+    "summary": "The Pentagon is in preliminary talks with General Motors, Ford Motor Company and other manufacturers about supplying parts… The post Pentagon seeks to enlist US automakers in military drone production push appeared…",
+    "source": "AeroTime",
+    "url": "https://www.aerotime.aero/articles/pentagon-us-automakers-military-drone-production",
+    "day": "2026-11-24",
+    "img": "https://www.aerotime.aero/images/2026/11/Recently-Saved-1-of-1-1-2-1200x675.jpeg"
+   },
+   {
+    "headline": "First All-Guardian Squadron Graduates Officer Training School, Enters Space Force",
+    "summary": "The first Officer Training School squadron comprised entirely of new Space Force officer candidates graduated Nov. 20, minting 36 new Guardians for the Space Force. The post First All-Guardian Squadron Graduates Officer…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/space-forces-first-all-guardian-class-graduates-officer-training-school/",
+    "day": "2026-11-24",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/11/261012-F-CU756-1004-900x600.jpeg"
+   },
+   {
+    "headline": "Wilsbach’s Message to Airmen After One Year as CSAF: ‘Readiness Is Fundamental’",
+    "summary": "In a Nov. 23 letter to Airmen marking his first year as Air Force Chief of Staff, Gen. Kenneth S. Wilsbach reemphasized his focus on improving readiness, modernizing aircraft and other systems, and upholding high…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/wilsbach-message-to-airmen-one-year-csaf-readiness/",
+    "day": "2026-11-24",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/04/55214685450_967e7bd137_o-900x600.jpg"
+   },
+   {
+    "headline": "Airman’s Spicy Chicken Dish Wins National Competition—and It’s Coming Soon to Some Bases",
+    "summary": "An Airman stationed at Travis Air Force Base who grew up learning to cook in Jamaica recently took first place in the 3rd Annual U.S. Airmen Culinary Competition 2026. Airman 1st Class Raenia S. Lopez, a food service…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/airman-spicy-chicken-dish-wins-national-culinary-competition/",
+    "day": "2026-11-24",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/11/Airmen-Culinary-winner.avif"
+   },
+   {
+    "headline": "Air Force Signs $48.7M Deal for Weather Data from ‘Balloons with Brains’",
+    "summary": "The Air Force recently signed a contract worth nearly $50 million to beef up its weather data collection through a company that has found a way to quickly and cheaply launch thousands of lighter-than-air, autonomous…",
+    "source": "Air & Space Forces Mag",
+    "url": "https://www.airandspaceforces.com/air-force-deal-weather-data-autonomous-balloons/",
+    "day": "2026-11-24",
+    "img": "https://www.airandspaceforces.com/app/uploads/2026/11/desert-launcher-900x600.jpg"
+   },
+   {
+    "headline": "NASA Takes Ownership of X-59 QueSST After Acceptance Review",
+    "summary": "The X-59 QueSST completed the acceptance review, and NASA now took ownership of the aircraft from contractor Lockheed Martin Skunk Works. NASA announced on Nov. 23, 2026, that it finally took full ownership of the X-59…",
+    "source": "The Aviationist",
+    "url": "https://theaviationist.com/2026/11/24/nasa-takes-ownership-ox-x-59-quesst/",
+    "day": "2026-11-24",
+    "img": "https://theaviationist.com/wp-content/uploads/2026/11/X-59_NASA_1.jpg"
+   },
+   {
+    "headline": "Lynx KF41 Fighting Vehicles, Newly Arrived In Ukraine, Will Take On Counter-Drone Mission",
+    "summary": "The German-made vehicles arrive in Ukraine as the role of armor has been greatly diminished, but not eliminated. The post Lynx KF41 Fighting Vehicles, Newly Arrived In Ukraine, Will Take On Counter-Drone Mission…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/land/lynx-kf41-fighting-vehicles-newly-arrived-in-ukraine-will-take-on-counter-drone-mission",
+    "day": "2026-11-24",
+    "img": "https://www.twz.com/wp-content/uploads/2026/11/Lynx-Arrives-In-Ukraine.jpg?quality=85"
+   },
+   {
+    "headline": "Seoul Scrambles F-15Ks As Russian Warplanes Come Within Seconds Of Crossing Into South Korean Airspace",
+    "summary": "The presence of Russian Tu-160s and fighter escorts triggered a shelter order for South Korean residents. The post Seoul Scrambles F-15Ks As Russian Warplanes Come Within Seconds Of Crossing Into South Korean Airspace…",
+    "source": "The War Zone",
+    "url": "https://www.twz.com/air/seoul-scrambles-f-15ks-as-russian-warplanes-come-within-seconds-of-crossing-into-south-korean-airspace",
+    "day": "2026-11-24",
+    "img": "https://www.twz.com/wp-content/uploads/2026/11/BLACKJACK-PATROL.png?quality=85"
+   },
+   {
     "headline": "The US Air Force Bolted Jet Engines Onto Its Largest-Ever Bomber, But It Still Wasn't Enough To Save It",
     "summary": "One of the overlooked and innovative engineering aspects of the B-36 Peacemaker was its use of four turbojets to supplement its six piston engines.",
     "source": "Simple Flying",
@@ -6661,78 +6733,6 @@
     "url": "https://breakingdefense.com/2026/11/a-new-air-force-stunt-plane-plus-a-shakeup-for-special-operations/",
     "day": "2026-11-17",
     "img": null
-   },
-   {
-    "headline": "Friend or foe becomes the question as skies fill with potential adversaries",
-    "summary": "[Sponsored] Quickly and accurately identifying friendly forces requires IFF attuned to drones.",
-    "source": "Breaking Defense",
-    "url": "https://breakingdefense.com/2026/11/friend-or-foe-becomes-the-question-as-skies-fill-with-potential-adversaries/",
-    "day": "2026-11-17",
-    "img": null
-   },
-   {
-    "headline": "What We Know About Ukraine’s Strikes That Cut Russia’s Kerch Bridge Road Vehicle Span",
-    "summary": "New details are emerging about Ukrainian drone and missile strikes that destroyed a key section of the bridge over the Kerch Strait. The post What We Know About Ukraine’s Strikes That Cut Russia’s Kerch Bridge Road…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/news-features/what-we-know-about-ukraines-strikes-that-cut-russias-kerch-bridge-road-vehicle-span",
-    "day": "2026-11-17",
-    "img": "https://www.twz.com/wp-content/uploads/2026/11/what-we-know-about-kerch-bridge-strikes.jpg?quality=85"
-   },
-   {
-    "headline": "Trainees Will Fly T-38s Another Decade While T-7 Matures",
-    "summary": "The Air Force will keep flying its 1960s-era T-38C Talon trainer into the late 2030s, the head of Air Education and Training Command said Nov. 16, as he detailed incremental progress on its replacement, the T-7A Red…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/aetc-boss-t-38-late-2030s-t-7/",
-    "day": "2026-11-17",
-    "img": "https://www.airandspaceforces.com/app/uploads/2025/03/t-38-900x600.jpg"
-   },
-   {
-    "headline": "First F-15EXs Arrive At Kadena Air Base In Japan, 25 Now Delivered To The USAF",
-    "summary": "The arrival of combat-coded F-15EXs in Japan is the first permanent deployment of the USAF's newest fighter outside the United States. The post First F-15EXs Arrive At Kadena Air Base In Japan, 25 Now Delivered To The…",
-    "source": "The War Zone",
-    "url": "https://www.twz.com/air/first-f-15exs-arrive-in-okinawa-25-now-delivered-to-the-usaf",
-    "day": "2026-11-17",
-    "img": "https://www.twz.com/wp-content/uploads/2026/11/f-15exs-in-japan-eagle-ii-fleet-grows.jpg?quality=85"
-   },
-   {
-    "headline": "B-1 Pilots to Get More Flying Hours—in Business Jets",
-    "summary": "B-1B Lancer pilots can now train using light business jets to hone their flight skills under a new program Air Force Global Strike Command is testing. Officials say it will get pilots more than 100 extra flying hours…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/b-1-pilots-to-get-more-flying-hours-in-business-jets/",
-    "day": "2026-11-16",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/11/B-1-pilot-BSTAR-900x600.jpeg"
-   },
-   {
-    "headline": "Air Force Gets to Work on Training Point Defense Airmen",
-    "summary": "The Air Force will soon identify the skill training needed to prepare future point defense Airmen to repulse enemy drone attacks at home and abroad, Air Education and Training Command Boss Lt. Gen. Clark J. Quinn said…",
-    "source": "Air & Space Forces Mag",
-    "url": "https://www.airandspaceforces.com/air-force-to-id-training-for-point-defense-specialty-code-next-year/",
-    "day": "2026-11-16",
-    "img": "https://www.airandspaceforces.com/app/uploads/2026/07/9725710-900x600.jpg"
-   },
-   {
-    "headline": "Rare Footage Shows B61 Nuclear Bomb on B-2 Stealth Bomber’s Rotary Launcher",
-    "summary": "The B61-11 is a decades-old nuclear weapon, but footage showing it being loaded inside the B-2 Spirit’s weapons bay is exceptionally rare. Jeff Bolton’s new documentary series The Watch offers a close-up look at an…",
-    "source": "The Aviationist",
-    "url": "https://theaviationist.com/2026/11/16/b-2-footage-the-watch/",
-    "day": "2026-11-16",
-    "img": "https://theaviationist.com/wp-content/uploads/2026/11/B-61-top.jpg"
-   },
-   {
-    "headline": "First permanently assigned F-15EXs touch down at Kadena Air Base",
-    "summary": "Kadena Air Base received their first permanently assigned F-15EX Eagle IIs, becoming the first installation abroad and second Air Force location to field the jet.",
-    "source": "Defense News",
-    "url": "https://www.defensenews.com/air/2026/11/16/first-permanently-assigned-f-15exs-touch-down-at-kadena-air-base/",
-    "day": "2026-11-16",
-    "img": "https://one.sightlinemg.com/wp-content/uploads/2026/11/261115-F-YH673-1239.jpg"
-   },
-   {
-    "headline": "Estonia blames Russian GRU for arson plot targeting drone maker Threod Systems",
-    "summary": "Estonian authorities have detained eight suspects following an attempted arson attack on drone manufacturer Threod Systems, which the… The post Estonia blames Russian GRU for arson plot targeting drone maker Threod…",
-    "source": "AeroTime",
-    "url": "https://www.aerotime.aero/articles/estonia-russia-gru-arson-drone-maker-threod",
-    "day": "2026-11-16",
-    "img": "https://www.aerotime.aero/images/2026/11/A-Threod-Systems-EOS-C-VTOL-reconnaissance-drone-1200x675.jpg"
    }
   ],
   "others": []
